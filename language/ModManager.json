@@ -1,0 +1,74 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Modsmanager title",
+                "Value": "Mods Manager"
+            },
+            {
+                "Key": "Modsmanager replace",
+                "Value": "Update"
+            },
+            {
+                "Key": "Modsmanager upload",
+                "Value": "Upload"
+            },
+            {
+                "Key": "Modsmanager folder open",
+                "Value": "Open Folder"
+            },
+            {
+                "Key": "Modsmanager total count",
+                "Value": "Number of Mods"
+            },
+            {
+                "Key": "Modsmanager description",
+                "Value": "Mod Description"
+            },
+            {
+                "Key": "Modsmanager version",
+                "Value": "Version"
+            },
+            {
+                "Key": "Modsmanager author",
+                "Value": "Creator"
+            },
+            {
+                "Key": "Modsmanager update summary",
+                "Value": "Update Details"
+            },
+            {
+                "Key": "Modsmanager msg conflict mod",
+                "Value": "A mod with the same key has been activated."
+            },
+            {
+                "Key": "Modsmanager msg restart",
+                "Value": "The mod has changed. Would you like to restart?"
+            },
+            {
+                "Key": "Modsmanager msg successed upload",
+                "Value": "Upload successful."
+            },
+            {
+                "Key": "Modsmanager msg failed upload",
+                "Value": "Upload failed."
+            },
+            {
+                "Key": "Modsmanager activate mouse",
+                "Value": "Mods Manager operates with a keyboard/mouse. Would you like to enable the mouse?"
+            },
+            {
+                "Key": "Modsmanager load game warning",
+                "Value": "There are non-included mods that may affect gameplay. Do you still want to proceed?"
+            },
+            {
+                "Key": "Modsmanager msg warning",
+                "Value": "※Caution※ The development team cannot assist with issues arising from mod use."
+            },
+            {
+                "Key": "Modsmanager msg empty",
+                "Value": "There are no subscribed mods."
+            }
+        ]
+    }
+}

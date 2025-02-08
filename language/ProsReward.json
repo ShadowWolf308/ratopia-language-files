@@ -1,0 +1,318 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0_Nm",
+                "Value": "Path of Expansion"
+            },
+            {
+                "Key": "0_Scr",
+                "Value": "The more, the better"
+            },
+            {
+                "Key": "1_Nm",
+                "Value": "Path of Labor"
+            },
+            {
+                "Key": "1_Scr",
+                "Value": "You want me to mow the grass?"
+            },
+            {
+                "Key": "2_Nm",
+                "Value": "Path of Hunting"
+            },
+            {
+                "Key": "2_Scr",
+                "Value": "Solitude only makes me stronger."
+            },
+            {
+                "Key": "3_Nm",
+                "Value": "Path of Collection"
+            },
+            {
+                "Key": "3_Scr",
+                "Value": "From today, I am the tax collector."
+            },
+            {
+                "Key": "4_Nm",
+                "Value": "Path of Weather"
+            },
+            {
+                "Key": "4_Scr",
+                "Value": "From now on, refreshing mornings await."
+            },
+            {
+                "Key": "5_Nm",
+                "Value": "Path of Education"
+            },
+            {
+                "Key": "5_Scr",
+                "Value": "Education is the best investment for the future."
+            },
+            {
+                "Key": "6_Nm",
+                "Value": "Path of Construction"
+            },
+            {
+                "Key": "6_Scr",
+                "Value": "You want me to do construction?"
+            },
+            {
+                "Key": "7_Nm",
+                "Value": "Path of Fishing"
+            },
+            {
+                "Key": "7_Scr",
+                "Value": "A great tip passed down from a master angler."
+            },
+            {
+                "Key": "8_Nm",
+                "Value": "Path of Governance"
+            },
+            {
+                "Key": "8_Scr",
+                "Value": "Seeking a better way forward."
+            },
+            {
+                "Key": "9_Nm",
+                "Value": "Path of Burial"
+            },
+            {
+                "Key": "9_Scr",
+                "Value": "Pay the Death Toll!"
+            },
+            {
+                "Key": "10_Nm",
+                "Value": "Path of Save"
+            },
+            {
+                "Key": "10_Scr",
+                "Value": "A Reliable Logistics Warehouse"
+            },
+            {
+                "Key": "11_Nm",
+                "Value": "Path of Explore"
+            },
+            {
+                "Key": "11_Scr",
+                "Value": "Adventure Is Worthwhile In Itself"
+            },
+            {
+                "Key": "12_Nm",
+                "Value": "Path of Gathering"
+            },
+            {
+                "Key": "12_Scr",
+                "Value": "A demonstration of skilled scythe work by an expert instructor."
+            },
+            {
+                "Key": "13_Nm",
+                "Value": "Path of Trading"
+            },
+            {
+                "Key": "13_Scr",
+                "Value": "We sell everything except what's missing!"
+            },
+            {
+                "Key": "14_Nm",
+                "Value": "Path of Martial Arts"
+            },
+            {
+                "Key": "14_Scr",
+                "Value": "Ratximus! Ratximus! Ratximus!"
+            },
+            {
+                "Key": "100_Nm",
+                "Value": "Path of Predation"
+            },
+            {
+                "Key": "100_Scr",
+                "Value": "You must eat meat at least once a week."
+            },
+            {
+                "Key": "101_Nm",
+                "Value": "Path of Hygiene"
+            },
+            {
+                "Key": "101_Scr",
+                "Value": "Washing hands thoroughly, corner to corner, for disinfection."
+            },
+            {
+                "Key": "102_Nm",
+                "Value": "Path of Transport"
+            },
+            {
+                "Key": "102_Scr",
+                "Value": "Now you want me to carry the load too?"
+            },
+            {
+                "Key": "103_Nm",
+                "Value": "Path of Security"
+            },
+            {
+                "Key": "103_Scr",
+                "Value": "Safety comes from preparedness."
+            },
+            {
+                "Key": "104_Nm",
+                "Value": "Path of Control"
+            },
+            {
+                "Key": "104_Scr",
+                "Value": "The more more, the better better."
+            },
+            {
+                "Key": "105_Nm",
+                "Value": "Path of Gardening"
+            },
+            {
+                "Key": "105_Scr",
+                "Value": "Having a garden in front of your house is the new trend, isn't it?"
+            },
+            {
+                "Key": "106_Nm",
+                "Value": "Path of Cooking"
+            },
+            {
+                "Key": "106_Scr",
+                "Value": "We do all this just to eat and survive, so let's eat well."
+            },
+            {
+                "Key": "107_Nm",
+                "Value": "Path of Mercenaries"
+            },
+            {
+                "Key": "107_Scr",
+                "Value": "What could go wrong by leaving it to the mercenaries?"
+            },
+            {
+                "Key": "108_Nm",
+                "Value": "Path of Science"
+            },
+            {
+                "Key": "108_Scr",
+                "Value": "You need to learn technology to make a living."
+            },
+            {
+                "Key": "109_Nm",
+                "Value": "Path of Life"
+            },
+            {
+                "Key": "109_Scr",
+                "Value": "The pleasure gained through consumption!"
+            },
+            {
+                "Key": "110_Nm",
+                "Value": "Path of Baking"
+            },
+            {
+                "Key": "110_Scr",
+                "Value": "If there's no grain, then just eat bread."
+            },
+            {
+                "Key": "111_Nm",
+                "Value": "Path of Defense"
+            },
+            {
+                "Key": "111_Scr",
+                "Value": "A strong body! A healthy mind!"
+            },
+            {
+                "Key": "112_Nm",
+                "Value": "Path of Movement"
+            },
+            {
+                "Key": "112_Scr",
+                "Value": "Where are you looking? That’s just my afterimage."
+            },
+            {
+                "Key": "113_Nm",
+                "Value": "Path of Finance"
+            },
+            {
+                "Key": "113_Scr",
+                "Value": "Apply for a one-click loan now!"
+            },
+            {
+                "Key": "114_Nm",
+                "Value": "Path of Charging"
+            },
+            {
+                "Key": "114_Scr",
+                "Value": "Revolutionary advancements in storage technology."
+            },
+            {
+                "Key": "115_Nm",
+                "Value": "Path of Tunnels"
+            },
+            {
+                "Key": "115_Scr",
+                "Value": "Regular customers can now use it at a discount."
+            },
+            {
+                "Key": "200_Nm",
+                "Value": "Path of Power Generation"
+            },
+            {
+                "Key": "200_Scr",
+                "Value": "If only we had this technology, surviving a blizzard would’ve been much easier."
+            },
+            {
+                "Key": "201_Nm",
+                "Value": "Path of Nobility"
+            },
+            {
+                "Key": "201_Scr",
+                "Value": "It's better if everyone lives well than if everyone lives poorly."
+            },
+            {
+                "Key": "202_Nm",
+                "Value": "Path of Ratron"
+            },
+            {
+                "Key": "202_Scr",
+                "Value": "Don’t worry, they won’t replace all the Ratizens."
+            },
+            {
+                "Key": "203_Nm",
+                "Value": "Path of Commerce"
+            },
+            {
+                "Key": "203_Scr",
+                "Value": "In the end, no nation can stand alone."
+            },
+            {
+                "Key": "204_Nm",
+                "Value": "Path of Decoration"
+            },
+            {
+                "Key": "204_Scr",
+                "Value": "Maybe it’s time to add some decorations?"
+            },
+            {
+                "Key": "205_Nm",
+                "Value": "Path of Coexistence"
+            },
+            {
+                "Key": "205_Scr",
+                "Value": "Someone is bound to love that slippery skin."
+            },
+            {
+                "Key": "206_Nm",
+                "Value": "Path of the Federation"
+            },
+            {
+                "Key": "206_Scr",
+                "Value": "True strength comes from peace and cooperation."
+            },
+            {
+                "Key": "207_Nm",
+                "Value": "Path of the Empire"
+            },
+            {
+                "Key": "207_Scr",
+                "Value": "True strength comes from conquest and unification."
+            }
+        ]
+    }
+}

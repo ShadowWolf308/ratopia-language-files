@@ -1,0 +1,3486 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "R_Name_9",
+                "Value": "A request for trial"
+            },
+            {
+                "Key": "R_Script_9",
+                "Value": "\"Dear leader! I caught this suspicious acting ratizen, He must have stolen my money!\"\n\n\"No, please Leader! I would never do such a thing. What nonsense is spending money and making the other a criminal?\"\n\n\"Leader, please give us just ruling!\""
+            },
+            {
+                "Key": "R_Target_9_0",
+                "Value": "You look like a criminal. Return the money."
+            },
+            {
+                "Key": "R_Target_9_1",
+                "Value": "Claming guilt on an innocent is a crime."
+            },
+            {
+                "Key": "R_Target_9_2",
+                "Value": "Here, take this money and stop wasting my time."
+            },
+            {
+                "Key": "R_Name_10",
+                "Value": "Rabbit hunting"
+            },
+            {
+                "Key": "R_Script_10",
+                "Value": "My queen! I saw a rabbit hole while hunting and found it full of shiny things!\\n\\n\nIf you catch a few rabbits around the village and reduce them, I'll bring the ones there!"
+            },
+            {
+                "Key": "R_Target_10_0",
+                "Value": "I'll order you to catch the rabbit now."
+            },
+            {
+                "Key": "R_Target_10_1",
+                "Value": "Don't do anything useless."
+            },
+            {
+                "Key": "R_Target_10_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_11",
+                "Value": "A gladiatorial contest"
+            },
+            {
+                "Key": "R_Script_11",
+                "Value": "My queen! There seem to be a lot of ratizens who seem bored these days.\\n\\n\nWhy don't you have a big gladiatorial contest in my stadium this time and make everyone excited?"
+            },
+            {
+                "Key": "R_Target_11_0",
+                "Value": "All right, hold the contest with this money."
+            },
+            {
+                "Key": "R_Target_11_1",
+                "Value": "There is no need."
+            },
+            {
+                "Key": "R_Target_11_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_12",
+                "Value": "The necessity of education"
+            },
+            {
+                "Key": "R_Script_12",
+                "Value": "Queen! There are many Ratizens who can't read these days, so Ratizens are said to be uncomfortable.\\n\\n\nWhy don't you implement a policy that will raise the intellectual level of Ratizens?"
+            },
+            {
+                "Key": "R_Target_12_0",
+                "Value": "All right, let's build a school"
+            },
+            {
+                "Key": "R_Target_12_1",
+                "Value": "All right, make a book."
+            },
+            {
+                "Key": "R_Target_12_2",
+                "Value": "Tell him to read the picture."
+            },
+            {
+                "Key": "R_Name_13",
+                "Value": "Secure the middle class."
+            },
+            {
+                "Key": "R_Script_13",
+                "Value": "My queen! I think there are quite a few rich ratizens these days.\\n\\n\nIf you help them become middle-class, I think they will work harder for the city in the future. What do you think?"
+            },
+            {
+                "Key": "R_Target_13_0",
+                "Value": "I'll give it a try."
+            },
+            {
+                "Key": "R_Target_13_1",
+                "Value": "I don't have time to worry."
+            },
+            {
+                "Key": "R_Target_13_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_14",
+                "Value": "Awful smell"
+            },
+            {
+                "Key": "R_Script_14",
+                "Value": "My queen! There are some stinkers around me these days.\\n\\n\nIt's hard to concentrate on my work because of the smell of these guys.\\n\\n\nWith your permission, I'll wash these guys myself."
+            },
+            {
+                "Key": "R_Target_14_0",
+                "Value": "Hang in there and work."
+            },
+            {
+                "Key": "R_Target_14_1",
+                "Value": "Ugh, wash this guy."
+            },
+            {
+                "Key": "R_Target_14_2",
+                "Value": "Ugh, wash that guy."
+            },
+            {
+                "Key": "R_Name_100",
+                "Value": "A new start"
+            },
+            {
+                "Key": "R_Script_100",
+                "Value": "It's time to start anew on a new land.\n\nTo rebuild the kingdom, I need to recruit several rats to help me.\n\nLet's build an entrance to the city and get ready to welcome the new rats, and take out the emergency fund.\n\nIt will be the greatest city in the land."
+            },
+            {
+                "Key": "R_Target_100_0",
+                "Value": "Let's build a city entrance, take out the emergency fund."
+            },
+            {
+                "Key": "R_Target_100_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_100_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_101",
+                "Value": "Needs some privacy."
+            },
+            {
+                "Key": "R_Script_101",
+                "Value": "Dear leader! \n\nI am quite new here, but I can smell all the rats in the city!\nOf course, in a bad way!\n\nWe have to line up all the time when to use toilet, so everyone is pooping around instead. And I just have stepped one!\n\nShouldn't you have gathered us when you could provide the basic rights at least?"
+            },
+            {
+                "Key": "R_Target_101_0",
+                "Value": "Oops. Sorry."
+            },
+            {
+                "Key": "R_Target_101_1",
+                "Value": "So what, are you gonna throw one in my face?"
+            },
+            {
+                "Key": "R_Target_101_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_102",
+                "Value": "Let's build a sawmill."
+            },
+            {
+                "Key": "R_Script_102",
+                "Value": "Dear leader! \n\nEven though I am just a mere rat, I got some skills to trim woods.\n\nSure the true craftsman doesn't blame the tools, \nbut if you provide proper place, I'll make these logs much more useful."
+            },
+            {
+                "Key": "R_Target_102_0",
+                "Value": "Sure, I'll build one for you."
+            },
+            {
+                "Key": "R_Target_102_1",
+                "Value": "You got hands, don't you?"
+            },
+            {
+                "Key": "R_Target_102_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_103",
+                "Value": "Time for research!"
+            },
+            {
+                "Key": "R_Script_103",
+                "Value": "Dear leader!\n\nI know many facilities are needed for the long live and prosperity of the city.\n\nHowever, I only learned a little, so I don't know what to do. \n\nStill, I am the person with skills, I would say.\nSo let me know what and how the structures should be built, I'll devote myself to build those."
+            },
+            {
+                "Key": "R_Target_103_0",
+                "Value": "Okay, then we will needs some research."
+            },
+            {
+                "Key": "R_Target_103_1",
+                "Value": "Go finish what you're told to do."
+            },
+            {
+                "Key": "R_Target_103_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_104",
+                "Value": "The gathering"
+            },
+            {
+                "Key": "R_Script_104",
+                "Value": "Dear leader! \n\nI love forest to much, look at those grass and flowers!\n\nIf you build a gathering camp and assign me for the work, I'll work hard to gather resources for the city!\n\nDon't worry I'll gather only the fully grown ones so that they would not get harmed.\n\nWould you please, for me and the city?"
+            },
+            {
+                "Key": "R_Target_104_0",
+                "Value": "We needed one just in time."
+            },
+            {
+                "Key": "R_Target_104_1",
+                "Value": "Haha, I guess you still have some free time?"
+            },
+            {
+                "Key": "R_Target_104_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_105",
+                "Value": "Time to collect some tax"
+            },
+            {
+                "Key": "R_Script_105",
+                "Value": "Dear leader!\n\nIsn't it hard to go around and collect taxes every time?\n\nThere will be a lot of taxes that are not paid without knowing.\n\nWhy don't you build a tax office and let ratizens collect their own taxes?\n\nIt will make you walk much less, and make tax collecting much easier!"
+            },
+            {
+                "Key": "R_Target_105_0",
+                "Value": "Tax office... That's nice."
+            },
+            {
+                "Key": "R_Target_105_1",
+                "Value": "Are you saying I'm short of work?"
+            },
+            {
+                "Key": "R_Target_105_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_106",
+                "Value": "Ratizens needs circus"
+            },
+            {
+                "Key": "R_Script_106",
+                "Value": "Dear leader!\n\nLiving in this city is a great blessing and joy of life.\n\nSpeaking of which, actually I am not enjoying at all!\n\nIf you provide us something to enjoy, we will work harder for the glory of the city."
+            },
+            {
+                "Key": "R_Target_106_0",
+                "Value": "Circus would be enough, right?"
+            },
+            {
+                "Key": "R_Target_106_1",
+                "Value": "So you want only to play and eat? Get to work."
+            },
+            {
+                "Key": "R_Target_106_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_107",
+                "Value": "Do you know Prosperity?"
+            },
+            {
+                "Key": "R_Script_107",
+                "Value": "Dear leader!\nYour city is growing. I am so proud of you!\n\nWith that in mind, do you know about 'Prosperity level'?\n\nBy measuring the city's wealth, ratizen's living standard, and structures built, the cities prosperity can be measured.\n\nSo, setting a goal to reach to the next level might help you lead the ratizens better. I believe in you!\n\nSincerely,\n-Scout-"
+            },
+            {
+                "Key": "R_Target_107_0",
+                "Value": "For the prosperity!"
+            },
+            {
+                "Key": "R_Target_107_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_107_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_108",
+                "Value": "Developed city"
+            },
+            {
+                "Key": "R_Script_108",
+                "Value": "Quite many have gathered.\n\nSo many are still lacking.\n\nJust a bit more, just a few more steps to go."
+            },
+            {
+                "Key": "R_Target_108_0",
+                "Value": "I have to make the city safer."
+            },
+            {
+                "Key": "R_Target_108_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_108_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_109",
+                "Value": "The ideal far far away"
+            },
+            {
+                "Key": "R_Script_109",
+                "Value": "The city seems to have developed enough.\n\nThere are many things that I'm not used to, but after all, it wasn't bad.\n\nBut there's no time to play yet.\n\nI need to make the city where all would live happily ever after."
+            },
+            {
+                "Key": "R_Target_109_0",
+                "Value": "It's time to make Utopia."
+            },
+            {
+                "Key": "R_Target_109_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_109_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_110",
+                "Value": "City monument"
+            },
+            {
+                "Key": "R_Script_110",
+                "Value": "Dear leader!\n\nEveryone is somehow satisfied, but there seems like something is missing!\n\nYes.. something to connect our minds together.\n\nGreat cities have great symbols. \n\nSo how about making one?\n\nBy that, your achievements will also be praised."
+            },
+            {
+                "Key": "R_Target_110_0",
+                "Value": "A big and beautiful one sounds great."
+            },
+            {
+                "Key": "R_Target_110_1",
+                "Value": "The state, that is me. Why should I waste such time?"
+            },
+            {
+                "Key": "R_Target_110_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_111",
+                "Value": "Big brother"
+            },
+            {
+                "Key": "R_Script_111",
+                "Value": "Dear leader!\n\nIsn't it difficult to grasp ratizens' intentions at a glance, as the number of ratizens increases?\n\nDon't you want to look inside of all and control a little easier?\n\nIf you build an archive and record everyone's every move, managing the city wii become much easier.\n\nWell, not all would like it at first, but in the end, it's all for the best, right?"
+            },
+            {
+                "Key": "R_Target_111_0",
+                "Value": "Archiving is important, I agree."
+            },
+            {
+                "Key": "R_Target_111_1",
+                "Value": "That's a dangerous idea."
+            },
+            {
+                "Key": "R_Target_111_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_112",
+                "Value": "A shed in the woods"
+            },
+            {
+                "Key": "R_Script_112",
+                "Value": "Dear leader!\n\nI was walking through the forest and found a pile of grain.\n\nThis must be the salvation of the great forest for pitying us! \n\nLet this grain be used for food to feed the ratizens."
+            },
+            {
+                "Key": "R_Target_112_0",
+                "Value": "Thank God!"
+            },
+            {
+                "Key": "R_Target_112_1",
+                "Value": "I shall not take the belongings of the unknown."
+            },
+            {
+                "Key": "R_Target_112_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_113",
+                "Value": "Decaying meat"
+            },
+            {
+                "Key": "R_Script_113",
+                "Value": "Dear leader!\n\nI found a pile of meat while I was hunting in the forest.\n\nThough I am not sure who hunted this, but who would grief for it's death if we just let it decay?\n\nIt might be better to honor the poor life by eating it up quickly.\n\nOr would it be better to throw it away becasue you are uncomfortable with it?"
+            },
+            {
+                "Key": "R_Target_113_0",
+                "Value": "It's not right to throw away precious meat."
+            },
+            {
+                "Key": "R_Target_113_1",
+                "Value": "Stale meat is a sin. Put it away!"
+            },
+            {
+                "Key": "R_Target_113_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_114",
+                "Value": "New Medication"
+            },
+            {
+                "Key": "R_Script_114",
+                "Value": "Dear leader!\nI've created brand new medicine!\nThis one has zero side effects, so we can use it in hospital without more test!\n\nWell, yeah, medicines are supposed to be created by the chemists, but, we do not have any medicine right now you know.\n\nSo, with this opportunity, we get to test it on actual rats! We might even cure some!\nKilling two birds with one stone I'd say.\nSo, what do you think?"
+            },
+            {
+                "Key": "R_Target_114_0",
+                "Value": "We should turn off the fire on our foot I guess."
+            },
+            {
+                "Key": "R_Target_114_1",
+                "Value": "The thing you made seems... Dangerous."
+            },
+            {
+                "Key": "R_Target_113_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_121",
+                "Value": "Bourgeois rises"
+            },
+            {
+                "Key": "R_Script_121",
+                "Value": "Dear leader!\n\nHow long do we have to eat all this raw slop?\n\nDo you not know how to cook?\n\nIf the grain is ground and baked, it will taste! much! better!\n\nLeader, we've worked hard enough to deserve at least this much. \n\nSo don't you think its time to get some better food?"
+            },
+            {
+                "Key": "R_Target_121_0",
+                "Value": "Okay, let's try to bake some bread."
+            },
+            {
+                "Key": "R_Target_121_1",
+                "Value": "Think of those who are starving, you fool!"
+            },
+            {
+                "Key": "R_Target_121_2",
+                "Value": "Haha, from now on,  you'd wish you had anything to eat at all... "
+            },
+            {
+                "Key": "R_Name_131",
+                "Value": "The 1%"
+            },
+            {
+                "Key": "R_Script_131",
+                "Value": "Dear leader!\n\nThe state is developing this much, but the aesthetic sense of the ratizens hasn't improved at all!\n\nHow could we not have any elegant accessories to wear?\n\nI think it's time to focus on delicate and beautiful things.\n\nFor you and us, for the upper 1%."
+            },
+            {
+                "Key": "R_Target_131_0",
+                "Value": "Man, I'm on the same page."
+            },
+            {
+                "Key": "R_Target_131_1",
+                "Value": "Wouldn't luxury be a bit too much yet?"
+            },
+            {
+                "Key": "R_Target_131_2",
+                "Value": "Only I shall be the 1%."
+            },
+            {
+                "Key": "R_Name_151",
+                "Value": "Echos within"
+            },
+            {
+                "Key": "R_Script_151",
+                "Value": "The savings are running out.\n\nIf this continues, none will remain.\n\nThe ratizens would not do any work without compensation, just as we all.\n\nWithout a solution, everything I've worked for will have been in vain."
+            },
+            {
+                "Key": "R_Target_151_0",
+                "Value": "Some might hate this, but collecting more taxes could be an option."
+            },
+            {
+                "Key": "R_Target_151_1",
+                "Value": "Printing some more money might help to handle this problem."
+            },
+            {
+                "Key": "R_Target_151_2",
+                "Value": "This might be a right time to trade with the other nations."
+            },
+            {
+                "Key": "R_Name_152",
+                "Value": "Gifts of the ancients"
+            },
+            {
+                "Key": "R_Script_152",
+                "Value": "Ka-boom!\n\nWith a loud noise, a huge rock crashed.\n\nThen, wow, the rock was full of gold coins!\n\n\"Thou who taketh this treasure shall march towards inevitable doom.\"\n\nThe ratizens began to buzz with rumors that those were the cursed coins of the ancients.\n\nThat's quite disturbing, but I don't have enough money now..."
+            },
+            {
+                "Key": "R_Target_152_0",
+                "Value": "I'm not afraid of mischief, let's use it."
+            },
+            {
+                "Key": "R_Target_152_1",
+                "Value": "The ratizens are anxious. Let's bury those."
+            },
+            {
+                "Key": "R_Target_152_2",
+                "Value": "Pretend to bury the treasure, but use secretly."
+            },
+            {
+                "Key": "R_Name_153",
+                "Value": "Temptation from the shadows"
+            },
+            {
+                "Key": "R_Script_153",
+                "Value": "At a glance, it looks like the situation is very difficult.\n\nWho I am is not important, but that you're in the needs of money is.\n\nI'll give you a chance, with the interest of 10% for every 3 days, and 20% for when repaying, no partial repayment.\n\nWhat would you say?\n\nDon't you need some money to do something?"
+            },
+            {
+                "Key": "R_Target_153_0",
+                "Value": "Guess I have no choice.."
+            },
+            {
+                "Key": "R_Target_153_1",
+                "Value": "Who the heck are you? Go away!"
+            },
+            {
+                "Key": "R_Target_153_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_154",
+                "Value": "Return of the temptation"
+            },
+            {
+                "Key": "R_Script_154",
+                "Value": "See whose situation got even worse?\nI came back out of pity.\n\nYou are out of savings, and the city is just about to fall, right?\nIf you miss this chance, wouldn't you get dangerous...?\n\nSame with the before, 10% every three days and 20% when repay.\nBut this time, bigger amount of money I'd suggest.\n\nWhat do you think? \nThis is the Last chance."
+            },
+            {
+                "Key": "R_Target_154_0",
+                "Value": "Damn, there's no choice.."
+            },
+            {
+                "Key": "R_Target_154_1",
+                "Value": "Remember, no debentures..."
+            },
+            {
+                "Key": "R_Target_154_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_155",
+                "Value": "Shadow cooperation"
+            },
+            {
+                "Key": "R_Script_155",
+                "Value": "How are you?\n\nWe are the shadows, chasing the profits.\n\nI came here because there's a good option to invest.\n\nInvest now, and you will gain interest, every set period of time.\n\n... You're better off not knowing the details of our business dealings.\n\nNow, make a decision."
+            },
+            {
+                "Key": "R_Target_155_0",
+                "Value": "That's a tempting offer."
+            },
+            {
+                "Key": "R_Target_155_1",
+                "Value": "That's a good suggestion."
+            },
+            {
+                "Key": "R_Target_155_2",
+                "Value": ".. Seriously, who does business like this?"
+            },
+            {
+                "Key": "R_Name_201",
+                "Value": "The poor"
+            },
+            {
+                "Key": "R_Script_201",
+                "Value": "Dear leader,\n\nI'm starving, would you give me a penny?"
+            },
+            {
+                "Key": "R_Target_201_0",
+                "Value": "What a pity. Take this."
+            },
+            {
+                "Key": "R_Target_201_1",
+                "Value": "Well, eat this bread."
+            },
+            {
+                "Key": "R_Target_201_2",
+                "Value": "Oh, remove this guy from my sight."
+            },
+            {
+                "Key": "R_Name_202",
+                "Value": "Furious Poors"
+            },
+            {
+                "Key": "R_Script_202",
+                "Value": "Dear leader!\nWe all are starved to death,\nyet there's structure with gold and flowers,\nare you blind to see our pain?\n\nBe a monument or what,\nIf you do not destroy it, \nwe will do it ourselves."
+            },
+            {
+                "Key": "R_Target_202_0",
+                "Value": "I apologize. I'll remove it."
+            },
+            {
+                "Key": "R_Target_202_1",
+                "Value": "Nonsense. But I sure will improve your situation."
+            },
+            {
+                "Key": "R_Target_202_2",
+                "Value": "You rebel scum, the city do not need you!"
+            },
+            {
+                "Key": "R_Name_231",
+                "Value": "Bread for the poor"
+            },
+            {
+                "Key": "R_Script_231",
+                "Value": "Dear leader,\n\nI am in a great joy of life, and I am wealthy enough buy whatever I want.\n\nBut when I see those poor ratizens, I fell into a great sorrow.\n\nWith this money, would you hand them the breads in the storage?"
+            },
+            {
+                "Key": "R_Target_231_0",
+                "Value": "Good idea, I'll do so."
+            },
+            {
+                "Key": "R_Target_231_1",
+                "Value": "Keep the money. I'll feed them."
+            },
+            {
+                "Key": "R_Target_231_2",
+                "Value": "That's none of your business."
+            },
+            {
+                "Key": "R_Name_301",
+                "Value": "Festival!"
+            },
+            {
+                "Key": "R_Script_301",
+                "Value": "Dear leader,\n\nThe city is richer than ever before, and the storage is full of foods.\n\nIn such relaxing time, why don't we hold a festival to feed all the ratizens, and make them love this city even more?"
+            },
+            {
+                "Key": "R_Target_301_0",
+                "Value": "Festival!"
+            },
+            {
+                "Key": "R_Target_301_1",
+                "Value": "We should save when we have plenty."
+            },
+            {
+                "Key": "R_Target_301_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_302",
+                "Value": "Autumn Beer Festival!"
+            },
+            {
+                "Key": "R_Script_302",
+                "Value": "Dear leader!\n\nIn this great season, the grains are ripe, and quality beer is piling up!\n\nWhy don't we all celebrate and enjoy this good season with great beer?\n\nYes, Autumn Beer Festival! \nAs an annual event!"
+            },
+            {
+                "Key": "R_Target_302_0",
+                "Value": "Pour it! Drink it!"
+            },
+            {
+                "Key": "R_Target_302_1",
+                "Value": "Oh, that's a bit... Aren't you already drunk?"
+            },
+            {
+                "Key": "R_Target_302_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_331",
+                "Value": "Leading classes"
+            },
+            {
+                "Key": "R_Script_331",
+                "Value": "Dear leader!\n\nWe are planning to hold a meeting at my salon.\n\nBy saying 'we' I mean us, the upper class members.\n\nWould you join us on the meeting? it will be a great honor.\n\nAh, but please come with great care. Unworthy ones might follow, as you see."
+            },
+            {
+                "Key": "R_Target_331_0",
+                "Value": "Ah, finally a suitable place."
+            },
+            {
+                "Key": "R_Target_331_1",
+                "Value": "Wouldn't it be better if the whole city enjoy?"
+            },
+            {
+                "Key": "R_Target_331_2",
+                "Value": "I don't remember that I've allowed such meeting."
+            },
+            {
+                "Key": "R_Name_401",
+                "Value": "An eerie bush"
+            },
+            {
+                "Key": "R_Script_401",
+                "Value": "Dear leader!\n\nI found a pile of woods in the forest, but I saw... I saw eyes, flashing in the bushes.\nI had no choice but to run away.\n\nI don't know what that was, but it terrified me so much and I cannot sleep at all because of the nightmares.\n\nI'd be relieved if you build some military facilities and train guards... \n\nWould you please my lord?"
+            },
+            {
+                "Key": "R_Target_401_0",
+                "Value": "I'll build training camp and deploy guards."
+            },
+            {
+                "Key": "R_Target_401_1",
+                "Value": "You got scared of what?"
+            },
+            {
+                "Key": "R_Target_401_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_410",
+                "Value": "Growing Threat"
+            },
+            {
+                "Key": "R_Script_410",
+                "Value": "Dear leader!\n\nI feel that the enemies invasion is getting harsher.\n\nI can't trust those random guys with city guards costumes to protect our welth and right.\n\nNow is time to train some proper soliders, I'd suggest."
+            },
+            {
+                "Key": "R_Target_410_0",
+                "Value": "I'll build barracks and train those 'proper soldiers'."
+            },
+            {
+                "Key": "R_Target_410_1",
+                "Value": "You mannerless! Are you ignoring their devotion?"
+            },
+            {
+                "Key": "R_Target_410_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_801",
+                "Value": "Severe cold"
+            },
+            {
+                "Key": "R_Script_801",
+                "Value": "Dear leader!\n\nThe blizzard is so bad that I can't stand it.\n\nI've seen a storage full of clothes, but we don't have money, so we cannot get one...\n\nIf you give those to us, we will be able to withstand this winter somehow.\n\nPlease help us!"
+            },
+            {
+                "Key": "R_Target_801_0",
+                "Value": "That's so poor, I'll open up the storage, take it."
+            },
+            {
+                "Key": "R_Target_801_1",
+                "Value": "Your poverty is not my problem."
+            },
+            {
+                "Key": "R_Target_801_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_901",
+                "Value": "Currency Value"
+            },
+            {
+                "Key": "R_Script_901",
+                "Value": "We sincerely congratulate you joining the international community.\n\nThus, we are valuing your currency against the international standard.\n\nThis will take a few days.\n\nWe hereby send this notice to inform you."
+            },
+            {
+                "Key": "R_Target_901_0",
+                "Value": "Yes, I'll wait."
+            },
+            {
+                "Key": "R_Target_901_1",
+                "Value": "What's taking so long? Tell them three days is enough."
+            },
+            {
+                "Key": "R_Target_901_2",
+                "Value": "How about.. No."
+            },
+            {
+                "Key": "R_Name_902",
+                "Value": "International disputes"
+            },
+            {
+                "Key": "R_Script_902",
+                "Value": "Recently, disputes between countries have intensified.\n\nFrom that, the discussions on the values of Dar, the international currency, seems to be activated.\n\nI think we should also participate in this for some benefits..\n\nSo... What should I do?"
+            },
+            {
+                "Key": "R_Target_902_0",
+                "Value": "As safe as possible."
+            },
+            {
+                "Key": "R_Target_902_1",
+                "Value": "Let's ride the tide."
+            },
+            {
+                "Key": "R_Target_902_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_903",
+                "Value": "Promotion of exchanges"
+            },
+            {
+                "Key": "R_Script_903",
+                "Value": "As the dispute is somewhat lulled, discussions on the establishment of a monetary order seem to be raised again.\n\nI think more countries than I thought are divided over the value of the public currency, Dar.\n\nIf I intervene well, it would be possible to revalue our currency, Pia.\n\nLet's speak carefully to get what benefits I want to get."
+            },
+            {
+                "Key": "R_Target_903_0",
+                "Value": "To increase the value of Pia."
+            },
+            {
+                "Key": "R_Target_903_1",
+                "Value": "To lower the value of Pia."
+            },
+            {
+                "Key": "R_Target_903_2",
+                "Value": "I don't know, just go with the flow."
+            },
+            {
+                "Key": "R_Name_904",
+                "Value": "Fluctuating world"
+            },
+            {
+                "Key": "R_Script_904",
+                "Value": "Short peace time got over and the world is under the shadow of chaos again.\n\nWhen will this international economy get stabilized, at least for once?\nNo matter how much I behave well, others are like that.\n\nNevertheless, all I can do is to choose wisely, again and again.\n\nSo, in which tide should I flow with? "
+            },
+            {
+                "Key": "R_Target_904_0",
+                "Value": "A predictable possibility."
+            },
+            {
+                "Key": "R_Target_904_1",
+                "Value": "A variable enough to prepare for."
+            },
+            {
+                "Key": "R_Target_904_2",
+                "Value": "A chaos that no one knows."
+            },
+            {
+                "Key": "R_Name_910",
+                "Value": "Monetary strategy"
+            },
+            {
+                "Key": "R_Script_910",
+                "Value": "I think I got used to international currency matters.\n\nTo make a bit more of porfit, I need to step in a little bit.\n\nLet's establish a strategy to the extent that we can enjoy moderate economic effects and not be noticeable."
+            },
+            {
+                "Key": "R_Target_910_0",
+                "Value": "Decrease the value of the Pia by a small margin."
+            },
+            {
+                "Key": "R_Target_910_1",
+                "Value": "Increase the value of the Pia by a small amount."
+            },
+            {
+                "Key": "R_Target_910_2",
+                "Value": "Just let it go up and down naturally."
+            },
+            {
+                "Key": "R_Name_1131",
+                "Value": "Mass food poisoning!"
+            },
+            {
+                "Key": "R_Script_1131",
+                "Value": "Oh no!\n\nFood poisoning has broken out in groups, mainly among the poors.\n\nMaybe there was something wrong with what we ate last time.\n\nWhat should I do?"
+            },
+            {
+                "Key": "R_Target_1131_0",
+                "Value": "Give all some rest to get well."
+            },
+            {
+                "Key": "R_Target_1131_1",
+                "Value": "Wash all clean to prevent other diseases."
+            },
+            {
+                "Key": "R_Target_1131_2",
+                "Value": "Let all just be sick for a while."
+            },
+            {
+                "Key": "R_Name_1141",
+                "Value": "Awful side effect"
+            },
+            {
+                "Key": "R_Script_1141",
+                "Value": "Dear leader!\n\nI don't feel so good, after taking this medication.\nThe so called 'doctors' say they only use 'approved' medication!\nAnd they even called my complaints treasonous! How dastardly!\nDear leader, I need to know what is going on.\nPlease tell be honest."
+            },
+            {
+                "Key": "R_Target_1141_0",
+                "Value": "Take this and be quiet."
+            },
+            {
+                "Key": "R_Target_1141_1",
+                "Value": "No need to worry they say... I'll 'take care' of it, don't worry."
+            },
+            {
+                "Key": "R_Target_1141_2",
+                "Value": "To be honest, there was something. I apologize."
+            },
+            {
+                "Key": "R_Name_1142",
+                "Value": "Price of silence"
+            },
+            {
+                "Key": "R_Script_1142",
+                "Value": "Leader..?\nEh... I am out of money you know.\nHaven't you have... did some experiement on ratizens? \nNo, right? Yeah, of course. haha.\nI don't need a lot,\nI only want to live with a little better standard, you know?"
+            },
+            {
+                "Key": "R_Target_1142_0",
+                "Value": "Huh. Take this and shut up."
+            },
+            {
+                "Key": "R_Target_1142_1",
+                "Value": "Haha, I guess I need to 'take care' of you."
+            },
+            {
+                "Key": "R_Target_1142_2",
+                "Value": "Instead, I'll just be honest to everyone."
+            },
+            {
+                "Key": "R_Name_2311",
+                "Value": "Foods for the poor"
+            },
+            {
+                "Key": "R_Script_2311",
+                "Value": "Dear leader,\n\nThere still are so many poor ratizens in this land.\n\nThose ratizens are worried about daily meals, which I have not experienced for quite long time.\n\nPlease take this money. I would like to purchase some bread for those."
+            },
+            {
+                "Key": "R_Target_2311_0",
+                "Value": "Sure, take some."
+            },
+            {
+                "Key": "R_Target_2311_1",
+                "Value": "I'll feed them, do not worry."
+            },
+            {
+                "Key": "R_Target_2311_2",
+                "Value": "I think this happened before.. get lost."
+            },
+            {
+                "Key": "R_Name_1521",
+                "Value": "The cursed treasure"
+            },
+            {
+                "Key": "R_Script_1521",
+                "Value": "Dear leader!\n\nWhere in the world did you get that gold coins?\n\nDidn't you bury all of those last time?\n\nDid you deceive us? This city will be cursed!\n\nThrow it away now!"
+            },
+            {
+                "Key": "R_Target_1521_0",
+                "Value": "I'm sorry... I will throw them away for sure."
+            },
+            {
+                "Key": "R_Target_1521_1",
+                "Value": "Oh, okay, okay... (Hide those)"
+            },
+            {
+                "Key": "R_Target_1521_2",
+                "Value": "There's no such thing as a curse, stupid crowd!"
+            },
+            {
+                "Key": "R_Name_1522",
+                "Value": "The curse overload"
+            },
+            {
+                "Key": "R_Script_1522",
+                "Value": "This punk cheated on us!\n\nI told you to throw away the cursed things right away!\n\nI shouldn't have believed the strangers, claiming oneself as the ruler!\n\nIf you don't throw away the cursed things in front of our eyes right now, you'll be in big trouble!"
+            },
+            {
+                "Key": "R_Target_1522_0",
+                "Value": "Oh, sure, sure. I'm gonna throw it away right now!"
+            },
+            {
+                "Key": "R_Target_1522_1",
+                "Value": "Not all of these are from those!"
+            },
+            {
+                "Key": "R_Target_1522_2",
+                "Value": "Come on, you uneducated rats!"
+            },
+            {
+                "Key": "R_Name_1523",
+                "Value": "A sorcerous method"
+            },
+            {
+                "Key": "R_Script_1523",
+                "Value": "Dear leader!\n\nI found out how to lift the curse off of the treasure!\n\nI will perform the ritual in front of everyone, so that they can have their peace of mind.\n\nOf course, to perform this ritual, I need some... you know... hehe"
+            },
+            {
+                "Key": "R_Target_1523_0",
+                "Value": "Hmm.. I can't just leave them nervous I guess."
+            },
+            {
+                "Key": "R_Target_1523_1",
+                "Value": "What in the world have you been reading?!"
+            },
+            {
+                "Key": "R_Target_1523_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1524",
+                "Value": "The anxiety of the crowd"
+            },
+            {
+                "Key": "R_Script_1524",
+                "Value": "Dear leader!\n\nRatizens are complaining of anxiety about the gold coins from the rock last time.\n\nI think it's better to perform the ritual I told you about, the one to purify those, or you would better discard those coins!"
+            },
+            {
+                "Key": "R_Target_1524_0",
+                "Value": "All right, let's at least carry out the ritual."
+            },
+            {
+                "Key": "R_Target_1524_1",
+                "Value": "The crowds is ignorant. Still, I'll pretend to throw those away."
+            },
+            {
+                "Key": "R_Target_1524_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1531",
+                "Value": "The dark interest"
+            },
+            {
+                "Key": "R_Script_1531",
+                "Value": "Haha, hey, it's time to pay the interest.\n\nI know how much money you've made.\n\nBut if you pay back with all you have, what will you eat next?\n\nWell, that's none of my business.\n\nSo, what would you say?"
+            },
+            {
+                "Key": "R_Target_1531_0",
+                "Value": "Here is the interest."
+            },
+            {
+                "Key": "R_Target_1531_1",
+                "Value": "Take this and never comeback."
+            },
+            {
+                "Key": "R_Target_1531_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1541",
+                "Value": "The interest of temptation"
+            },
+            {
+                "Key": "R_Script_1541",
+                "Value": "Hey, I am here to collect money.\n\nWhy don't you pay back the whole, or pay the interest?\n\nOh, I'm sorry to bother you, but isn't it a mannor to pay back when you borrowed something?\n\nThanks to me, you are saved!\nSo, shouldn't you express the thankness about it?\n\nDon't even think about nonsense.\nWhat would you do?"
+            },
+            {
+                "Key": "R_Target_1541_0",
+                "Value": "I'll pay you the interest. Please leave."
+            },
+            {
+                "Key": "R_Target_1541_1",
+                "Value": "Take this and never comeback."
+            },
+            {
+                "Key": "R_Target_1541_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1551",
+                "Value": "Dividend"
+            },
+            {
+                "Key": "R_Script_1551",
+                "Value": "Thank you for your investment.\n\nHere, take the dividend."
+            },
+            {
+                "Key": "R_Target_1551_0",
+                "Value": "Thank you. Please visit often."
+            },
+            {
+                "Key": "R_Target_1551_1",
+                "Value": "I don't need it. Give me back my money."
+            },
+            {
+                "Key": "R_Target_1551_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_2021",
+                "Value": "Angry middle class"
+            },
+            {
+                "Key": "R_Script_2021",
+                "Value": "Dear leader!\nI am really sorry but, are you insane?\nYou've demolished the city's identity!\n\nI don't know what those poor bastards have said,\nbut this vandalism on our glorious symbol of culture?\nWhat were you thinking??\n\nThe city is in great prosperity,\nbut if you keep decides stuffs from opinions of some numbers,\nWe... we really are disapointed on you."
+            },
+            {
+                "Key": "R_Target_2021_0",
+                "Value": "Please take this and understand."
+            },
+            {
+                "Key": "R_Target_2021_1",
+                "Value": "It's my fault of not understanding their pain."
+            },
+            {
+                "Key": "R_Target_2021_2",
+                "Value": "How dare you, so what? huh?"
+            },
+            {
+                "Key": "R_Name_2022",
+                "Value": "Angry poor once again"
+            },
+            {
+                "Key": "R_Script_2022",
+                "Value": "Dear Leader!\n\nI heard that those rich were blaming us, \nsaying we are ignorance who do not understand the culture?\nWe were starved and exhausted!\n\nWhat is hurting so much was that you agreed with those bastards!\nIs this what the justice means?\n\nYou should not be swayed by what they say like this!\nI think it's time to clean up those full bellies."
+            },
+            {
+                "Key": "R_Target_2022_0",
+                "Value": "May be you are right, but I don't want conflict."
+            },
+            {
+                "Key": "R_Target_2022_1",
+                "Value": "You all are just same. Just go and do what you are ordered to."
+            },
+            {
+                "Key": "R_Target_2022_2",
+                "Value": "I think it's time to clean you up."
+            },
+            {
+                "Key": "R_Name_2023",
+                "Value": "Angry rich"
+            },
+            {
+                "Key": "R_Script_2023",
+                "Value": "Ha.Ha.Ha.Ha.\n\nYou've been quite indecisive, haven't you?\nI heard you nodded when those poor folks asked to 'clean up' us.\nYou know, what kind of fools would stay still after hearing such stories?\nWe have to protect ourselves too..\nOh, I didn't come here to ask questions.\n\nFarewell, leader."
+            },
+            {
+                "Key": "R_Target_2023_0",
+                "Value": "You bastards..."
+            },
+            {
+                "Key": "R_Target_2023_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_2023_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_2024",
+                "Value": "We are not fools!"
+            },
+            {
+                "Key": "R_Script_2024",
+                "Value": "Leader.\n\nI saw you demolishing the monument before...\nBut I can see it standing right there now!\nWow a magic! haha are you mocking me?\n\nThis is ridiculous.\nNothing got changed on our lives,\nyet what you are only doing is trying to foll us!\nAnd we are following you as the leader!\nHa!"
+            },
+            {
+                "Key": "R_Target_2024_0",
+                "Value": "Do we really have to destroy it again? Okay, calm down."
+            },
+            {
+                "Key": "R_Target_2024_1",
+                "Value": "I realised that is the symbol of our hope. So don't argue again."
+            },
+            {
+                "Key": "R_Target_2024_2",
+                "Value": "You are crossing the line. I'll let you know."
+            },
+            {
+                "Key": "R_Name_4011",
+                "Value": "Time to learn"
+            },
+            {
+                "Key": "R_Script_4011",
+                "Value": "Dear leader!\n\nI'm sorry to say this, but more and more ratizens are questioning your leadership.\nOf course, I am not one of those, but...\n\nBut as someone said, what good is good.\nWouldn't it be good to study in many ways?\n\nWhat direction would you like to go?\nI'll help you out.."
+            },
+            {
+                "Key": "R_Target_4011_0",
+                "Value": "the strongest leader"
+            },
+            {
+                "Key": "R_Target_4011_1",
+                "Value": "the most handy leader"
+            },
+            {
+                "Key": "R_Target_4011_2",
+                "Value": "the most intelligent leader"
+            },
+            {
+                "Key": "R_Name_4012",
+                "Value": "Iterative learning"
+            },
+            {
+                "Key": "R_Script_4012",
+                "Value": "Dear leader!\n\nLearning doesn't work unless you repeat it on a daily basis.\n\nConsequently, it's time to study again.\n\nWhat do you want to learn about?\n\nNot studying at all is not a choice, so don't think about running away."
+            },
+            {
+                "Key": "R_Target_4012_0",
+                "Value": "I don't think I'm strong enough yet."
+            },
+            {
+                "Key": "R_Target_4012_1",
+                "Value": "I don't think I'm skilled enough yet."
+            },
+            {
+                "Key": "R_Target_4012_2",
+                "Value": "I don't think I'm intelligent enough yet."
+            },
+            {
+                "Key": "R_Name_4013",
+                "Value": "Threat of the deep"
+            },
+            {
+                "Key": "R_Script_4013",
+                "Value": "Dear leader!\n\nWhile patrolling, I found something huge, unidentified!\n\nIt's a rat... It was clearly a rat, but it's size was not a one of the kind!\n\nThat thing purred and wandered around, then entered to an unknown structure deep down there.\n\nIf you leave it, it will definitely be a big threat!"
+            },
+            {
+                "Key": "R_Target_4013_0",
+                "Value": "Let's go get rid of that fatty"
+            },
+            {
+                "Key": "R_Target_4013_1",
+                "Value": "You shouldn't discriminate someone with thier cover..."
+            },
+            {
+                "Key": "R_Target_4013_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_9041",
+                "Value": "Economies of madness"
+            },
+            {
+                "Key": "R_Script_9041",
+                "Value": "I think I've been watching for quite a while, but all are out of their minds.\n\nBy what standards do the other nations send thier spokesperson to this place?\n\nI wonder when would this mess ends.\n\nBut again, how should I respond to the storm this time?"
+            },
+            {
+                "Key": "R_Target_9041_0",
+                "Value": "Hold out as stable as possible."
+            },
+            {
+                "Key": "R_Target_9041_1",
+                "Value": "Just flow on the wind."
+            },
+            {
+                "Key": "R_Target_9041_2",
+                "Value": "The world never change! Accelerate the confusion."
+            },
+            {
+                "Key": "R_Name_990",
+                "Value": "To the great symbol!"
+            },
+            {
+                "Key": "R_Script_990",
+                "Value": "It seems the city is gradually developing.\n\nNaturally, when a city becomes affluent, it needs a symbol.\n\nBuilding one right away might be a bit much... Shall we start by preparing the foundation?"
+            },
+            {
+                "Key": "R_Target_990_0",
+                "Value": "Let's begin the construction!"
+            },
+            {
+                "Key": "R_Target_990_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_990_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_991",
+                "Value": "Great Achievement"
+            },
+            {
+                "Key": "R_Script_991",
+                "Value": "The foundation to praise my greatness is laid.\n\nSo....\nWhat should I bring to the city to make all agree?"
+            },
+            {
+                "Key": "R_Target_991_0",
+                "Value": "Rich!"
+            },
+            {
+                "Key": "R_Target_991_1",
+                "Value": "Prosperity!"
+            },
+            {
+                "Key": "R_Target_991_2",
+                "Value": "Better living standard!"
+            },
+            {
+                "Key": "R_Name_992",
+                "Value": "Magnificent Achievement"
+            },
+            {
+                "Key": "R_Script_992",
+                "Value": "The middle part has been built with quality.\n\nBunch of resources have been used, \nbut nobody complains since there's what I've done for the city.\n\nNow it is time to finish the monument.\n\nSo... how should I make the city, so that all would agree?"
+            },
+            {
+                "Key": "R_Target_992_0",
+                "Value": "The richest city in the world!"
+            },
+            {
+                "Key": "R_Target_992_1",
+                "Value": "The most developed city in the world!"
+            },
+            {
+                "Key": "R_Target_992_2",
+                "Value": "The most powerful city in the world!"
+            },
+            {
+                "Key": "R_Name_9931",
+                "Value": "Declare"
+            },
+            {
+                "Key": "R_Script_9931",
+                "Value": "Finally, it is done.\nThe greatest city, and the greatest monument.\n\nLook on my Works, ye Mighty, and despair!\nThis is the Utopia descended on earth."
+            },
+            {
+                "Key": "R_Target_9931_0",
+                "Value": "Hold a festival and rest."
+            },
+            {
+                "Key": "R_Target_9931_1",
+                "Value": "Still got things to do."
+            },
+            {
+                "Key": "R_Target_9931_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_811",
+                "Value": "Love and Happiness to All"
+            },
+            {
+                "Key": "R_Script_811",
+                "Value": "Dear leader!\n\nThe cold of winter is becoming more intense.\nThe cold not only freezes the body but also the heart...\nThere are many ways to warm the body, but what should we do about the heart?\n\nThe answer is to express love through gifts!\nGive them gifts to show how much you care about them.\nOf course, if you just hand them out hastily, everyone will forget, right?\n\nI'll think of a way to make the gifts memorable for everyone, so Leader, please prepare the gifts."
+            },
+            {
+                "Key": "R_Target_811_0",
+                "Value": "Wow, warmth in the Winter... Great."
+            },
+            {
+                "Key": "R_Target_811_1",
+                "Value": "You always come with something useless.."
+            },
+            {
+                "Key": "R_Target_811_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_812",
+                "Value": "Love and Happiness to All"
+            },
+            {
+                "Key": "R_Script_812",
+                "Value": "Dear leader!\n\nThe cold of winter has returned.\nThe cold not only freezes the body but also the heart...\nIn such time, woudn't it be better to warm both the body and heart together?\n\nThen let's show your love to the Ratizens this time!\nGive them gifts to show how much you care about them.\nOf course, if you just hand them out hastily, everyone will forget for sure.\n\nI'll think of a way to make the gifts memorable for everyone, so Leader, please prepare the gifts."
+            },
+            {
+                "Key": "R_Target_812_0",
+                "Value": "Warmth in the Winter... Great."
+            },
+            {
+                "Key": "R_Target_812_1",
+                "Value": "Again you've came with something useless.."
+            },
+            {
+                "Key": "R_Target_812_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_8111",
+                "Value": "Happy Winter Festival"
+            },
+            {
+                "Key": "R_Script_8111",
+                "Value": "Dear leader!\n\nHave you gathered all the materials?\nI have thought of a way!\nWe'll place the gifts under a large tree,\nand let the Ratizens take them!\n\nCan't you just picture the Ratizens being happy receiving gifts placed under a beautifully decorated tree?\nLet's hurry before winter is over!"
+            },
+            {
+                "Key": "R_Target_8111_0",
+                "Value": "I have prepared everything, so don't worry."
+            },
+            {
+                "Key": "R_Target_8111_1",
+                "Value": "I've thought about it again, and it doesn't seem like a good idea."
+            },
+            {
+                "Key": "R_Target_8111_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_8112",
+                "Value": "Warm Winter Festival"
+            },
+            {
+                "Key": "R_Script_8112",
+                "Value": "Dear leader!\n\nThank you so much for the warmth you showed us last winter. If you continue to do this every year, even harsh winters won't be frightening!\n\nHow about giving charcoal as a gift this year so that everyone can stay warm? Everyone will remember your warm kindness!"
+            },
+            {
+                "Key": "R_Target_8112_0",
+                "Value": "I see... It will be warm again this year."
+            },
+            {
+                "Key": "R_Target_8112_1",
+                "Value": "Charcoal...? Don't you dare to wish for festivals anymore."
+            },
+            {
+                "Key": "R_Target_8112_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_8113",
+                "Value": "Cozy Winter Festival"
+            },
+            {
+                "Key": "R_Script_8113",
+                "Value": "Dear leader,\n\nWe are deeply grateful for your thoughtfulness towards us every winter. If you continue to do so each year, even the harshest winters won't be frightening!\n\nHowever, without the warmth to shield us from the cold winds, fear might soon return, don't you think...?\nIn that sense, how about gifting clothing this year, so everyone can experience a cozy winter?"
+            },
+            {
+                "Key": "R_Target_8113_0",
+                "Value": "Yeah... Staying in a warm blanket is the best during winter."
+            },
+            {
+                "Key": "R_Target_8113_1",
+                "Value": "Do I owe you? Don't you dare to wish for festivals anymore."
+            },
+            {
+                "Key": "R_Target_8113_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_402",
+                "Value": "A bit of convenience"
+            },
+            {
+                "Key": "R_Script_402",
+                "Value": "Our city has already settled into many of its parts, and we are truly living happy days!\nBut it seems some Ratizens want a bit more convenience in their lives!\n\nWell, I mean, always having to eat without a proper place to store food, or their fur getting dry and dull every day, or constantly being asked to move stuff without even a single bag, who could possibly be complaining, right? Right?\n\nIt's not me, of course! Geez, really, some strange rats around here!"
+            },
+            {
+                "Key": "R_Target_402_0",
+                "Value": "... I'll improve the dining environment."
+            },
+            {
+                "Key": "R_Target_402_1",
+                "Value": "... I'll improve the grooming environment."
+            },
+            {
+                "Key": "R_Target_402_2",
+                "Value": "... I'll improve the transport work."
+            },
+            {
+                "Key": "R_Name_115",
+                "Value": "In Search of Lost Technology"
+            },
+            {
+                "Key": "R_Script_115",
+                "Value": "Dear Leader!\n\nYou may not be aware, but there was a time when we enjoyed unimaginable prosperity using great technology.\n\nNow that our city has somewhat established itself, how about we try to revive the lost technology?\n\nCoincidentally, I've heard some news about it... It does require a bit of funding, hehe.\n\nIt's all for the city, so this amount shouldn't be too much to ask, I believe... right?"
+            },
+            {
+                "Key": "R_Target_115_0",
+                "Value": "Sure, if it's for progress."
+            },
+            {
+                "Key": "R_Target_115_1",
+                "Value": "I believe you'll do well even without such things."
+            },
+            {
+                "Key": "R_Target_115_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1151",
+                "Value": "Time to Develop"
+            },
+            {
+                "Key": "R_Script_1151",
+                "Value": "Dear Leader!\n\nNow that you've built the Engineering Desk, it's time to delve into researching numerous new facilities.\nHowever, moving forward, conducting research alone might not be so easy..\n\nIn that vein, how about setting your sights on researching advanced equipment?\nI believe that having a colleague to collaborate with would allow us to achieve results much more quickly!\""
+            },
+            {
+                "Key": "R_Target_1151_0",
+                "Value": "It seems like we need a lot of things, but yes, for the city."
+            },
+            {
+                "Key": "R_Target_1151_1",
+                "Value": "Why should I bother when you can work more? Give me the research results."
+            },
+            {
+                "Key": "R_Target_1151_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_1152",
+                "Value": "Hoarded Items"
+            },
+            {
+                "Key": "R_Script_1152",
+                "Value": "Dear Leader!\n\nSince you are expanding the research facilities, I must say...\nYou might have already gathered plenty of resources, but did you know? I've also hoarded some items myself.\n\nI believe you will be able to use them much more effectively than I could!\n\nPlease accept these, and let's move towards a bright future together!"
+            },
+            {
+                "Key": "R_Target_1152_0",
+                "Value": "It's great that you were considering this."
+            },
+            {
+                "Key": "R_Target_1152_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_1152_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_601",
+                "Value": "Ratron Revolution!"
+            },
+            {
+                "Key": "R_Script_601",
+                "Value": "Dear Leader!\n\nIt seems you've recently taken a deep interest in electricity.\nFinally, it's the era of us engineers!\nAs you are someone who's only dealt with politics and administration, let me guide you!\n\nDo you know about \"Ratrons\"?\nThey are the great legacy of the past and the brilliant technology of the future!\nRatbots will liberate us from labor!\nOf course, building and operating Ratrons require various facilities...\n\nWould you like to advance into the future with me?\nSurely, you're not too old-fashioned to recognize such value, are you?"
+            },
+            {
+                "Key": "R_Target_601_0",
+                "Value": "The world will be ruled by science and technology-!"
+            },
+            {
+                "Key": "R_Target_601_1",
+                "Value": "Lacking in emotional sensitivity. Go do some other research."
+            },
+            {
+                "Key": "R_Target_601_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_602",
+                "Value": "Electromagnetic Waves are Harmful!"
+            },
+            {
+                "Key": "R_Script_602",
+                "Value": "Dear Leader!\n\nEver since the Tesla Tower was built, my head has been hurting and feeling uneasy.\nI've been thinking about it, and it seems like the electromagnetic waves are affecting me!\n\nI've looked into various information, and it seems that electromagnetic waves are not good for the body, right?\nRegardless of its use, could we possibly demolish that Tesla Tower?\n\nCouldn't we just continue to connect with wires as we have been doing?"
+            },
+            {
+                "Key": "R_Target_602_0",
+                "Value": "I've worked hard to build it, what kind of foolish talk is this?"
+            },
+            {
+                "Key": "R_Target_602_1",
+                "Value": "Hmm, I hadn't considered that. I'll demolish it."
+            },
+            {
+                "Key": "R_Target_602_2",
+                "Value": "What if we were to provide some compensation to you all?"
+            },
+            {
+                "Key": "R_Name_603",
+                "Value": "They took my Job!"
+            },
+            {
+                "Key": "R_Script_603",
+                "Value": "Dear Leader!\n\nI come to you representing the workers.\nThe Ratrons are taking our jobs away!\nNo, you are taking our jobs away using Ratrons?!\n\nWhen did it become okay to call upon us when you need us and then do this, is this even reasonable?\n\nPlease destroy those Ratrons right away!"
+            },
+            {
+                "Key": "R_Target_603_0",
+                "Value": "Can't we just make it so you can live without working? Here, take this."
+            },
+            {
+                "Key": "R_Target_603_1",
+                "Value": "Alright, I understand, I didn't think you'd see it that way."
+            },
+            {
+                "Key": "R_Target_603_2",
+                "Value": "Ha-ha, you are no longer needed."
+            },
+            {
+                "Key": "R_Name_6011",
+                "Value": "The Drone Revolution?"
+            },
+            {
+                "Key": "R_Script_6011",
+                "Value": "Dear Leader!\n\nSince you mentioned that Ratrons were not so great last time...\nHow about drones?!\n\nAlthough they can only follow specific commands, researching drones could make work in hard-to-reach places much easier!\n\nI will also think of ways to help, so what do you think about drones?"
+            },
+            {
+                "Key": "R_Target_6011_0",
+                "Value": "Drones, huh... That sounds like a good idea."
+            },
+            {
+                "Key": "R_Target_6011_1",
+                "Value": "Seriously, are the researches being conducted properly? Bring me the results."
+            },
+            {
+                "Key": "R_Target_6011_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_6012",
+                "Value": "Liberation from Labor?!"
+            },
+            {
+                "Key": "R_Script_6012",
+                "Value": "Dear Leader!\n\nYou've made your first Ratron?\nWith this wonderful technology, we can liberate all Ratizens from labor!\n\nLet's increase the number of Ratrons so that this joyous news can be spread to all ratizens!"
+            },
+            {
+                "Key": "R_Target_6012_0",
+                "Value": "Hmm, that's a good idea."
+            },
+            {
+                "Key": "R_Target_6012_1",
+                "Value": "There might be ratizens who aren't too happy about this though..."
+            },
+            {
+                "Key": "R_Target_6012_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_6031",
+                "Value": "Favor or Right"
+            },
+            {
+                "Key": "R_Script_6031",
+                "Value": "Dear Leader!\n\nThe money you gave us last time was well spent.\n\nBut now that money has run out!\n\nIt seems like it's time to destroy the Ratrons and give us our jobs back, doesn't it?"
+            },
+            {
+                "Key": "R_Target_6031_0",
+                "Value": "Here, take this money."
+            },
+            {
+                "Key": "R_Target_6031_1",
+                "Value": "I'll reduce the number of Ratrons and increase jobs."
+            },
+            {
+                "Key": "R_Target_6031_2",
+                "Value": "Don't you get it? You're no longer needed!"
+            },
+            {
+                "Key": "R_Name_993",
+                "Value": "Wealth of the State, Wealth of the Ratizens"
+            },
+            {
+                "Key": "R_Script_993",
+                "Value": "The direction to move forward is set.\n\nIf money is power, then wealth promises glory to our future!\n\nAccumulating wealth to create a true ideal state, and if I erect a monument for myself, wouldn't everyone surely praise me?\n\nBut is a wealthy nation because its Ratizens are wealthy, or because the nation itself is wealthy?"
+            },
+            {
+                "Key": "R_Target_993_0",
+                "Value": "A wealthy state creates wealthy Ratizens."
+            },
+            {
+                "Key": "R_Target_993_1",
+                "Value": "Wealthy Ratizens create a wealthy State."
+            },
+            {
+                "Key": "R_Target_993_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_994",
+                "Value": "For Prosperity and Development!"
+            },
+            {
+                "Key": "R_Script_994",
+                "Value": "The direction to move forward is set.\n\nProsperity and development promise glory to our future!\n\nAdvancing technology to create a true ideal state, and if I erect a monument for myself, wouldn't everyone surely praise me?\n\nBut is it necessary to prosper to develop, or to develop to prosper?"
+            },
+            {
+                "Key": "R_Target_994_0",
+                "Value": "The city must prosper for technology to advance."
+            },
+            {
+                "Key": "R_Target_994_1",
+                "Value": "Technology must advance for the city to prosper."
+            },
+            {
+                "Key": "R_Target_994_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_995",
+                "Value": "The Most Powerful Force"
+            },
+            {
+                "Key": "R_Script_995",
+                "Value": "The direction to move forward is set.\n\nOnly overwhelming power will guarantee our future.\n\nIt doesn't matter what other nations think.\n\nOnce everyone is subdued, they will praise me even in despair."
+            },
+            {
+                "Key": "R_Target_995_0",
+                "Value": "Let's begin the conquest of blood."
+            },
+            {
+                "Key": "R_Target_995_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_995_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_60",
+                "Value": "Being of Fire and Darkness"
+            },
+            {
+                "Key": "R_Script_60",
+                "Value": "In the deep dark, a thing shattering with fire and shadow appeared. \n\n\"Use my power to enslave the infidels and slaughter the enemies.\"\n\nYou felt the thing's pale eyes skimming through your body, as if it was searching for something. You noticed the thing wanted something from you in return for the favor. You pulled out everything from your pocket, but all you found were some coins. You turned your face to the thing with a bit of a nervous expression. Surprisingly, the thing was smiling—at least, you thought it was.\n\n\"Bring me enough, then I shall show you the power.\"\n\nYou answered....\n"
+            },
+            {
+                "Key": "R_Target_60_0",
+                "Value": "Show your power to those non-believers, who distrust my imperium."
+            },
+            {
+                "Key": "R_Target_60_1",
+                "Value": "Use the power to swallow the invaders threatening the city."
+            },
+            {
+                "Key": "R_Target_60_2",
+                "Value": "Oh, I'll come back later."
+            },
+            {
+                "Key": "R_Name_61",
+                "Value": "Being of Darkness and Fire"
+            },
+            {
+                "Key": "R_Script_61",
+                "Value": "\"You are back.\"\n\nThat nightmarish voice echoes again. Flames flicker in the darkness, and from it, it slowly appeared. The heat within its jaws seems to be seeking the moment to burn the victim alive. You just hoped you would not be the one. As if it noticing your fear, it showed its terrifying smile to you again.\n\n\"I hope you have brought enough.\"\n"
+            },
+            {
+                "Key": "R_Target_61_0",
+                "Value": "Take this and show your power."
+            },
+            {
+                "Key": "R_Target_61_1",
+                "Value": "Please burn the invaders to ashes."
+            },
+            {
+                "Key": "R_Target_61_2",
+                "Value": "Um, I'll be back soon."
+            },
+            {
+                "Key": "R_Name_62",
+                "Value": "Empty-handed!"
+            },
+            {
+                "Key": "R_Script_62",
+                "Value": "Oh, Leader, thank goodness!\nI saw you enter that cursed place,\nand I've been worried and waiting all day for your return.\nIt would have been really dangerous without my rope, wouldn't it?\n\nI even closed my business to wait here endlessly~~\nIs my business more important than the life of our leader?\nOne can't easily put a price on life, can they?\nThe fate of the city is at stake, but ah~ I couldn't do business~\nEven though I couldn't do business, I saved a life, right?"
+            },
+            {
+                "Key": "R_Target_62_0",
+                "Value": "Haha, I guess I'm a rather worthless leader!"
+            },
+            {
+                "Key": "R_Target_62_1",
+                "Value": "You have done an important task. Take this.."
+            },
+            {
+                "Key": "R_Target_62_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_63",
+                "Value": "The Golden Beetle"
+            },
+            {
+                "Key": "R_Script_63",
+                "Value": "You brought out a golden beetle?\nThat must be a cursed treasure?!\n\nWait! Going back is useless.\nThe broken taboo cannot be undone.\n\nYou must hand it over to an expert for dispelling.\nOh! But it just so happens that I am an expert in curses.\nActually, there's a story behind this...\n\n(A grim and sad story unfolds for three hours.)\n\n... Since I also possess a cursed curiosity, I will take the item and give you this money.\nIsn't it great that you get paid and have the curse lifted? Right?"
+            },
+            {
+                "Key": "R_Target_63_0",
+                "Value": "Hmm… It's unfortunate, but I have no choice. Here it is."
+            },
+            {
+                "Key": "R_Target_63_1",
+                "Value": "Ah, I can't resist a curse. I need to decorate my bed with this."
+            },
+            {
+                "Key": "R_Target_63_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_64",
+                "Value": "Threatening Negotiation"
+            },
+            {
+                "Key": "R_Script_64",
+                "Value": "Dear Leader!\n\nRecently, the lizards that have settled nearby are threatening us to hand over something!\n\nI don't know what it is, but if we don't give it to them, they might attack us at any moment!"
+            },
+            {
+                "Key": "R_Target_64_0",
+                "Value": "Hmm... How about giving them something to eat?"
+            },
+            {
+                "Key": "R_Target_64_1",
+                "Value": "Hmm... How about giving them money?"
+            },
+            {
+                "Key": "R_Target_64_2",
+                "Value": "Hmm... How about leaving them alone?"
+            },
+            {
+                "Key": "R_Name_65",
+                "Value": "Threatening Negotiation"
+            },
+            {
+                "Key": "R_Script_65",
+                "Value": "Dear Leader!\n\nThe weasels are threatening to invade the city if we don't meet their demands.\n\nIf we give them what they want, they might let it go this time... but if not, we must prepare for an invasion."
+            },
+            {
+                "Key": "R_Target_65_0",
+                "Value": "Give them some food for now."
+            },
+            {
+                "Key": "R_Target_65_1",
+                "Value": "Give them some money for now."
+            },
+            {
+                "Key": "R_Target_65_2",
+                "Value": "We cannot yield to their threats!"
+            },
+            {
+                "Key": "R_Name_80",
+                "Value": "Additional objective"
+            },
+            {
+                "Key": "R_Script_80",
+                "Value": "Dear Leader,\nThe battle will begin soon...\n\nWhile the enemy's headquarters is important,\nyou will gain much greater benefits if you minimize our casualties or inflict more certain damage on the enemy."
+            },
+            {
+                "Key": "R_Target_80_0",
+                "Value": "Let's ensure there are no injured soldiers."
+            },
+            {
+                "Key": "R_Target_80_1",
+                "Value": "Let's make sure to annihilate the enemy."
+            },
+            {
+                "Key": "R_Target_80_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_66",
+                "Value": "Ratizens' Anxiety"
+            },
+            {
+                "Key": "R_Script_66",
+                "Value": "Dear Leader!\n\nIt seems the lizards have settled at the city borders.\n\nThe borders are still heavily guarded, but it might be better to deal with them quickly.\n\nThe more their territory expands, the more anxious the ratizens will become."
+            },
+            {
+                "Key": "R_Target_66_0",
+                "Value": "We need to find a solution..."
+            },
+            {
+                "Key": "R_Target_66_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_66_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_67",
+                "Value": "Eerie Abandoned Mine"
+            },
+            {
+                "Key": "R_Script_67",
+                "Value": "Dear Leader!\n\nRecently, I discovered a half-collapsed abandoned mine nearby.\nSometimes, strange wailing sounds come from inside the cave,\nbut I don't have the courage to go in...\n\nYou'll probably find it soon as you develop the city,\nbut if you're curious, I can tell you the location!"
+            },
+            {
+                "Key": "R_Target_67_0",
+                "Value": "Okay, where is it?"
+            },
+            {
+                "Key": "R_Target_67_1",
+                "Value": "I'll go check it out myself."
+            },
+            {
+                "Key": "R_Target_67_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_68",
+                "Value": "Chief of the Weasels"
+            },
+            {
+                "Key": "R_Script_68",
+                "Value": "Dear Leader!\n\nRecently, it seems we have found the location of the leader of the weasels that have been bothering us!\nI've heard that their chief rides a wild boar...\n\nWe need to prepare thoroughly before going to find the chief.\n\nIf you're curious about the location, I can tell you."
+            },
+            {
+                "Key": "R_Target_68_0",
+                "Value": "Where is that dreadful chief?"
+            },
+            {
+                "Key": "R_Target_68_1",
+                "Value": "I don't need it."
+            },
+            {
+                "Key": "R_Target_68_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_69",
+                "Value": "Buzzing Sound of Bugs"
+            },
+            {
+                "Key": "R_Script_69",
+                "Value": "Dear Leader!\n\nRecently, the buzzing sound of bugs in the forest seems to have intensified.\nIt's not a sound I particularly like, but am I not a scout?\nI thought it would be good to find the source, so I went to investigate.\n\nAccording to rumors, there's treasure hidden there...\nBut going further in is quite frightening.\n\nAre you curious about where it is?"
+            },
+            {
+                "Key": "R_Target_69_0",
+                "Value": "I'm curious! Where is it?"
+            },
+            {
+                "Key": "R_Target_69_1",
+                "Value": "Not really curious."
+            },
+            {
+                "Key": "R_Target_69_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_70",
+                "Value": "Tomb of the Old King"
+            },
+            {
+                "Key": "R_Script_70",
+                "Value": "Dear Leader!\n\nWe discovered a giant pyramid in the distant desert!\nAccording to ancient legends, it is said to be the tomb built by an ancient king whose name has been forgotten.\n\nThere must be treasures inside, but it will probably be extremely dangerous...\n\nIf you're interested, I can tell you the location!"
+            },
+            {
+                "Key": "R_Target_70_0",
+                "Value": "You want me to loot a tomb?! Are you insulting me?! ... Where is it?"
+            },
+            {
+                "Key": "R_Target_70_1",
+                "Value": "I don't need it."
+            },
+            {
+                "Key": "R_Target_70_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_27",
+                "Value": "Bloody Retribution"
+            },
+            {
+                "Key": "R_Script_27",
+                "Value": "The lizards are fleeing!\n\nWe have won!!"
+            },
+            {
+                "Key": "R_Target_27_0",
+                "Value": "Let's celebrate the victory."
+            },
+            {
+                "Key": "R_Target_27_1",
+                "Value": "Don't let a single one escape."
+            },
+            {
+                "Key": "R_Target_27_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_71",
+                "Value": "Sound of the Hell Forge"
+            },
+            {
+                "Key": "R_Script_71",
+                "Value": "Dear Leader!\n\nWhile I was exploring the volcanic biome, I heard the sound of metal clashing somewhere!\n\nWhen I went to the source of the sound, there was an extraordinary forge!\n\nIt seems like it can still be used. Would you like to check its location?"
+            },
+            {
+                "Key": "R_Target_71_0",
+                "Value": "My strength is the nation's strength! Where is it?"
+            },
+            {
+                "Key": "R_Target_71_1",
+                "Value": "Finding it myself would be fun too."
+            },
+            {
+                "Key": "R_Target_71_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10100",
+                "Value": "Bold Investment"
+            },
+            {
+                "Key": "R_Script_10100",
+                "Value": "[T]'s leader.\n\nI am a diplomat from the city of [A]. First, it's nice to meet you.\n\nSince you must be busy, I will get straight to the point. Our city is currently developing through bold foreign investments. That's why I came to [T], with whom we plan to establish warm diplomatic relations. If you invest in us now, we can continue to maintain a good relationship in the future.\n\nOf course, since this is so sudden, we will understand if you refuse. Thank you for considering this."
+            },
+            {
+                "Key": "R_Target_10100_0",
+                "Value": "Yes, it's a good proposal."
+            },
+            {
+                "Key": "R_Target_10100_1",
+                "Value": "Suddenly spending money is a bit..."
+            },
+            {
+                "Key": "R_Target_10100_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10101",
+                "Value": "Let's Get a Step Closer"
+            },
+            {
+                "Key": "R_Script_10101",
+                "Value": "Infinite progress to [T]!\nHello, [P]!\n\nAs [A] city continues to maintain a strong relationship with you, we came today to discuss taking our friendship to the next level. How about forming an alliance with us?\n\nIf we form an alliance, not only can you borrow troops for a small fee, but you can also request urgently needed supplies! Of course, sudden requests for resources might put a slight strain on our friendship... but as long as you don't borrow too often, our alliance won't be broken!\n\nWhat do you think? Of course, we also need to make various preparations, so it would be good if we could share the costs."
+            },
+            {
+                "Key": "R_Target_10101_0",
+                "Value": "Getting an alliance for this much is worth it!"
+            },
+            {
+                "Key": "R_Target_10101_1",
+                "Value": "It feels like buying an alliance with money... I'll think about it more."
+            },
+            {
+                "Key": "R_Target_10101_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10102",
+                "Value": "Put an End to the Anxiety"
+            },
+            {
+                "Key": "R_Script_10102",
+                "Value": "Leader of [T],\n\nI am a diplomat from the city of [A].\n\nRecently, the relations between our two countries have been in a bad state, so I am sending this letter.\n\nWe are feeling anxious, worried that something bad might happen between our countries.\n\nIf you could just send a confirmation that nothing like that will happen, we would be relieved, and you would be at peace, and the relationship between our countries could become strong again."
+            },
+            {
+                "Key": "R_Target_10102_0",
+                "Value": "Ah, that was not my intention, I should apologize."
+            },
+            {
+                "Key": "R_Target_10102_1",
+                "Value": "Hmm? We are going to attack? Send them a declaration of war."
+            },
+            {
+                "Key": "R_Target_10102_2",
+                "Value": "Cowards, just ignore them."
+            },
+            {
+                "Key": "R_Name_10103",
+                "Value": "Disaster Relief"
+            },
+            {
+                "Key": "R_Script_10103",
+                "Value": "A letter has arrived from the city of [A].\n\n\"Leader of [T]!\nPlease help our city of [A].\nRecently, our city has been devastated by a flood caused by a dam collapse!\nThe national treasury is insufficient to make repairs...\nPlease have mercy on us and help us a little!\"\n\nThe situation seems quite urgent, what should we do?"
+            },
+            {
+                "Key": "R_Target_10103_0",
+                "Value": "Ah, we should offer substantial help during a crisis."
+            },
+            {
+                "Key": "R_Target_10103_1",
+                "Value": "Let's help just enough to be remembered."
+            },
+            {
+                "Key": "R_Target_10103_2",
+                "Value": "I didn't see this letter."
+            },
+            {
+                "Key": "R_Name_10104",
+                "Value": "No Smoke Without Fire"
+            },
+            {
+                "Key": "R_Script_10104",
+                "Value": "Leader of [T]!\n\nThere are rumors going around in our city of [A]? Rumors that you are maliciously discriminating against our people!\n\nWhether these rumors are based on fact or not is unknown and unimportant! But there's a saying, 'where there's smoke, there's fire,' isn't there?\n\nIf you didn't spread these rumors, you will have to prove it!"
+            },
+            {
+                "Key": "R_Target_10104_0",
+                "Value": "What nonsense... Let's actively explain."
+            },
+            {
+                "Key": "R_Target_10104_1",
+                "Value": "Ridiculous... Let's just express our stance moderately."
+            },
+            {
+                "Key": "R_Target_10104_2",
+                "Value": "They're out of their mind... Let's ignore it."
+            },
+            {
+                "Key": "R_Name_10105",
+                "Value": "Rumors Spread Far"
+            },
+            {
+                "Key": "R_Script_10105",
+                "Value": "Leader of [T]!\n\nSomeone said that you steal other people's history while neglecting your own!\n\nWe don't know if this is an unfounded rumor or not, but we would like to believe it's not true. However, as the saying goes, 'Rumors have wings.' It seems that our neighbor, the city of [B], has heard the same rumor!\n\nNo matter who spread it, you will have to prove it isn't true!"
+            },
+            {
+                "Key": "R_Target_10105_0",
+                "Value": "What... Let's deal with it quickly."
+            },
+            {
+                "Key": "R_Target_10105_1",
+                "Value": "Sigh... Let's just prevent further spread."
+            },
+            {
+                "Key": "R_Target_10105_2",
+                "Value": "They've gone mad... Ignore it."
+            },
+            {
+                "Key": "R_Name_10106",
+                "Value": "Positive Rumor"
+            },
+            {
+                "Key": "R_Script_10106",
+                "Value": "Leader of [T]!\n\nThere is an interesting rumor circulating in the city these days.\nIt says that you are our savior, a hero who will restore great and holy glory!\n\nNormally, I would have dismissed it as nonsense, but such an amusing rumor gives hope to the Ratizens.\n\nWe will have to see if you truly are the savior."
+            },
+            {
+                "Key": "R_Target_10106_0",
+                "Value": "Good rumors should be spread even more!"
+            },
+            {
+                "Key": "R_Target_10106_1",
+                "Value": "Sigh... Should we fan the flames a bit?"
+            },
+            {
+                "Key": "R_Target_10106_2",
+                "Value": "Haha, interesting indeed, let's just leave it be."
+            },
+            {
+                "Key": "R_Name_10107",
+                "Value": "A Kind Passing Rat"
+            },
+            {
+                "Key": "R_Script_10107",
+                "Value": "Leader of [T]!\n\nAs I was passing by this area, I found this gold coin.\n\nSomeone must have lost it, or perhaps it belongs to this city, so I brought it here.\n\nEven if we cannot find the owner, it is something someone lost, so please use it for the city.\n\nI will now return to my homeland."
+            },
+            {
+                "Key": "R_Target_10107_0",
+                "Value": "Ah, thank you very much, you will be blessed."
+            },
+            {
+                "Key": "R_Target_10107_1",
+                "Value": "Didn't you find it? Thank you, but you should keep it."
+            },
+            {
+                "Key": "R_Target_10107_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10108",
+                "Value": "A Kind Passing Rat"
+            },
+            {
+                "Key": "R_Script_10108",
+                "Value": "Leader of [T]!\n\nAs I was passing by this area, I found this gold bar.\n\nSomeone must have lost it, or perhaps it belongs to this city, so I brought it here.\n\nEven if we cannot find the owner, it is something someone lost, so please use it for the city.\n\nI will now return to my homeland."
+            },
+            {
+                "Key": "R_Target_10108_0",
+                "Value": "Ah, thank you very much, you will be blessed."
+            },
+            {
+                "Key": "R_Target_10108_1",
+                "Value": "Didn't you find it? Thank you, but you should keep it."
+            },
+            {
+                "Key": "R_Target_10108_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10110",
+                "Value": "Friendly Neighboring Countries"
+            },
+            {
+                "Key": "R_Script_10110",
+                "Value": "Leader of [T].\n\nHello! I am sending this letter on behalf of the cities of [A] and [B].\n\nMany cities envy our friendship and strong alliance.\n\nLeader of [T], wouldn't you like to share such a friendship with us as well?"
+            },
+            {
+                "Key": "R_Target_10110_0",
+                "Value": "Ah, I don't have the resources at the moment. Tell them I will consider it positively."
+            },
+            {
+                "Key": "R_Target_10110_1",
+                "Value": "Ah, I should show a bit more enthusiasm."
+            },
+            {
+                "Key": "R_Target_10110_2",
+                "Value": "What is this overly friendly letter... Burn it."
+            },
+            {
+                "Key": "R_Name_10114",
+                "Value": "Friendly Regional Investment"
+            },
+            {
+                "Key": "R_Script_10114",
+                "Value": "Envoys from two cities in the same biome have arrived.\n\n\"Leader of [T]! Recently, our city [A] has been receiving some investments for development. If you have the financial means, why not invest in the development of our city? Of course, you should also listen to what the city of [B] has to say.\"\n\n\"Our city is also receiving investments. However, the city of [A] is also a great nation. The products they offer are ones we can also prepare, but even if you invest in the city of [A] instead of our city [B], it would be a good choice.\"\n\nIt seems the two cities get along quite well. What should we do..."
+            },
+            {
+                "Key": "R_Target_10114_0",
+                "Value": "Invest in the city of [A]."
+            },
+            {
+                "Key": "R_Target_10114_1",
+                "Value": "Invest in the city of [B]."
+            },
+            {
+                "Key": "R_Target_10114_2",
+                "Value": "Unfortunately, invest in neither."
+            },
+            {
+                "Key": "R_Name_10120",
+                "Value": "Rival Cities"
+            },
+            {
+                "Key": "R_Script_10120",
+                "Value": "Letters have arrived from the cities of [A] and [B]. Let's first read the letter from the city of [A].\n\n\"Leader of [T].\nDid you know? Those [B] people are uncivilized barbarians!\n(And then many slanderous comments followed for a while.)\n....So, instead of getting along with them, how about joining us?\"\n\nThe letter from the city of [B] seems to contain similar content. What should we do?"
+            },
+            {
+                "Key": "R_Target_10120_0",
+                "Value": "Let's befriend [A]."
+            },
+            {
+                "Key": "R_Target_10120_1",
+                "Value": "Let's befriend [B]."
+            },
+            {
+                "Key": "R_Target_10120_2",
+                "Value": "It's true, neither of them seems sane. Let's ignore them."
+            },
+            {
+                "Key": "R_Name_10121",
+                "Value": "Rival Cities"
+            },
+            {
+                "Key": "R_Script_10121",
+                "Value": "A letter has arrived from the city of [A], with whom we have developed a friendship.\n\n\"Leader of [T].\nAs you already know, those [B] people are uncivilized barbarians!\n(And then many creative insults followed for a while.)\n....So it would be best to keep your distance from them.\nAh, I have enclosed a small gift, please accept it.\""
+            },
+            {
+                "Key": "R_Target_10121_0",
+                "Value": "Respond that indeed the people of city [B] seem strange."
+            },
+            {
+                "Key": "R_Target_10121_1",
+                "Value": "Ah, we can't dislike them for no reason. But say you'll think about it."
+            },
+            {
+                "Key": "R_Target_10121_2",
+                "Value": "Respond that we want to maintain friendly relations with [B] as well."
+            },
+            {
+                "Key": "R_Name_10122",
+                "Value": "Rival Cities"
+            },
+            {
+                "Key": "R_Script_10122",
+                "Value": "A letter has arrived from the city of [A], with whom we have a strained relationship.\n\n\"Leader of [T].\nYou may not know this, but those [B] people are terrible barbarians!\n\n(Then followed a series of insults that seemed to test the limits of language.)\n\n....So it is better to keep your distance from them.\nWe are much better than them.\nI am also sending a small gift.\""
+            },
+            {
+                "Key": "R_Target_10122_0",
+                "Value": "Hmm, those [B] people have dark hearts! Respond that you understand."
+            },
+            {
+                "Key": "R_Target_10122_1",
+                "Value": "There's nothing we can do since they suddenly said this, so respond that you will think about it."
+            },
+            {
+                "Key": "R_Target_10122_2",
+                "Value": "Respond angrily, asking why they are trying to sow discord."
+            },
+            {
+                "Key": "R_Name_10123",
+                "Value": "Rival Regional Investment"
+            },
+            {
+                "Key": "R_Script_10123",
+                "Value": "Envoys have arrived from two cities in the same biome.\n\n\"Leader of [T]! Recently, we [A] have been receiving some investments for our development. If you have the financial means, how about investing in us? Investing in those [B] is just throwing your money away!\"\n\n\"What? Hmph, we too have been receiving investments. [B] has potential that can't be compared to those lowlifes! We can prepare all the products they sell, and even better. Why not invest in us instead of a city like [A]?\"\n\nThe envoys are growling at each other right in front of you. What should we do..."
+            },
+            {
+                "Key": "R_Target_10123_0",
+                "Value": "Invest in the city of [A]."
+            },
+            {
+                "Key": "R_Target_10123_1",
+                "Value": "Invest in the city of [B]."
+            },
+            {
+                "Key": "R_Target_10123_2",
+                "Value": "It seems they would be happy if we don't invest at all."
+            },
+            {
+                "Key": "R_Name_10130",
+                "Value": "Mediocre Regional Investment"
+            },
+            {
+                "Key": "R_Script_10130",
+                "Value": "Envoys have arrived from two cities in the same region.\n\n\"Leader of [T]! Recently, we [A] have been receiving some investments for our development. If you have the financial means, how about investing in us? As we develop, it will become easier to trade our specialties!\"\n\n\"We [B] are also receiving investments. We have no ill will towards [A]... Most of the products they sell, we can also prepare! How about we together embrace a bright future?\"\n\nIt seems we have to choose one side. What should we do..."
+            },
+            {
+                "Key": "R_Target_10130_0",
+                "Value": "Invest in the city of [A]."
+            },
+            {
+                "Key": "R_Target_10130_1",
+                "Value": "Invest in the city of [B]."
+            },
+            {
+                "Key": "R_Target_10130_2",
+                "Value": "Do not invest."
+            },
+            {
+                "Key": "R_Name_10200",
+                "Value": "Alliance Friendship Enhancement"
+            },
+            {
+                "Key": "R_Script_10200",
+                "Value": "An envoy has arrived from the allied city of [A].\n\n\"Ah, great leader of the city [T]!\n\nI am an envoy from the city of [A].\n\nI have come to suggest that we further strengthen our recently established friendship...\n\nHow about investing a little more in our country?\n\nThrough this, we can solidify the friendship between our two nations.\""
+            },
+            {
+                "Key": "R_Target_10200_0",
+                "Value": "Hmm, yes. If such an investment is possible, it will be good for both of us."
+            },
+            {
+                "Key": "R_Target_10200_1",
+                "Value": "I'm sorry, but our finances are in a precarious situation these days."
+            },
+            {
+                "Key": "R_Target_10200_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10201",
+                "Value": "Gift from the Alliance"
+            },
+            {
+                "Key": "R_Script_10201",
+                "Value": "A letter has arrived from the allied city of [A].\n\n\"Our alliance, leader of [T]!\n\nWe send this gift to strengthen and cherish our close friendship.\""
+            },
+            {
+                "Key": "R_Target_10201_0",
+                "Value": "Ah, thank you very much. I will keep it well."
+            },
+            {
+                "Key": "R_Target_10201_1",
+                "Value": "Our friendship is priceless. I will accept the sentiment."
+            },
+            {
+                "Key": "R_Target_10201_2",
+                "Value": "Should I gift this to a country we are not on good terms with...?"
+            },
+            {
+                "Key": "R_Name_10210",
+                "Value": "Mutual Cooperation"
+            },
+            {
+                "Key": "R_Script_10210",
+                "Value": "An envoy from the allied city of [A] has arrived.\n\nWith a brief greeting, a meeting was initiated to discuss the benefits of the alliance.\n\nIn which direction should our alliance proceed?"
+            },
+            {
+                "Key": "R_Target_10210_0",
+                "Value": "Enhance Friendship"
+            },
+            {
+                "Key": "R_Target_10210_1",
+                "Value": "Expand Commerce"
+            },
+            {
+                "Key": "R_Target_10210_2",
+                "Value": "Academic Cooperation"
+            },
+            {
+                "Key": "R_Name_10211",
+                "Value": "Tri-Nation Cooperation"
+            },
+            {
+                "Key": "R_Script_10211",
+                "Value": "Envoys from the allied cities of [A] and [B] have arrived.\n\nWith a brief greeting, a meeting was initiated to discuss the benefits of the alliance.\n\nIn which direction should our alliance proceed?"
+            },
+            {
+                "Key": "R_Target_10211_0",
+                "Value": "Enhance Friendship"
+            },
+            {
+                "Key": "R_Target_10211_1",
+                "Value": "Expand Commerce"
+            },
+            {
+                "Key": "R_Target_10211_2",
+                "Value": "Academic Cooperation"
+            },
+            {
+                "Key": "R_Name_10212",
+                "Value": "Quad-Nation Cooperation"
+            },
+            {
+                "Key": "R_Script_10212",
+                "Value": "Envoys from the allied cities of [A], [B], and [C] have arrived.\n\nWith a brief greeting, a meeting was initiated to discuss the benefits of the alliance.\n\nIn which direction should our alliance proceed?"
+            },
+            {
+                "Key": "R_Target_10212_0",
+                "Value": "Enhance Friendship"
+            },
+            {
+                "Key": "R_Target_10212_1",
+                "Value": "Expand Commerce"
+            },
+            {
+                "Key": "R_Target_10212_2",
+                "Value": "Academic Cooperation"
+            },
+            {
+                "Key": "R_Name_10220",
+                "Value": "Disseminator of Knowledge"
+            },
+            {
+                "Key": "R_Script_10220",
+                "Value": "A letter has arrived from the city of [A].\n\n\"Ah, great leader of the city [T]!\n\nI am a scholar researching in [A]. Encouraged by the warm friendship between our two cities, I would like to share my latest research with you!\n\nIt's truly wonderful to convey new knowledge to the leader of our ally! Of course, my sense of duty doesn't exactly fill my stomach...\n\nIf you could provide me with the travel expenses, I would be happy to deliver my research findings to you.\""
+            },
+            {
+                "Key": "R_Target_10220_0",
+                "Value": "I’m very curious, so I’ll give generously."
+            },
+            {
+                "Key": "R_Target_10220_1",
+                "Value": "I’ll give moderately."
+            },
+            {
+                "Key": "R_Target_10220_2",
+                "Value": "I won’t send anything."
+            },
+            {
+                "Key": "R_Name_10220",
+                "Value": "Forum for Knowledge Exchange"
+            },
+            {
+                "Key": "R_Script_10221",
+                "Value": "A letter has arrived from the city of [A].\n\n\"Ah, great leader and scholar, [P] of [T]! How have you been?\n\nAs our relationship with your city [B] has grown stronger,\nhow about taking some time to share our knowledge and collaborate on the development of both cities?\n\nOf course, all research and development come with some costs...\nBut it will surely be a meaningful time.\""
+            },
+            {
+                "Key": "R_Target_10221_0",
+                "Value": "Invest generously."
+            },
+            {
+                "Key": "R_Target_10221_1",
+                "Value": "Provide moderate funds."
+            },
+            {
+                "Key": "R_Target_10221_2",
+                "Value": "Do not invest."
+            },
+            {
+                "Key": "R_Name_10222",
+                "Value": "Academic Conference"
+            },
+            {
+                "Key": "R_Script_10222",
+                "Value": "A letter has arrived from the city of [A].\n\n\"Ah, great investor, leader, and scholar, [P]!\n\nI understand that your relationships with many cities have recently grown stronger.\nNot only with us but also with city [B] and city [C]!\nIf we all share our knowledge together, it will certainly be of great benefit to everyone!\n\nOf course, there will be some costs involved...\nBut as you know, this is for development, so what do you think?\""
+            },
+            {
+                "Key": "R_Target_10222_0",
+                "Value": "Invest generously."
+            },
+            {
+                "Key": "R_Target_10222_1",
+                "Value": "Invest modestly."
+            },
+            {
+                "Key": "R_Target_10222_2",
+                "Value": "Do not invest."
+            },
+            {
+                "Key": "R_Name_10230",
+                "Value": "Discordant Alliance"
+            },
+            {
+                "Key": "R_Script_10230",
+                "Value": "A letter has arrived from the allied city of [A].\n\n\"Honorable leader of the city of [T],\nIt is always a pleasure to be allied with you, but we cannot stand being with those [B] people!\nPlease reconsider your alliance with those barbarians.\"\n\nAnother letter has arrived from the city of [B].\n...The content is essentially the same, just with different names.\nWhat should we do?"
+            },
+            {
+                "Key": "R_Target_10230_0",
+                "Value": "Invite both sides to resolve misunderstandings."
+            },
+            {
+                "Key": "R_Target_10230_1",
+                "Value": "Meet with each side separately and take sides."
+            },
+            {
+                "Key": "R_Target_10230_2",
+                "Value": "Respond that such matters should not be a reason to contact us."
+            },
+            {
+                "Key": "R_Name_10240",
+                "Value": "Alliance Termination Request"
+            },
+            {
+                "Key": "R_Script_10240",
+                "Value": "An envoy has arrived from the allied city of [A].\n\n\"It has been quite some time since we formed this alliance, but it is truly difficult to maintain a friendly relationship with you!\nYou are really unpredictable! Therefore, let us dissolve the alliance we have established.\"\n\nIt seems that our friendship has deteriorated significantly recently...\nHow should we respond?"
+            },
+            {
+                "Key": "R_Target_10240_0",
+                "Value": "Please accept this gift and calm down..."
+            },
+            {
+                "Key": "R_Target_10240_1",
+                "Value": "Sorry... let's start over from the beginning."
+            },
+            {
+                "Key": "R_Target_10240_2",
+                "Value": "What? Then there will be bloodshed!"
+            },
+            {
+                "Key": "R_Name_10241",
+                "Value": "Alliance Termination!"
+            },
+            {
+                "Key": "R_Script_10241",
+                "Value": "A letter has arrived from the allied city of [A].\n\n\"I never thought I would regret forming an alliance with you this much.\n\nThis is a declaration that we are terminating our alliance with you.\n\nIf your actions improve a bit, we might consider a friendly relationship again in the future.\""
+            },
+            {
+                "Key": "R_Target_10241_0",
+                "Value": "Sigh, it can't be helped."
+            },
+            {
+                "Key": "R_Target_10241_1",
+                "Value": "You will surely regret this!"
+            },
+            {
+                "Key": "R_Target_10241_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10250",
+                "Value": "Secret Exchange Rate Manipulation"
+            },
+            {
+                "Key": "R_Script_10250",
+                "Value": "A letter has arrived from an unknown city.\n\n\"Greetings, leader of the city [T]. We apologize for not revealing our true identity due to unavoidable circumstances. However, please know that we are your close allies!\n\nGiven the deepened relationship between you and us... By working together, we can manipulate international exchange rates for significant profit.\n\nWill you join us? Do not worry if you feel a pang of conscience and decide to decline; we won't blame you.\""
+            },
+            {
+                "Key": "R_Target_10250_0",
+                "Value": "Hmm, should we raise the value of Dar?"
+            },
+            {
+                "Key": "R_Target_10250_1",
+                "Value": "Hmm, should we lower the value of Dar?"
+            },
+            {
+                "Key": "R_Target_10250_2",
+                "Value": "No! We cannot do such a thing!"
+            },
+            {
+                "Key": "R_Name_10300",
+                "Value": "Hand of Peace"
+            },
+            {
+                "Key": "R_Script_10300",
+                "Value": "Leader of [P],\n\nWe have been entangled in war for too long.\n\nI can no longer even guess what caused this tragedy.\n\nHow about forgetting our mutual hatred and ushering in an era of peace?"
+            },
+            {
+                "Key": "R_Target_10300_0",
+                "Value": "Accept the proposal."
+            },
+            {
+                "Key": "R_Target_10300_1",
+                "Value": "Grandly accept the proposal."
+            },
+            {
+                "Key": "R_Target_10300_2",
+                "Value": "Refuse and insult the sender."
+            },
+            {
+                "Key": "R_Name_10310",
+                "Value": "Pillage!"
+            },
+            {
+                "Key": "R_Script_10310",
+                "Value": "Someone has infiltrated the city and stolen our resources!\n\nWe don't know who committed this heinous act,\nbut it could only have been our enemies.\n\nWe must show them a lesson..."
+            },
+            {
+                "Key": "R_Target_10310_0",
+                "Value": "They will regret this."
+            },
+            {
+                "Key": "R_Target_10310_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10310_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10320",
+                "Value": "Secret Deal"
+            },
+            {
+                "Key": "R_Script_10320",
+                "Value": "Are you the leader [P] of the city [T]?\n\nWe have brought some secret knowledge...\n\nYes, we know, we are enemies...\nBut there's a saying, \"a good deal is a good deal.\"\n\nHow about this, if you provide us with some funds...\nWe will share our secret knowledge with you...\nWill you accept?"
+            },
+            {
+                "Key": "R_Target_10320_0",
+                "Value": "Ah, knowledge can change everything."
+            },
+            {
+                "Key": "R_Target_10320_1",
+                "Value": "I have no intention of sharing secrets with an enemy. Get lost."
+            },
+            {
+                "Key": "R_Target_10320_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10400",
+                "Value": "Vassal Support"
+            },
+            {
+                "Key": "R_Script_10400",
+                "Value": "A letter has arrived from the vassal state [A].\n\n\"[P]!\n\nThe Ratizens of [A] are expressing their dissatisfaction with [T]!\n\nThis dissatisfaction is growing, and we need support to quell it!\n\nIf left unchecked, public sentiment towards [T] will deteriorate!\""
+            },
+            {
+                "Key": "R_Target_10400_0",
+                "Value": "Send enough money to quell the discontent."
+            },
+            {
+                "Key": "R_Target_10400_1",
+                "Value": "Send a barely adequate amount of money."
+            },
+            {
+                "Key": "R_Target_10400_2",
+                "Value": "Who cares, let it be."
+            },
+            {
+                "Key": "R_Name_10401",
+                "Value": "Vassal Investment"
+            },
+            {
+                "Key": "R_Script_10401",
+                "Value": "A letter has arrived from the vassal state [A].\n\n\"[P],\n\nCurrently, [A] is facing many problems due to the old conflicts.\nThe Ratizens are suffering greatly... even the hospitals are lacking.\n\nWe request support to rebuild the city and address these issues.\""
+            },
+            {
+                "Key": "R_Target_10401_0",
+                "Value": "Ah, hospitals are important. Send money."
+            },
+            {
+                "Key": "R_Target_10401_1",
+                "Value": "Your Ratizens are your responsibility! Ignore."
+            },
+            {
+                "Key": "R_Target_10401_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10402",
+                "Value": "Vassal Request for Help"
+            },
+            {
+                "Key": "R_Script_10402",
+                "Value": "A messenger has arrived from the vassal state [A].\n\n\"Please help us, my lord! Due to a sudden disaster, our ratizens are starving to death!\"\n\nIt seems urgent as they are speaking directly without any preamble...\nWhat should we do?"
+            },
+            {
+                "Key": "R_Target_10402_0",
+                "Value": "That's a big problem! Take this food!"
+            },
+            {
+                "Key": "R_Target_10402_1",
+                "Value": "We have no food to spare for you."
+            },
+            {
+                "Key": "R_Target_10402_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10403",
+                "Value": "Vassal Request for Help"
+            },
+            {
+                "Key": "R_Script_10403",
+                "Value": "A messenger has arrived from the vassal state [A].\n\n\"Please help us, my lord!\nDue to a sudden disaster, our ratizens are dying!\n\nWe have no way to solve this problem!\"\n\nIt seems like a very urgent situation...\nWhat should we do?"
+            },
+            {
+                "Key": "R_Target_10403_0",
+                "Value": "That's a big problem! Take this food and money!"
+            },
+            {
+                "Key": "R_Target_10403_1",
+                "Value": "We don't have food... but here's some money, try to solve it!"
+            },
+            {
+                "Key": "R_Target_10403_2",
+                "Value": "We have nothing to give you."
+            },
+            {
+                "Key": "R_Name_10404",
+                "Value": "Vassal Complaint 1"
+            },
+            {
+                "Key": "R_Script_10404",
+                "Value": "A messenger has arrived from the vassal state [A].\n\n\"Since becoming your vassal, nothing good has happened!\n\nSob, our city’s ratizens are starving to death because there's no food!\n\nIt's all your fault! You terrible people should disappear from this world!\"\n\nI thought he was a messenger, but it turns out he was a drunk!\nWhat should we do with him?"
+            },
+            {
+                "Key": "R_Target_10404_0",
+                "Value": "Send him back with food."
+            },
+            {
+                "Key": "R_Target_10404_1",
+                "Value": "Send him back with money."
+            },
+            {
+                "Key": "R_Target_10404_2",
+                "Value": "Hahaha, this guy! Throw him out beyond the border!"
+            },
+            {
+                "Key": "R_Name_10405",
+                "Value": "Vassal Complaint 2"
+            },
+            {
+                "Key": "R_Script_10405",
+                "Value": "A messenger has arrived from the vassal state [A].\n\n\"Since becoming your vassal, nothing good has happened!\n\nSob, our city is so poor that everything is falling apart!!\n\nIt's all your fault! You terrible people should disappear from this world!\"\n\nI thought he was a messenger, but it turns out he was a drunk!\nWhat should we do with him?"
+            },
+            {
+                "Key": "R_Target_10405_0",
+                "Value": "Send him back with money."
+            },
+            {
+                "Key": "R_Target_10405_1",
+                "Value": "Send him back with food."
+            },
+            {
+                "Key": "R_Target_10405_2",
+                "Value": "Hahaha, this guy. Throw him into the wasteland!"
+            },
+            {
+                "Key": "R_Name_10410",
+                "Value": "Vassal Investment 1"
+            },
+            {
+                "Key": "R_Script_10410",
+                "Value": "An envoy has arrived from the vassal state [A].\n\n\"Leader [P],\n\nAlthough we were once enemies, we are now part of your family.\n\nAs our city infrastructure grows, we will be able to offer more tribute.\n\nWhy not invest in us with peace of mind?\""
+            },
+            {
+                "Key": "R_Target_10410_0",
+                "Value": "Oh, I'll invest a lot."
+            },
+            {
+                "Key": "R_Target_10410_1",
+                "Value": "Oh, I'll invest a little."
+            },
+            {
+                "Key": "R_Target_10410_2",
+                "Value": "No! The city's finances are currently at risk!"
+            },
+            {
+                "Key": "R_Name_10411",
+                "Value": "Vassal Investment 2"
+            },
+            {
+                "Key": "R_Script_10411",
+                "Value": "An envoy has arrived from the vassal state [A].\n\n\"Leader [P],\n\nAlthough we were once enemies, we are now part of your family.\n\nAs our city infrastructure grows, we will be able to offer more wealth.\n\nWhy not invest in us now?\""
+            },
+            {
+                "Key": "R_Target_10411_0",
+                "Value": "Oh, I will invest generously."
+            },
+            {
+                "Key": "R_Target_10411_1",
+                "Value": "Oh, I will invest moderately."
+            },
+            {
+                "Key": "R_Target_10411_2",
+                "Value": "No. Our finances are currently tight."
+            },
+            {
+                "Key": "R_Name_10420",
+                "Value": "Discrimination Among Vassals 1"
+            },
+            {
+                "Key": "R_Script_10420",
+                "Value": "An envoy has arrived from the vassal state [A].\n\n\"Leader [P],\n\nAlthough we were once enemies, we are now one family.\n\nIt is the right way of the world that family members should be treated equally, so why are you discriminating between us and [B]?\n\nWhat exactly is the difference between them and us [A]?\""
+            },
+            {
+                "Key": "R_Target_10420_0",
+                "Value": "Sorry. I'll treat you equally."
+            },
+            {
+                "Key": "R_Target_10420_1",
+                "Value": "I see, I'll pay more attention to it."
+            },
+            {
+                "Key": "R_Target_10420_2",
+                "Value": "Shouldn't your actions make that clear?"
+            },
+            {
+                "Key": "R_Name_10421",
+                "Value": "Discrimination Among Vassals 2"
+            },
+            {
+                "Key": "R_Script_10421",
+                "Value": "An envoy has arrived from the vassal state [A].\n\n\"Leader [P],\n\nWe have surely become one family,\nso why are you discriminating between us and [B]?\n\nWhat have we [A] done wrong to deserve such treatment?\""
+            },
+            {
+                "Key": "R_Target_10421_0",
+                "Value": "I will try to treat you better than [B]."
+            },
+            {
+                "Key": "R_Target_10421_1",
+                "Value": "I will pay a bit more attention to you."
+            },
+            {
+                "Key": "R_Target_10421_2",
+                "Value": "Ah... What can you even do?"
+            },
+            {
+                "Key": "R_Name_10422",
+                "Value": "Discrimination Among Vassals 3"
+            },
+            {
+                "Key": "R_Script_10422",
+                "Value": "An envoy has arrived from the vassal state [A].\n\n\"Leader [P],\n\nWhat have we [A] done wrong to deserve such discrimination compared to [B]?\n\nIf you continue to neglect us in this way,\nwe will understand your intentions.\n\nWe will act accordingly!\""
+            },
+            {
+                "Key": "R_Target_10422_0",
+                "Value": "Sorry. I'll treat you better from now on."
+            },
+            {
+                "Key": "R_Target_10422_1",
+                "Value": "Sorry. Let's stay together a little longer."
+            },
+            {
+                "Key": "R_Target_10422_2",
+                "Value": "What? Hahaha, go ahead and try."
+            },
+            {
+                "Key": "R_Name_10422",
+                "Value": "Vassal Rebellion"
+            },
+            {
+                "Key": "R_Script_10422",
+                "Value": "A letter has arrived from the vassal state [A].\n\n\"We are sick of your way of ruling.\n\nWe will start a fight for independence, so be prepared!\"\n\nThere is no further content."
+            },
+            {
+                "Key": "R_Target_10422_0",
+                "Value": "Unbelievable. They deserve terrible suffering."
+            },
+            {
+                "Key": "R_Target_10422_1",
+                "Value": "Hmm.. Let’s grant them independence along with this gift."
+            },
+            {
+                "Key": "R_Target_10422_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10500",
+                "Value": "Trade Promotion"
+            },
+            {
+                "Key": "R_Script_10500",
+                "Value": "Ah, we welcome the well-developed [T].\n\nDo you know the saying? In politics, there are neither eternal allies nor perpetual enemies. There is only interest. The easiest way to gain that interest is through trade.\n\nYou might not know this, but even in times so ancient that records don't exist, our ancestors exchanged goods with other villages.\n\nNow that civilization has advanced enough, build trade routes and reap the benefits."
+            },
+            {
+                "Key": "R_Target_10500_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10500_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10500_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10501",
+                "Value": "Triple Trade"
+            },
+            {
+                "Key": "R_Script_10501",
+                "Value": "How do you feel about building trade routes?\nIn fact, trade routes themselves only incur construction costs and do not provide any benefits.\n\nThe benefit comes from the trade profits that the constructed trade routes bring.\nSo if you feel that the construction is unnecessary, there is no need to expand further.\n\nRemember this.\nThe reason for increasing trade routes is to gain more profit.\nIf you want more profit, why not expand your trade routes?"
+            },
+            {
+                "Key": "R_Target_10501_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10501_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10501_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10502",
+                "Value": "Connecting with Half the World"
+            },
+            {
+                "Key": "R_Script_10502",
+                "Value": "You've built quite a number of trade routes!\nExcellent.\n\nContinuing to expand trade routes means\nyou're gaining profits through them, right?\n\nSo, how about trading with half the world now?\nMore profit, drawing in the wealth of the world!"
+            },
+            {
+                "Key": "R_Target_10502_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10502_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10502_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10503",
+                "Value": "All Roads Lead to Us"
+            },
+            {
+                "Key": "R_Script_10503",
+                "Value": "Trading with half the world, how impressive.\n\nIt is said that there was a great empire in the past.\nAll the roads in the world were their roads.\n\nAh, of course, it's not impossible to build such an empire even in this age...\nTrade routes spread all over the world are the way to establish a global trading empire, aren't they?"
+            },
+            {
+                "Key": "R_Target_10503_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10503_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10503_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10510",
+                "Value": "Hatred Among Kin 1"
+            },
+            {
+                "Key": "R_Script_10510",
+                "Value": "Those guys are of poor quality.\n\nJust because they settled in similar natural conditions, please don't treat them as equals!\n\nWe would like to get a bit closer to you...\n\nIt would be nice if you were a little less friendly with that lowly group."
+            },
+            {
+                "Key": "R_Target_10510_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10510_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10510_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10511",
+                "Value": "Hatred Among Kin 2"
+            },
+            {
+                "Key": "R_Script_10511",
+                "Value": "Those guys are terrible.\n\nIt's not just that they are of poor quality, they are truly savages!\n\nHow can they be so different from us, who settled in similar lands?\n\nWhy don't we join forces and drive out that terrible group together?"
+            },
+            {
+                "Key": "R_Target_10511_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10511_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10511_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10512",
+                "Value": "Hatred Among Kin 3"
+            },
+            {
+                "Key": "R_Script_10512",
+                "Value": "Look at those disgusting creatures!\n\nCompletely destroying them from this land would be true justice.\n\nUnfortunately, we lack the strength to offer sufficient support...\n\nBut through this, our bond will grow stronger,\nand we will develop further, bringing you more benefits.\n\nDestroy their land and scatter salt on it!"
+            },
+            {
+                "Key": "R_Target_10512_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10512_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10512_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10540",
+                "Value": "Exchange with the Jungle"
+            },
+            {
+                "Key": "R_Script_10540",
+                "Value": "We are [A], situated in the rainforest.\n\nGiven our many differences, we believe there is much we can learn from each other.\n\nLet's build a strong relationship and welcome a future blessed by the spirit of the forest."
+            },
+            {
+                "Key": "R_Target_10540_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10540_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10540_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10541",
+                "Value": "Exchange with the Sea"
+            },
+            {
+                "Key": "R_Script_10541",
+                "Value": "We are [A], situated by the ocean.\n\nAll things in the world originate from Mother Sea.\n\nWhy not establish a good relationship with us and obtain the bounty of the sea, the source of life?"
+            },
+            {
+                "Key": "R_Target_10541_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10541_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10541_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10542",
+                "Value": "Exchange with the Mountain Range"
+            },
+            {
+                "Key": "R_Script_10542",
+                "Value": "We are [A], situated in the mountains.\n\nAll things originate from the earth.\n\nWhy not navigate through the shining minerals and solid rocks together with us?"
+            },
+            {
+                "Key": "R_Target_10542_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10542_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10542_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10543",
+                "Value": "Exchange with the Desert"
+            },
+            {
+                "Key": "R_Script_10543",
+                "Value": "We are [A], situated in the desert.\n\nOutsiders may find it desolate, but the desert always provides abundant gifts.\n\nWhy not establish a relationship with us and receive the gifts the desert has to offer?"
+            },
+            {
+                "Key": "R_Target_10543_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10543_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10543_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10544",
+                "Value": "Exchange with the Volcano"
+            },
+            {
+                "Key": "R_Script_10544",
+                "Value": "We are [A], situated by the volcano.\n\nTruly precious things always come with danger.\n\nWhy not establish a relationship with us, the strong inhabitants living by the erupting volcano?"
+            },
+            {
+                "Key": "R_Target_10544_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10544_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10544_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10545",
+                "Value": "Exchange with the Grassland"
+            },
+            {
+                "Key": "R_Script_10545",
+                "Value": "We are [A], situated on the grassland.\n\nThe grassland always provides abundant food and peace.\n\nWhy not establish a relationship with us and experience the warmth and comfort of this generous land?"
+            },
+            {
+                "Key": "R_Target_10545_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10545_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10545_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10600",
+                "Value": "Alliance Management 1"
+            },
+            {
+                "Key": "R_Script_10600",
+                "Value": "Since we began our exchange, our relationship has grown stronger, but we are not yet at the point where we can fully trust each other.\n\nIf our friendship deepens further, we will both feel more secure and be able to progress together.\n\nAnd the benefits will be shared by both of us."
+            },
+            {
+                "Key": "R_Target_10600_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10600_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10600_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10601",
+                "Value": "Alliance Management 2"
+            },
+            {
+                "Key": "R_Script_10601",
+                "Value": "Since we began our exchange, our relationship has not changed significantly.\n\nIf our friendship deepens further, we will both feel more secure and be able to progress together.\n\nAnd the benefits will be shared by both of us."
+            },
+            {
+                "Key": "R_Target_10601_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10601_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10601_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10610",
+                "Value": "Alliance Trade"
+            },
+            {
+                "Key": "R_Script_10610",
+                "Value": "Although we have formed an alliance, we have not yet seized the opportunity for further mutual development.\n\nIf we establish trade routes and begin exchanging resources, both our nations will experience boundless growth."
+            },
+            {
+                "Key": "R_Target_10610_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10610_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10610_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10620",
+                "Value": "Demand from a Difficult Ally"
+            },
+            {
+                "Key": "R_Script_10620",
+                "Value": "Our relationship with you is relatively good, but those others are actually quite terrible people.\n\nMaintaining a friendly relationship with them will bring you little benefit.\n\nTrust us, and gradually lower your friendship with them."
+            },
+            {
+                "Key": "R_Target_10620_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10620_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10620_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10621",
+                "Value": "The Enemy of My Ally is My Enemy"
+            },
+            {
+                "Key": "R_Script_10621",
+                "Value": "Dear ally, we are in need of support right now.\n\nWill you join us in dealing with those terrible people?\n\nFor our closer relationship and a brighter future."
+            },
+            {
+                "Key": "R_Target_10621_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10621_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10621_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10622",
+                "Value": "Complete Destruction!"
+            },
+            {
+                "Key": "R_Script_10622",
+                "Value": "Dear ally, all of this is for the greater good.\n\nRavage the vile land of those terrible people and salt the earth!"
+            },
+            {
+                "Key": "R_Target_10622_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10622_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10622_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10630",
+                "Value": "Alliance, Friends, and Peace"
+            },
+            {
+                "Key": "R_Script_10630",
+                "Value": "The ones you are hostile to are actually quite good friends.\n\nIf you allow them to develop and maintain a friendly relationship, they will surely become good allies.\n\nSo please, consider peace."
+            },
+            {
+                "Key": "R_Target_10630_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10630_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10630_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10640",
+                "Value": "Towards the Warm Sunlight!"
+            },
+            {
+                "Key": "R_Script_10640",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nTowards the sunlight shining through the leaves!"
+            },
+            {
+                "Key": "R_Target_10640_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10640_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10640_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10641",
+                "Value": "To a Strong Voyage!"
+            },
+            {
+                "Key": "R_Script_10641",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nLet us row together towards the horizon!"
+            },
+            {
+                "Key": "R_Target_10641_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10641_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10641_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10642",
+                "Value": "To the Deepest Depths!"
+            },
+            {
+                "Key": "R_Script_10642",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nLet's uncover the deepest secrets of the world!"
+            },
+            {
+                "Key": "R_Target_10642_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10642_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10642_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10643",
+                "Value": "Towards the Sun!"
+            },
+            {
+                "Key": "R_Script_10643",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nLet's move towards the sun together!"
+            },
+            {
+                "Key": "R_Target_10643_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10643_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10643_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10644",
+                "Value": "Development is an Explosion!"
+            },
+            {
+                "Key": "R_Script_10644",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nLet's move towards a hot future, like an erupting volcano!"
+            },
+            {
+                "Key": "R_Target_10644_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10644_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10644_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10645",
+                "Value": "Peace and Prosperity!"
+            },
+            {
+                "Key": "R_Script_10645",
+                "Value": "Ah, our dear ally [T].\n\nIt has been quite some time since we formed our alliance, yet our relationship remains distant.\n\nIf our bond grows stronger, we can enjoy greater prosperity and wealth.\n\nLet's embrace the abundance and tranquility this land promises and face the future together."
+            },
+            {
+                "Key": "R_Target_10645_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10645_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10645_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10650",
+                "Value": "Exchange Rate Manipulation Team 1"
+            },
+            {
+                "Key": "R_Script_10650",
+                "Value": "Hey there, we actually have a secret.\n\nThis secret is being shared because our relationship is strong.\n\nDo you know? When three great nations come together, manipulating the exchange rate is easy.\n\nWe have been looking for a new partner...\n\nIf your relationship with us becomes just a bit stronger, we can achieve great things together.\n\nWhat do you say?\n\nAll for our mutual benefit."
+            },
+            {
+                "Key": "R_Target_10650_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10650_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10650_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10651",
+                "Value": "Exchange Rate Manipulation Team 2"
+            },
+            {
+                "Key": "R_Script_10651",
+                "Value": "Hey there, we actually have a secret.\n\nThis secret is being shared because our relationship is strong.\n\nDo you know? When three great nations come together, manipulating the exchange rate is easy.\n\nWe have been looking for a new partner...\n\nIf your relationship with us becomes just a bit stronger, we can achieve great things together.\n\nWhat do you say?\n\nAll for our mutual benefit."
+            },
+            {
+                "Key": "R_Target_10651_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10651_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10651_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10700",
+                "Value": "Request for Peace"
+            },
+            {
+                "Key": "R_Script_10700",
+                "Value": "Although we have been at war for a long time, surely we have not forgotten the value of peace.\n\nBoth sides have lost much; how about we promise peace now?\n\nThrough this, you will gain wealth and we will be able to prosper once again."
+            },
+            {
+                "Key": "R_Target_10700_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10700_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10700_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10710",
+                "Value": "Stabbing in the Back"
+            },
+            {
+                "Key": "R_Script_10710",
+                "Value": "In this world, there are no eternal allies or eternal enemies.\n\nOnly national interests.\n\nIf you betray your ally, I will give you this money. What do you say?"
+            },
+            {
+                "Key": "R_Target_10710_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10710_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10710_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10711",
+                "Value": "Raid for Gold"
+            },
+            {
+                "Key": "R_Script_10711",
+                "Value": "In this world, there are no eternal allies or eternal enemies.\n\nOnly national interests.\n\nBesides, they are not even your allies, are they?\n\nTake this money and attack them."
+            },
+            {
+                "Key": "R_Target_10711_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10711_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10711_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10712",
+                "Value": "Destruction and Pillage"
+            },
+            {
+                "Key": "R_Script_10712",
+                "Value": "In this world, there are no eternal allies or eternal enemies.\n\nOnly national interests.\n\nWhat is certain is that they are our enemies.\n\nBurn their city and sow salt into their land.\n\nAfter all, they are not your allies, are they?\n\nIf you do this, I will give you a lot of money."
+            },
+            {
+                "Key": "R_Target_10712_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10712_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10712_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10800",
+                "Value": "Liberate the Vassal"
+            },
+            {
+                "Key": "R_Script_10800",
+                "Value": "Hello.\n\nWe are glad to walk the path together with your nation.\n\nHowever... the presence of vassal states makes us uneasy.\n\nWhy not liberate them and create a kinder world?"
+            },
+            {
+                "Key": "R_Target_10800_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10800_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10800_2",
+                "Value": ""
+            },
+            {
+                "Key": "R_Name_10801",
+                "Value": "Improve Relations with the Vassal"
+            },
+            {
+                "Key": "R_Script_10801",
+                "Value": "Although I am from a vassal state, I am loyal.\n\nThe worse the relationship between your city and ours gets,\nthe faster we head towards catastrophe.\n\nIf we restore our relationship, we will also develop.\n\nTo take more from us, don't you need to help us develop?"
+            },
+            {
+                "Key": "R_Target_10801_0",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10801_1",
+                "Value": ""
+            },
+            {
+                "Key": "R_Target_10801_2",
+                "Value": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0_Nm",
+                "Value": "Farmer's Breakfast"
+            },
+            {
+                "Key": "0_Scr",
+                "Value": "A meal that farmers eat to start a vigorous day. Sometimes, it's necessary to experience a simple meal."
+            },
+            {
+                "Key": "1_Nm",
+                "Value": "Rice Ball of Hardship"
+            },
+            {
+                "Key": "1_Scr",
+                "Value": "A rice ball that helped people survive during tough times. It's only seasoned with salt, just enough to get through the day."
+            },
+            {
+                "Key": "2_Nm",
+                "Value": "Bone Soup"
+            },
+            {
+                "Key": "2_Scr",
+                "Value": "A broth that has been simmered for a long time. It's hot, but once you take a sip, you can't help but exclaim."
+            },
+            {
+                "Key": "3_Nm",
+                "Value": "Meatballs"
+            },
+            {
+                "Key": "3_Scr",
+                "Value": "A delicious dish made by shaping and cooking meat. While eating, you might not be sure if it's a snack or a meal, but it's tasty."
+            },
+            {
+                "Key": "4_Nm",
+                "Value": "Crab Gratin"
+            },
+            {
+                "Key": "4_Scr",
+                "Value": "A dish made by mixing hermit crab meat with cheese and baking it in a kiln. The soft texture is quite appealing."
+            },
+            {
+                "Key": "5_Nm",
+                "Value": "Berry Shake"
+            },
+            {
+                "Key": "5_Scr",
+                "Value": "A drink made by mixing berries and milk. It feels like it might help with digestion."
+            },
+            {
+                "Key": "6_Nm",
+                "Value": "Flower Beer"
+            },
+            {
+                "Key": "6_Scr",
+                "Value": "A beer brewed with flowers to give it a fragrant aroma. The blend of grains and floral scents makes it even more delicious."
+            },
+            {
+                "Key": "7_Nm",
+                "Value": "Cookie"
+            },
+            {
+                "Key": "7_Scr",
+                "Value": "A cookie made by mixing grain flour with honey and baking it until crispy. Sweet and perfect as a light snack."
+            },
+            {
+                "Key": "8_Nm",
+                "Value": "Berry Tart"
+            },
+            {
+                "Key": "8_Scr",
+                "Value": "A tart made by simmering berries and baking them with grain flour. The sweet and tangy berry flavor spreads in your mouth."
+            },
+            {
+                "Key": "100_Nm",
+                "Value": "Armadillo Fried Rice"
+            },
+            {
+                "Key": "100_Scr",
+                "Value": "A savory fried rice made by stir-frying meat and grains, served in an armadillo shell."
+            },
+            {
+                "Key": "101_Nm",
+                "Value": "Sushi"
+            },
+            {
+                "Key": "101_Scr",
+                "Value": "A dish made by placing raw fish on vinegared rice. Both fresh fish and slightly aged fish bring out their unique flavors."
+            },
+            {
+                "Key": "102_Nm",
+                "Value": "Beondegi"
+            },
+            {
+                "Key": "102_Scr",
+                "Value": "Packed with nutrition! A protein bomb! Full of minerals! A superfood that takes care of the citizens' health."
+            },
+            {
+                "Key": "103_Nm",
+                "Value": "Scorpion Tanghulu"
+            },
+            {
+                "Key": "103_Scr",
+                "Value": "A sweet dish made by gathering scorpion tails, marinating them in syrup, and letting them harden. Tasty, but eating too much can harm your teeth."
+            },
+            {
+                "Key": "104_Nm",
+                "Value": "Commoner's Lunch"
+            },
+            {
+                "Key": "104_Scr",
+                "Value": "A typical meal that commoners eat. It would be even more delightful if there were a piece of meat here."
+            },
+            {
+                "Key": "105_Nm",
+                "Value": "Donkatsu"
+            },
+            {
+                "Key": "105_Scr",
+                "Value": "Meat that is pounded thin, coated in batter, and fried. The taste has improved along with the portion size."
+            },
+            {
+                "Key": "106_Nm",
+                "Value": "Blazing Storm Steamed Monkfish"
+            },
+            {
+                "Key": "106_Scr",
+                "Value": "There has never been a spiciness like this. Is this poison or a dish? A spectacle of flavor and pain—spicy steamed monkfish."
+            },
+            {
+                "Key": "107_Nm",
+                "Value": "Pudding"
+            },
+            {
+                "Key": "107_Scr",
+                "Value": "A soft and bouncy sweet dessert. Just one spoonful fills your mouth with sweetness."
+            },
+            {
+                "Key": "108_Nm",
+                "Value": "Pizza"
+            },
+            {
+                "Key": "108_Scr",
+                "Value": "A flat dish made with grain dough topped with sauce, cheese, and meat. The person who invented this is undoubtedly a genius."
+            },
+            {
+                "Key": "2000_Nm",
+                "Value": "Hero's Nachos"
+            },
+            {
+                "Key": "2000_Scr",
+                "Value": "A snack famous for being eaten by the hero with black wings when bored. When there's nothing to do, just bring some nachos."
+            },
+            {
+                "Key": "2001_Nm",
+                "Value": "Seafood Pasta"
+            },
+            {
+                "Key": "2001_Scr",
+                "Value": "A pasta rich in flavor and taste, made with hermit crab and fish."
+            },
+            {
+                "Key": "2002_Nm",
+                "Value": "Fantasy Cake"
+            },
+            {
+                "Key": "2002_Scr",
+                "Value": "A unique cake with a popping purple flavor made using touch-me-not flowers."
+            },
+            {
+                "Key": "2003_Nm",
+                "Value": "Steamed Frog with Flowers"
+            },
+            {
+                "Key": "2003_Scr",
+                "Value": "A tender dish where a frog is infused with the fragrance of flowers and slowly braised in fruit wine."
+            },
+            {
+                "Key": "2004_Nm",
+                "Value": "Gelato"
+            },
+            {
+                "Key": "2004_Scr",
+                "Value": "A sweet dessert with a chewy texture, topped with various toppings that make you feel like you're walking on clouds."
+            },
+            {
+                "Key": "2005_Nm",
+                "Value": "Joy Flower Sunrise"
+            },
+            {
+                "Key": "2005_Scr",
+                "Value": "A legendary cocktail said to wake one up at sunrise when drunk. A taste that rises with fun, like the early morning sun."
+            },
+            {
+                "Key": "2006_Nm",
+                "Value": "Oilfall Cheese Steak"
+            },
+            {
+                "Key": "2006_Scr",
+                "Value": "A steak cooked as if deep-fried in oil, then topped with melted cheese. Is your blood vessel okay?"
+            },
+            {
+                "Key": "2007_Nm",
+                "Value": "Escargot"
+            },
+            {
+                "Key": "2007_Scr",
+                "Value": "A unique dish made by cooking snails. The chewy texture and aromatic flavor fill your mouth."
+            },
+            {
+                "Key": "2008_Nm",
+                "Value": "Vin Chaud"
+            },
+            {
+                "Key": "2008_Scr",
+                "Value": "A warm beverage made by simmering wine with fruits and sugar. It warms you up even in cold weather."
+            }
+        ]
+    }
+}

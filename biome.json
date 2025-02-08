@@ -1,0 +1,47 @@
+{
+	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+	"formatter": {
+		"enabled": true,
+		"lineWidth": 120,
+		"attributePosition": "multiline",
+		"useEditorconfig": true
+	},
+	"javascript": {
+		"formatter": {
+			"attributePosition": "multiline"
+		}
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"suspicious": {
+				"noExplicitAny": "off",
+				"noThenProperty": "off",
+				"noMisleadingCharacterClass": "off",
+				"noArrayIndexKey": "off",
+				"noConfusingVoidType": "off",
+				"noShadowRestrictedNames": "off"
+			},
+			"style": {
+				"noDefaultExport": "off",
+				"useExportType": "off",
+				"useShorthandArrayType": "error",
+				"noParameterAssign": "off"
+			},
+			"correctness": {
+				"useExhaustiveDependencies": "off",
+				"noUnusedImports": "error"
+			},
+			"security": {
+				"noDangerouslySetInnerHtml": "off"
+			},
+			"a11y": {
+				"all": false
+			}
+		}
+	},
+	"files": {
+		"ignore": ["node_modules", "dist", ".vscode", ".vite", "*.js", "./src/pages/sandbox/*"]
+	}
+}

@@ -1,0 +1,46 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0_Nm",
+                "Value": "Prestigious Scholar"
+            },
+            {
+                "Key": "0_Scr",
+                "Value": "Although you were a genius of the kingdom, your academic talents were distinct from your lineage. It's regrettable that you had to escape before showcasing your potential."
+            },
+            {
+                "Key": "1_Nm",
+                "Value": "Natural-Born Warrior"
+            },
+            {
+                "Key": "1_Scr",
+                "Value": "Had you not been born into the royalty, you would undoubtedly have become an outstanding general. Sadly, your martial skills couldn't help save the falling kingdom."
+            },
+            {
+                "Key": "2_Nm",
+                "Value": "Agile Explorer"
+            },
+            {
+                "Key": "2_Scr",
+                "Value": "With a hobby of venturing every nook and cranny of the palace and beyond, your knack for exploration greatly aided your escape. It will likely come in handy in the future as well."
+            },
+            {
+                "Key": "3_Nm",
+                "Value": "City's Idol"
+            },
+            {
+                "Key": "3_Scr",
+                "Value": "You were the darling of the kingdom, akin to a city's pop idol. Just the sight of you lifted everyone's spirits."
+            },
+            {
+                "Key": "4_Nm",
+                "Value": "Prodigal Noble"
+            },
+            {
+                "Key": "5_Scr",
+                "Value": "Your extravagant spending exceeded everyone else's. Thanks to your lavish lifestyle, you've developed a keen sense for money. Naturally, when you escaped, you had money close at hand."
+            }
+        ]
+    }
+}

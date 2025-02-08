@@ -1,0 +1,234 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Player title",
+                "Value": "Basic control"
+            },
+            {
+                "Key": "Player move up",
+                "Value": "Move up"
+            },
+            {
+                "Key": "Player move down",
+                "Value": "Move down"
+            },
+            {
+                "Key": "Player move left",
+                "Value": "Move left"
+            },
+            {
+                "Key": "Player move right",
+                "Value": "Move right"
+            },
+            {
+                "Key": "Player aim move all",
+                "Value": "Aim"
+            },
+            {
+                "Key": "Player aim move up",
+                "Value": "Aim up"
+            },
+            {
+                "Key": "Player aim move down",
+                "Value": "Aim down"
+            },
+            {
+                "Key": "Player aim move left",
+                "Value": "Aim left"
+            },
+            {
+                "Key": "Player aim move right",
+                "Value": "Aim right"
+            },
+            {
+                "Key": "Zoom in",
+                "Value": "Zoom in"
+            },
+            {
+                "Key": "Zoom out",
+                "Value": "Zoom out"
+            },
+            {
+                "Key": "Zoom default",
+                "Value": "Default camera"
+            },
+            {
+                "Key": "Player interaction",
+                "Value": "Interact"
+            },
+            {
+                "Key": "Player detail check",
+                "Value": "Check details"
+            },
+            {
+                "Key": "Player order",
+                "Value": "Order"
+            },
+            {
+                "Key": "Player admin",
+                "Value": "Admin"
+            },
+            {
+                "Key": "Player change mode",
+                "Value": "Mode change"
+            },
+            {
+                "Key": "Player jump",
+                "Value": "Jump"
+            },
+            {
+                "Key": "Player target tab",
+                "Value": "Switch"
+            },
+            {
+                "Key": "Player drop",
+                "Value": "Drop"
+            },
+            {
+                "Key": "Player escape",
+                "Value": "Escape"
+            },
+            {
+                "Key": "Player menu",
+                "Value": "Menu"
+            },
+            {
+                "Key": "Player ui toggle",
+                "Value": "Screen shot mode"
+            },
+            {
+                "Key": "Player skill",
+                "Value": "Skill"
+            },
+            {
+                "Key": "Order title",
+                "Value": "Order control"
+            },
+            {
+                "Key": "Order move up",
+                "Value": "Move up"
+            },
+            {
+                "Key": "Order move down",
+                "Value": "Move down"
+            },
+            {
+                "Key": "Order move left",
+                "Value": "Move left"
+            },
+            {
+                "Key": "Order move right",
+                "Value": "Move right"
+            },
+            {
+                "Key": "Order move all",
+                "Value": "Aim"
+            },
+            {
+                "Key": "Order category tab left",
+                "Value": "Category change left"
+            },
+            {
+                "Key": "Order category tab right",
+                "Value": "Category change right"
+            },
+            {
+                "Key": "Order interaction",
+                "Value": "Confirm"
+            },
+            {
+                "Key": "Order tab",
+                "Value": "Switch"
+            },
+            {
+                "Key": "Order escape",
+                "Value": "Exit"
+            },
+            {
+                "Key": "UI title",
+                "Value": "UI control"
+            },
+            {
+                "Key": "UI move up",
+                "Value": "Move up"
+            },
+            {
+                "Key": "UI move down",
+                "Value": "Move down"
+            },
+            {
+                "Key": "UI move left",
+                "Value": "Move left"
+            },
+            {
+                "Key": "UI move right",
+                "Value": "Move right"
+            },
+            {
+                "Key": "UI interaction",
+                "Value": "Confirm"
+            },
+            {
+                "Key": "UI detail check",
+                "Value": "Details"
+            },
+            {
+                "Key": "UI change order",
+                "Value": "Mode change"
+            },
+            {
+                "Key": "UI tab",
+                "Value": "Switch"
+            },
+            {
+                "Key": "UI escape",
+                "Value": "Exit"
+            },
+            {
+                "Key": "UI category tab left",
+                "Value": "Previous tab"
+            },
+            {
+                "Key": "UI category tab right",
+                "Value": "Next tab"
+            },
+            {
+                "Key": "UI default",
+                "Value": "Default"
+            },
+            {
+                "Key": "UI empty",
+                "Value": "Empty"
+            },
+            {
+                "Key": "Ring title",
+                "Value": "Ring control"
+            },
+            {
+                "Key": "Ring horizontal dir",
+                "Value": "Horizontal "
+            },
+            {
+                "Key": "Ring vertical dir",
+                "Value": "Vertical"
+            },
+            {
+                "Key": "Ring interaction",
+                "Value": "Confirm"
+            },
+            {
+                "Key": "Ring escape",
+                "Value": "Exit"
+            },
+            {
+                "Key": "Ring move next",
+                "Value": "Switch"
+            },
+            {
+                "Key": "UI favorites",
+                "Value": "Bookmark"
+            }
+        ]
+    }
+}

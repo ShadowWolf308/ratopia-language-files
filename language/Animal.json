@@ -1,0 +1,142 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Rabbit_Nm",
+                "Value": "Rabbit"
+            },
+            {
+                "Key": "Rabbit_Scr",
+                "Value": "A peaceful yet fast animal. Beware of the white one."
+            },
+            {
+                "Key": "Bee_Nm",
+                "Value": "Honey bee"
+            },
+            {
+                "Key": "Bee_Scr",
+                "Value": "A sweetly hovering bumble bee. It stings when attacked."
+            },
+            {
+                "Key": "Bat_Nm",
+                "Value": "Bat"
+            },
+            {
+                "Key": "Bat_Scr",
+                "Value": "A minion of the night sky. Some say it has secret power."
+            },
+            {
+                "Key": "Silkworm_Nm",
+                "Value": "Silkworm"
+            },
+            {
+                "Key": "Silkworm_Scr",
+                "Value": "A rare worm making thread. Hard to be seen, hard to grow."
+            },
+            {
+                "Key": "Monkfish_Nm",
+                "Value": "Anglerfish"
+            },
+            {
+                "Key": "Monkfish_Scr",
+                "Value": "An aggressive fish in water. Run if you see a light in deep."
+            },
+            {
+                "Key": "SpiderBaby_Nm",
+                "Value": "Spider Hatchling"
+            },
+            {
+                "Key": "SpiderBaby_Scr",
+                "Value": "Newly born hatchling of a gigantic spider. Just got hatched but has size of full grown spiders."
+            },
+            {
+                "Key": "Armadillo_Nm",
+                "Value": "Armadillo"
+            },
+            {
+                "Key": "Armadillo_Scr",
+                "Value": "An animal rolls around. It rolls quickly, so be careful."
+            },
+            {
+                "Key": "Frog_Nm",
+                "Value": "Frog"
+            },
+            {
+                "Key": "Frog_Scr",
+                "Value": "A tiny frog hopping around. Seemingly harmless, but none knows when touched."
+            },
+            {
+                "Key": "Scorpion_Nm",
+                "Value": "Scorpion"
+            },
+            {
+                "Key": "Scorpion_Scr",
+                "Value": "A silent assassin hiding in the desert sands. Beware not to be charmed with it's beauty."
+            },
+            {
+                "Key": "MineSpider_Nm",
+                "Value": "Spider"
+            },
+            {
+                "Key": "MineSpider_Scr",
+                "Value": "A well trained trap hunter. Looks kinda gross but surprisingly cute sometimes."
+            },
+            {
+                "Key": "JewelScarab_Nm",
+                "Value": "Jewel Scarab"
+            },
+            {
+                "Key": "JewelScarab_Scr",
+                "Value": "Scarab with crystallized back plate. As it looks, it is hard as crystals."
+            },
+            {
+                "Key": "HermitCrab_Nm",
+                "Value": "Hermit Crab"
+            },
+            {
+                "Key": "HermitCrab_Scr",
+                "Value": "A shy animal with shell of conch on its back. Beware of it's strong claws."
+            },
+            {
+                "Key": "Snail_Nm",
+                "Value": "Snail"
+            },
+            {
+                "Key": "Snail_Scr",
+                "Value": "Gentle animal with cute round house. Not very dangerous with its slow motion."
+            },
+            {
+                "Key": "Fish_Nm",
+                "Value": "Fish"
+            },
+            {
+                "Key": "Fish_Scr",
+                "Value": "A tasty fish which lives in all waters. Yes, a perfect protein supplier!"
+            },
+            {
+                "Key": "Flaone_Nm",
+                "Value": "Flamone"
+            },
+            {
+                "Key": "Flaone_Scr",
+                "Value": "A mysterious and cute creature living in the deep underground. Be careful, touching it might cause endless burning."
+            },
+            {
+                "Key": "Scarab_Nm",
+                "Value": "Carnivorous Beetle"
+            },
+            {
+                "Key": "Scarab_Scr",
+                "Value": "A beetle that attacks any intruder on sight. It's very ferocious, so run away at all costs."
+            },
+            {
+                "Key": "PharaohScarab_Nm",
+                "Value": "Mysterious Beetle"
+            },
+            {
+                "Key": "PharaohScarab_Scr",
+                "Value": "A beetle with a shimmering color. Let's touch it."
+            }
+        ]
+    }
+}

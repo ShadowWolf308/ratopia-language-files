@@ -1,0 +1,150 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "TreePlant_Nm",
+                "Value": "Broadleaf Tree"
+            },
+            {
+                "Key": "TreePlant_Scr",
+                "Value": "A straight tree with a solid body. Gives logs when cut."
+            },
+            {
+                "Key": "BerryBushPlant_Nm",
+                "Value": "Berry Bush"
+            },
+            {
+                "Key": "BerryBushPlant_Scr",
+                "Value": "A bush growing berry every period. Gives berries when gathered."
+            },
+            {
+                "Key": "GrainPlant_Nm",
+                "Value": "Wild Wheat"
+            },
+            {
+                "Key": "GrainPlant_Scr",
+                "Value": "An edible crop with some nutrients. Gives grains when gathered."
+            },
+            {
+                "Key": "MushroomPlant_Nm",
+                "Value": "Cave Mushroom"
+            },
+            {
+                "Key": "MushroomPlant_Scr",
+                "Value": "An edible mushroom growing in the dark. Gives mushrooms when gathered."
+            },
+            {
+                "Key": "FlowerPlant_Nm",
+                "Value": "Flower"
+            },
+            {
+                "Key": "FlowerPlant_Scr",
+                "Value": "A beautiful common flower. Useful to make oil and dye."
+            },
+            {
+                "Key": "GrassPlant_Nm",
+                "Value": "Grass"
+            },
+            {
+                "Key": "GrassPlant_Scr",
+                "Value": "A well growing grass. Still when cut too fast, it might die."
+            },
+            {
+                "Key": "JewelTreePlant_Nm",
+                "Value": "Crystal Tree"
+            },
+            {
+                "Key": "JewelTreePlant_Scr",
+                "Value": "A stonized tree with glowing crystals. Finest crystals are created on this tree."
+            },
+            {
+                "Key": "SeaweedPlant_Nm",
+                "Value": "Seaweed"
+            },
+            {
+                "Key": "SeaweedPlant_Scr",
+                "Value": "A tenacious plant growing underwater. Exactly same as grass, just a water type."
+            },
+            {
+                "Key": "CoralTreePlant_Nm",
+                "Value": "Tree Coral"
+            },
+            {
+                "Key": "CoralTreePlant_Scr",
+                "Value": "A stonish animal underwater. If ground and cut, it might shine like jewel."
+            },
+            {
+                "Key": "LightGrassPlant_Nm",
+                "Value": "Lumina Flora"
+            },
+            {
+                "Key": "LightGrassPlant_Scr",
+                "Value": "A flower luminating underwater. Unknown how, but still useful."
+            },
+            {
+                "Key": "SeaanemonePlant_Nm",
+                "Value": "Spout Anemone"
+            },
+            {
+                "Key": "SeaanemonePlant_Scr",
+                "Value": "A miraculous creature spouting water every period of time"
+            },
+            {
+                "Key": "FunnyFlowerPlant_Nm",
+                "Value": "Joy Flower"
+            },
+            {
+                "Key": "FunnyFlowerPlant_Scr",
+                "Value": "Flower giving laugher just watching it. Rumor says it eats meats."
+            },
+            {
+                "Key": "CactusPlant_Nm",
+                "Value": "Cactus"
+            },
+            {
+                "Key": "CactusPlant_Scr",
+                "Value": "Spikey thorned plant, don't touch. Long wait might give a wonder."
+            },
+            {
+                "Key": "PapyrusPlant_Nm",
+                "Value": "Papyrus"
+            },
+            {
+                "Key": "PapyrusPlant_Scr",
+                "Value": "Plant grows wet places near water. The ancients made papers with it long ago."
+            },
+            {
+                "Key": "ThornTreePlant_Nm",
+                "Value": "Thorn Tree"
+            },
+            {
+                "Key": "ThornTreePlant_Scr",
+                "Value": "Tree with tough bark in the desert areas. Splits up into sharp pieces."
+            },
+            {
+                "Key": "JungleTreePlant_Nm",
+                "Value": "Jungle Tree"
+            },
+            {
+                "Key": "JungleTreePlant_Scr",
+                "Value": "Tree with tangled stalks in the jungle areas. Both flexible and elastic."
+            },
+            {
+                "Key": "AshTreePlant_Nm",
+                "Value": "Ash Tree"
+            },
+            {
+                "Key": "AshTreePlant_Scr",
+                "Value": "Tree like dense ash in the volcanic area. It actually is a tree made of ash, not just in shape."
+            },
+            {
+                "Key": "ExplosiveGrassPlant_Nm",
+                "Value": "Pyroblossom"
+            },
+            {
+                "Key": "ExplosiveGrassPlant_Scr",
+                "Value": "Explosive plant from volcanic regions, yields useful flammable material."
+            }
+        ]
+    }
+}

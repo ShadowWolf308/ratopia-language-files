@@ -1,0 +1,158 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Light infantry",
+                "Value": "Militiarat"
+            },
+            {
+                "Key": "Light infantry_Scr",
+                "Value": "A light-armed soldier with fast speed."
+            },
+            {
+                "Key": "Guards",
+                "Value": "Guards"
+            },
+            {
+                "Key": "Guards_Scr",
+                "Value": "A guard with a short spear."
+            },
+            {
+                "Key": "Bowman",
+                "Value": "Bowrat"
+            },
+            {
+                "Key": "Bowman_Scr",
+                "Value": "A soldier trained to shoot arrows with a bow."
+            },
+            {
+                "Key": "Crossbowman",
+                "Value": "Crossbowrat"
+            },
+            {
+                "Key": "Crossbowman_Scr",
+                "Value": "A soldier trained to shoot bolts with a crossbow."
+            },
+            {
+                "Key": "Spearman",
+                "Value": "Spearrat"
+            },
+            {
+                "Key": "Spearman_Scr",
+                "Value": "A soldier with a long spear. Attacks have slightly longer range."
+            },
+            {
+                "Key": "Macerat",
+                "Value": "Macerat"
+            },
+            {
+                "Key": "Macerat_Scr",
+                "Value": "A soldier with a deadly mace. Deals heavy damage."
+            },
+            {
+                "Key": "Shieldrat",
+                "Value": "Shieldrat"
+            },
+            {
+                "Key": "Shieldrat_Scr",
+                "Value": "A soldier armed with a sturdy shield. Increases the maximum health of the assigned squad."
+            },
+            {
+                "Key": "Druid",
+                "Value": "Druid"
+            },
+            {
+                "Key": "Druid_Scr",
+                "Value": "A soldier using jungle magic. Slows enemies."
+            },
+            {
+                "Key": "Warrior",
+                "Value": "Warrior"
+            },
+            {
+                "Key": "Warrior_Scr",
+                "Value": "A soldier using jungle power. Knocks enemies back."
+            },
+            {
+                "Key": "Skirmisher",
+                "Value": "Skirmisher"
+            },
+            {
+                "Key": "Skirmisher_Scr",
+                "Value": "A soldier using jungle speed. Evades enemies' attack."
+            },
+            {
+                "Key": "Longswordman",
+                "Value": "Longswordrat"
+            },
+            {
+                "Key": "Longswordman_Scr",
+                "Value": "A soldier with a long sword. Attacks multiple enemies."
+            },
+            {
+                "Key": "Hammerer",
+                "Value": "Hammerrat"
+            },
+            {
+                "Key": "Hammerer_Scr",
+                "Value": "A soldier with a heavy hammer. Stuns enemies."
+            },
+            {
+                "Key": "Legion",
+                "Value": "Legionary"
+            },
+            {
+                "Key": "Legion_Scr",
+                "Value": "A soldier armed with a shield and a sword. Solidifies the squad to which they belong."
+            },
+            {
+                "Key": "Guardian",
+                "Value": "Guardian"
+            },
+            {
+                "Key": "Guardian_Scr",
+                "Value": "A sturdy soldier wielding a large shield. Strikes enemies with the shield to knock them back."
+            },
+            {
+                "Key": "Firerat",
+                "Value": "Firerat"
+            },
+            {
+                "Key": "Firerat_Scr",
+                "Value": "A soldier equipped with a flamethrower. Scorches the ground, burning enemies."
+            },
+            {
+                "Key": "Medic",
+                "Value": "Medic"
+            },
+            {
+                "Key": "Medic_Scr",
+                "Value": "A soldier carrying a first aid kit. Restores the health of the assigned squad."
+            },
+            {
+                "Key": "Flag bearer",
+                "Value": "Bannerrat"
+            },
+            {
+                "Key": "Flag bearer_Scr",
+                "Value": "A soldier carrying a command flag. Increases the movement speed of the assigned squad."
+            },
+            {
+                "Key": "Instructor",
+                "Value": "Trainerat"
+            },
+            {
+                "Key": "Instructor_Scr",
+                "Value": "A trainer who has mastered systematic training methods. Increases the experience gain of the assigned squad."
+            },
+            {
+                "Key": "Chief priest",
+                "Value": "Priestess"
+            },
+            {
+                "Key": "Chief priest_Scr",
+                "Value": "A priestess who uses the magic of the forest. Increases the evasion rate of the assigned squad."
+            }
+        ]
+    }
+}

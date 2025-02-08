@@ -1,0 +1,2858 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "InputSelect scr",
+                "Value": "The controller type can be changed anytime within the option menu."
+            },
+            {
+                "Key": "Inputtable empty warning",
+                "Value": "This cannot remain empty."
+            },
+            {
+                "Key": "Start settings return warning popup",
+                "Value": "Return to title page?"
+            },
+            {
+                "Key": "Base Building Scr",
+                "Value": "Structures to maintain the basic infrastructure of the city."
+            },
+            {
+                "Key": "RawMat Building Scr",
+                "Value": "Structures to gather and produce natural formed materials."
+            },
+            {
+                "Key": "Product Building Scr",
+                "Value": "Structures to process raw materials and products."
+            },
+            {
+                "Key": "Service Building Scr",
+                "Value": "Structures to offer entertainment and hygiene."
+            },
+            {
+                "Key": "Military Building Scr",
+                "Value": "Structures to keep the city safe from the outer threats."
+            },
+            {
+                "Key": "Deco Building Scr",
+                "Value": "Structures for the beauty of the city."
+            },
+            {
+                "Key": "Queen Building Scr",
+                "Value": "Structures for the leader to manage the city better."
+            },
+            {
+                "Key": "AssignUnit List",
+                "Value": "Not assigned:"
+            },
+            {
+                "Key": "UnassignUnit List",
+                "Value": "Assigned:"
+            },
+            {
+                "Key": "New immigrant Scr",
+                "Value": "Choose a group of migrants to settle down."
+            },
+            {
+                "Key": "Civil tax Scr",
+                "Value": "Charge a tax on the ratizens every certain amount of time."
+            },
+            {
+                "Key": "Building usage tax Scr",
+                "Value": "Charge a tax to use the structure."
+            },
+            {
+                "Key": "Resource tax Scr",
+                "Value": "Charge a tax to consume the resource."
+            },
+            {
+                "Key": "Tax law components Scr",
+                "Value": "Set the standards for the tax."
+            },
+            {
+                "Key": "Period Scr",
+                "Value": "Set cycle."
+            },
+            {
+                "Key": "Condition of tax law Scr",
+                "Value": "Set standard."
+            },
+            {
+                "Key": "Entire Scr",
+                "Value": "All the ratizens."
+            },
+            {
+                "Key": "Owner of a job Scr",
+                "Value": "Apply only to ratizens with jobs."
+            },
+            {
+                "Key": "Owner of a house Scr",
+                "Value": "Apply only to ratizens with residences."
+            },
+            {
+                "Key": "Propert range Scr",
+                "Value": "Wealth owned over"
+            },
+            {
+                "Key": "Income range Scr",
+                "Value": "Daily income over"
+            },
+            {
+                "Key": "The amount of tax Scr",
+                "Value": "Set amount of tax to apply."
+            },
+            {
+                "Key": "Tax law state Scr",
+                "Value": "Modify the tax's setting."
+            },
+            {
+                "Key": "Class Scr",
+                "Value": "Set class to be applied."
+            },
+            {
+                "Key": {},
+                "Value": "Apply to all ratizens."
+            },
+            {
+                "Key": {},
+                "Value": "Only to low class."
+            },
+            {
+                "Key": {},
+                "Value": "Only to middle class."
+            },
+            {
+                "Key": {},
+                "Value": "Only to high class."
+            },
+            {
+                "Key": "Discovered resources Scr",
+                "Value": "Whenever a new resource put in the storage, gets a <sprite name=FS_ResearchPoint><color=#FFD200>Research Point</color>."
+            },
+            {
+                "Key": "Select targets to gather",
+                "Value": "Targets to gather"
+            },
+            {
+                "Key": "Select products to produce",
+                "Value": "Products to produce"
+            },
+            {
+                "Key": "Status Tab Scr",
+                "Value": "Set the followings"
+            },
+            {
+                "Key": "Exit to Title Scr",
+                "Value": "Any unsaved progress will be lost. Are you sure you want to return to the title screen?"
+            },
+            {
+                "Key": "Exit to Desktop Scr",
+                "Value": "Any unsaved progress will be lost. Are you sure you want to exit the game?"
+            },
+            {
+                "Key": "Load Scr",
+                "Value": "Any unsaved progress will be lost. Are you sure you want to load the last save file?"
+            },
+            {
+                "Key": "Migrant identification Scr",
+                "Value": "Allow the selected migrants to join the city?"
+            },
+            {
+                "Key": "Auto Save Description",
+                "Value": "Auto saving..."
+            },
+            {
+                "Key": "Workman Select Scr",
+                "Value": "Assign ratizens for the structure."
+            },
+            {
+                "Key": "GatherOrProduct Select Scr",
+                "Value": "Select the resources to gather or produce."
+            },
+            {
+                "Key": "Hunt Select Scr",
+                "Value": "Select targets to hunt"
+            },
+            {
+                "Key": "Hunt Main Script",
+                "Value": "Hunt selected targets"
+            },
+            {
+                "Key": "Building size Scr",
+                "Value": "The size of the structure."
+            },
+            {
+                "Key": "Need ground building Scr",
+                "Value": "Ground is needed to be activated."
+            },
+            {
+                "Key": "Need citizen building Scr",
+                "Value": "To be activated, a ratizen needs to be assigned."
+            },
+            {
+                "Key": "Building cost Scr",
+                "Value": "Money paid to the ratizen who built this structure."
+            },
+            {
+                "Key": "Only one building Scr",
+                "Value": "Only one can exist in the whole city."
+            },
+            {
+                "Key": "Wage Scr",
+                "Value": "The ratizen assigned to this structure gets paid every day."
+            },
+            {
+                "Key": "Storage Scr",
+                "Value": "Resources can be kept in this structure."
+            },
+            {
+                "Key": "Health recovery Scr",
+                "Value": "Resting will restore [A] HP."
+            },
+            {
+                "Key": "Moving speed road Scr",
+                "Value": "Affects the speed of the one moving above."
+            },
+            {
+                "Key": "Queen interaction Scr",
+                "Value": "A Leader-interactive structure."
+            },
+            {
+                "Key": "Immigrant visit Scr",
+                "Value": "New migrants arrives every certain period of time."
+            },
+            {
+                "Key": "Trade Scr",
+                "Value": "Allows to trade resources with other cities"
+            },
+            {
+                "Key": "Railroad Scr",
+                "Value": "Allows to move faster with cart when interacted."
+            },
+            {
+                "Key": "Loan Product Scr",
+                "Value": "Allows to get loans from other cities."
+            },
+            {
+                "Key": "Exchange Scr",
+                "Value": "Allows to exchange Pia to the other currency."
+            },
+            {
+                "Key": "Establish Scr",
+                "Value": "Allows to set up new policies for the city."
+            },
+            {
+                "Key": "Collect tax",
+                "Value": "For each task completed by an assigned citizen, taxes of the citizen with the highest tax burden are collected."
+            },
+            {
+                "Key": "Stats check Scr",
+                "Value": "Allows to check various statistics of the city."
+            },
+            {
+                "Key": "Funeral Scr",
+                "Value": "Allows the placed dead to rest in peace."
+            },
+            {
+                "Key": "Delievery Scr",
+                "Value": "Transport resources to another storage."
+            },
+            {
+                "Key": "Loan repayment lack Scr",
+                "Value": "Not enough savings to repay."
+            },
+            {
+                "Key": "Loan and repayment Scr",
+                "Value": "Loan from other cities. \nInterests will be paid automatically from savings at 0 o'clock."
+            },
+            {
+                "Key": "Location unusable",
+                "Value": "The location cannot be specified."
+            },
+            {
+                "Key": "Loans received",
+                "Value": "Loan received."
+            },
+            {
+                "Key": "Repayment of a loan",
+                "Value": "Successfully repaid."
+            },
+            {
+                "Key": "Repayment of interest",
+                "Value": "Successfully paid interest."
+            },
+            {
+                "Key": "Refuse Immigration Group Scr",
+                "Value": "Are you sure to send back the migrants and seek for new people?\n(The gauge will be initialized)"
+            },
+            {
+                "Key": "Stand by",
+                "Value": "Let them wait"
+            },
+            {
+                "Key": "Send back",
+                "Value": "Send them away"
+            },
+            {
+                "Key": "No Rebellion Scr",
+                "Value": "Stays in peace for a while."
+            },
+            {
+                "Key": "StorageUI_Title Scr",
+                "Value": "You can take out the resources stored, or put in the resources holding."
+            },
+            {
+                "Key": "Limitation of sales resources Scr",
+                "Value": "Set resources that are allowed for ratizens to purchase from this storage."
+            },
+            {
+                "Key": "Purchase Resource Limits Scr",
+                "Value": "Set resources that are allowed for ratizens to put in this storage."
+            },
+            {
+                "Key": "Service Effect Scr",
+                "Value": "Unique effect of the structure given to the customers."
+            },
+            {
+                "Key": "Commercial law Scr",
+                "Value": "Legislate laws to modify the value given to the goods, labors, and structure usage."
+            },
+            {
+                "Key": "Welfare law Scr",
+                "Value": "Legislate laws to improve welfare."
+            },
+            {
+                "Key": "Commercial law state Scr",
+                "Value": "Modify the set commercial laws."
+            },
+            {
+                "Key": "Commercial law price Scr",
+                "Value": "Set the prices."
+            },
+            {
+                "Key": "Commercial law labor price Scr",
+                "Value": "Modify the prices of the labor."
+            },
+            {
+                "Key": "Commercial law resource Scr",
+                "Value": "Modify the price of a resource."
+            },
+            {
+                "Key": "Welfare law price Scr",
+                "Value": "Set the amount to support."
+            },
+            {
+                "Key": "Welfare law state Scr",
+                "Value": "Modify the set welfare laws."
+            },
+            {
+                "Key": "Consumable items Scr",
+                "Value": "Set the item to be affected when used."
+            },
+            {
+                "Key": "Building tax Scr",
+                "Value": "Set the structure to be affected when used."
+            },
+            {
+                "Key": "Welfare law resource Scr",
+                "Value": "Set the item to be affected when used."
+            },
+            {
+                "Key": "Commercial law building Scr",
+                "Value": "Set the structure to be affected when used."
+            },
+            {
+                "Key": "BarrackUI Scr",
+                "Value": "Choose a type of the soldier to train. \nThe soldiers will have different abilities following their types."
+            },
+            {
+                "Key": "GraveUI Scr",
+                "Value": "Dead ratizens can be kept in peace."
+            },
+            {
+                "Key": "ProsUI title",
+                "Value": "The city is booming with prosperity!"
+            },
+            {
+                "Key": "ProsUI Blueprint",
+                "Value": "New blueprints unlocked"
+            },
+            {
+                "Key": "ProsUI Policy",
+                "Value": "Policies capacity"
+            },
+            {
+                "Key": "ProsUI Citizen",
+                "Value": "Population limit"
+            },
+            {
+                "Key": "ProsUI Citizen level",
+                "Value": "Base ability level of new migrants"
+            },
+            {
+                "Key": "Leader death",
+                "Value": "The Realm Falls"
+            },
+            {
+                "Key": "DieHunger Scr",
+                "Value": "This ratizen is under starvation. The ratizen might perish without foods."
+            },
+            {
+                "Key": "Faint Scr",
+                "Value": "This ratizen fainted, due to lack of sleep. The ratizen will wake up after a certain time."
+            },
+            {
+                "Key": "Rebellion Scr",
+                "Value": "Now in the middle of uprising!"
+            },
+            {
+                "Key": "RebellionSign Scr",
+                "Value": "This ratizen is protesting, and will delude the other ratizens for a certain time. If not treated well, those who are not happy enough might revolt."
+            },
+            {
+                "Key": "CombatMode Scr",
+                "Value": "In the middle of combat. The ratizen will not go to fulfill their needs."
+            },
+            {
+                "Key": "Quest chasing Scr",
+                "Value": "This ratizen has a request."
+            },
+            {
+                "Key": "Injury Scr",
+                "Value": "This ratizen got heavily wounded."
+            },
+            {
+                "Key": "JobPassive Scr",
+                "Value": "This effect is given from the assigned ratizen."
+            },
+            {
+                "Key": "MilitaryPassive Scr",
+                "Value": "This effect is given from the soldier type."
+            },
+            {
+                "Key": "Dazzle Scr",
+                "Value": "This ratizen got deluded by the protester."
+            },
+            {
+                "Key": "DeadBody Scr",
+                "Value": "This ratizen witnessed a corpse and got shocked."
+            },
+            {
+                "Key": "Weather Scr",
+                "Value": "This ratizen is under the weather effect."
+            },
+            {
+                "Key": "Grade Scr",
+                "Value": "This ratizen is affected by the involved social classes."
+            },
+            {
+                "Key": "Character Scr",
+                "Value": "This ratizen is affected by own characteristics."
+            },
+            {
+                "Key": "NoMoney Scr",
+                "Value": "This ratizen is not happy due to the unpaid issues from the government."
+            },
+            {
+                "Key": "NewHope Scr",
+                "Value": "This ratizen is filled with the hope of new settlement."
+            },
+            {
+                "Key": "Wet Scr",
+                "Value": "The ratizen got all wet."
+            },
+            {
+                "Key": "Event Scr",
+                "Value": "This ratizen is affected by the outcome of the recent event."
+            },
+            {
+                "Key": "EventChasing Scr",
+                "Value": "This ratizen has a request so moves faster to ask for it."
+            },
+            {
+                "Key": "Propert range below",
+                "Value": "Wealth [X] or less"
+            },
+            {
+                "Key": "Durability Scr",
+                "Value": "This structure deals [A] damage to itself when activated."
+            },
+            {
+                "Key": "Make policy check",
+                "Value": "Apply the new policy?"
+            },
+            {
+                "Key": "DoorUI Title Scr",
+                "Value": "Options for the gates can be set."
+            },
+            {
+                "Key": "Need ceiling Scr",
+                "Value": "Ceilings are needed to be activated."
+            },
+            {
+                "Key": "DoorOption1 Scr",
+                "Value": "Allow all ratizens."
+            },
+            {
+                "Key": "DoorOption2 Scr",
+                "Value": "Allow the leader."
+            },
+            {
+                "Key": "DoorOption3 Scr",
+                "Value": "Allow the leader and soldiers."
+            },
+            {
+                "Key": "DoorOption4 Scr",
+                "Value": "Keep opened."
+            },
+            {
+                "Key": "DoorOption5 Scr",
+                "Value": "Keep closed."
+            },
+            {
+                "Key": "DoorOption6 Scr",
+                "Value": "Allow the leader, middle class, and above."
+            },
+            {
+                "Key": "DoorOption7 Scr",
+                "Value": "Allow the leader and high class."
+            },
+            {
+                "Key": "QueenPassiveBuff Scr",
+                "Value": "Effect gained from the leader."
+            },
+            {
+                "Key": "Armor Scr",
+                "Value": "Decreases damage taken with the amount."
+            },
+            {
+                "Key": "MaxHP Scr",
+                "Value": "Increases the user's max HP."
+            },
+            {
+                "Key": "DrownX Scr",
+                "Value": "Prevent the user from drowning."
+            },
+            {
+                "Key": "BurnX Scr",
+                "Value": "Prevent the user from burning."
+            },
+            {
+                "Key": "KnockX Scr",
+                "Value": "Prevent the user from knock back."
+            },
+            {
+                "Key": "FallX Scr",
+                "Value": "Prevent the damage from falling."
+            },
+            {
+                "Key": "CrimX Scr",
+                "Value": "Does not commit crimes."
+            },
+            {
+                "Key": "Dodge Scr",
+                "Value": "Evade damage with a chance."
+            },
+            {
+                "Key": "Resurrection Scr",
+                "Value": "When HP reaches 0, resurrects with full HP at the same place."
+            },
+            {
+                "Key": "HpGen Scr",
+                "Value": "Recovers HP with cycle."
+            },
+            {
+                "Key": "HaBuff Scr",
+                "Value": "Enhances happiness of ratizens by [A] when encountered."
+            },
+            {
+                "Key": "Ratdrake Scr",
+                "Value": "Placing a wounded ratizen in a bed will immediately restore them to full HP."
+            },
+            {
+                "Key": "Main Demo Scr",
+                "Value": "The demo can only be played until [A] days.\\nThank you for playing."
+            },
+            {
+                "Key": "Main Demo Scr2",
+                "Value": "Thank you for playing Ratopia demo version!"
+            },
+            {
+                "Key": "Citizen recruitment",
+                "Value": "Now you can accepts migrants."
+            },
+            {
+                "Key": "Research ready",
+                "Value": "It is time to do some researches."
+            },
+            {
+                "Key": "Title demo scr",
+                "Value": "Ratopia is in <color=#FFCD00>early development stage</color>. On this demo, you can play until <color=#FFCD00>day {{DAY}}</color>. While playing, you might experience various bugs. \n\nIf you find any bugs or if you have idea for the game, please let us know through our <color=#FFCD00>Discord</color> channel. The button is on the menu, and the title screen."
+            },
+            {
+                "Key": "Title demo scr2",
+                "Value": ""
+            },
+            {
+                "Key": "Building Setting Scr",
+                "Value": "Improve efficiency of the structure by adjusting details."
+            },
+            {
+                "Key": "Thorn Scr",
+                "Value": "Deals [A] damage back to the enemy attacked."
+            },
+            {
+                "Key": "Bomb Scr",
+                "Value": "When destroyed, deals [A] damage to the surroundings and be removed."
+            },
+            {
+                "Key": "NoMaterial Scr",
+                "Value": "This structure will not return materials when destroyed."
+            },
+            {
+                "Key": "Bank no repayment Scr",
+                "Value": "There is no repayment due. \nThe interest will be paid from the savings at 0 o'clock every day."
+            },
+            {
+                "Key": "Repay Scr",
+                "Value": "Would you like to repay the loaned product?"
+            },
+            {
+                "Key": "Loan Scr",
+                "Value": "Would you like to use the following loan?"
+            },
+            {
+                "Key": "House batch Scr",
+                "Value": "Residential settings can be modified."
+            },
+            {
+                "Key": "House option1 Scr",
+                "Value": "When a ratizen who wants to sleep is nearby, the ratizen will be automatically assigned to the bed."
+            },
+            {
+                "Key": "House option2 Scr",
+                "Value": "Keep empty until assigned manually."
+            },
+            {
+                "Key": "Research point Scr",
+                "Value": "You can research new buildings by spending research points."
+            },
+            {
+                "Key": "Skill activation Scr",
+                "Value": "Pray for the power of shrine?"
+            },
+            {
+                "Key": "Research cancel",
+                "Value": "Cancel research."
+            },
+            {
+                "Key": "Welfarelaw regular grant Scr",
+                "Value": "Provide supports regularly."
+            },
+            {
+                "Key": "Welfarelaw resource grant Scr",
+                "Value": "Provide supports when purchasing resource."
+            },
+            {
+                "Key": "Commercial law res price Scr",
+                "Value": "Change the price of a resource."
+            },
+            {
+                "Key": "Commercial law work price Scr",
+                "Value": "Change the price of a labor."
+            },
+            {
+                "Key": "Commercial law right change Scr",
+                "Value": "Change the resource consuming class."
+            },
+            {
+                "Key": "Commercial law service right Scr",
+                "Value": "Change the service consuming class."
+            },
+            {
+                "Key": "Repair system Scr",
+                "Value": "Restores the health of nearby buildings that have been damaged."
+            },
+            {
+                "Key": "Push away Scr",
+                "Value": "Knocks back the target in a specific direction."
+            },
+            {
+                "Key": "Trap attack Scr",
+                "Value": "Deals [A] damage to target"
+            },
+            {
+                "Key": "Passlock Scr",
+                "Value": "Only the ratizens with specified conditions can pass."
+            },
+            {
+                "Key": "Lift Scr",
+                "Value": "You can quickly move vertically by elevator."
+            },
+            {
+                "Key": "Activate skill Scr",
+                "Value": "The Passive effects and Active skills of the activated shrine can be utilized by offering tributes."
+            },
+            {
+                "Key": "WaterAbsorption Scr",
+                "Value": "Absorbs the liquid above."
+            },
+            {
+                "Key": "Jobless Scr",
+                "Value": "Affects only to ratizens without a job."
+            },
+            {
+                "Key": "Ask make equipment",
+                "Value": "Forge the equipment?"
+            },
+            {
+                "Key": "Not enough material",
+                "Value": "There are insufficient materials for production."
+            },
+            {
+                "Key": "Unequip ask Scr",
+                "Value": "Unequip the item?"
+            },
+            {
+                "Key": "Ask equip equipment",
+                "Value": "Equip the item?"
+            },
+            {
+                "Key": "Set schedule Scr",
+                "Value": "Set daily schedule for Ratizens."
+            },
+            {
+                "Key": "FreeTime Scr",
+                "Value": "Ratizens take action on their own to prioritize what they need."
+            },
+            {
+                "Key": "JobTime Scr",
+                "Value": "Restricts ratizens actions to labor and occupational activities."
+            },
+            {
+                "Key": "RestTime Scr",
+                "Value": "Restricts ratizens actions to sleep and fulfill the needs."
+            },
+            {
+                "Key": "SleepTime Scr",
+                "Value": "Restricts ratizens actions to sleep."
+            },
+            {
+                "Key": "Law priority Scr",
+                "Value": "Set priorities for the law. \nLower the number, the higher priority."
+            },
+            {
+                "Key": "Labor law Scr",
+                "Value": "Enact laws related to the labor of ratizens."
+            },
+            {
+                "Key": "GiveGold Scr",
+                "Value": "Gives [A] to each"
+            },
+            {
+                "Key": "CollectGold Scr",
+                "Value": "Collect [A] from each"
+            },
+            {
+                "Key": "SetState Scr",
+                "Value": "Change the state:"
+            },
+            {
+                "Key": "TargetMove Scr",
+                "Value": "Use [AllDir2] to aim at <sprite name=FS_QuestMark>!"
+            },
+            {
+                "Key": "Welfare payment Scr",
+                "Value": "Choose the welfare method."
+            },
+            {
+                "Key": "Change serviceprice Scr",
+                "Value": "Change the usage fee of the service building."
+            },
+            {
+                "Key": "Comlaw labor Scr",
+                "Value": "Specify the task to be applied."
+            },
+            {
+                "Key": "Add product condition Scr",
+                "Value": "Adds a task condition."
+            },
+            {
+                "Key": "Delete product condition Scr",
+                "Value": "Deletes a task condition."
+            },
+            {
+                "Key": "Task condition Scr",
+                "Value": "When condition does not match, stops producing or move to the next product."
+            },
+            {
+                "Key": "More than a",
+                "Value": "Produce if more than [A]"
+            },
+            {
+                "Key": "Less than a",
+                "Value": "Produce if less than [A]"
+            },
+            {
+                "Key": "Remote management Scr",
+                "Value": "Structures within the range can be managed with Statistics page."
+            },
+            {
+                "Key": "Plant care Scr",
+                "Value": "Cultivate plants within the range. Growth rate increases by [A]%."
+            },
+            {
+                "Key": "Need water tile Scr",
+                "Value": "This structure needs water tiles around to be functional"
+            },
+            {
+                "Key": "Criminal Scr",
+                "Value": "Committed Crime."
+            },
+            {
+                "Key": "Serious criminal Scr",
+                "Value": "Committed Serious Crime."
+            },
+            {
+                "Key": "Criminal damage Scr",
+                "Value": "Victimized by Crime."
+            },
+            {
+                "Key": "Spiderweb Scr",
+                "Value": "Caught in the spider web."
+            },
+            {
+                "Key": "Deviltemp Scr",
+                "Value": "Possibility of committing Crime again.\nIncreases by [A]% for every crimes committed."
+            },
+            {
+                "Key": "Hope Scr",
+                "Value": "Feels hopeful after facing the leader."
+            },
+            {
+                "Key": "Targetspd down Scr",
+                "Value": "Slows movement speed of target enemy."
+            },
+            {
+                "Key": "MoneyCure Scr",
+                "Value": "Feeling happy after receiving financial support."
+            },
+            {
+                "Key": "Imprison Scr",
+                "Value": "Imprison criminals for a certain time to resocialize."
+            },
+            {
+                "Key": "DungeonEnter Scr",
+                "Value": "Enter the dungeon."
+            },
+            {
+                "Key": "SoloEnter Scr",
+                "Value": "Enter Alone."
+            },
+            {
+                "Key": "PartyEnter Scr",
+                "Value": "Enter with Squads."
+            },
+            {
+                "Key": "Return Scr",
+                "Value": "Return to home."
+            },
+            {
+                "Key": "Return from dungeon",
+                "Value": "Returning from the expedition."
+            },
+            {
+                "Key": "Group flag color Scr",
+                "Value": "Set the group's flag color."
+            },
+            {
+                "Key": "BellBell Scr",
+                "Value": "Temporarily command the Ratizens within range to gather at the Bell Tower."
+            },
+            {
+                "Key": "Dungeon reward Scr",
+                "Value": "Choose the reward to take back to the city."
+            },
+            {
+                "Key": "Reward select popup",
+                "Value": "Leave the dungeon with the selected reward?"
+            },
+            {
+                "Key": "Target plant Scr",
+                "Value": "Select a plant to take care of."
+            },
+            {
+                "Key": "PlusMat Scr",
+                "Value": "Gets [A]% chance to get an additional resource when mining."
+            },
+            {
+                "Key": "Poisoned Scr",
+                "Value": "Takes poison damage regularly."
+            },
+            {
+                "Key": "Dew product Scr",
+                "Value": "Drops water every 0 o'clock."
+            },
+            {
+                "Key": "ThornB Scr",
+                "Value": "Deals [A] damage on contact."
+            },
+            {
+                "Key": "KnockB Scr",
+                "Value": "Pushes contacted enemy away."
+            },
+            {
+                "Key": "CityHappy Scr",
+                "Value": "Happiness given to all ratizens."
+            },
+            {
+                "Key": "WeaselMonument Effect",
+                "Value": "Incease the relationship with explored countries by [A]."
+            },
+            {
+                "Key": "Fix range Scr",
+                "Value": "This structure has fixed affecting range."
+            },
+            {
+                "Key": "Law enforcement Scr",
+                "Value": "Arrest criminals and suppress rebels."
+            },
+            {
+                "Key": "Exploration Scr",
+                "Value": "Explore the uncharted areas on the map."
+            },
+            {
+                "Key": "Pack formation Scr",
+                "Value": "Distinguish ratizens into groups."
+            },
+            {
+                "Key": "Equipment manufacturing Scr",
+                "Value": "Forge or change the leader's exclusive equipment."
+            },
+            {
+                "Key": "Squad setup Scr",
+                "Value": "Form a squad to give direct orders."
+            },
+            {
+                "Key": "Status state Scr",
+                "Value": "The State affects on the ratizen's actions. Due to the state, some actions could be restricted and instead other actions might be performed."
+            },
+            {
+                "Key": "Status status effect Scr",
+                "Value": "The Status Effects are gained through various aspects, and they affect on the ratizen's abilities."
+            },
+            {
+                "Key": "Status food Scr",
+                "Value": "The Food can be restored by food consumption. ratizens in hunger will lose this points, and if last too long, they will die of starvation."
+            },
+            {
+                "Key": "Status joy Scr",
+                "Value": "The Joy can be restored by using certain service facilities. ratizens who could not enjoy enough will lose this points, and if last too long, they will fall into boredom."
+            },
+            {
+                "Key": "Status hygiene Scr",
+                "Value": "The Hygiene can be restored by using certain service facilities. ratizens who did not clean themselves will lost this points, and if last too long, they will get sick."
+            },
+            {
+                "Key": "Status necessity Scr",
+                "Value": "The Necessity can be charged up by consuming necessities. Each of the necessities gives an useful effect to the ratizen. The ratizens with more fullfiled necessities has higher chance to get in the upper classes, and will feel more satisfied."
+            },
+            {
+                "Key": "Status income satis Scr",
+                "Value": "Income satisfaction depends on the average of recent earnings of the ratizen. As the ratizen gets relatively higher income, the higher satisfaction will be followed."
+            },
+            {
+                "Key": "Status tax satis Scr",
+                "Value": "Tax compliance depends on the average of recently taxed amount of the ratizen. As the ratizen pays less amount of tax, the higher compliance will be followed."
+            },
+            {
+                "Key": "Action log bankrupted",
+                "Value": "The ratizen got bankrupt! How could someone use up all the money until this point?"
+            },
+            {
+                "Key": "Action log contracted",
+                "Value": "The ratizen got assigned to a bed."
+            },
+            {
+                "Key": "Action log died",
+                "Value": "Due to the stacked damage, or because of status already had, the ratizen died."
+            },
+            {
+                "Key": "Action log emigrated",
+                "Value": "The ratizen newly arrived to the city."
+            },
+            {
+                "Key": "Action log fired",
+                "Value": "The ratizen got dismissed from the placed workspace."
+            },
+            {
+                "Key": "Action log grade",
+                "Value": ""
+            },
+            {
+                "Key": "Action log grade1",
+                "Value": "The ratizen got into Poor Class due to the changes in wealth or Necessity sufficiency."
+            },
+            {
+                "Key": "Action log grade2",
+                "Value": "The ratizen got into Middle Class due to the changes in wealth or Necessity sufficiency."
+            },
+            {
+                "Key": "Action log grade3",
+                "Value": "The ratizen got into High Class due to the changes in wealth or Necessity sufficiency."
+            },
+            {
+                "Key": "Action log hired",
+                "Value": "The ratizen got assigned to the workplace."
+            },
+            {
+                "Key": "Action log striked",
+                "Value": "The ratizen went on strike because of a lack of happiness."
+            },
+            {
+                "Key": "Action log immigration",
+                "Value": "The ratizen planned to migrate because of a lack of happiness."
+            },
+            {
+                "Key": "Action log revolted",
+                "Value": "The ratizen revolted because of a lack of happiness."
+            },
+            {
+                "Key": "Action log injured",
+                "Value": "The ratizen got wounded because of severe damage."
+            },
+            {
+                "Key": "Action log released",
+                "Value": "The ratizen got dismissed from the bed."
+            },
+            {
+                "Key": "Action log crimed",
+                "Value": "The ratizen committed crime."
+            },
+            {
+                "Key": "Action log imprisoned",
+                "Value": "The ratizen got imprisoned."
+            },
+            {
+                "Key": "Citizeninfo income detail",
+                "Value": "Detailed information of a ratizen's income."
+            },
+            {
+                "Key": "Imposed taxes detail",
+                "Value": "Unpaid tax charged to the ratizen. This can be collected by using [Interaction] when the ratizen is in the aimed area."
+            },
+            {
+                "Key": "Tax law detail",
+                "Value": "Impose tax on ratizen with certain standard every certain period of time."
+            },
+            {
+                "Key": "Strength detail",
+                "Value": "Strength is one of the most important basic abilities to survive in the wild. Strong ratizens can transport more resources at once, and deal more damage to the opponents."
+            },
+            {
+                "Key": "Dexterity detail",
+                "Value": "Dexterity is a helpful ability to move and act agile. Dexterous ratizens can produce delicate resources, offer greater quality of services, and move faster. "
+            },
+            {
+                "Key": "Intelligence detail",
+                "Value": "Intelligence is a helpful ability when there is a need of brilliant ideas. Intelligent ratizens gain experience more quickly than others, and are able to work more efficiently on many city-needed jobs."
+            },
+            {
+                "Key": "Filter detail",
+                "Value": "Select filters to apply visible effects."
+            },
+            {
+                "Key": "Sample citizen comment",
+                "Value": "This is fine... to live I guess."
+            },
+            {
+                "Key": "Sample  index comment",
+                "Value": "Everything is gonna be okay."
+            },
+            {
+                "Key": "Happiness details",
+                "Value": "The Happiness shows ratizen's welfare level. Happier ratizens will work with better quality than the other. When too low, they will struggle actively to change the situation."
+            },
+            {
+                "Key": "Stamina details",
+                "Value": "The Stamina shows the energy of the ratizen for actions. Ratizens with low stamina will go to sleep. If they could not get enough rest in time, they might faint. Sleeping in beds will charge up stamina faster."
+            },
+            {
+                "Key": "Health details",
+                "Value": "The ratizens with low health point will faint, and when it reaches 0, they die."
+            },
+            {
+                "Key": "Attack details",
+                "Value": "The ratizens with higher attack power deal more damages on enemies with each attacks."
+            },
+            {
+                "Key": "Attack speed details",
+                "Value": "The ratizens with higher attack speed can attack more in a same time."
+            },
+            {
+                "Key": "Moving speed details",
+                "Value": "The ratizens with higher moving speed can move faster in a same time."
+            },
+            {
+                "Key": "Working speed details",
+                "Value": "The ratizens with higher working speed can work more in a same time."
+            },
+            {
+                "Key": "Carrying details",
+                "Value": "The ratizens with higher carrying capacity can carry more at once."
+            },
+            {
+                "Key": "Exp bonus details",
+                "Value": "The ratizens with higher experience bonus gets more experience with the same work."
+            },
+            {
+                "Key": "Trade details",
+                "Value": "Select the resources to export/import.\nThe higher the Relations, the closer the trade value is to the standard price."
+            },
+            {
+                "Key": "Trade number details",
+                "Value": "Choose amount of resources to trade for every cycle. Depends on the prosperity of the opponent, more can be traded at once. "
+            },
+            {
+                "Key": "Trade period details",
+                "Value": "Set a duration of the trade agreement. The trade cycle is proportional to the distance from the opposing city. When the expiration reached, the trade stops."
+            },
+            {
+                "Key": "Trade storage details",
+                "Value": "Choose storage to put in or take out the resources to trade."
+            },
+            {
+                "Key": "Trade condition ongoing",
+                "Value": "This trade is going on without a problem."
+            },
+            {
+                "Key": "Trade condition expired",
+                "Value": "This trade deals has expired."
+            },
+            {
+                "Key": "Trade condition stopped storage",
+                "Value": "Cannot use the storage for the trade."
+            },
+            {
+                "Key": "Trade condition stopped financial",
+                "Value": "Cannot continue trade due to the financial issue."
+            },
+            {
+                "Key": "Trade condition stopped resource",
+                "Value": "Cannot continue trade due to the resources issue."
+            },
+            {
+                "Key": "Trade condition stopped relations",
+                "Value": "In order to trade, better relationship required."
+            },
+            {
+                "Key": "Trade condition stopped broken center",
+                "Value": "The trading center has been destroyed."
+            },
+            {
+                "Key": "Trade popup all used resource",
+                "Value": "All the resources are under the contract to trade already."
+            },
+            {
+                "Key": "Trade alarm info",
+                "Value": "Trading reports for yesterday:"
+            },
+            {
+                "Key": "Trade alarm imported",
+                "Value": "Imported : {{DAR}} / {{PIA}}"
+            },
+            {
+                "Key": "Trade alarm exported",
+                "Value": "Exported : {{DAR}} / {{PIA}}"
+            },
+            {
+                "Key": "Trade alarm expired",
+                "Value": "{{COUNT}} contracts got expired."
+            },
+            {
+                "Key": "Trade alarm failed",
+                "Value": "{{COUNT}} contracts failed."
+            },
+            {
+                "Key": "Empty territory",
+                "Value": "An empty territory."
+            },
+            {
+                "Key": "Dip give gift",
+                "Value": "Present a gift to increase <sprite name=FS_Relations>Relations?"
+            },
+            {
+                "Key": "Dip cannot give gift",
+                "Value": "Not enough money to present."
+            },
+            {
+                "Key": "Dip not enough currency",
+                "Value": "Not enough money."
+            },
+            {
+                "Key": "Dip increase relation",
+                "Value": "<sprite name=FS_Relations>Relations increased."
+            },
+            {
+                "Key": "Dip maximum relation",
+                "Value": "Maximum <sprite name=FS_Relations>Relations."
+            },
+            {
+                "Key": "Dip not enough relations",
+                "Value": "{{RELATIONS}} <sprite name=FS_Relations>Relations is needed to make trade contract."
+            },
+            {
+                "Key": "Dip not expired trade sheet",
+                "Value": "Only the expired can be renewed."
+            },
+            {
+                "Key": "Dip already trading resource",
+                "Value": "A contract for the resource already exists."
+            },
+            {
+                "Key": "Dip full trade sheet",
+                "Value": "Trading slot is full. Please check the slots to make additional contract."
+            },
+            {
+                "Key": "Dip new trade",
+                "Value": "Make a new contract?"
+            },
+            {
+                "Key": "Dip cannot new trade",
+                "Value": "You cannot add more contract. Only {{COUNT}} contracts can be made at the same time. "
+            },
+            {
+                "Key": "Dip fulfill contract",
+                "Value": "Would you like to initiate the contract?"
+            },
+            {
+                "Key": "Dip modify contract",
+                "Value": "Would you like to modify the terms of the contract?"
+            },
+            {
+                "Key": "Dip apply modification",
+                "Value": "Would you like to apply the modification?"
+            },
+            {
+                "Key": "Dip renew contract",
+                "Value": "Would you like to renew the contract?"
+            },
+            {
+                "Key": "Dip apply renewal",
+                "Value": "Would you like to initiate the renewal?"
+            },
+            {
+                "Key": "Dip abrogate contract",
+                "Value": "Would you like to abrogate the contract?"
+            },
+            {
+                "Key": "Dip relation decrease",
+                "Value": "{{RELATIONS}} will be reduced by {{COUNT}} points."
+            },
+            {
+                "Key": "Dip missing selection",
+                "Value": "All the options have to be filled in."
+            },
+            {
+                "Key": "Dip hold off tradesheet",
+                "Value": "Would you quit from making a contract?"
+            },
+            {
+                "Key": "Dip Agreement Trade",
+                "Value": "The contract has been initiated."
+            },
+            {
+                "Key": "Dip explore start",
+                "Value": "Begin an Exploration?\nExploring takes time depending on the distance."
+            },
+            {
+                "Key": "Dip explore stop to start",
+                "Value": ""
+            },
+            {
+                "Key": "Dip explore stop",
+                "Value": "Stop the explore?\nOngoing progress will be lost."
+            },
+            {
+                "Key": "Dip reserve explore",
+                "Value": "Reserve the explore?"
+            },
+            {
+                "Key": "Dip reserve explore stop",
+                "Value": "Stop the reserved explore?"
+            },
+            {
+                "Key": "Dip explore too far",
+                "Value": "Need to explore route to the place."
+            },
+            {
+                "Key": "Dip explorable area",
+                "Value": "Unknown area with vast land."
+            },
+            {
+                "Key": "Dip exploring area",
+                "Value": "Explore ongoing."
+            },
+            {
+                "Key": "Dip reserved exploring area",
+                "Value": "Reserved explore."
+            },
+            {
+                "Key": "Dip not explored area",
+                "Value": "Not exploring."
+            },
+            {
+                "Key": "Dip explore successed",
+                "Value": "Explore complete."
+            },
+            {
+                "Key": "Dip full explore queue",
+                "Value": "Explore queue is full."
+            },
+            {
+                "Key": "Dip destroyed dip center",
+                "Value": "Diplomatic Office deactivated."
+            },
+            {
+                "Key": "Dip repaired dip center",
+                "Value": "Diplomatic Office re-activated."
+            },
+            {
+                "Key": "Dip storage missing",
+                "Value": "Cannot find the storage."
+            },
+            {
+                "Key": "Loading prologue",
+                "Value": "I wonder how far I have got.\nFinally, those assassins seem to be giving up.\nBut my loyal subjects are all gone too.\n\nGuess I will have to stay here and brace myself.\nPerhaps, this place might become the new home."
+            },
+            {
+                "Key": "Confirming key to change",
+                "Value": "Press a key to change."
+            },
+            {
+                "Key": "Confirming key to bind",
+                "Value": "Press a key to bind."
+            },
+            {
+                "Key": "Confirming confirm",
+                "Value": "Apply the changes?"
+            },
+            {
+                "Key": "Confirming changes",
+                "Value": "There are changes that haven't been applied. \nApply the changes before exit?"
+            },
+            {
+                "Key": "Restart the common by language scr",
+                "Value": "Restarting the game is needed to apply the changes. Do you want to restart now?"
+            },
+            {
+                "Key": "Restart the ingame by language scr",
+                "Value": "Restarting the game is needed to apply the changes. Do you want to restart now? Any unsaved progress will be lost."
+            },
+            {
+                "Key": "Confirming restore default",
+                "Value": "Are you sure to restore all the changes to default?"
+            },
+            {
+                "Key": "Confirming set empty",
+                "Value": "Are you sure to empty the assigned key?"
+            },
+            {
+                "Key": "Confirming conflict key",
+                "Value": "Conflicting key. Apply the changes?"
+            },
+            {
+                "Key": "Confirming overlap change",
+                "Value": "Applied {{HK_ICON}} key is already set to [{{HK_SLOT_KEY}}] {{HK_ICON}}. \nAre you sure to apply the change?"
+            },
+            {
+                "Key": "Popup empty load file",
+                "Value": "No save files exist."
+            },
+            {
+                "Key": "Popup delete all files warning",
+                "Value": "Are you sure to delete the user data?\nDeleted data cannot be restored."
+            },
+            {
+                "Key": "Popup delete file warning",
+                "Value": "Are you sure to delete the save file?\nDeleted files cannot be restored."
+            },
+            {
+                "Key": "Popup overwrite save file warning",
+                "Value": "Are you sure to overwrite, {{COLOR_GOLD}} {{SAVE_FILE_NAME}} ?"
+            },
+            {
+                "Key": "Popup file load failed",
+                "Value": "Failed to load the file."
+            },
+            {
+                "Key": "Popup not saved in dungeon",
+                "Value": "Cannot save in dungeons."
+            },
+            {
+                "Key": "Level easy",
+                "Value": "Ah, this is the golden plains. Build a peaceful kingdom on a land free of threats, plenty of food, abundant resources, and harmonious ratizens without quarrels."
+            },
+            {
+                "Key": "Level normal",
+                "Value": "A right place to settle down. There are problems, but where does a place not have any? There is enough land for a decent leader to build a decent kingdom."
+            },
+            {
+                "Key": "Level hard",
+                "Value": "A land filled with plagues, and the city will be filled with disgruntled ratizens. Yes, the world is full of miseries. Still, one might build a kingdom on this godforsaken land, and prove oneself as the rightful leader."
+            },
+            {
+                "Key": "Exchange ticket description",
+                "Value": "An exchange rate ticket that is drawn every day. When picked, it affects the value of Dar as written."
+            },
+            {
+                "Key": "Exchange ticket great rise description",
+                "Value": "Dar value rises greatly."
+            },
+            {
+                "Key": "Exchange ticket rise description",
+                "Value": "Dar value rises."
+            },
+            {
+                "Key": "Exchange ticket none description",
+                "Value": "Dar value stabilizes."
+            },
+            {
+                "Key": "Exchange ticket decline description",
+                "Value": "Dar value falls."
+            },
+            {
+                "Key": "Exchange ticket great decline description",
+                "Value": "Dar value falls greatly."
+            },
+            {
+                "Key": "Statistics prosperity maximum",
+                "Value": "<sprite name=FS_Prosperity>Prosperity has reached to the maximum level."
+            },
+            {
+                "Key": "Statistics economy description",
+                "Value": "Economic score is strongly related to the amount of currency circulating in the state. Try to maintain enough monetary values fits to the prosperity level of the city to get higher economic score."
+            },
+            {
+                "Key": "Statistics development description",
+                "Value": "Infrastructure score is strongly related to the number of structures built in the city. Try building many production structures and service structures, and decorate the city to get higher infrastructure score. "
+            },
+            {
+                "Key": "Statistics citizen description",
+                "Value": "Ratizen score is strongly related to the classes of the inhabitants in the city. Try distributing enough necessities and wealth to the ratizens to make them get into higher classes to get higher ratizen score."
+            },
+            {
+                "Key": "Citizeninfo grade invalid state",
+                "Value": "Under an invalid state."
+            },
+            {
+                "Key": "Citizeninfo grade poor state",
+                "Value": "In a deprived state.\nNothing is sufficient."
+            },
+            {
+                "Key": "Citizeninfo grade rich state",
+                "Value": "In a wealthy state.\nNothing is insufficient."
+            },
+            {
+                "Key": "Citizeninfo grade none state",
+                "Value": "Stably maintaining the current state."
+            },
+            {
+                "Key": "Citizeninfo grade decline all state",
+                "Value": "Needs more <sprite name=FS_Gold>wealth and <sprite name=FS_Life>necessities to maintain the current state."
+            },
+            {
+                "Key": "Citizeninfo grade decline gold state",
+                "Value": "Needs more <sprite name=FS_Gold>wealth to maintain the current state."
+            },
+            {
+                "Key": "Citizeninfo grade decline life state",
+                "Value": "Needs more <sprite name=FS_Life>wealth to maintain the current state."
+            },
+            {
+                "Key": "Citizeninfo grade rise all state",
+                "Value": "Fulfilled with all of the needs, now ready to advance to the {{GRADE}}."
+            },
+            {
+                "Key": "Citizeninfo grade rise gold state",
+                "Value": "Needs more <sprite name=FS_Gold>wealth to advance to the upper class."
+            },
+            {
+                "Key": "Citizeninfo grade rise life state",
+                "Value": "Needs more <sprite name=FS_Life>necessities to advance to the upper class."
+            },
+            {
+                "Key": "Capture save popup",
+                "Value": ""
+            },
+            {
+                "Key": "Deadbody transport Scr",
+                "Value": "Carries the body to the structure to store."
+            },
+            {
+                "Key": "Cremation Scr",
+                "Value": "Burn what has been stored."
+            },
+            {
+                "Key": "New union rule",
+                "Value": "Set for new resources that have not yet been stored."
+            },
+            {
+                "Key": "Filter economic Scr",
+                "Value": "Examine the city from the standard of wealth."
+            },
+            {
+                "Key": "Filter happiness Scr",
+                "Value": "Examine the city from the standard of happiness."
+            },
+            {
+                "Key": "Filter Injury and death Scr",
+                "Value": "Examine whether there are any injured or wounded citizens."
+            },
+            {
+                "Key": "Range Attack Scr",
+                "Value": "Deals 50% area damage."
+            },
+            {
+                "Key": "Stun Attack Scr",
+                "Value": "Stuns the enemy on hit."
+            },
+            {
+                "Key": "Criminal Filter Scr",
+                "Value": "Shows criminals in the city."
+            },
+            {
+                "Key": "Set task Scr",
+                "Value": "Sets the priority for executing orders, excluding the job assigned to the target."
+            },
+            {
+                "Key": "Task Collecting Scr",
+                "Value": "Priority of the task of transporting fallen resources to the storage when multiple types of commands are issued."
+            },
+            {
+                "Key": "Task Mining Scr",
+                "Value": "Priority of Mine Order when multiple types of commands are issued."
+            },
+            {
+                "Key": "Task PlantGather Scr",
+                "Value": "Priority of Gather Order when multiple types of commands are issued."
+            },
+            {
+                "Key": "Task MatSupply Scr",
+                "Value": "Priority of Build Order when multiple types of commands are issued. This include resource supplying progress to the blueprints."
+            },
+            {
+                "Key": "Task Repair Scr",
+                "Value": "Priority of Repair Order when multiple types of commands are issued. "
+            },
+            {
+                "Key": "Task Demolition Scr",
+                "Value": "Priority of Demolish Order when multiple types of commands are issued. "
+            },
+            {
+                "Key": "Start settings kingdom name scr",
+                "Value": "Name your city:"
+            },
+            {
+                "Key": "Start settings start season scr",
+                "Value": "Choose the season to settle down:"
+            },
+            {
+                "Key": "Start settings start biome scr",
+                "Value": "Choose the biome to settle down:"
+            },
+            {
+                "Key": "Start settings precipitation scr",
+                "Value": "Choose the precipitation of settled place:"
+            },
+            {
+                "Key": "Start settings seed scr",
+                "Value": "Write the Seed number of settled place:"
+            },
+            {
+                "Key": "Webthrower Scr",
+                "Value": "Movement Speed declined for [A]% by spider web."
+            },
+            {
+                "Key": "Start settings level custom scr",
+                "Value": "Various difficulty settings can be customized."
+            },
+            {
+                "Key": "Level very easy scr",
+                "Value": "This land is peaceful and it's inhabitants are kind. All will be pleased even without much to consume. Some say there's no heaven on earth, but that might be possible here."
+            },
+            {
+                "Key": "Level very hard scr",
+                "Value": "A godforsaken land with none survived. If not mad enough to test why this land is barren, no one will settle down here."
+            },
+            {
+                "Key": "SSCA start treasury scr",
+                "Value": "Set the amount of Savings to begin with."
+            },
+            {
+                "Key": "SSCA start resources scr",
+                "Value": "Set the amount of Resources to begin with."
+            },
+            {
+                "Key": "SSCA start research point scr",
+                "Value": "Set the amount of Research Points to begin with."
+            },
+            {
+                "Key": "SSCA immigrant level scr",
+                "Value": "Set the base ability points of the migrants."
+            },
+            {
+                "Key": "SSCA immigrant speed scr",
+                "Value": "Set the frequency of migrants' visit."
+            },
+            {
+                "Key": "SSCA start citizen count scr",
+                "Value": "Set the number of Ratizens to begin with."
+            },
+            {
+                "Key": "SSCA citizen happiness bonus scr",
+                "Value": "Set the bonus happiness points applied to all the Ratizens in the city."
+            },
+            {
+                "Key": "SSCA citizen rebellion line scr",
+                "Value": "Set the standard of happiness that Ratizens might revolt."
+            },
+            {
+                "Key": "SSCA crime frequency scr",
+                "Value": "Set the frequency of Crimes. Higher the value, the Ratizens will commit crimes more often."
+            },
+            {
+                "Key": "SSCA rest crave scr",
+                "Value": "Set the Stamina decline rate. Higher the value, the Ratizens will sleep more often."
+            },
+            {
+                "Key": "SSCA food crave scr",
+                "Value": "Set the Food decline rate. Higher the value, the Ratizens will eat more often."
+            },
+            {
+                "Key": "SSCA fun crave scr",
+                "Value": "Set the Joy decline rate. Higher the value, the Ratizens will enjoy more often."
+            },
+            {
+                "Key": "SSCA clean crave scr",
+                "Value": "Set the Hygiene decline rate. Higher the value, the Ratizens will wash more often."
+            },
+            {
+                "Key": "SSCA invasion frequency scr",
+                "Value": "Set the frequency of the enemy invasion."
+            },
+            {
+                "Key": "SSCA invasion colony count scr",
+                "Value": "Set the amount of maximum enemy bases.\n(More enemy bases might cause lagging.)"
+            },
+            {
+                "Key": "SSCA invasion weight scr",
+                "Value": "Set the amount of enemies spawning on each of their bases."
+            },
+            {
+                "Key": "SSCA plaguemole activate scr",
+                "Value": "Set whether to spawn Digger on each enemy invasions."
+            },
+            {
+                "Key": "SSCA natural disasters frequency scr",
+                "Value": "Set the frequency of the natural disasters such as Storm and Drought."
+            },
+            {
+                "Key": "SSCA natural disasters weight scr",
+                "Value": "Set the possible damage caused by the natural disasters."
+            },
+            {
+                "Key": "SSCA game event frequency scr",
+                "Value": "Set the probability of event occurrence."
+            },
+            {
+                "Key": "Waterproof Scr",
+                "Value": "Still functional even when submerged in water."
+            },
+            {
+                "Key": "Citizen thinking worst food",
+                "Value": "I am not here to starve to death!"
+            },
+            {
+                "Key": "Citizen thinking worst fun",
+                "Value": "So boring... Will anything ever happen?"
+            },
+            {
+                "Key": "Citizen thinking worst clean",
+                "Value": "Eww, I feel sticky. I need to wash!"
+            },
+            {
+                "Key": "Citizen thinking worst income",
+                "Value": "I want to be rich. Is that even possible?"
+            },
+            {
+                "Key": "Citizen thinking worst tax",
+                "Value": "Who is ruling, a thief? Why are they taking so much?"
+            },
+            {
+                "Key": "Citizen thinking worst character",
+                "Value": "Oh my, I'm going to die. Everything I hate keeps happening."
+            },
+            {
+                "Key": "Citizen thinking worst event",
+                "Value": "It was a terrible experience."
+            },
+            {
+                "Key": "Citizen thinking best food",
+                "Value": "This is what it means to live to eat!"
+            },
+            {
+                "Key": "Citizen thinking best fun",
+                "Value": "Ah, this enjoyable life! It's worth paying for!"
+            },
+            {
+                "Key": "Citizen thinking best clean",
+                "Value": "Look at my fur, I'm so shiny! I love this clean city!"
+            },
+            {
+                "Key": "Citizen thinking best life",
+                "Value": "Ah, life is fulfilling enough to afford such luxury. What should I buy today?"
+            },
+            {
+                "Key": "Citizen thinking best income",
+                "Value": "If the things just go on like this, I'd be the richest soon enough!"
+            },
+            {
+                "Key": "Citizen thinking best tax",
+                "Value": "The best welfare is not having my things taken away, says I, the Rat!"
+            },
+            {
+                "Key": "Citizen thinking best character",
+                "Value": "Oh my, I love my job so much. Everything I want keeps happening!"
+            },
+            {
+                "Key": "Citizen thinking best event",
+                "Value": "It was the best experience!"
+            },
+            {
+                "Key": "Citizen thinking worst common",
+                "Value": "I doubt the authorities have any idea."
+            },
+            {
+                "Key": "Citizen thinking normal common",
+                "Value": "It's a decent place to live, I suppose."
+            },
+            {
+                "Key": "Citizen thinking best common",
+                "Value": "Ahh. I love this city so much."
+            },
+            {
+                "Key": "Door groupstone Scr",
+                "Value": "Group set with Ratizen Registers."
+            },
+            {
+                "Key": "Buff building Scr",
+                "Value": "This structure will results following effects to the users."
+            },
+            {
+                "Key": "Set range Scr",
+                "Value": "The range of effects can be modified."
+            },
+            {
+                "Key": "OnAndOff Scr",
+                "Value": "The function can be set on and off."
+            },
+            {
+                "Key": "Place of purchase Scr",
+                "Value": "Specify the storage for purchasing material resources to be used in the Structure."
+            },
+            {
+                "Key": "Place of sale Scr",
+                "Value": "Specify the storage for selling resources produced in the Structure."
+            },
+            {
+                "Key": "House batch option Scr",
+                "Value": "Set the method for assigning individuals to vacant positions in the Structure."
+            },
+            {
+                "Key": "Task condition Scr",
+                "Value": "Set the conditions for proceeding with production tasks. Through the setting of work conditions, a limit on the number of production outputs or resources for production can be established."
+            },
+            {
+                "Key": "Purchase Settings Scr",
+                "Value": "Limit the resources that can be put into storage."
+            },
+            {
+                "Key": "Sales Settings Scr",
+                "Value": "Limit the resources that can be taken out of storage."
+            },
+            {
+                "Key": "Start settings custom to tutorial",
+                "Value": "Custom difficulties do not support Tutorials.\nWould you like to disable tutorials?"
+            },
+            {
+                "Key": "Start settings tutorial to custom",
+                "Value": "Enabling tutorials will change the difficulty setting to \"Normal\".\nWould you activate tutorials?"
+            },
+            {
+                "Key": "CustomBuff Scr",
+                "Value": "Effect based on the set difficulty level."
+            },
+            {
+                "Key": "Table Scr",
+                "Value": "Happy with convenient dining on table."
+            },
+            {
+                "Key": "BeforeTuto Warning",
+                "Value": "Previous tutorials should be finished."
+            },
+            {
+                "Key": "BuildAlarm need citizen Scr",
+                "Value": "Deactivated due to no assigned Ratizens. Assign Ratizens to activate the structure."
+            },
+            {
+                "Key": "BuildAlarm need ground Scr",
+                "Value": "Deactivated due to no base tile. Construct tiles to activate the structure."
+            },
+            {
+                "Key": "BuildAlarm flood Scr",
+                "Value": "Deactivated due to flooding. Remove the water to activate the structure."
+            },
+            {
+                "Key": "BuildAlarm need elec Scr",
+                "Value": "Deactivated due to insufficient power supply. Supply more power to activate the structure."
+            },
+            {
+                "Key": "BuildAlarm need repair Scr",
+                "Value": "The Structure has been destroyed. Repair to activate the structure."
+            },
+            {
+                "Key": "BuildAlarm need mat Scr",
+                "Value": "Deactivated due to a shortage of production materials. Supply resources to the associated storages to activate the production."
+            },
+            {
+                "Key": "BuildAlarm deactivate Scr",
+                "Value": "Currently deactivated in the detailed settings. Change the setting to 'Activated' to activate the structure."
+            },
+            {
+                "Key": "Mass product Scr",
+                "Value": "Consumption of resources and Workload are doubled, but production quantity also doubles."
+            },
+            {
+                "Key": "Telescope Scr",
+                "Value": "With the structure bserve the desired area in real-time."
+            },
+            {
+                "Key": "Change clothes Scr",
+                "Value": "The appearance of the leader can be changed using this Structure."
+            },
+            {
+                "Key": "Underground tunnel Scr",
+                "Value": "It's possible to move to other Royal Tunnels using this Structure."
+            },
+            {
+                "Key": "Service Subsidy Scr",
+                "Value": "Subsidies are provided for the use of service Structures."
+            },
+            {
+                "Key": "LostJob Scr",
+                "Value": "Unhappy due to losing a job worked more than 12 days. It will be resolved when a new job is obtained."
+            },
+            {
+                "Key": "Need GBot Scr",
+                "Value": "Deactivated due to no assigned Ratron. Assign Ratrons to activate the structure."
+            },
+            {
+                "Key": "Set battery range Scr",
+                "Value": "The range to supply power to structures using electricity can be modified."
+            },
+            {
+                "Key": "Efficiency variation Scr",
+                "Value": "The efficiency of the structure varies depending on the empty area around it. Ladders and wire structures do not obstruct the area."
+            },
+            {
+                "Key": "Direct wire connection Scr",
+                "Value": "The <color=#EA6B48>Electricity Port</color> must be connected to the <sprite name=FS_Battery><color=#EA6B48>Electricity Storage</color> structure using a <color=#EA6B48>wire</color> to be activated."
+            },
+            {
+                "Key": "Automatic wire connection Scr",
+                "Value": "Automatically connects to the nearby power storage and consumes electricity."
+            },
+            {
+                "Key": "GBot product Scr",
+                "Value": "Ratrons can be produced to work for the city."
+            },
+            {
+                "Key": "Power generation Scr",
+                "Value": "Produces up to [A] of electicity per hour, depending on conditions."
+            },
+            {
+                "Key": "Power consumption Scr",
+                "Value": "Automatically connects to the nearby power storage and consumes electricity."
+            },
+            {
+                "Key": "Power storage Scr",
+                "Value": "Stores [A] amount of <sprite name=FS_ElectricPower><color=#EA6B48>Electricity</color>. Connecting it with other <sprite name=FS_Battery><color=#EA6B48>Electricity Storage</color> structures forms an <sprite name=FS_ElecNetwork><color=#EA6B48>Electric Grid</color> that shares the stored electricity."
+            },
+            {
+                "Key": "Power supply Scr",
+                "Value": "Supplies stored electricity to structures within the range that <sprite name=FS_UseWatt><color=#EA6B48>Consume Electricity</color>."
+            },
+            {
+                "Key": "Action log construction",
+                "Value": "The structure has been constructed."
+            },
+            {
+                "Key": "Action log put in place",
+                "Value": "A Ratizen has been assigned."
+            },
+            {
+                "Key": "Action log personnel change",
+                "Value": "The assigned Ratizen has been changed."
+            },
+            {
+                "Key": "Action log layoff",
+                "Value": "The Ratizen has been unassigned."
+            },
+            {
+                "Key": "Action log put in place ratron",
+                "Value": "A Ratron has been assigned."
+            },
+            {
+                "Key": "Action log personnel change ratron",
+                "Value": "The assigned Ratron has been changed."
+            },
+            {
+                "Key": "Action log layoff ratron",
+                "Value": "The Ratron has been unassigned."
+            },
+            {
+                "Key": "Action log activated",
+                "Value": "The structure has been activated."
+            },
+            {
+                "Key": "Action log deactivated",
+                "Value": "The structure has been deactivated."
+            },
+            {
+                "Key": "Action log modified name",
+                "Value": "The name has been changed."
+            },
+            {
+                "Key": "Individual stats product",
+                "Value": "This is the information on the resources produced."
+            },
+            {
+                "Key": "Individual stats consume",
+                "Value": "This is the information on the resources consumed."
+            },
+            {
+                "Key": "Individual stats service",
+                "Value": "This is the information on the services provided."
+            },
+            {
+                "Key": "Individual stats military",
+                "Value": "This is the information on the military facilities."
+            },
+            {
+                "Key": "Individual stats electricity",
+                "Value": "This is the electricity production information."
+            },
+            {
+                "Key": "Individual stats basic",
+                "Value": "This is the general operation information."
+            },
+            {
+                "Key": "Ratron thinking default",
+                "Value": "Executing command."
+            },
+            {
+                "Key": "Ratron thinking need job",
+                "Value": "Beep-beep - Please issue a command."
+            },
+            {
+                "Key": "Ratron thinking need charger",
+                "Value": "Beep - No place to charge."
+            },
+            {
+                "Key": "Ratron thinking low fatigue",
+                "Value": "Power is low. Proceeding with charging-"
+            },
+            {
+                "Key": "Ratron thinking empty fatigue",
+                "Value": ".... power... low....."
+            },
+            {
+                "Key": "Ratron thinking charge fatigue",
+                "Value": "Charging in progress."
+            },
+            {
+                "Key": "NoBattery Scr",
+                "Value": "It has been deactivated due to the absence of a nearby structure capable of supplying electricity. To activate it, please construct an <sprite name=FS_PowerSupply><color=#EA6B48>Electricity Supply</color> structure. "
+            },
+            {
+                "Key": "Drone batch Scr",
+                "Value": "Set the tasks for the drone to perform."
+            },
+            {
+                "Key": "GBot limit Scr",
+                "Value": "Keep Ratron below [A]"
+            },
+            {
+                "Key": "Citizen grade limit Scr",
+                "Value": "[A] : Keep below [B]"
+            },
+            {
+                "Key": "Select battery Scr",
+                "Value": "Storage to draw Electricity can be specified manually."
+            },
+            {
+                "Key": "Need water line Scr",
+                "Value": "Falling water is required for the operation of the structure."
+            },
+            {
+                "Key": "Need magma Scr",
+                "Value": "This structure needs magma tiles around to be functional."
+            },
+            {
+                "Key": "Per action elec Scr",
+                "Value": "Every time the structure operates: <sprite name=FS_ElectricPower>Electricity+[A]\nMaximum per hour: <sprite name=FS_ElectricPower>Electricity+[B]"
+            },
+            {
+                "Key": "Each tile elec Scr",
+                "Value": "Inspects the tiles around the structure every hour to produce electricity.\nMaximum per hour: <sprite name=FS_ElectricPower>Electricity+[A]"
+            },
+            {
+                "Key": "Discharge Scr",
+                "Value": "It is in a discharged state having consumed all its energy."
+            },
+            {
+                "Key": "GBot script",
+                "Value": "Ratrons do not possess desires, wealth, or experience points. All outcomes of Ratron's activities are attributed to the city."
+            },
+            {
+                "Key": "Range gather target",
+                "Value": "Collectable targets within range"
+            },
+            {
+                "Key": "Mining order",
+                "Value": "Execute mining command."
+            },
+            {
+                "Key": "Building order",
+                "Value": "Execute construction command."
+            },
+            {
+                "Key": "Repair order",
+                "Value": "Execute repair command."
+            },
+            {
+                "Key": "Demolition order",
+                "Value": "Execute demolition command."
+            },
+            {
+                "Key": "Disposable Scr",
+                "Value": "This structure disappears without returning materials when destroyed."
+            },
+            {
+                "Key": "Power supply Scr",
+                "Value": "Supplies stored electricity to structures within the range that <sprite name=FS_UseWatt><color=#EA6B48>consume electricity</color>."
+            },
+            {
+                "Key": "Need sun Scr",
+                "Value": "This structure is only activated during the day. (00:00~12:00)"
+            },
+            {
+                "Key": "Power transmission Scr",
+                "Value": "It can transmit electricity by connecting to other wires and electricity ports."
+            },
+            {
+                "Key": "Wireless power transmission Scr",
+                "Value": "Forms an electric grid with specified other <sprite name=FS_Base><color=#EA6B48>Tesla Towers</color>. Tesla Towers do not need to be connected by wires."
+            },
+            {
+                "Key": "Drone deployment Scr",
+                "Value": "Sends out flying drones to quickly execute the leader's orders on behalf of the Ratizens."
+            },
+            {
+                "Key": "CCTV Scr",
+                "Value": "Increases work efficiency but decreases happiness."
+            },
+            {
+                "Key": "CCTV target",
+                "Value": "Ratizens working in structures within the effect range."
+            },
+            {
+                "Key": "Area pass taregt",
+                "Value": "Ratizens who enter the effect range."
+            },
+            {
+                "Key": "Light effect Scr",
+                "Value": "The movement speed of individuals entering the lighting range increases."
+            },
+            {
+                "Key": "Stamina Recovery Scr",
+                "Value": "The user's <sprite name=FS_Stamina><color=#EA6B48>Stamina</color> is periodically restored."
+            },
+            {
+                "Key": "GBot grow Scr",
+                "Value": "Operate Ratrons over [A]"
+            },
+            {
+                "Key": "Daily Power Consumption",
+                "Value": "Daily Electricity Consumption: [A]"
+            },
+            {
+                "Key": "Electric Damage Scr",
+                "Value": "Electrical damage transfers to nearby targets, with the damage decreasing with each transfer."
+            },
+            {
+                "Key": "Burn Damage Scr",
+                "Value": "Applies a Burn status effect to all targets within range."
+            },
+            {
+                "Key": "Dmg reduction per",
+                "Value": "Damage reduction per transfer"
+            },
+            {
+                "Key": "Merge tesla line",
+                "Value": "Electric grids [A] and [B] are connected."
+            },
+            {
+                "Key": "Cut tesla line",
+                "Value": "Electric grids [A] and [B] are disconnected."
+            },
+            {
+                "Key": "Action log destroyed ratron",
+                "Value": "Ratron has been destroyed."
+            },
+            {
+                "Key": "Action log discharged ratron",
+                "Value": "Ratron has been discharged."
+            },
+            {
+                "Key": "Action log assembled ratron",
+                "Value": "Ratron has been assembled."
+            },
+            {
+                "Key": "Action log fired ratron",
+                "Value": "The Ratron got dismissed from the placed workspace."
+            },
+            {
+                "Key": "Action log hired ratron",
+                "Value": "The Ratron got assigned to the workplace."
+            },
+            {
+                "Key": "System msg destroy ratron",
+                "Value": "Are you sure you want to activate the Kill Switch for the Ratron? Executing this function will destroy the Ratron."
+            },
+            {
+                "Key": "Elec filter Scr",
+                "Value": "The connection status and electricity figures of the entire Electric Grid can be checked."
+            },
+            {
+                "Key": "Alarm npc build engineertable",
+                "Value": "You've constructred the Engineering Workbench! Now, you can check Electicity information using the Admin function."
+            },
+            {
+                "Key": "Alarm npc assemble ratron",
+                "Value": "You've made your first Ratron! Now, you can check Ratron information using the Admin function."
+            },
+            {
+                "Key": "Mine Scr",
+                "Value": "Touching an enemy will reduce your health to 0."
+            },
+            {
+                "Key": "Product AI Scr",
+                "Value": "Can be deployed on raw materials and production structures to perform production activities."
+            },
+            {
+                "Key": "BuildAlarm need mat money Scr",
+                "Value": "The Ratizen has not enough wealth to purchase resources for production."
+            },
+            {
+                "Key": "Broadcasting Designation Scr",
+                "Value": "Select the broadcasting station structure to receive."
+            },
+            {
+                "Key": "BurnAtk Scr",
+                "Value": "Generates flames beneath the enemy to inflict damage."
+            },
+            {
+                "Key": "WaveAway Scr",
+                "Value": "Eliminate all enemies"
+            },
+            {
+                "Key": "Convenience features Scr",
+                "Value": "Provides functional convenience for structure settings."
+            },
+            {
+                "Key": "Import Settings Scr",
+                "Value": "Copies settings and task conditions from another structure and applies them to the current structure."
+            },
+            {
+                "Key": "Paste Settings Scr",
+                "Value": "Copies settings and task conditions from the current structure and applies them to another structure."
+            },
+            {
+                "Key": "Get building setting Scr",
+                "Value": "Do you want to apply the settings of the [A] building?"
+            },
+            {
+                "Key": "Copy to blueprint Scr",
+                "Value": "Places a blueprint with the same settings and task conditions as the current structure."
+            },
+            {
+                "Key": "ElecToilet buff Scr",
+                "Value": "Happiness springs from the comfortable toilet condition."
+            },
+            {
+                "Key": "Saving description",
+                "Value": "Saving..."
+            },
+            {
+                "Key": "Diary not recorded",
+                "Value": "Not Recorded."
+            },
+            {
+                "Key": "Assign only gbot Scr",
+                "Value": "To be activated, a Ratron needs to be assigned."
+            },
+            {
+                "Key": "Need worker Scr",
+                "Value": "To be activated, a worker needs to be assigned."
+            },
+            {
+                "Key": "Military AI Scr",
+                "Value": "Can be deployed in military structures to conduct combat operations."
+            },
+            {
+                "Key": "Minigame bonus Scr",
+                "Value": "Delicately produced, resulting in improved quality."
+            },
+            {
+                "Key": "Water pump Scr",
+                "Value": "Transports water to a location across from the pump."
+            },
+            {
+                "Key": "Two way Scr",
+                "Value": "Passage is possible regardless of direction."
+            },
+            {
+                "Key": "Only left Scr",
+                "Value": "Passage is only possible to the left direction."
+            },
+            {
+                "Key": "Only right Scr",
+                "Value": "Passage is only possible to the right direction."
+            },
+            {
+                "Key": "AssembleBuff Scr",
+                "Value": "Effects received from members of the same Squad Headquarters."
+            },
+            {
+                "Key": "Ask make GBot",
+                "Value": "Manufacture a Ratron?"
+            },
+            {
+                "Key": "WaveCome Scr",
+                "Value": "Invasion Occurs"
+            },
+            {
+                "Key": "WaveDayReset Scr",
+                "Value": "Postpone Invasion"
+            },
+            {
+                "Key": "Spoils of war Scr",
+                "Value": "Choose the loot to take to the city."
+            },
+            {
+                "Key": "Assemble guard range Scr",
+                "Value": "Assign the area that soldiers in the squad will defend."
+            },
+            {
+                "Key": "Assemble guard range OnOff Scr",
+                "Value": "You can enable and disable the defense zone settings. When disabled, they will defend the area designated to their assigned training structure."
+            },
+            {
+                "Key": "Transport injury citizen",
+                "Value": "Transporting a patient!"
+            },
+            {
+                "Key": "Kidnapped citizen",
+                "Value": "I'm in here! Please save me!"
+            },
+            {
+                "Key": "Transport criminal citizen",
+                "Value": "Transporting a criminal!"
+            },
+            {
+                "Key": "Dip activity action scr",
+                "Value": "Set the mission objective."
+            },
+            {
+                "Key": "Dip activity member scr",
+                "Value": "Assign members to participate in the mission."
+            },
+            {
+                "Key": "Dip activity need food scr",
+                "Value": "Select the food to be consumed for the mission. The more members, the more food is required."
+            },
+            {
+                "Key": "Dip activity sheet exit",
+                "Value": "Do you want to cancel the mission?"
+            },
+            {
+                "Key": "Dip activity dispatch citizen",
+                "Value": "Do you want to start the mission?"
+            },
+            {
+                "Key": "Dip activity surveying scr",
+                "Value": "Surveying the area."
+            },
+            {
+                "Key": "Dip warning exploration terrain",
+                "Value": "Proceeding may decrease the relations with the city([COUNTRYNAME]) occupying this area. Do you still want to continue?"
+            },
+            {
+                "Key": "Dip warning exploration",
+                "Value": "Do you want to stop the exploration? Consumed resources will not be recovered."
+            },
+            {
+                "Key": "Dip warning survey",
+                "Value": "Do you want to stop the survey? Consumed resources will not be recovered."
+            },
+            {
+                "Key": "Dip empty terrain",
+                "Value": "This area is not occupied by anyone."
+            },
+            {
+                "Key": "Dip present scr",
+                "Value": "Provide economic support to increase <sprite name=FS_Relations>Relations and <sprite name=FS_Prosperity>Prosperity."
+            },
+            {
+                "Key": "Dip present info scr",
+                "Value": "\"It's nothing much, but keep it.\""
+            },
+            {
+                "Key": "Dip blame scr",
+                "Value": "Publicly condemn the target city to decrease <sprite name=FS_Relations>Relations. The <sprite name=FS_Relations>Relations with other cities that are hostile to the target city will increase."
+            },
+            {
+                "Key": "Dip blame info scr",
+                "Value": "\"This is why others treat you that way.\""
+            },
+            {
+                "Key": "Dip request scr",
+                "Value": "Use <sprite name=FS_Relations>Relations to request resources or wealth. The success rate and required relations will vary depending on the <sprite name=FS_Relations>Relations and <sprite name=FS_Prosperity>Prosperity of the target city."
+            },
+            {
+                "Key": "Dip request info scr",
+                "Value": "\"We're family now, so you can help us, right?\""
+            },
+            {
+                "Key": "Dip tribute scr",
+                "Value": "Demand tribute from the target city. Each time the tribute is paid, <sprite name=FS_Relations>Relations with the target city decrease."
+            },
+            {
+                "Key": "Dip tribute info scr",
+                "Value": "\"Peace can be bought with enough money.\""
+            },
+            {
+                "Key": "Dip trade scr",
+                "Value": "When a trade route is opened, resources can be traded with the target city through the Trading Center. The items available for trade change every season."
+            },
+            {
+                "Key": "Dip trade info scr",
+                "Value": "\"Let's build the future together through trade.\""
+            },
+            {
+                "Key": "Dip trade cancelation scr",
+                "Value": "When a trade route is closed, all ongoing trades with the target are halted."
+            },
+            {
+                "Key": "Dip trade cancelation info scr",
+                "Value": "\"You don't care about the future anymore, do you?\""
+            },
+            {
+                "Key": "Dip alliance scr",
+                "Value": "If an alliance is formed, resources can be obtained through support requests, and military assistance can be received for defense and invasion."
+            },
+            {
+                "Key": "Dip alliance info scr",
+                "Value": "\"Ideology is thicker than blood. Let's become a new family.\""
+            },
+            {
+                "Key": "Dip alliance cancelation scr",
+                "Value": "If the alliance is dissolved, support requests and military assistance will no longer be possible."
+            },
+            {
+                "Key": "Dip alliance cancelation info scr",
+                "Value": "\"Profit might be thicker than ideology.\""
+            },
+            {
+                "Key": "Dip declaration of war scr",
+                "Value": "When a declaration of war is made, a state of hostility ensues, and all agreements are nullified."
+            },
+            {
+                "Key": "Dip declaration of war info scr",
+                "Value": "\"In the end, history is written in blood.\""
+            },
+            {
+                "Key": "Dip peace agreement scr",
+                "Value": "Relations return to a neutral state upon a peace agreement."
+            },
+            {
+                "Key": "Dip peace agreement info scr",
+                "Value": "\"Violence is not needed in the coming future.\""
+            },
+            {
+                "Key": "Dip liberation scr",
+                "Value": "Relations return to a neutral state upon the liberation of a vassal state."
+            },
+            {
+                "Key": "Dip liberation info scr",
+                "Value": "I'm sorry for everything, and I look forward to working with you in the future."
+            },
+            {
+                "Key": "Is weaselking grave",
+                "Value": "Mystical Vault of the Ancient"
+            },
+            {
+                "Key": "Weaselking grave save Scr",
+                "Value": "\"Behold, holder of the vault. The more you give up, the more shall be added. Fill this place to the brim.\""
+            },
+            {
+                "Key": "To put in money",
+                "Value": "Fill the vault."
+            },
+            {
+                "Key": "Not to put in",
+                "Value": "Ignore it."
+            },
+            {
+                "Key": "Weaselking grave save Scr2",
+                "Value": "Currently, [A] amount of gold is accumulated. Do you want to take the money back?"
+            },
+            {
+                "Key": "To keep on storing",
+                "Value": "Leave it as is."
+            },
+            {
+                "Key": "To take out money",
+                "Value": "Take all the golds out."
+            },
+            {
+                "Key": "Team nexus destroyed",
+                "Value": "Our headquarters has been destroyed."
+            },
+            {
+                "Key": "Pharaoh defense fail",
+                "Value": "The complete ancient power has collapsed the space."
+            },
+            {
+                "Key": "Diplomacy Scr",
+                "Value": "Gifts can be exchanged, or trade routes can be opened with other cities. War can also be a means of diplomacy."
+            },
+            {
+                "Key": "Recruitment of mercenaries Scr",
+                "Value": "Hire soldiers to perform defensive activities at the campsite."
+            },
+            {
+                "Key": "Wandering mercenary Scr",
+                "Value": "Wandering mercenaries. They defend a stronghold for money."
+            },
+            {
+                "Key": "TimeAccell Scr",
+                "Value": "The flow of time can be adjusted while sleeping."
+            },
+            {
+                "Key": "Destroy enemy nexus",
+                "Value": "Destroy enemy headquarters"
+            },
+            {
+                "Key": "Eliminate All Enemies",
+                "Value": "Eliminate all enemies"
+            },
+            {
+                "Key": "No injury citizen",
+                "Value": "Maintain zero allied casualties"
+            },
+            {
+                "Key": "Citizen apply buff",
+                "Value": "The Ratizens gradually get anxious."
+            },
+            {
+                "Key": "Money attack Scr",
+                "Value": "+1 Attack power per [A] in Savings"
+            },
+            {
+                "Key": "Dip unknown scr",
+                "Value": "This city has not yet been discovered."
+            },
+            {
+                "Key": "Lizard unhappy Scr",
+                "Value": "Feeling anxious as the lizards' territory expands."
+            },
+            {
+                "Key": "BuildAlarm need grade Scr",
+                "Value": "Due to class restrictions, there are no Ratizens in the city who can consume."
+            },
+            {
+                "Key": "Mining logging speed Scr",
+                "Value": "Mining and gathering efficiency increased by [A]%."
+            },
+            {
+                "Key": "Item Enhance Scr",
+                "Value": "An effect from the list of effects is randomly applied."
+            },
+            {
+                "Key": "Com3_Per Scr",
+                "Value": "Additional damage on the third hit of a combo attack"
+            },
+            {
+                "Key": "Critical Per Scr",
+                "Value": "Increases the chance to deal 200% damage by [A]%."
+            },
+            {
+                "Key": "AtkSpd Scr",
+                "Value": "Attack speed increases by [A]%."
+            },
+            {
+                "Key": "Quenching Scr",
+                "Value": "New effects can be granted to equipment through reforging."
+            },
+            {
+                "Key": "Start reforge ask",
+                "Value": "Start reforging the equipment?"
+            },
+            {
+                "Key": "Step one reforge",
+                "Value": "Level 1 reforging can be performed at the Royal Forge."
+            },
+            {
+                "Key": "Step two reforge",
+                "Value": "Level 2 reforging can be performed at the Hell Forge in the Volcanic Range."
+            },
+            {
+                "Key": "Nomoney addon Scr",
+                "Value": "I don't have enough money to live..."
+            },
+            {
+                "Key": "Criminial addon Scr1",
+                "Value": "What crime should I commit next?"
+            },
+            {
+                "Key": "Criminial addon Scr2",
+                "Value": "No one will be able to catch me."
+            },
+            {
+                "Key": "MagicianGraveBuff Scr",
+                "Value": "Protected by the powerful magic of the ancient shaman."
+            },
+            {
+                "Key": "Cant buy grade up food",
+                "Value": "The only foods available are ones I can't afford at my class level. Could you change the law?"
+            },
+            {
+                "Key": "Scout talk food grade",
+                "Value": "There are many resources we can't purchase due to class restrictions, and the Ratizens are starving. How about drafting a new law?"
+            },
+            {
+                "Key": "Citizen thinking emergency food",
+                "Value": "I'm starving to death..."
+            },
+            {
+                "Key": "Area effect Scr",
+                "Value": "Applies status effects to targets within the range."
+            },
+            {
+                "Key": "Diplomatic mail recycle",
+                "Value": "New messages arrive every day at 00:00."
+            },
+            {
+                "Key": "Would you give up mission",
+                "Value": "Do you want to abandon the mission?"
+            },
+            {
+                "Key": "Save limit Scr",
+                "Value": "You can limit the storage quantity for individual resources."
+            },
+            {
+                "Key": "Trade condition stopped diplomacy",
+                "Value": "Trade has been suspended due to diplomatic issues."
+            },
+            {
+                "Key": "Check foreign email",
+                "Value": "Check diplomatic messages"
+            },
+            {
+                "Key": "Is this run email task",
+                "Value": "Do you want to proceed with this mission?"
+            },
+            {
+                "Key": "Foreign quest limit",
+                "Value": "You can have up to one diplomatic mission active at a time."
+            },
+            {
+                "Key": "Do you call citizen",
+                "Value": "Do you want to summon the Ratizen?"
+            },
+            {
+                "Key": "QueenCallPos Scr",
+                "Value": "Recently summoned a Ratizen, so it cannot be used now."
+            },
+            {
+                "Key": "Tribute details",
+                "Value": "These are resources that the vassal provides to the suzerain. Relations decrease when a tribute contract is signed."
+            },
+            {
+                "Key": "Tribute number details",
+                "Value": "Set the quantity of resources to be tributed each period. The higher the prosperity of the vassal, the more can be demanded at once."
+            },
+            {
+                "Key": "Tribute period details",
+                "Value": "Set the tribute period. The period is proportional to the distance from the counterpart city. The contract ends when the expiration date is reached."
+            },
+            {
+                "Key": "Tribute storage details",
+                "Value": "Select the storage to receive the tributes."
+            },
+            {
+                "Key": "Dip withdraw tribute resource info scr",
+                "Value": "We don't have to offer more?"
+            },
+            {
+                "Key": "Dip withdraw tribute resource scr",
+                "Value": "Terminate the resource tribute contract. Recover a portion of the relations spent."
+            },
+            {
+                "Key": "Dip popup in treaty",
+                "Value": "Do you want to proceed with the drafted agreement?"
+            },
+            {
+                "Key": "Dip taxes tribute info scr",
+                "Value": "We'll have nothing left if you do this!"
+            },
+            {
+                "Key": "Dip taxes tribute scr",
+                "Value": "Pay <sprite name=FS_Relations>Relations. Every <color=#EA6B48>last day of the season</color> that relations are paid, gain <sprite name=FS_Gold>Pia proportional to the vassal's <sprite name=FS_Prosperity>Prosperity.\n\nIf relations are sufficient, the tribute contract will be renewed after the tribute payment. When the tribute contract is terminated, the consumed relations are refunded."
+            },
+            {
+                "Key": "Dip withdraw taxes tribute info scr",
+                "Value": "Now we can breathe!"
+            },
+            {
+                "Key": "Dip withdraw taxes tribute scr",
+                "Value": "No longer consume relations to collect taxes."
+            },
+            {
+                "Key": "Dip activity emigration scr",
+                "Value": "Do you want to relocate the Ratizen? This member will not return to [COUNTRYNAME]."
+            },
+            {
+                "Key": "Dip buying instigator info scr",
+                "Value": "\"When money doesn't solve the problem, consider if there isn't enough money.\""
+            },
+            {
+                "Key": "Dip buying instigator scr",
+                "Value": "Provide economic benefits to the ringleader of the rebellion to quell it. Consumes <sprite name=FS_Gold>Pia and restores <sprite name=FS_Relations>Relations."
+            },
+            {
+                "Key": "Dip spoils loot count scr",
+                "Value": "Invade the target city and plunder up to [N] types of loot."
+            },
+            {
+                "Key": "Dip dependency scr",
+                "Value": "Invade the target city and make it a <sprite name=FS_Dependency>vassal state."
+            },
+            {
+                "Key": "Popup default filter",
+                "Value": "Do you want to reset the filter?"
+            },
+            {
+                "Key": "Autobatch Scr",
+                "Value": "The soldiers will be automatically deployed to the War Banner. Do you want to proceed?"
+            },
+            {
+                "Key": "Evacuate Scr",
+                "Value": "If there is an injured Ratizen within the structure's effective range, they will be transported to the hospital."
+            },
+            {
+                "Key": "Death tax Scr",
+                "Value": "When a Ratizen dies, their Wealth is transferred to the Savings."
+            },
+            {
+                "Key": "Use tunnel Scr",
+                "Value": "Would you like to use the tunnel network?"
+            },
+            {
+                "Key": "Harvest plus",
+                "Value": "Harvest obtained from plants"
+            },
+            {
+                "Key": "All food effect",
+                "Value": "All Food effects"
+            },
+            {
+                "Key": "All life effect",
+                "Value": "All Necessity effects"
+            },
+            {
+                "Key": "Trading post purchase Scr",
+                "Value": "Resources can be purchased from the merchant."
+            },
+            {
+                "Key": "Trading post sell Scr",
+                "Value": "Resources can be sold to the merchant."
+            },
+            {
+                "Key": "Ask start cooking",
+                "Value": "Start cooking?"
+            },
+            {
+                "Key": "Cooktable Scr",
+                "Value": "Dishes can be selected and eaten. Effects may vary depending on the order of selection."
+            },
+            {
+                "Key": "Ask buy resource",
+                "Value": "Would you like to purchase resources?"
+            },
+            {
+                "Key": "Ask sell resource",
+                "Value": "Would you like to sell resources?"
+            },
+            {
+                "Key": "Merchant no money",
+                "Value": "The merchant lacks sufficient wealth, and part of the payment cannot be received."
+            },
+            {
+                "Key": "Milestone refresh Scr",
+                "Value": "Would you like to refresh the milestone options?"
+            },
+            {
+                "Key": "Milestone popup Scr",
+                "Value": "Would you like to select a milestone?"
+            },
+            {
+                "Key": "Make leader food",
+                "Value": "Various royal dishes can be prepared."
+            },
+            {
+                "Key": "Eating Scr",
+                "Value": "Select and consume a royal dish."
+            },
+            {
+                "Key": "Goldui tooltip Scr",
+                "Value": "Pia currently held by the city. If Pia is insufficient, Ratizens will not receive compensation for their labor, decreasing happiness."
+            },
+            {
+                "Key": "Happyui tooltip Scr",
+                "Value": "Average happiness level of all Ratizens. Ratizens with low happiness are more likely to commit crimes or start rebellions."
+            },
+            {
+                "Key": "Foodui tooltip Scr",
+                "Value": "Total Food held by the city. Food is a vital resource directly connected to the survival of Ratizens."
+            },
+            {
+                "Key": "Rp tooltip Scr",
+                "Value": "Research points required to study new structures. Can be obtained by storing new resources or producing them in the research lab."
+            },
+            {
+                "Key": "Citizen tooltip Scr",
+                "Value": "Number of Ratizens in the city. The population limit can be increased through prosperity level growth and milestones."
+            },
+            {
+                "Key": "Pros tooltipe Scr",
+                "Value": "Current prosperity points and the prosperity points needed to reach the next stage."
+            },
+            {
+                "Key": "Order of meals Scr",
+                "Value": "The effects of royal dishes may vary depending on the order in which they are consumed."
+            },
+            {
+                "Key": "Select milestone",
+                "Value": "Select a milestone."
+            },
+            {
+                "Key": "Empty plate Scr",
+                "Value": "A plate where dishes can be placed. Some dishes enhance the effects of the dish placed on the next plate."
+            },
+            {
+                "Key": "Trade purchase spot",
+                "Value": "Specify the Storage where the purchased resources will be stored."
+            },
+            {
+                "Key": "Trade sell spot",
+                "Value": "Specify the Storage from which resources will be sold."
+            },
+            {
+                "Key": "ProsReward Scr",
+                "Value": "The effect received from the selected milestone."
+            },
+            {
+                "Key": "Tradingpost tooltip Scr",
+                "Value": "You can trade with the wandering merchant. A different merchant visits each day."
+            },
+            {
+                "Key": "Noble happy buff",
+                "Value": "All Ratizens gain happiness for every 10 members of The high."
+            },
+            {
+                "Key": "Alliance happy buff",
+                "Value": "All Ratizens gain happiness for each Ally."
+            },
+            {
+                "Key": "Dependency happy buff",
+                "Value": "All Ratizens gain happiness for each Vassal State."
+            },
+            {
+                "Key": "Gift plus score",
+                "Value": "Present: <sprite name=FS_Relations>Relations Reward [A]"
+            },
+            {
+                "Key": "Third grade count for happy",
+                "Value": "For every 10 members of <sprite name=FS_Grade3>The high, Ratizens' <sprite name=FS_Happiness>Happiness +[A]"
+            },
+            {
+                "Key": "Alliance num effect happy",
+                "Value": "For each <sprite name=FS_DefenceMode>Ally, Ratizens' <sprite name=FS_Happiness>Happiness +[A]"
+            },
+            {
+                "Key": "Happy by dependency country",
+                "Value": "For each <sprite name=FS_Dependency>Vassal State, Ratizens' <sprite name=FS_Happiness>Happiness +[A]"
+            },
+            {
+                "Key": "Dependency fee change",
+                "Value": "<sprite name=FS_Dependency>Vassal State tribute request consumes <sprite name=FS_Relations>Relations [A]"
+            },
+            {
+                "Key": "Stats empty milestone",
+                "Value": "No milestone selected."
+            },
+            {
+                "Key": "Necessity merchant Scr",
+                "Value": "A merchant dealing in necessities."
+            },
+            {
+                "Key": "Mineral merchant Scr",
+                "Value": "A merchant dealing in soil and mineral resources."
+            },
+            {
+                "Key": "Driftwood merchant Scr",
+                "Value": "A merchant dealing in animal and gathering resources."
+            },
+            {
+                "Key": "Product merchant Scr",
+                "Value": "A merchant dealing in processed resources."
+            },
+            {
+                "Key": "Food merchant Scr",
+                "Value": "A merchant dealing in food."
+            },
+            {
+                "Key": "Lizard home happy buff",
+                "Value": "Ratizens gain happiness for each Lizard Nest."
+            },
+            {
+                "Key": "Lizard home happy Scr",
+                "Value": "For each Lizard Nest, Ratizens' <sprite name=FS_Happiness>Happiness +[A]."
+            }
+        ]
+    }
+}

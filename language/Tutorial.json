@@ -1,0 +1,1438 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0",
+                "Value": "Your highness, how are you faring? If you're able to, try using [AllDir] and [Jump] to move around."
+            },
+            {
+                "Key": "1",
+                "Value": "With [Interaction], you can gather or transport resources. Try cutting down a tree to get <sprite name=LogObject><color=#FFE331>Logs</color>, and put them in the Storage."
+            },
+            {
+                "Key": "2",
+                "Value": "With [MoveNext], you can change the target in the aim to the diffrent one."
+            },
+            {
+                "Key": "3",
+                "Value": "Aim your cursor at the <sprite name=FS_Base> <color=#FFE331>storage</color> container and use [DetailCheck] to take out some resources."
+            },
+            {
+                "Key": "4",
+                "Value": "Use [DropObj] to drop the items you are currently carrying."
+            },
+            {
+                "Key": "5",
+                "Value": "Use [AllDir2] to move your cursor around to aim at a target. Try looking around!"
+            },
+            {
+                "Key": "6",
+                "Value": "You can climb up to two tiles vertically using the [Jump] button."
+            },
+            {
+                "Key": "7",
+                "Value": "You can jump across a one block gap using the [Jump} button when at the gap's ledge."
+            },
+            {
+                "Key": "8",
+                "Value": "Well done! You can only place the <sprite name=FS_Blueprint><color=#FFE331>Blueprint</color> of a building if you have enough resources for it in your storage."
+            },
+            {
+                "Key": "9",
+                "Value": "Now try building a <sprite name=FS_Queen><color=#FFE331>City Entrance</color> by using [Command]. The building is located under the <sprite name=FS_Queen><color=#FFE331>Royal structures</color> category."
+            },
+            {
+                "Key": "10",
+                "Value": "Once you place all the required resources in the <sprite name=FS_Blueprint><color=#FFE331>Blue Print</color> you placed down, use the [Interaction] button to start building the structure."
+            },
+            {
+                "Key": "11",
+                "Value": "With [WeaponOn], you will pull out your weapon, allowing you to attack entities using [Interaction]."
+            },
+            {
+                "Key": "12",
+                "Value": "To resume non-combat activities, press [WeaponOn] again to put your weapon away."
+            },
+            {
+                "Key": "13",
+                "Value": "I think you are now well equipped to begin your adventure."
+            },
+            {
+                "Key": "14",
+                "Value": "To rebuild the kingdom, you will need to have ratizens assisting you. It would be in your best interest to focus on accepting as many ratizens in the early start."
+            },
+            {
+                "Key": "15",
+                "Value": "I took it into my own hands to find you some wanderers to assist you on your journey! Aim your cursor at the <sprite name=FS_Queen><color=#FFE331>City Entrance</color> and use [DetailCheck] to accept new <sprite name=FS_Citizen> <color=#FFE331>Ratizens</color>!"
+            },
+            {
+                "Key": "16",
+                "Value": "By using the [Command] control, you can order your ratizens to do tasks for you.\nTry ordering a ratizen to start <sprite name=FS_Gathering><color=#FFE331>Gathering</color> plant resources for you."
+            },
+            {
+                "Key": "17",
+                "Value": "When an assigned task is completed by a ratizen, a certain amount of <sprite name=FS_Gold><color=#FFE331>Money</color> is given to the ratizens. This money is pulled from the economy's money pool."
+            },
+            {
+                "Key": "18",
+                "Value": "Enough resources were gathered to build a <sprite name=FS_Production><color=#FFE331>Lumber Mill</color>. Use [Command] to issue an order to build it."
+            },
+            {
+                "Key": "267",
+                "Value": "The construction is finished! Please use [DetailCheck] on the building to assign a <sprite name=FS_Citizen><color=#FFE331>Ratizen</color> to work!"
+            },
+            {
+                "Key": "20",
+                "Value": "When a ratizen gets tired, they sleep. If a ratizen is  given a <sprite name=FS_Base><color=#FFE331>bed</color> to sleep in, they will recover their <color=#FFE331>Stamina</color> much faster."
+            },
+            {
+                "Key": "21",
+                "Value": "Note that every ratizen must be assigned a bed of their own. Use [DetailCheck} on a bed and assign a ratizen to a bed."
+            },
+            {
+                "Key": "22",
+                "Value": "Be careful, there are <sprite name=FS_Level><color=#c83232>weird rats</color> approaching the town!"
+            },
+            {
+                "Key": "23",
+                "Value": "This situation seems dangerous; build <sprite name=FS_Military><color=#FFE331>Military Structures</color> to protect your ratizens!"
+            },
+            {
+                "Key": "24",
+                "Value": "Whenever you find a new <color=#FFE331>resource</color> and it's deposited in a Storage, or a ratizen finishes a job in the laboratory, you will get a <sprite name=FS_ResearchPoint><color=#FFE331>Research Point</color>."
+            },
+            {
+                "Key": "25",
+                "Value": "Use [Command2] and select the research page. Use a <sprite name=FS_ResearchPoint><color=#FFE331>Research Point</color> to research and create new structures.\nIt would be wise to begin with researching a <sprite name=FS_Service><color=#FFE331>circus stand</color> first."
+            },
+            {
+                "Key": "26",
+                "Value": "It's great to see your city is developing! Now is a great time to work on stabilizing your city's economy."
+            },
+            {
+                "Key": "27",
+                "Value": "You can <color=#FFE331>collect</color> <sprite name=FS_Tax> <color=#FFE331>tax</color> from ratizens by using [Interaction] on a rat that has the option available."
+            },
+            {
+                "Key": "28",
+                "Value": "The government savings is not sufficient! Try collecting more taxes or minting money."
+            },
+            {
+                "Key": "29",
+                "Value": "In addition to using the [Interaction] button to collect taxes, you can build a <sprite name=FS_Service><color=#FFE331>Tax office</color> that automatically collects <sprite name=FS_Tax><color=#FFE331>Taxes</color>  from ratizens."
+            },
+            {
+                "Key": "30",
+                "Value": "Some ratizens are falling into the pit of despair! If you leave them as they are, they may end up doing something unfavorable and extreme!"
+            },
+            {
+                "Key": "31",
+                "Value": "Build different <sprite name=FS_Service><color=#FFE331>service</color> structures to make ratizens happy and restore their <sprite name=FS_Happiness><color=#FFE331>Happiness</color> level!"
+            },
+            {
+                "Key": "32",
+                "Value": "As the diversity between rats increases with more ratizens, they are finding it harder to trust one another and are anxious about the future."
+            },
+            {
+                "Key": "100",
+                "Value": "There's someone with the <sprite name=FS_QuestMark><color=#FFE331>mission</color>! \nInteract with [Interaction] to check their request."
+            },
+            {
+                "Key": "101",
+                "Value": "You are low on <sprite name=FS_Health><color=#c83232>HP</color>! \nIt's all over if you fall.\nTaking rest on the <sprite name=FS_Queen><color=#FFE331>Royal bed</color> would be a great option."
+            },
+            {
+                "Key": "102",
+                "Value": "A ratizen got <sprite name=FS_Injury><color=#c83232>wounded</color>! \nTransport the wounded to <sprite name=FS_Base><color=#FFE331>bed</color>, the ratizen might get better."
+            },
+            {
+                "Key": "103",
+                "Value": "There is a <sprite name=FS_Death><color=#c83232>dead</color> ratizen!\nIf you let there be corpse around, it will ruin all the ratizens. Build a <sprite name=FS_Base><color=#FFE331>tomb</color> to honor the dead."
+            },
+            {
+                "Key": "104",
+                "Value": "There's no active <sprite name=FS_Base><color=#FFE331>storage</color>!\nThe base tile or the storage itself might be<color=#c83232>destroyed</color>.\nPlease check and fix."
+            },
+            {
+                "Key": "105",
+                "Value": "All the tutorials can also be found on the  [Menu]<color=#FFE331>Menu</color>'s <color=#FFE331>Help</color> section."
+            },
+            {
+                "Key": "117",
+                "Value": "Since now there are ratizens to work, please try building a  <sprite name=FS_Production> <color=#FFE331>Lumber Mill</color> and produce <sprite name=LumberObject> <color=#FFE331>Lumbers</color>"
+            },
+            {
+                "Key": "125",
+                "Value": "Now, please build <sprite name=FS_Service><color=#FFE331>Service</color> structures to make ratizens settle down with comfort."
+            },
+            {
+                "Key": "126",
+                "Value": "Build <sprite name=FS_Queen><color=#FFE331>Code Stone</color> to activate <color=#FFE331>Policy</color> page. \nAim <sprite name=FS_Queen><color=#FFE331>Code Stone</color> and use [DetailCheck], or use [Command2] to check <color=#FFE331>Policy</color> page to set tax law."
+            },
+            {
+                "Key": "127",
+                "Value": "<sprite name=FS_Queen><color=#FFE331>Code Stone</color> has been built!\nAim the <sprite name=FS_Queen><color=#FFE331>Code Stone</color> or use [Command2] to check <color=#FFE331>Policy</color> page to set policies."
+            },
+            {
+                "Key": "132",
+                "Value": "You have to build a <sprite name=FS_Decoration><color=#FFE331>Foundation Monument</color> to relieve them, make them feel a sense of belonging and give certainty for the future."
+            },
+            {
+                "Key": "200",
+                "Value": "Terrific! I guess you are totally fine."
+            },
+            {
+                "Key": "201",
+                "Value": "All the <color=#FFE331>interactions</color> are based on the aim, so please remember [AllDir2] well."
+            },
+            {
+                "Key": "202",
+                "Value": "From now on, I'll teach you what you might not be used to. So please follow my direction."
+            },
+            {
+                "Key": "203",
+                "Value": "Firstly, let me teach you how to <color=#FFE331>interact</color> with objects, starting with how to <sprite name=FS_Gathering><color=#FFE331>Gather</color>."
+            },
+            {
+                "Key": "204",
+                "Value": "With [Interaction], you can <color=#FFE331>interact</color> with the object in the aimed area."
+            },
+            {
+                "Key": "205",
+                "Value": "<color=#FFE331>Interaction</color> includes various actions, and <sprite name=FS_Gathering><color=#FFE331>Gather</color> is one of those."
+            },
+            {
+                "Key": "206",
+                "Value": "Try to move, aim, and interact to gather <sprite name=LogObject><color=#FFE331>Logs</color> from <color=#FFE331>Broadleaf Tree</color>."
+            },
+            {
+                "Key": "251",
+                "Value": "When holding items, aim the place to put the items in, and use [Interaction]."
+            },
+            {
+                "Key": "252",
+                "Value": "Please aim at the <sprite name=FS_Base><color=#FFE331>Storage</color> and use [Interaction] put in the resources!"
+            },
+            {
+                "Key": "207",
+                "Value": "Great work. When not fully removed, plants will grow back after some time."
+            },
+            {
+                "Key": "208",
+                "Value": "The next is <sprite name=FS_Mining><color=#FFE331>Mining</color>. You can <sprite name=FS_Mining><color=#FFE331>Mine</color> with, surprisingly, [Interaction]."
+            },
+            {
+                "Key": "209",
+                "Value": "You can <sprite name=FS_Mining><color=#FFE331>Mine</color> to get resources from <color=#FFE331>tiles</color>. "
+            },
+            {
+                "Key": "210",
+                "Value": "Move, aim, and interact to get <sprite name=DirtObject><color=#FFE331>dirt</color> and put those in the <sprite name=FS_Base><color=#FFE331>storage</color>."
+            },
+            {
+                "Key": "211",
+                "Value": "Well done. But beware not to dig too deep, you might not be able to get out."
+            },
+            {
+                "Key": "212",
+                "Value": "Now, using the resources gathered, let's try to <sprite name=FS_Building><color=#FFE331>Build</color> a <sprite name=FS_House><color=#FFE331>structure</color>."
+            },
+            {
+                "Key": "213",
+                "Value": "To <sprite name=FS_Building><color=#FFE331>Build</color>, follow three steps: place <sprite name=FS_Blueprint>blueprint, supply <sprite name=FS_BuildResource>resources, and <sprite name=FS_Building>build."
+            },
+            {
+                "Key": "214",
+                "Value": "Use [Command] to open the command menu and place a <sprite name=FS_Base><color=#FFE331>ladder</color>."
+            },
+            {
+                "Key": "215",
+                "Value": "Great job! After supplying the resources, the <sprite name=FS_Blueprint><color=#FFE331>blueprint</color> becomes ready-to-build."
+            },
+            {
+                "Key": "216",
+                "Value": "Interact with the ready-to-build <sprite name=FS_Blueprint><color=#FFE331>blueprint</color> to finish <sprite name=FS_Building><color=#FFE331>building</color>!"
+            },
+            {
+                "Key": "217",
+                "Value": "Great! I bet you've not been used it before, but <sprite name=FS_Base><color=#FFE331>Ladders</color> are quite helpful to climb up and down."
+            },
+            {
+                "Key": "218",
+                "Value": "Remember that only tile objects such as<sprite name=FS_Base><color=#FFE331>ladders</color>, <color=#FFE331>blocks</color>, and <color=#FFE331>roofs</color> can be placed in the midair."
+            },
+            {
+                "Key": "219",
+                "Value": "I guess you've learnt the basics well enough."
+            },
+            {
+                "Key": "220",
+                "Value": "Since you know the basic actions, lets bring the wandering ratizens to the city."
+            },
+            {
+                "Key": "221",
+                "Value": "But to do so, <sprite name=FS_Queen><color=#FFE331>City entrance</color> is needed."
+            },
+            {
+                "Key": "222",
+                "Value": "So why don't we build one? <sprite name=FS_Queen><color=#FFE331>City entrance</color> is in the <sprite name=FS_Queen><color=#FFE331>Royal structures</color> category."
+            },
+            {
+                "Key": "321",
+                "Value": "Where other objects are located, <sprite name=FS_Blueprint><color=#FFE331>blueprint</color> cannot be placed."
+            },
+            {
+                "Key": "322",
+                "Value": "If you place <sprite name=FS_Blueprint><color=#FFE331>blueprints</color> on the nature tiles, <sprite name=FS_Mining><color=#FFE331>Mine</color> order will be placed."
+            },
+            {
+                "Key": "323",
+                "Value": "Keep in mind that to build most of the structures like <sprite name=FS_Queen><color=#FFE331>City entrance</color>, <color=#FFE331>ground</color> fit to the structure's horizontal size is needed."
+            },
+            {
+                "Key": "223",
+                "Value": "Finally it is time to accept some migrants!"
+            },
+            {
+                "Key": "224",
+                "Value": "Aim the city entrance, use (UI)[DetailCheck] to accept the migrants to make them <sprite name=FS_Citizen><color=#FFE331>Ratizens</color> of the city."
+            },
+            {
+                "Key": "225",
+                "Value": "Various groups of <sprite name=FS_Immigrant><color=#FFE331>migrants</color> will visit <sprite name=FS_Queen><color=#FFE331>City entrance</color>. However, accepting several groups at once could have unforeseen consequences."
+            },
+            {
+                "Key": "226",
+                "Value": "Thus there is no other choice than to accept only a single group at a time."
+            },
+            {
+                "Key": "227",
+                "Value": "Before accepting the migrants, use [DetailCheck] to check the details."
+            },
+            {
+                "Key": "228",
+                "Value": "Now, please choose whom to live with."
+            },
+            {
+                "Key": "229",
+                "Value": "The accepted migrants become <sprite name=FS_Citizen><color=#FFE331>Ratizens</color> of the city and follow your orders."
+            },
+            {
+                "Key": "230",
+                "Value": "<sprite name=FS_Citizen><color=#FFE331>Ratizens</color> work with certain priorities: job, build, gather, mine, and transport."
+            },
+            {
+                "Key": "231",
+                "Value": "So the best way to modify their action priorities is to assign the ratizen on a certain structure."
+            },
+            {
+                "Key": "232",
+                "Value": "But currently, there's no job. So give <sprite name=FS_Gathering><color=#FFE331>Gather order</color> using [Command] to make the Ratizens gather <sprite name=GrainObject><color=#FFE331>grains</color>."
+            },
+            {
+                "Key": "233",
+                "Value": "Terrific! Most of the plant objects grow over time. So consider whether to remove them for space, or to wait for the next harvest."
+            },
+            {
+                "Key": "234",
+                "Value": "Objects like <sprite name=GrainObject><color=#FFE331>grains</color> can be used as <sprite name=FS_Food><color=#FFE331>Food</color> for ratizens."
+            },
+            {
+                "Key": "235",
+                "Value": "When starved too much, ratizens might <sprite name=FS_Death><color=#FFE331>Die</color>. Please supply enough <sprite name=FS_Food><color=#FFE331>Food</color> to prevent such happenings."
+            },
+            {
+                "Key": "236",
+                "Value": "In addition, Ratizen's <color=#FFE331>Happiness</color> get's affected by <sprite name=FS_Cleanliness><color=#FFE331>Hygiene</color> and <sprite name=FS_Fun><color=#FFE331>Joy</color>."
+            },
+            {
+                "Key": "237",
+                "Value": "So this time, let's build toilet for basic <sprite name=FS_Cleanliness><color=#FFE331>Hygiene</color>. <sprite name=FS_Service><color=#FFE331>Toilet</color> is in the <sprite name=FS_Service><color=#FFE331>Service structures</color> category."
+            },
+            {
+                "Key": "238",
+                "Value": "Great work! Maintaining enough service facilities is key to maintaining ratizens' happiness."
+            },
+            {
+                "Key": "239",
+                "Value": "Ratizens also consume <sprite name=FS_Life><color=#FFE331>Necessities</color>, and distinguish themselves into classes by how much goods and <sprite name=FS_Gold><color=#FFE331>wealth</color> they are holding.."
+            },
+            {
+                "Key": "240",
+                "Value": "But, the knowledge we got after the catastrophe is not even enough to fulfill the basic needs of <sprite name=FS_Fun><color=#FFE331>Joy</color>!"
+            },
+            {
+                "Key": "241",
+                "Value": "So, now it's time to build a <sprite name=FS_Queen><color=#FFE331>Research table</color> to research for the people, the city, and mostly, for yourself."
+            },
+            {
+                "Key": "263",
+                "Value": "To make one, you will need some <sprite name=LumberObject><color=#FFE331>Lumber</color>. Build <sprite name=FS_Production><color=#FFE331>Sawmill</color> to process some wood. "
+            },
+            {
+                "Key": "264",
+                "Value": "Enough resources have stored to <sprite name=FS_Building><color=#FFE331>Build</color>!"
+            },
+            {
+                "Key": "265",
+                "Value": "It's time to build a <sprite name=FS_Queen><color=#FFE331>Research Desk</color>. "
+            },
+            {
+                "Key": "266",
+                "Value": "Construction finished! Get to <sprite name=FS_Queen><color=#FFE331>Research Desk</color> and use [DetailCheck]!"
+            },
+            {
+                "Key": "242",
+                "Value": "As more <sprite name=FS_Citizen><color=#FFE331>ratizens</color> gather, the need of policies to rule them grows."
+            },
+            {
+                "Key": "243",
+                "Value": "Well, total freedom could be an option too, but building a <sprite name=FS_Queen><color=#FFE331>Code stone</color> to legalize policies might be a better choice."
+            },
+            {
+                "Key": "244",
+                "Value": "With the <sprite name=FS_Queen><color=#FFE331>Code stone</color>, various policies can be set to rule the city easier, so please try using it."
+            },
+            {
+                "Key": "245",
+                "Value": "Construction finished! Use [DetailCheck] on <sprite name=FS_Queen><color=#FFE331>Code stone</color> to clarify the <sprite name=FS_Scroll_Criminal1><color=#FFE331>Policies</color> for the city! "
+            },
+            {
+                "Key": "246",
+                "Value": "You can activate various types of policies. For example, you can <sprite name=FS_Tax><color=#FFE331>Tax</color> the ratizens with <sprite name=FS_TaxLaw><color=#FFE331>tax laws</color>."
+            },
+            {
+                "Key": "247",
+                "Value": "With <sprite name=FS_Scroll_Trade><color=#FFE331>Commercial laws</color>, you can encourage or prohibit ratizens to consume certain products or services."
+            },
+            {
+                "Key": "248",
+                "Value": "Using <sprite name=FS_WelfareLaw><color=#FFE331>Welfare laws</color> will allow you to relief the poor, or enrich the ratizen's living standards. "
+            },
+            {
+                "Key": "249",
+                "Value": "If you want to restrict the citizens when to work or rest, then use <sprite name=FS_Scroll_Criminal1><color=#FFE331>Labor laws</color> to set the schedules based on the time of day."
+            },
+            {
+                "Key": "250",
+                "Value": "Activated <sprite name=FS_Scroll_Criminal1><color=#FFE331>policies</color> are applied at a specific time every day. Try to establish rightful laws and lead the city towards to the ideal state."
+            },
+            {
+                "Key": "253",
+                "Value": "There's a ratizen with a <sprite name=FS_QuestMark><color=#FFE331>request</color>! Get close to the ratizen and use [Interaction] to check."
+            },
+            {
+                "Key": "254",
+                "Value": "The choice will lead to a consequence, so please consider wisely."
+            },
+            {
+                "Key": "255",
+                "Value": "<sprite name=FS_Health><color=#c83232>HP</color> too low!"
+            },
+            {
+                "Key": "256",
+                "Value": "It's all over if you fall. You need to take care of yourself more."
+            },
+            {
+                "Key": "257",
+                "Value": "Taking rest on the <sprite name=FS_Queen><color=#FFE331>Royal bed</color> would be a great option to heal yourself."
+            },
+            {
+                "Key": "258",
+                "Value": "A ratizen got <sprite name=FS_Injury><color=#c83232>Wounded</color>! "
+            },
+            {
+                "Key": "259",
+                "Value": "Transport the wounded to <sprite name=FS_Base><color=#FFE331>bed</color>. The ratizen might get better."
+            },
+            {
+                "Key": "260",
+                "Value": "There is a <sprite name=FS_Death><color=#c83232>dead</color> ratizen!"
+            },
+            {
+                "Key": "261",
+                "Value": "If you let there be a <sprite name=FS_Death><color=#c83232>dead</color> around, many will question about the leadership."
+            },
+            {
+                "Key": "262",
+                "Value": "Build a <sprite name=FS_Queen><color=#FFE331>Tomb</color> to honor the deads to prevent this from happening."
+            },
+            {
+                "Key": "300",
+                "Value": "There will be many times that the objects are in a same spot like this."
+            },
+            {
+                "Key": "301",
+                "Value": "In such moment, simply use [MoveNext] to aim on the intended object."
+            },
+            {
+                "Key": "302",
+                "Value": "Try using [MoveNext] now!"
+            },
+            {
+                "Key": "303",
+                "Value": "Your highness! Only a single type of item with certain number can be held at once."
+            },
+            {
+                "Key": "304",
+                "Value": "To pick up other items, use [DropObj] to drop the item you're currently holding."
+            },
+            {
+                "Key": "305",
+                "Value": "There's no active <sprite name=FS_Base><color=#FFE331>Storage</color>!"
+            },
+            {
+                "Key": "306",
+                "Value": "Please check whether the base is collapsed, or the storage got damaged."
+            },
+            {
+                "Key": "320",
+                "Value": "If the base is collapsed, fill up the empty tiles to re-activate the structure."
+            },
+            {
+                "Key": "307",
+                "Value": "Use [LeftDir2][RightDir2] to change the categories without leaving the screen. Try [LeftDir2][RightDir2] when you need!"
+            },
+            {
+                "Key": "308",
+                "Value": "Before you choose the structures to build, you can check the detailed information with [DetailCheck]. Try [DetailCheck] now!"
+            },
+            {
+                "Key": "309",
+                "Value": "Most of the structures can be checked in details with [DetailCheck], as you've just done."
+            },
+            {
+                "Key": "310",
+                "Value": "To use the structure's function, please use [AllDir] and [Interaction]. Then use [Interaction] to check the resources stored."
+            },
+            {
+                "Key": "311",
+                "Value": "With [MoveNext], you can put in or take out what you are holding, or what is stored."
+            },
+            {
+                "Key": "312",
+                "Value": "In some structures, resources to gather or produce can be selected."
+            },
+            {
+                "Key": "333",
+                "Value": "However, most structures do not operate without Ratizens. Try deploying Ratizens first to get the structure running!"
+            },
+            {
+                "Key": "313",
+                "Value": "You can check the detailed information of the ratizen on the right side. Check and assign a ratizen fits to the job."
+            },
+            {
+                "Key": "314",
+                "Value": "Assigned ratizen can be changed whenever needed. However the work progress will be reset."
+            },
+            {
+                "Key": "315",
+                "Value": "Well done. Only when enough resources are stored, <sprite name=FS_Blueprint><color=#FFE331>blueprint</color> can be placed."
+            },
+            {
+                "Key": "316",
+                "Value": "When there are ratizens, they would supply and build, but now you should do it yourself."
+            },
+            {
+                "Key": "317",
+                "Value": "Whenever you misplaced a <sprite name=FS_Blueprint><color=#FFE331>blueprint</color>, you can cancel with the <sprite name=FS_Cancel><color=#FFE331>cancel order</color>."
+            },
+            {
+                "Key": "318",
+                "Value": "When a <sprite name=FS_Blueprint><color=#FFE331>blueprint</color> is placed on tiles, they have to be mined before the construction."
+            },
+            {
+                "Key": "319",
+                "Value": "Use (UI)[DetailCheck] on storage to take resources for the <sprite name=FS_Blueprint><color=#FFE331>blueprint</color>."
+            },
+            {
+                "Key": "324",
+                "Value": "It's already the second time welcoming the visitors! They all seem fine to settle down."
+            },
+            {
+                "Key": "325",
+                "Value": "But whenever there's none you like, or there's no space in the city, use [Escape] to postpone the decision."
+            },
+            {
+                "Key": "326",
+                "Value": "On the research screen, you can unlock the new structures."
+            },
+            {
+                "Key": "327",
+                "Value": "Just as the building menu, use (Player)[AllDir] and (UI)[LeftDir2](UI)[RightDir2] to move around."
+            },
+            {
+                "Key": "328",
+                "Value": "You will need <sprite name=FS_ResearchPoint><color=#FFE331>Research points</color> for the research. It can be gained by collecting new resources or be produced from the <sprite name=FS_Production><color=#FFE331>Laboratory</color>."
+            },
+            {
+                "Key": "329",
+                "Value": "Collected <sprite name=FS_ResearchPoint><color=#FFE331>Research point</color> can be checked on the category at the end."
+            },
+            {
+                "Key": "330",
+                "Value": "But before researching something, use [DetailCheck] to check the detailes about the structure."
+            },
+            {
+                "Key": "331",
+                "Value": "With [DetailCheck], you can check the ingredients and products of the structure like this."
+            },
+            {
+                "Key": "332",
+                "Value": "Use [DetailCheck] again to check more details. Use it before researching to prevent the waste."
+            },
+            {
+                "Key": "334",
+                "Value": "Some of the structures have additional options, such as <color=#FFE331>affecting area</color>. Check with [LeftDir2][RightDir2]!"
+            },
+            {
+                "Key": "335",
+                "Value": "When the affected area is too big or small, efficiency could be reduced. Set it wisely!"
+            },
+            {
+                "Key": "336",
+                "Value": "<sprite name=FS_Queen><color=#FFE331>Bank</color> is one of the strutures that do not need a ratizen to be assigned. It allow you to <sprite name=FS_Loan><color=#FFE331>Loan</color> and <sprite name=FS_Exchange><color=#FFE331>Exchange</color>."
+            },
+            {
+                "Key": "337",
+                "Value": "<sprite name=FS_Loan><color=#FFE331>Loan</color> works just like storing items in storage. But before getting a loan, check the options carefully."
+            },
+            {
+                "Key": "338",
+                "Value": "The interest will automatically charged until you repay <sprite name=FS_Loan><color=#FFE331>loaned</color> option. "
+            },
+            {
+                "Key": "339",
+                "Value": "<sprite name=FS_Exchange><color=#FFE331>Exchange</color>is a function to trade the national currency of <sprite name=FS_Gold><color=#FFE331>Pia</color> and the international currency of <sprite name=FS_Dar><color=#33CC33>Dar</color>."
+            },
+            {
+                "Key": "340",
+                "Value": "<sprite name=FS_Dar><color=#33CC33>Dar</color> can be used to trade with certain foreign countries."
+            },
+            {
+                "Key": "341",
+                "Value": "Base rate of exchange changes every day by randomly selecting a exchange card from the deck."
+            },
+            {
+                "Key": "342",
+                "Value": "Exchange cards can be collected through various events."
+            },
+            {
+                "Key": "343",
+                "Value": "In the <sprite name=FS_Queen><color=#FFE331>Trading Center</color>, you can conduct trade with nations discovered through exploration."
+            },
+            {
+                "Key": "344",
+                "Value": "In the <sprite name=FS_Queen><color=#FFE331>Diplomatic Office</color>, you can explore the surrounding areas through the map. It is possible to reserve exploration for up to three areas."
+            },
+            {
+                "Key": "345",
+                "Value": "During exploration, you can discover other cities. By giving gifts to the discovered cities, you can increase the <sprite name=FS_Relations><color=#FFE331>Relations</color>."
+            },
+            {
+                "Key": "346",
+                "Value": "Once sufficient <sprite name=FS_Relations><color=#FFE331>Relations</color> are accumulated, you can conduct trade with that city through the <sprite name=FS_Queen><color=#FFE331>Trading Center</color>."
+            },
+            {
+                "Key": "347",
+                "Value": "You can begin <sprite name=FS_Trade><color=#FFE331>Trade</color>, either to import or export, after setting amounts and number of trade."
+            },
+            {
+                "Key": "348",
+                "Value": "<sprite name=FS_Trade><color=#FFE331>Traded</color> items will be saved and removed from the set storage. Make sure that the storage has empty space."
+            },
+            {
+                "Key": "349",
+                "Value": "Among the <sprite name=FS_Military><color=#FFE331>Military structures</color>, training facilities train ratizens to become soldiers. Trained soldiers defeat invading enemies."
+            },
+            {
+                "Key": "350",
+                "Value": "When ratizens are assigned to a <sprite name=FS_Military><color=#FFE331>training structures</color>, they will need some time to be properly trained."
+            },
+            {
+                "Key": "351",
+                "Value": "If the time was not enough, they will not join the battle as soldiers, so spare enough time."
+            },
+            {
+                "Key": "352",
+                "Value": "Soldiers get paid every day automatically, so consider it wisely when recruiting them."
+            },
+            {
+                "Key": "353",
+                "Value": "In the <sprite name=FS_Military><color=#FFE331>training structures</color>, you can choose the soldier type to be trained."
+            },
+            {
+                "Key": "354",
+                "Value": "Each type has certain abilities, so choose the one that matches with your needs."
+            },
+            {
+                "Key": "355",
+                "Value": "When the type get changed, the ratizen will need to be trained again."
+            },
+            {
+                "Key": "356",
+                "Value": "Trained soldiers can be placed on <sprite name=FS_Military><color=#FFE331>Squad Headquarter</color> to follow direct orders."
+            },
+            {
+                "Key": "357",
+                "Value": "Place the soldiers and use (Player)[Command] on the battle mode to give battle orders!"
+            },
+            {
+                "Key": "358",
+                "Value": "Deployed soldiers on <sprite name=FS_Military><color=#FFE331>Squad Headquarter</color> will prioritize the direct orders."
+            },
+            {
+                "Key": "359",
+                "Value": "In additions, those deployed on <sprite name=FS_Military><color=#FFE331>Squad Headquarter</color> will enter the dungeons with you."
+            },
+            {
+                "Key": "360",
+                "Value": "However, they will grow hungry and tired if the operations take too long. So be wary of that."
+            },
+            {
+                "Key": "361",
+                "Value": "<sprite name=FS_Level><color=#FFE331>Enemies</color> digged a hole to invade the city! The city is in danger!"
+            },
+            {
+                "Key": "362",
+                "Value": "If there is <sprite name=FS_Service><color=#FFE331>Hospital</color>, wounded ratizens can take care of their health before they get serious."
+            },
+            {
+                "Key": "363",
+                "Value": "In addition, doctors will be able to move and heal the <sprite name=FS_Injury><color=#c83232>wounded</color> within the area."
+            },
+            {
+                "Key": "364",
+                "Value": "Think of the supply and demand carefully, and built enough <sprite name=FS_Service><color=#FFE331>hospitals</color> for the city."
+            },
+            {
+                "Key": "365",
+                "Value": "On the (Player)[Command2] button menu, you can check various information about the city."
+            },
+            {
+                "Key": "366",
+                "Value": "With <sprite name=FS_Statistics><color=#FFE331>Statistics</color>, you can check information about the city's prosperity, savings, ratizens, structures, resources, and policies."
+            },
+            {
+                "Key": "367",
+                "Value": "<sprite name=FS_ResearchPoint><color=#FFE331>Research Check</color> lets you check information on the research list, even if you cannot begin the research."
+            },
+            {
+                "Key": "368",
+                "Value": "With <sprite name=FS_Queen><color=#FFE331>Leader</color>, you can check your condition, abilities, and equipment you are using."
+            },
+            {
+                "Key": "369",
+                "Value": "With <sprite name=FS_Filter><color=#FFE331>Filter</color>, you will be able to check the city and ratizens with various bias-lenses."
+            },
+            {
+                "Key": "370",
+                "Value": "Using the <sprite name=FS_Alarm><color=#FFE331>Check Alarm</color> feature, you can check the Ratizens corresponding to various alarms in the top left corner."
+            },
+            {
+                "Key": "371",
+                "Value": "If you dig in to much, you might get isolated!"
+            },
+            {
+                "Key": "372",
+                "Value": "When path is cut, it might really get hard to return."
+            },
+            {
+                "Key": "373",
+                "Value": "This time, I'll help you to come out. Beware not to get too deep without a passage."
+            },
+            {
+                "Key": "374",
+                "Value": "You can order to <sprite name=FS_Gathering><color=#FFE331>Gather</color> by aiming on the target object, and use [Interaction]."
+            },
+            {
+                "Key": "375",
+                "Value": "While using [Interaction], you can control the area to order on various targets."
+            },
+            {
+                "Key": "376",
+                "Value": "Anything within the area that is possible to be gathered will be ordered to be gathered."
+            },
+            {
+                "Key": "377",
+                "Value": "While ordering, use [MoveNext] to cancel orders. This function can be used on the other orders too."
+            },
+            {
+                "Key": "378",
+                "Value": "When <sprite name=FS_Gathering><color=#FFE331>Gather order</color> is given, ratizens will gather the ordered objects, no matter if it is fully grown or not."
+            },
+            {
+                "Key": "379",
+                "Value": "You can order to <sprite name=FS_Mining><color=#FFE331>Mine</color> by aiming at the targer tile, and using [Interaction]."
+            },
+            {
+                "Key": "380",
+                "Value": "While using [Interaction], you can control the area to order on various tiles"
+            },
+            {
+                "Key": "381",
+                "Value": "Anything within the area that is possible to be mined will be ordered to be mined."
+            },
+            {
+                "Key": "382",
+                "Value": "Be careful when giving <sprite name=FS_Mining><color=#FFE331>Mine</color> order since it can change the landscape. Ratizens could be isolated or structure's base could be destroyed."
+            },
+            {
+                "Key": "383",
+                "Value": "You can <sprite name=FS_Cancel><color=#FFE331>Cancel</color>  the order with [Interaction] button on the ordered area."
+            },
+            {
+                "Key": "384",
+                "Value": "<sprite name=FS_Cancel><color=#FFE331>Canceling</color> is possible on Gather, Mine, Demolish, Repair, and Build orders."
+            },
+            {
+                "Key": "385",
+                "Value": "<sprite name=FS_Cancel><color=#FFE331>Canceling</color> an order takes effect immediately. If you have canceled the wrong order, you'll need to issue it again."
+            },
+            {
+                "Key": "386",
+                "Value": "You can order to <sprite name=FS_Repair><color=#FFE331>Repair</color> using [Interaction] on damaged structures."
+            },
+            {
+                "Key": "387",
+                "Value": "Natural objects however cannot be repaired."
+            },
+            {
+                "Key": "388",
+                "Value": "<sprite name=FS_Repair><color=#FFE331>Repair</color> has higher priority than build, so use it wisely depending on the situation."
+            },
+            {
+                "Key": "389",
+                "Value": "Whenever you misplace a structure or tile, you can remove it with <sprite name=FS_Demolition><color=#FFE331>Demolish</color> order."
+            },
+            {
+                "Key": "390",
+                "Value": " <sprite name=FS_Demolition><color=#FFE331>Demolish</color> order can only be given to artificial objects."
+            },
+            {
+                "Key": "391",
+                "Value": "When removing ladders or tiles, beware that the structures' foundation could be destroyed, or ratizens' paths could get blocked."
+            },
+            {
+                "Key": "392",
+                "Value": "You can get all the resources used to build the structure, so use it wisely when you need it!"
+            },
+            {
+                "Key": "393",
+                "Value": "The structure lacks of resources!"
+            },
+            {
+                "Key": "394",
+                "Value": "Please check the structure and solve the issue."
+            },
+            {
+                "Key": "395",
+                "Value": "Becareful! Weird acting rats are approaching to the city!"
+            },
+            {
+                "Key": "396",
+                "Value": "Draw your weapon with [WeaponOn]! Let's do some \"interactions\" with those invaders!"
+            },
+            {
+                "Key": "397",
+                "Value": "A <sprite name=FS_Criminal><color=#FFE331>Crime</color> has occurred!"
+            },
+            {
+                "Key": "398",
+                "Value": "Currently, it's a minor offense like theft. But if left unchecked, it will lead to more serious crimes."
+            },
+            {
+                "Key": "399",
+                "Value": "Build a <sprite name=FS_Queen><color=#FFE331>Prison</color> or a <sprite name=FS_Queen><color=#FFE331>Police Station</color> to rehabilitate the criminals."
+            },
+            {
+                "Key": {},
+                "Value": "This is the <color=#FFE331>Entrance of a Dungeon</color>, filled with unknown threats."
+            },
+            {
+                "Key": {},
+                "Value": "The expected level of threat is indicated by the difficulty."
+            },
+            {
+                "Key": {},
+                "Value": "While it's possible to embark on this journey alone, I strongly recommend you to bring along guards."
+            },
+            {
+                "Key": {},
+                "Value": "Please note that the progress cannot be recored in the dungeon!"
+            },
+            {
+                "Key": {},
+                "Value": "Weasels have found our habitat!"
+            },
+            {
+                "Key": {},
+                "Value": "Those scurrilous babarians will build posts near the city and even make new paths to invade."
+            },
+            {
+                "Key": {},
+                "Value": "However, if we gather our force together, it won't be that hard to defeat them."
+            },
+            {
+                "Key": {},
+                "Value": "I'll just keep scouting! Good luck, leader!"
+            },
+            {
+                "Key": {},
+                "Value": "By explore, the unknown areas on the map can be revealed."
+            },
+            {
+                "Key": {},
+                "Value": "This will used up some resources and time depends on distance and number of crew."
+            },
+            {
+                "Key": {},
+                "Value": "On the revealed area, there could be other cities, terrains, resources, or some happenings."
+            },
+            {
+                "Key": {},
+                "Value": "I hope you explore unknown territories through exploration and promote national interests."
+            },
+            {
+                "Key": {},
+                "Value": "You can establish diplomatic relations with other nations discovered through exploration."
+            },
+            {
+                "Key": {},
+                "Value": "By maintaining diplomacy, you can build up good Relations; the higher the Relations points, the more benefits arise from interactions with that nation."
+            },
+            {
+                "Key": {},
+                "Value": "Alternatively, instead of building a relationship, you could invade them and turn them into a tributary state."
+            },
+            {
+                "Key": {},
+                "Value": "I hope you will promote the national interest through wise diplomatic relations."
+            },
+            {
+                "Key": {},
+                "Value": "By using <sprite name=FS_Queen><color=#FFE331>Trading Center</color>, trade agreements can be made with nations with good Relations."
+            },
+            {
+                "Key": {},
+                "Value": "Additionally, the higher the Relations points, the fewer disadvantages occur in import and export prices."
+            },
+            {
+                "Key": {},
+                "Value": "Each country handles products differently based on their prosperity, and prices can vary over time, so please check thoroughly before making agreements."
+            },
+            {
+                "Key": {},
+                "Value": "I hope you will promote the national interest through systematic trade."
+            },
+            {
+                "Key": {},
+                "Value": "In the <sprite name=FS_Queen><color=#FFE331>Bank</color>, loans and currency exchange are available."
+            },
+            {
+                "Key": {},
+                "Value": "When taking out a loan, the available products are provided by foreign cities with whom you have diplomatic relations."
+            },
+            {
+                "Key": {},
+                "Value": "Please make sure to check the loan amount and interest rates, and be careful not to break the hard-earned trust relationship."
+            },
+            {
+                "Key": {},
+                "Value": "I hope you will promote the national interest through systematic financial transactions."
+            },
+            {
+                "Key": "400",
+                "Value": "Through the <sprite name=FS_Queen><color=#FFE331>Ratizen Register</color>, you can designate groups of citizens."
+            },
+            {
+                "Key": "401",
+                "Value": "You can apply labor laws and other regulations to the designated groups, or restrict access using doors."
+            },
+            {
+                "Key": "402",
+                "Value": "To create other groups or to place a Ratizen in multiple groups, please build an additional <sprite name=FS_Queen><color=#FFE331>Ratizen Register</color>!"
+            },
+            {
+                "Key": "403",
+                "Value": "<sprite name=FS_Queen><color=#FFE331>Mail Box</color> is a structure that allows you to give orders from a distance."
+            },
+            {
+                "Key": "404",
+                "Value": "Facilities within the range of the <sprite name=FS_Queen><color=#FFE331>Mail Box</color> can be operated using the statistics window of the management function via (Player)[Command2]."
+            },
+            {
+                "Key": "405",
+                "Value": "Although the commands you can give are limited to simple tasks, it can be quite useful depending on the situation."
+            },
+            {
+                "Key": "406",
+                "Value": "When holding an item, actions other than putting in the items are not possible!"
+            },
+            {
+                "Key": "407",
+                "Value": "To perform other interactions, please use[DropObj] to drop the item first."
+            },
+            {
+                "Key": "408",
+                "Value": "Ratizens tend to express their dissatisfaction when it accumulates."
+            },
+            {
+                "Key": "409",
+                "Value": "Aim and use [DetailCheck] to check why that suspicious ratizen acts like that!"
+            },
+            {
+                "Key": "410",
+                "Value": "Some structures has options to change with (UI)[LeftDir2](UI)[RightDir2] before placing blueprints."
+            },
+            {
+                "Key": "411",
+                "Value": "For example, when you place beds, you can either set auto or manual assignment!"
+            },
+            {
+                "Key": "412",
+                "Value": "Research points are running out!"
+            },
+            {
+                "Key": "413",
+                "Value": "In addition to new resources, research points can also be produced by building a <sprite name=FS_Production><color=#FFE331>Laboratory</color>. Please remember this."
+            },
+            {
+                "Key": "414",
+                "Value": "All production facilities can be set to produce items according to the conditions by setting the task conditions."
+            },
+            {
+                "Key": "415",
+                "Value": "Please enable working conditions through the building settings as needed, and then select the production resources!"
+            },
+            {
+                "Key": "416",
+                "Value": "This feature can be enabled globally through the game options!"
+            },
+            {
+                "Key": "417",
+                "Value": "If the Task condition is activated, you can specify to produce or halt resources according to the conditions."
+            },
+            {
+                "Key": "418",
+                "Value": "You can assign tasks based on the quantity of materials or products, so please make good use of it."
+            },
+            {
+                "Key": "419",
+                "Value": "In production and gathering Structures, you can designate various Resources as needed."
+            },
+            {
+                "Key": "420",
+                "Value": "If you specify multiple Resources in a production Structure, it will produce those items sequentially."
+            },
+            {
+                "Key": "421",
+                "Value": "As you can see in the Resource information window, the same Resource can be made from different materials!"
+            },
+            {
+                "Key": "422",
+                "Value": "If the material Resources are insufficient, or do not meet the set Task conditions, it will produce the next designated item."
+            },
+            {
+                "Key": "423",
+                "Value": "If there is no possibility to produce anything, be aware that it will carry out general commands."
+            },
+            {
+                "Key": "424",
+                "Value": "You can activate up to 3 trade agreements per country."
+            },
+            {
+                "Key": "425",
+                "Value": "Please be aware that if you want to terminate an agreement before its expiration, you will have to pay a penalty!"
+            },
+            {
+                "Key": "426",
+                "Value": "In the trade status category, you can check the current trade status for each country."
+            },
+            {
+                "Key": "427",
+                "Value": "You can terminate ongoing agreements, or delete and renew expired trade agreements."
+            },
+            {
+                "Key": "428",
+                "Value": "If expired agreements accumulate, it becomes impossible to form new agreements, so please don't forget to remove unnecessary agreements."
+            },
+            {
+                "Key": "429",
+                "Value": "Functions in the (Player)[Command2] menu are not essential, but used well are very helpful! Please get used to this menu, Leader!"
+            },
+            {
+                "Key": "430",
+                "Value": "Through tax law, conditions can be set to impose taxes on Ratizens."
+            },
+            {
+                "Key": "431",
+                "Value": "Taxes are levied at midnight, and the imposed taxes must be collected directly from each Ratizen."
+            },
+            {
+                "Key": "432",
+                "Value": "Unpaid taxes continuously accumulate. Accumulated taxes are collected all at once when collecting taxes."
+            },
+            {
+                "Key": "433",
+                "Value": "Be careful if taxes accumulate excessively, as Ratizens may run out of money after tax collection and face difficulties."
+            },
+            {
+                "Key": "434",
+                "Value": "Problems tend to arise if taxes are too low or too high. It is advised to find the right amount of tax for the city through various methods."
+            },
+            {
+                "Key": "435",
+                "Value": "Through commercial law, you can legally change factors related to the consumption of Ratizens."
+            },
+            {
+                "Key": "436",
+                "Value": "You can change the price of Resources or labor wages, or make it possible to consume items that couldn't be consumed due to class restrictions."
+            },
+            {
+                "Key": "437",
+                "Value": "Commercial law is really useful, but it is advised to set it carefully considering the economic level of Ratizens and the necessity of consumption."
+            },
+            {
+                "Key": "438",
+                "Value": "Through the Welfare law, various subsidies can be provided to Ratizens."
+            },
+            {
+                "Key": "439",
+                "Value": "Unlike taxes, subsidies do not need to be delivered individually; they are directly transferred from the Savings."
+            },
+            {
+                "Key": "440",
+                "Value": "Decide whether to provide regular subsidies or to grant subsidies when certain goods are consumed!"
+            },
+            {
+                "Key": "441",
+                "Value": "Although subsidies are considered income, please consider that they are delivered after tax calculations at midnight."
+            },
+            {
+                "Key": "442",
+                "Value": "Under the Labor law, you can set Ratizens' work schedules or adjust work priorities."
+            },
+            {
+                "Key": "443",
+                "Value": "For work schedules, you can enforce specific times for sleeping, working, resting, etc."
+            },
+            {
+                "Key": "444",
+                "Value": "Adjusting work priorities can prohibit the execution of certain commands or prioritize them over others."
+            },
+            {
+                "Key": "445",
+                "Value": "The Labor law is particularly effective when used in combination with <sprite name=FS_Queen><color=#FFE331>Ratizen Register</color>, so consider using them together."
+            },
+            {
+                "Key": "446",
+                "Value": "The city is flourishing quite well!"
+            },
+            {
+                "Key": "447",
+                "Value": "As the city grows, it might become more difficult to check and manage various information..."
+            },
+            {
+                "Key": "448",
+                "Value": "By using [Command2], you can access Admin functions and more easily check information!"
+            },
+            {
+                "Key": "449",
+                "Value": "Resources with Class restrictions have been produced!"
+            },
+            {
+                "Key": "450",
+                "Value": "Please note that some resources and Structures can only be consumed by specific Classes."
+            },
+            {
+                "Key": "451",
+                "Value": "This information can be found in the information for each resource and Structure."
+            },
+            {
+                "Key": "452",
+                "Value": "Additionally, through commercial law, you can change Class restrictions, so make good use of it."
+            },
+            {
+                "Key": "453",
+                "Value": "A Structure with Class restrictions has been constructed!"
+            },
+            {
+                "Key": "454",
+                "Value": "Please note that some resources and Structures can only be consumed by specific Classes."
+            },
+            {
+                "Key": "455",
+                "Value": "This information can be found in the information for each resource and Structure."
+            },
+            {
+                "Key": "456",
+                "Value": "Additionally, through commercial law, you can change Class restrictions, so make good use of it."
+            },
+            {
+                "Key": "457",
+                "Value": "You've produced your first <sprite name=FS_Life><color=#FFE331>Necessity</color>!"
+            },
+            {
+                "Key": "458",
+                "Value": "Ratizens consume various Necessities and lead happier lives."
+            },
+            {
+                "Key": "459",
+                "Value": "Additionally, with sufficient Necessities and money, they can belong to a higher Class."
+            },
+            {
+                "Key": "460",
+                "Value": "The remaining Necessities and money needed to reach the next Class can be found in the individual details of each Ratizen."
+            },
+            {
+                "Key": "494",
+                "Value": "<sprite name=FS_Queen><color=#FFE331>Royal Forge</color> allows you to craft and equip gear directly."
+            },
+            {
+                "Key": "495",
+                "Value": "Press Equipment Crafting/Equipment Equipping to check the information!"
+            },
+            {
+                "Key": {},
+                "Value": "Equipment is divided into weapons, armor, and accessories, and you can equip one item per category."
+            },
+            {
+                "Key": {},
+                "Value": "To craft equipment, the necessary resources must be present in the city."
+            },
+            {
+                "Key": {},
+                "Value": "Each piece of equipment has various traits, so lead your citizens with gear that suits the situation."
+            },
+            {
+                "Key": "496",
+                "Value": "Crafting equipment is surprisingly simple! You just need to hammer at the right moment."
+            },
+            {
+                "Key": "497",
+                "Value": "That right moment is when the node flying from the right reaches the marked position on the anvil."
+            },
+            {
+                "Key": "498",
+                "Value": "Of course, if you make too many mistakes with the hammering, you could fail the crafting."
+            },
+            {
+                "Key": "499",
+                "Value": "Even if you fail, the crafting materials will not disappear, so don't worry and give it a try."
+            },
+            {
+                "Key": "489",
+                "Value": "<sprite name=FS_Queen><color=#FFE331>Shrine</color> allows you to utilize various effective abilities."
+            },
+            {
+                "Key": "490",
+                "Value": "Only one shrine can be activated at a time, and to activate its abilities, a certain amount of offerings must be sacrificed."
+            },
+            {
+                "Key": "491",
+                "Value": "The shrine's abilities are divided into Passive and Active skills. Passive effects are always in effect while the shrine is activated."
+            },
+            {
+                "Key": "492",
+                "Value": "Active skills can be used by pressing the [Skill] button and have a cooldown period."
+            },
+            {
+                "Key": "493",
+                "Value": "Use the shrine's abilities to actively lead your city!"
+            },
+            {
+                "Key": "461",
+                "Value": "To assist in your understanding of engineering research, I will provide a brief explanation."
+            },
+            {
+                "Key": "462",
+                "Value": "Generators produce <sprite name=FS_ElectricPower><color=#FFE331>Electricity</color> every hour or once a certain workload is completed."
+            },
+            {
+                "Key": "463",
+                "Value": "The generated Electricity is transmitted through <color=#FFE331>wires</color> to the <sprite name=FS_Battery><color=#FFE331>Electricity Storage</color>."
+            },
+            {
+                "Key": "464",
+                "Value": "If the Storage is full or there is no Storage, the produced Electricity <color=#FFE331>disappears</color>."
+            },
+            {
+                "Key": "465",
+                "Value": "Storage supplies the Electricity received from the power plant to nearby <sprite name=FS_UseWatt><color=#FFE331>Electricity consumption</color> structures "
+            },
+            {
+                "Key": "466",
+                "Value": "Electricity consumption structures automatically connect to the Storage within its effective range and receive Electricity."
+            },
+            {
+                "Key": "467",
+                "Value": "Most of the electricity consumption structures consume Electricity <color=#FFE331>every hour</color>."
+            },
+            {
+                "Key": "468",
+                "Value": "It is advised to properly coordinate production, storage, and consumption to utilize without shortage!"
+            },
+            {
+                "Key": "469",
+                "Value": "<sprite name=FS_MakeWatt><color=#FFE331>Generating Electricity</color> structures produce electricity every hour or upon completion of a task."
+            },
+            {
+                "Key": "470",
+                "Value": "The generated electricity is transmitted to the connected <sprite name=FS_Battery><color=#FFE331>Electricity Storage</color> structure."
+            },
+            {
+                "Key": "471",
+                "Value": "Please be aware that if there is no connected storage or if the storage capacity is full, the generated electricity will be <color=#FFE331>lost</color>."
+            },
+            {
+                "Key": "472",
+                "Value": "<sprite name=FS_Battery><color=#FFE331>Electricity Storage</color> structures store electricity supplied from <sprite name=FS_MakeWatt><color=#FFE331>Generating Electricity</color> structures connected by Transmission Wire or Transmission Block."
+            },
+            {
+                "Key": "473",
+                "Value": "Electricity Storage structures also supply electricity to <sprite name=FS_UseWatt><color=#FFE331>Consuming Electricity</color> structures."
+            },
+            {
+                "Key": "474",
+                "Value": "Ensure you have a sufficient <sprite name=FS_Battery><color=#FFE331>Electricity Storage</color> capacity by carefully managing supply, storage, and consumption rates so it does not fall short."
+            },
+            {
+                "Key": "475",
+                "Value": "<sprite name=FS_UseWatt><color=#FFE331>Consuming Electricity</color> structures can be connected to a storage without using transmission wires or blocks."
+            },
+            {
+                "Key": "476",
+                "Value": "Consuming Electricity structures consume power from the connected storage to be activated."
+            },
+            {
+                "Key": "477",
+                "Value": "Most Consuming Electricity structures use power every hour and will be <color=#FFE331>deactivated</color> if they do not receive sufficient power."
+            },
+            {
+                "Key": "478",
+                "Value": "Cute and fragile <sprite name=FS_Drone><color=#FFE331>drones</color> are a great way to quickly progress through simple tasks."
+            },
+            {
+                "Key": "479",
+                "Value": "Each <sprite name=FS_Queen><color=#FFE331>Drone Hangar</color> is equipped with three drones, which perform one type of designated <color=#FFE331>Order</color>."
+            },
+            {
+                "Key": "480",
+                "Value": "If you wish the drones to perform a different order, please change the order!"
+            },
+            {
+                "Key": "481",
+                "Value": "Note that drones cannot execute orders outside the range of their hangar."
+            },
+            {
+                "Key": "482",
+                "Value": "<sprite name=FS_GBot><color=#FFE331>Ratron</color> is an excellent technology that can perform the hard work of Ratizens instead."
+            },
+            {
+                "Key": "483",
+                "Value": "Ratrons do not need to eat, have fun, or take care of hygiene! Just charging them is enough."
+            },
+            {
+                "Key": "484",
+                "Value": "However, they do not grow, and for various reasons, the number that can be operated is limited..."
+            },
+            {
+                "Key": "485",
+                "Value": "Please try assembling it by putting in the necessary resources according to the desired capability!"
+            },
+            {
+                "Key": "500",
+                "Value": "If you adjust the output well during the Ratron assembly stage, you can produce a Ratron of better quality."
+            },
+            {
+                "Key": "501",
+                "Value": "As soon as you start pulling the lever, charging begins, and when you release the lever, the charged energy is delivered."
+            },
+            {
+                "Key": "502",
+                "Value": "If you adjust the output to match all the same attributes, a Ratron with those attribute bonuses will be produced!"
+            },
+            {
+                "Key": "503",
+                "Value": "Now, let's activate the machine and try making one."
+            },
+            {
+                "Key": "486",
+                "Value": "Tesla Towers are exceptional facilities that can transmit electricity wirelessly by connecting to other Tesla Towers."
+            },
+            {
+                "Key": "487",
+                "Value": "The power networks of the two connected Tesla Towers are combined into one power network."
+            },
+            {
+                "Key": "488",
+                "Value": "However, please be careful as attempting to connect to a Tesla Tower that is already connected to another will disconnect the existing connection."
+            },
+            {
+                "Key": "504",
+                "Value": "You can use the Headquarter to observe the battlefield, deploy soldiers, and initiate battles."
+            },
+            {
+                "Key": "505",
+                "Value": "Observe the battlefield to identify the terrain and enemy soldiers, and deploy soldiers to your War Banner!"
+            },
+            {
+                "Key": "506",
+                "Value": "Soldiers can also be deployed by interacting with individual banners, without using the Headquarter."
+            },
+            {
+                "Key": "507",
+                "Value": "When you are ready, press the \"Initiate Battle\" button to start the battle!"
+            },
+            {
+                "Key": "508",
+                "Value": "You can use the Exploration Office to explore unexplored areas or to obtain resources from already explored areas."
+            },
+            {
+                "Key": "509",
+                "Value": "To explore, you need an unemployed Ratizen, and you must provide food and costs."
+            },
+            {
+                "Key": "510",
+                "Value": "The time required for exploration is proportional to the abilities of the assigned Ratizens."
+            },
+            {
+                "Key": "511",
+                "Value": "If you discover another city during the exploration, proceed with diplomacy through the Diplomatic Office!"
+            },
+            {
+                "Key": "512",
+                "Value": "You can conduct diplomacy with the cities discovered by the Exploration Office."
+            },
+            {
+                "Key": "513",
+                "Value": "If there are discovered cities, select the respective city to engage in various diplomatic activities!"
+            },
+            {
+                "Key": "514",
+                "Value": "You can perform actions such as giving gifts, opening trade routes, proposing alliances, condemning, and declaring war with each city."
+            },
+            {
+                "Key": "515",
+                "Value": "Descriptions of each action can be found by clicking on the respective action."
+            },
+            {
+                "Key": "516",
+                "Value": "If you have opened a trade route with a city discovered through exploration in the Diplomatic Office, you can proceed with trade."
+            },
+            {
+                "Key": "517",
+                "Value": "Each city has unique resources, and the items and quantities for sale increase according to their Prosperity."
+            },
+            {
+                "Key": "518",
+                "Value": "Additionally, the resources handled change with each season."
+            },
+            {
+                "Key": "519",
+                "Value": "Don't worry, the agreements you've already made will remain valid even if the resources change!"
+            }
+        ]
+    }
+}

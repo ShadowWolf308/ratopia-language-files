@@ -1,0 +1,142 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Zombie_Nm",
+                "Value": "Infected"
+            },
+            {
+                "Key": "FatZombie_Nm",
+                "Value": "Giant"
+            },
+            {
+                "Key": "Pigy_Nm",
+                "Value": "Piggy"
+            },
+            {
+                "Key": "Spitter_Nm",
+                "Value": "Spitter"
+            },
+            {
+                "Key": "VolcanoSpider_Nm",
+                "Value": "Balob"
+            },
+            {
+                "Key": "SpiderBaby_Nm",
+                "Value": "Aracnion"
+            },
+            {
+                "Key": "FunnyMon_Nm",
+                "Value": "Joymon"
+            },
+            {
+                "Key": "JumpZombie_Nm",
+                "Value": "Flyer"
+            },
+            {
+                "Key": "Overlord_Nm",
+                "Value": "Digger"
+            },
+            {
+                "Key": "Weasel_Pathfinder_Nm",
+                "Value": "Weaseeker"
+            },
+            {
+                "Key": "Weasel_Sp_Nm",
+                "Value": "Weasly"
+            },
+            {
+                "Key": "Weasel_Kidnapper_Nm",
+                "Value": "Weasnapper"
+            },
+            {
+                "Key": "Weasel_Magician_Nm",
+                "Value": "Weaszard"
+            },
+            {
+                "Key": "Weasel_Chief_Nm",
+                "Value": "Weasel chieftain"
+            },
+            {
+                "Key": "Weasel_HeavyArmor_Nm",
+                "Value": "Weasilla"
+            },
+            {
+                "Key": "Ratfiend_Nm",
+                "Value": "Ratfiend"
+            },
+            {
+                "Key": "Weasel_Poison_Nm",
+                "Value": "Weasenom"
+            },
+            {
+                "Key": "Weasel_Pharaoh_Nm",
+                "Value": "Weaselord"
+            },
+            {
+                "Key": "Lizard_Pathfinder_Nm",
+                "Value": "Enginizard"
+            },
+            {
+                "Key": "Lizard_Axe_Nm",
+                "Value": "Pygmizard"
+            },
+            {
+                "Key": "Lizard_Sword_Nm",
+                "Value": "Slashizard"
+            },
+            {
+                "Key": "Lizard_Bow_Nm",
+                "Value": "Boltizard"
+            },
+            {
+                "Key": "Lizard_Armor_Nm",
+                "Value": "Tankizard"
+            },
+            {
+                "Key": "Lizard_SmallCitizen_Nm",
+                "Value": "Litizen"
+            },
+            {
+                "Key": "Lizard_Elite_Nm",
+                "Value": "Kingzard"
+            },
+            {
+                "Key": "Invasion_Tier1_Nm",
+                "Value": "Recruit"
+            },
+            {
+                "Key": "Invasion_Tier2_Nm",
+                "Value": "Trained"
+            },
+            {
+                "Key": "Invasion_Tier3_Nm",
+                "Value": "Veteran"
+            },
+            {
+                "Key": "Weasel_BasicMummy_Nm",
+                "Value": "Servant Mummy"
+            },
+            {
+                "Key": "Weasel_BeastMummy_Nm",
+                "Value": "Beast Mummy"
+            },
+            {
+                "Key": "Weasel_PriestMummy_Nm",
+                "Value": "Priest Mummy"
+            },
+            {
+                "Key": "Weasel_AtkMummy_Nm",
+                "Value": "Soldier Mummy"
+            },
+            {
+                "Key": "Weasel_AtkMummy2_Nm",
+                "Value": "Guard Mummy"
+            },
+            {
+                "Key": "Lizard_Assassin_Nm",
+                "Value": "Not-zard"
+            }
+        ]
+    }
+}

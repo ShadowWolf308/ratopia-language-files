@@ -1,0 +1,114 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "NeedMoney",
+                "Value": "Savings are running out. You need more <sprite name=FS_Gold>Pia!"
+            },
+            {
+                "Key": "City_Attacked",
+                "Value": "<sprite name=FS_ATK>The city is under attack!"
+            },
+            {
+                "Key": "NeedFood",
+                "Value": "<sprite name=FS_Food>The city has insufficient Food"
+            },
+            {
+                "Key": "OutOfFood",
+                "Value": "<sprite name=FS_Food>The city is out of Foods!"
+            },
+            {
+                "Key": "Citizen_Hungry",
+                "Value": "<sprite name=FS_Food>Ratizens in need of Food"
+            },
+            {
+                "Key": "Citizen_Fatigue",
+                "Value": "<sprite name=FS_Stamina>Ratizens need to Rest"
+            },
+            {
+                "Key": "Citizen_Fun",
+                "Value": "<sprite name=FS_Fun>Ratizens in need of Joy"
+            },
+            {
+                "Key": "Citizen_Clean",
+                "Value": "<sprite name=FS_Cleanliness>Ratizens in need of Hygiene"
+            },
+            {
+                "Key": "Citizen_Life",
+                "Value": "<sprite name=FS_Life>Ratizens need necessities"
+            },
+            {
+                "Key": "Citizen_Rebellion",
+                "Value": "<sprite name=FS_Torch>Ratizens revolting"
+            },
+            {
+                "Key": "Citizen_LostWay",
+                "Value": "<sprite name=FS_LostWay>Ratizens searching for route"
+            },
+            {
+                "Key": "Building_NoGround",
+                "Value": "<sprite name=FS_NeedGround> Structures need foundation"
+            },
+            {
+                "Key": "Citizen_RebellionSign",
+                "Value": "<sprite name=FS_RebellionSign>Ratizens with exploding complaints"
+            },
+            {
+                "Key": "Citizen_Faint",
+                "Value": "<sprite name=FS_Stun>Severely wounded ratizens"
+            },
+            {
+                "Key": "Citizen_Faint2",
+                "Value": "<sprite name=FS_Injury>Severely wounded ratizens"
+            },
+            {
+                "Key": "Citizen_Death",
+                "Value": "<sprite name=FS_Death>Dead ratizens"
+            },
+            {
+                "Key": "Citizen_NoMoney",
+                "Value": "<sprite name=FS_NoMoney>Ratizens lacking money"
+            },
+            {
+                "Key": "NeedWattBuild",
+                "Value": "<sprite name=FS_NoElec>Structures Lacking Electricity"
+            },
+            {
+                "Key": "Building_Injury",
+                "Value": "<sprite name=FS_BuildDemolition>Structures Requiring Repair"
+            },
+            {
+                "Key": "Building_NeedBattery",
+                "Value": "<sprite name=FS_NoBattery>Structures Requiring an Electricity Storage"
+            },
+            {
+                "Key": "GBot_Discharge",
+                "Value": "<sprite name=FS_Discharge>Discharged Ratron"
+            },
+            {
+                "Key": "GBot_Death",
+                "Value": "<sprite name=FS_Death>Destroyed Ratron"
+            },
+            {
+                "Key": "Building_Problem",
+                "Value": "<sprite name=FS_BuildDemolition>Structures with Issues"
+            },
+            {
+                "Key": "NotBatchSoldier",
+                "Value": "<sprite name=FS_CitizenCombat>Undeployed soldiers."
+            },
+            {
+                "Key": "Expedition_Running",
+                "Value": "<sprite name=FS_Expedition>Ratizens on Exploration"
+            },
+            {
+                "Key": "Citizen_Starve",
+                "Value": "<sprite name=FS_DieHunger>Starving Ratizen"
+            },
+            {
+                "Key": "MaskLizard",
+                "Value": "Intruder inside the city"
+            }
+        ]
+    }
+}

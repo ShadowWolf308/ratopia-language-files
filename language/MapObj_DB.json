@@ -1,0 +1,494 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "RabbitHole_Nm",
+                "Value": "Rabbit Hole"
+            },
+            {
+                "Key": "RabbitHole_Scr",
+                "Value": "A rabbit's secret cave. Wonder how so many rabbits are in."
+            },
+            {
+                "Key": "ZombieHole_Nm",
+                "Value": "Den of Plagues"
+            },
+            {
+                "Key": "ZombieHole_Scr",
+                "Value": "A forbidden-to-touch place. Be prepared to remove."
+            },
+            {
+                "Key": "BeeHole_Nm",
+                "Value": "Bee Hive"
+            },
+            {
+                "Key": "BeeHole_Scr",
+                "Value": "A hive filled with honey, beeswax, and of course, bees."
+            },
+            {
+                "Key": "BatHole_Nm",
+                "Value": "Den of Bats"
+            },
+            {
+                "Key": "BatHole_Scr",
+                "Value": "A small cave where bats inhabits. How strange building the house on ceiling."
+            },
+            {
+                "Key": "SilkWormHole_Nm",
+                "Value": "Silkworm's Hide"
+            },
+            {
+                "Key": "SilkWormHole_Scr",
+                "Value": "A trace of silkworm hiding nearby."
+            },
+            {
+                "Key": "MonkfishHole_Nm",
+                "Value": "Monkfish Cave"
+            },
+            {
+                "Key": "MonkfishHole_Scr",
+                "Value": "A rugged hideout of Monkfish. Better not to touch."
+            },
+            {
+                "Key": "ArmadilloHole_Nm",
+                "Value": "Armadillo Cave"
+            },
+            {
+                "Key": "ArmadilloHole_Scr",
+                "Value": "A large hole digged by armadillo. Looks fit to roll around."
+            },
+            {
+                "Key": "FrogHole_Nm",
+                "Value": "Frog's Hideout"
+            },
+            {
+                "Key": "FrogHole_Scr",
+                "Value": "A hideout of frogs to rest. Has a comfy shape to crawl."
+            },
+            {
+                "Key": "ScorpionHole_Nm",
+                "Value": "Scorpion's Hideout"
+            },
+            {
+                "Key": "ScorpionHole_Scr",
+                "Value": "A deep hole dug by scorpions. Creepy silence is fallen inside."
+            },
+            {
+                "Key": "SpiderWeb_Nm",
+                "Value": "Spider Web"
+            },
+            {
+                "Key": "SpiderWeb_Scr",
+                "Value": "Sticky web created by spider. When got hung, it will not let go easily."
+            },
+            {
+                "Key": "JewelScarabHole_Nm",
+                "Value": "Jewel Scarab's Den"
+            },
+            {
+                "Key": "JewelScarabHole_Scr",
+                "Value": "A small den of Jewel Scarab. The hard Jewel Scarab are very rare."
+            },
+            {
+                "Key": "HermitCrabHole_Nm",
+                "Value": "Hermit Crab's Den"
+            },
+            {
+                "Key": "HermitCrabHole_Scr",
+                "Value": "A hideout for hermit crabs. Even if they carry homes on their backs, they still need a place to hide."
+            },
+            {
+                "Key": "SnailHole_Nm",
+                "Value": "Snail's Burrow"
+            },
+            {
+                "Key": "SnailHole_Scr",
+                "Value": "A small burrow of slow and diligent snails. Snail races are popular for everyone."
+            },
+            {
+                "Key": "FishHole_Nm",
+                "Value": "Fish's Hideout"
+            },
+            {
+                "Key": "FishHole_Scr",
+                "Value": "A small hideout of fish. Let it be, then they will come out."
+            },
+            {
+                "Key": "EliteAltar_Nm",
+                "Value": "Elite Altar"
+            },
+            {
+                "Key": "EliteAltar_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "VolcanoAltar_Nm",
+                "Value": "Volcano Altar"
+            },
+            {
+                "Key": "VolcanoAltar_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "UndergroundHole_Nm",
+                "Value": "Plague Tunnel"
+            },
+            {
+                "Key": "UndergroundHole_Scr",
+                "Value": "Plague rats' tunnel built by diggers.\nRemove it quickly for safety."
+            },
+            {
+                "Key": "EliteAltar2_Nm",
+                "Value": "Odd's Altar"
+            },
+            {
+                "Key": "EliteAltar2_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "AcidStalactite_Nm",
+                "Value": "Acidic Stalactite"
+            },
+            {
+                "Key": "AcidStalactite_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "SpiderHole_Nm",
+                "Value": "Spider Hole"
+            },
+            {
+                "Key": "SpiderHole_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "YellowJewerlyDoor_Nm",
+                "Value": "Wooden Door"
+            },
+            {
+                "Key": "YellowJewerlyDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "YellowJewerlyLever_Nm",
+                "Value": "Lever (Attack)"
+            },
+            {
+                "Key": "YellowJewerlyLever_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "FireStalactite_Nm",
+                "Value": "Lava Stalactite"
+            },
+            {
+                "Key": "FireStalactite_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "ThornTrap_Nm",
+                "Value": "Spike Trap"
+            },
+            {
+                "Key": "ThornTrap_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "BossDoor_Nm",
+                "Value": "The Door"
+            },
+            {
+                "Key": "BossDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "ArrowTrap_Nm",
+                "Value": "Arrow Trap"
+            },
+            {
+                "Key": "ArrowTrap_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "MazeReward_Nm",
+                "Value": "Maze Reward"
+            },
+            {
+                "Key": "MazeReward_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "WeaselTent_Nm",
+                "Value": "Weasel House"
+            },
+            {
+                "Key": "WeaselTent_Scr",
+                "Value": "Weasel's stitched tent-like house. Be careful not to wake them up."
+            },
+            {
+                "Key": "WeaselTorch_Nm",
+                "Value": "Barbaric Torch"
+            },
+            {
+                "Key": "WeaselTorch_Scr",
+                "Value": "Weasel's dim light source. Barbarian's savage and wild torch."
+            },
+            {
+                "Key": "WeaselTable_Nm",
+                "Value": "Glutonous Table"
+            },
+            {
+                "Key": "WeaselTable_Scr",
+                "Value": "Table that weasels use to eat. They at least have a civilized part."
+            },
+            {
+                "Key": "WeaselHole_Nm",
+                "Value": "Weasel's Passage"
+            },
+            {
+                "Key": "WeaselHole_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "NocslinVent_Nm",
+                "Value": "Nocslin Vent"
+            },
+            {
+                "Key": "NocslinVent_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "WeaselPotion_Nm",
+                "Value": "Weasel's Elixir"
+            },
+            {
+                "Key": "WeaselPotion_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "TempleTorch_Nm",
+                "Value": "Scarab Torch"
+            },
+            {
+                "Key": "TempleTorch_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "TempleAltar_Nm",
+                "Value": "Scarab Altar"
+            },
+            {
+                "Key": "TempleAltar_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "ScarabHole_Nm",
+                "Value": "Scarab's Hide"
+            },
+            {
+                "Key": "ScarabHole_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "VineLadder_Nm",
+                "Value": "Vine Ladder"
+            },
+            {
+                "Key": "VineLadder_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "FlaoneHole_Nm",
+                "Value": "Flamone's Burrow"
+            },
+            {
+                "Key": "FlaoneHole_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LordGreed_Nm",
+                "Value": "The Greed"
+            },
+            {
+                "Key": "LordGreed_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardTorch_Nm",
+                "Value": "Lizard Torch"
+            },
+            {
+                "Key": "LizardTorch_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "MagicianGrave_Nm",
+                "Value": "Shaman's End"
+            },
+            {
+                "Key": "MagicianGrave_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "PharaohDoor_Nm",
+                "Value": "Stone Door"
+            },
+            {
+                "Key": "PharaohDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "PharaohDoor2_Nm",
+                "Value": "Stone Door"
+            },
+            {
+                "Key": "PharaohDoor2_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "PharaohJar_Nm",
+                "Value": "Ancient Jar"
+            },
+            {
+                "Key": "PharaohJar_Scr",
+                "Value": "Ancient jar containing burial goods."
+            },
+            {
+                "Key": "PharaohJar2_Nm",
+                "Value": "Ancient Stone Coffin"
+            },
+            {
+                "Key": "PharaohJar2_Scr",
+                "Value": "Ancient jar filled with burial goods."
+            },
+            {
+                "Key": "PharaohLever_Nm",
+                "Value": "Lever (Attack)"
+            },
+            {
+                "Key": "PharaohLever_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardTent_Nm",
+                "Value": "Lizard Nest"
+            },
+            {
+                "Key": "LizardTent_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardBarrack_Nm",
+                "Value": "Lizard Nest"
+            },
+            {
+                "Key": "LizardBarrack_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardFactory_Nm",
+                "Value": "Lizard Nest"
+            },
+            {
+                "Key": "LizardFactory_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "MummyTombstone_Nm",
+                "Value": "Tomb of the Servant"
+            },
+            {
+                "Key": "MummyTombstone_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardCage_Nm",
+                "Value": "Lizard enclosure"
+            },
+            {
+                "Key": "LizardCage_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardRatTrap_Nm",
+                "Value": "Mousetrap"
+            },
+            {
+                "Key": "LizardRatTrap_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardHole_Nm",
+                "Value": "Lizard passage"
+            },
+            {
+                "Key": "LizardHole_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "TempleDoor_Nm",
+                "Value": "Temple gate"
+            },
+            {
+                "Key": "TempleDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardOutpost_Nm",
+                "Value": "Lizard outpost"
+            },
+            {
+                "Key": "LizardOutpost_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "RedDoor_Nm",
+                "Value": "Wooden Door"
+            },
+            {
+                "Key": "RedDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "RedLever_Nm",
+                "Value": "Wooden door lever"
+            },
+            {
+                "Key": "RedLever_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "BlueDoor_Nm",
+                "Value": "Iron Gate"
+            },
+            {
+                "Key": "BlueDoor_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "BlueLever_Nm",
+                "Value": "Iron door lever"
+            },
+            {
+                "Key": "BlueLever_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "QuestBird_Nm",
+                "Value": "Messenger"
+            },
+            {
+                "Key": "QuestBird_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "SnailPoop_Nm",
+                "Value": "Snail mucus"
+            },
+            {
+                "Key": "SnailPoop_Scr",
+                "Value": ""
+            }
+        ]
+    }
+}

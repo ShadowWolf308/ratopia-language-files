@@ -1,0 +1,598 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Ach title",
+                "Value": "Achievements"
+            },
+            {
+                "Key": "Ach score",
+                "Value": "Progress"
+            },
+            {
+                "Key": "Ach achievement",
+                "Value": "Achieved"
+            },
+            {
+                "Key": "Ach unachievement",
+                "Value": "Not achieved"
+            },
+            {
+                "Key": "Ach reward costum scr",
+                "Value": "A bonus outfit for the leader"
+            },
+            {
+                "Key": "Ach reward building scr",
+                "Value": "A bonus structure for the city"
+            },
+            {
+                "Key": "Ach reward emblem scr",
+                "Value": "A bonus symbol for the flag"
+            },
+            {
+                "Key": "Ach reward category costum",
+                "Value": "Outfit"
+            },
+            {
+                "Key": "Ach reward category building",
+                "Value": "Structure"
+            },
+            {
+                "Key": "Ach reward category emblem",
+                "Value": "Emblem"
+            },
+            {
+                "Key": "Ach reward merchant",
+                "Value": "Merchant cloth"
+            },
+            {
+                "Key": "Ach reward general",
+                "Value": "General cloth"
+            },
+            {
+                "Key": "Ach reward architect",
+                "Value": "Builder cloth"
+            },
+            {
+                "Key": "Ach reward scientist",
+                "Value": "Scientist cloth"
+            },
+            {
+                "Key": "Ach reward shaman",
+                "Value": "Shaman cloth"
+            },
+            {
+                "Key": "Ach reward mate",
+                "Value": "Navigator cloth"
+            },
+            {
+                "Key": "Ach reward grade_mid",
+                "Value": "Middle Class"
+            },
+            {
+                "Key": "Ach reward grade_high",
+                "Value": "Upper Class"
+            },
+            {
+                "Key": "Ach reward plaguerat",
+                "Value": "Plagued fur"
+            },
+            {
+                "Key": "Ach reward angel",
+                "Value": "Angel cloth"
+            },
+            {
+                "Key": "Ach reward citizenmonument",
+                "Value": "Bustling ratizen monument"
+            },
+            {
+                "Key": "Ach reward goldmonument",
+                "Value": "Golden Monument"
+            },
+            {
+                "Key": "Ach reward pia",
+                "Value": "Bunch of Pia"
+            },
+            {
+                "Key": "Ach reward laurelwreath",
+                "Value": "Laurel Wreath"
+            },
+            {
+                "Key": "Ach reward happiness",
+                "Value": "Happiness"
+            },
+            {
+                "Key": "Ach immigrant nm",
+                "Value": "The First settler"
+            },
+            {
+                "Key": "Ach immigrant scr",
+                "Value": "Accept a migrant"
+            },
+            {
+                "Key": "Ach working nm",
+                "Value": "I got a job"
+            },
+            {
+                "Key": "Ach working scr",
+                "Value": "Assign a ratizen to a job"
+            },
+            {
+                "Key": "Ach newpolicy nm",
+                "Value": "A Cheese for a Cheese"
+            },
+            {
+                "Key": "Ach newpolicy scr",
+                "Value": "Activate a new policy"
+            },
+            {
+                "Key": "Ach firstresearch nm",
+                "Value": "EUREKA!"
+            },
+            {
+                "Key": "Ach firstresearch scr",
+                "Value": "Research a blueprint"
+            },
+            {
+                "Key": "Ach burial nm",
+                "Value": "Rest forever"
+            },
+            {
+                "Key": "Ach burial scr",
+                "Value": "Bury the dead at a grave"
+            },
+            {
+                "Key": "Ach useroyalbed nm",
+                "Value": "I need some rest"
+            },
+            {
+                "Key": "Ach useroyalbed scr",
+                "Value": "Rest on a Royal Bed"
+            },
+            {
+                "Key": "Ach escort nm",
+                "Value": "Follow me!"
+            },
+            {
+                "Key": "Ach escort scr",
+                "Value": "Order soldiers to escort"
+            },
+            {
+                "Key": "Ach usetotem nm",
+                "Value": "Zodiacs"
+            },
+            {
+                "Key": "Ach usetotem scr",
+                "Value": "Activate a shrine"
+            },
+            {
+                "Key": "Ach decorator nm",
+                "Value": "Delight in Minds"
+            },
+            {
+                "Key": "Ach decorator scr",
+                "Value": "Build a decorative structure."
+            },
+            {
+                "Key": "Ach buildrailroad nm",
+                "Value": "Railway Empire"
+            },
+            {
+                "Key": "Ach buildrailroad scr",
+                "Value": "Build a rail in the city"
+            },
+            {
+                "Key": "Ach makeequipment nm",
+                "Value": "Home made!"
+            },
+            {
+                "Key": "Ach makeequipment scr",
+                "Value": "Produce an equipment"
+            },
+            {
+                "Key": "Ach customizing nm",
+                "Value": "A bit of make-up?"
+            },
+            {
+                "Key": "Ach customizing scr",
+                "Value": "Change the style of the leader"
+            },
+            {
+                "Key": "Ach citizennumber nm",
+                "Value": "Registration"
+            },
+            {
+                "Key": "Ach citizennumber scr",
+                "Value": "Place a citizen in a group"
+            },
+            {
+                "Key": "Ach intothedungeon nm",
+                "Value": "Where am I?"
+            },
+            {
+                "Key": "Ach intothedungeon scr",
+                "Value": "Enter the dungeon"
+            },
+            {
+                "Key": "Ach searchcountry nm",
+                "Value": "Who... are you?"
+            },
+            {
+                "Key": "Ach searchcountry scr",
+                "Value": "Find other cities"
+            },
+            {
+                "Key": "Ach buyloan nm",
+                "Value": "I'll pay you back"
+            },
+            {
+                "Key": "Ach buyloan scr",
+                "Value": "Use a loan."
+            },
+            {
+                "Key": "Ach agreedtrade nm",
+                "Value": "It's very cheap!"
+            },
+            {
+                "Key": "Ach agreedtrade scr",
+                "Value": "Make trade agreement."
+            },
+            {
+                "Key": "Ach passspring nm",
+                "Value": "Pink ending"
+            },
+            {
+                "Key": "Ach passspring scr",
+                "Value": "Experienced Spring's end"
+            },
+            {
+                "Key": "Ach passsummer nm",
+                "Value": "It was Summer."
+            },
+            {
+                "Key": "Ach passsummer scr",
+                "Value": "Experienced Summer's end"
+            },
+            {
+                "Key": "Ach passfall nm",
+                "Value": "Winter is coming"
+            },
+            {
+                "Key": "Ach passfall scr",
+                "Value": "Experienced Autumn's end"
+            },
+            {
+                "Key": "Ach passwinter nm",
+                "Value": "When snow melts, Spring comes"
+            },
+            {
+                "Key": "Ach passwinter scr",
+                "Value": "Experienced Winter's end"
+            },
+            {
+                "Key": "Ach appearmid nm",
+                "Value": "Second Arrival"
+            },
+            {
+                "Key": "Ach appearmid scr",
+                "Value": "Middle class appeared in the city."
+            },
+            {
+                "Key": "Ach appearhigh nm",
+                "Value": "Third Arrival"
+            },
+            {
+                "Key": "Ach appearhigh scr",
+                "Value": "Upper class appeared in the city."
+            },
+            {
+                "Key": "Ach buildvillage nm",
+                "Value": "Town's ville"
+            },
+            {
+                "Key": "Ach buildvillage scr",
+                "Value": "Reach prosperity level 4"
+            },
+            {
+                "Key": "Ach buildcity nm",
+                "Value": "Ratropolis"
+            },
+            {
+                "Key": "Ach buildcity scr",
+                "Value": "Reach prosperity level 7"
+            },
+            {
+                "Key": "Ach buildcapital nm",
+                "Value": "Ratopia"
+            },
+            {
+                "Key": "Ach buildcapital scr",
+                "Value": "Reach prosperity level 9"
+            },
+            {
+                "Key": "Ach attackplaguespot nm",
+                "Value": "Disturb the Rest"
+            },
+            {
+                "Key": "Ach attackplaguespot scr",
+                "Value": "Destroy infected's grave"
+            },
+            {
+                "Key": "Ach attackweaselspot nm",
+                "Value": "Destroy the Barracks"
+            },
+            {
+                "Key": "Ach attackweaselspot scr",
+                "Value": "Destroy Weasel Barracks"
+            },
+            {
+                "Key": "Ach attacklizardspot nm",
+                "Value": "Nest Stomping"
+            },
+            {
+                "Key": "Ach attacklizardspot scr",
+                "Value": "Destroy Lizard Nest"
+            },
+            {
+                "Key": "Ach reforgingequipment nm",
+                "Value": "Tools Matter"
+            },
+            {
+                "Key": "Ach reforgingequipment scr",
+                "Value": "Reforge equipment"
+            },
+            {
+                "Key": "Ach alliancefirstcountry nm",
+                "Value": "Let's be friendly"
+            },
+            {
+                "Key": "Ach alliancefirstcountry scr",
+                "Value": "Alliance with neighboring city"
+            },
+            {
+                "Key": "Ach firstdependency nm",
+                "Value": "Age of Empires"
+            },
+            {
+                "Key": "Ach firstdependency scr",
+                "Value": "Make Neighboring City a Vassal State"
+            },
+            {
+                "Key": "Ach attackbugtemple nm",
+                "Value": "Survive this?"
+            },
+            {
+                "Key": "Ach attackbugtemple scr",
+                "Value": "Escape from the Forgotten Ruins"
+            },
+            {
+                "Key": "Ach attackarenaroom nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackarenaroom scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackmisteryroom nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackmisteryroom scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackweaselroom nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackweaselroom scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackoceanroom nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackoceanroom scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackpiggy nm",
+                "Value": "I'll Remember!"
+            },
+            {
+                "Key": "Ach attackpiggy scr",
+                "Value": "Conquer the Forgotten Mine"
+            },
+            {
+                "Key": "Ach attackweaselchief nm",
+                "Value": "No Honor!"
+            },
+            {
+                "Key": "Ach attackweaselchief scr",
+                "Value": "Conquer the Barbaric Palace"
+            },
+            {
+                "Key": "Ach attackpharaohweasel nm",
+                "Value": "The Mummy"
+            },
+            {
+                "Key": "Ach attackpharaohweasel scr",
+                "Value": "Clear the King's Chamber"
+            },
+            {
+                "Key": "Ach attackspiderroom nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach attackspiderroom scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victorydiplomatic nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victorydiplomatic scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victoryconquest nm",
+                "Value": "General Victory"
+            },
+            {
+                "Key": "Ach victoryconquest scr",
+                "Value": "Build General's Monument"
+            },
+            {
+                "Key": "Ach victoryconstruct nm",
+                "Value": "Architectural Victory"
+            },
+            {
+                "Key": "Ach victoryconstruct scr",
+                "Value": "Build Architect Monument"
+            },
+            {
+                "Key": "Ach victoryresearch nm",
+                "Value": "Scientific Victory"
+            },
+            {
+                "Key": "Ach victoryresearch scr",
+                "Value": "Build Scientist Monument"
+            },
+            {
+                "Key": "Ach victoryreligion nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victoryreligion scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victoryescape nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victoryescape scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach manyinhabitant nm",
+                "Value": "Rats Rats Rats"
+            },
+            {
+                "Key": "Ach manyinhabitant scr",
+                "Value": "Reach 100 population"
+            },
+            {
+                "Key": "Ach midinhabitant nm",
+                "Value": "Developing country"
+            },
+            {
+                "Key": "Ach midinhabitant scr",
+                "Value": "Keep at least 50 middle class for 12 days"
+            },
+            {
+                "Key": "Ach highinhabitant nm",
+                "Value": "Developed country"
+            },
+            {
+                "Key": "Ach highinhabitant scr",
+                "Value": "Keep at least 50 upper class for 12 days"
+            },
+            {
+                "Key": "Ach plaguearea nm",
+                "Value": "Plaguelands"
+            },
+            {
+                "Key": "Ach plaguearea scr",
+                "Value": "Survive a year in Hard difficulty"
+            },
+            {
+                "Key": "Ach ratheaven nm",
+                "Value": "Rat-haven"
+            },
+            {
+                "Key": "Ach ratheaven scr",
+                "Value": "No citizen died for a year"
+            },
+            {
+                "Key": "Ach eldorado nm",
+                "Value": "El Dorado"
+            },
+            {
+                "Key": "Ach eldorado scr",
+                "Value": "Reach A million Pia money supply"
+            },
+            {
+                "Key": "Ach millionaire nm",
+                "Value": "Rich man's world"
+            },
+            {
+                "Key": "Ach millionaire scr",
+                "Value": "Save 99,999 Pia"
+            },
+            {
+                "Key": "Ach utopia nm",
+                "Value": ""
+            },
+            {
+                "Key": "Ach utopia scr",
+                "Value": ""
+            },
+            {
+                "Key": "Ach victorymerchant nm",
+                "Value": "Commercial Victory"
+            },
+            {
+                "Key": "Ach victorymerchant scr",
+                "Value": "Build Merchant Monument"
+            },
+            {
+                "Key": "Ach victorynoble nm",
+                "Value": "Noble Victory"
+            },
+            {
+                "Key": "Ach victorynoble scr",
+                "Value": "Build Noble Monument"
+            },
+            {
+                "Key": "Ach reward noble",
+                "Value": "Noble cloth"
+            },
+            {
+                "Key": "Ach reward bureaucrat",
+                "Value": "Bureaucrat cloth"
+            },
+            {
+                "Key": "Ach firstelectricity nm",
+                "Value": "Electric Empire"
+            },
+            {
+                "Key": "Ach firstelectricity scr",
+                "Value": "Supply electricity to the city for the first time."
+            },
+            {
+                "Key": "Ach createratron nm",
+                "Value": "The Singularity Comes"
+            },
+            {
+                "Key": "Ach createratron scr",
+                "Value": "Assemble a Ratron at the Ratron Assembly Plant"
+            },
+            {
+                "Key": "Ach steelreign nm",
+                "Value": "Steel Reign"
+            },
+            {
+                "Key": "Ach steelreign scr",
+                "Value": "Operate more than 30 Ratrons"
+            },
+            {
+                "Key": "Ach reward ratron",
+                "Value": "Metallic Fur"
+            }
+        ]
+    }
+}

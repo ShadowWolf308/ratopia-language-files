@@ -1,0 +1,5674 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Ratopia ",
+                "Value": "Ratopia"
+            },
+            {
+                "Key": "Opening skip",
+                "Value": "Skip"
+            },
+            {
+                "Key": "Title resume game",
+                "Value": "Continue"
+            },
+            {
+                "Key": "Title new game",
+                "Value": "New Game"
+            },
+            {
+                "Key": "Title load game",
+                "Value": "Load Game"
+            },
+            {
+                "Key": "Title send feedback",
+                "Value": "Send Feedback"
+            },
+            {
+                "Key": "Title game option",
+                "Value": "Game Options"
+            },
+            {
+                "Key": "Title exit game",
+                "Value": "Exit Game"
+            },
+            {
+                "Key": "Loading press E",
+                "Value": "Press [Interaction] to Continue"
+            },
+            {
+                "Key": "InputSelect title",
+                "Value": "Choose Controller"
+            },
+            {
+                "Key": "Playable default name",
+                "Value": "Elizarath"
+            },
+            {
+                "Key": "Construction",
+                "Value": "Build"
+            },
+            {
+                "Key": "Collection",
+                "Value": "Gather"
+            },
+            {
+                "Key": "Mining",
+                "Value": "Mine"
+            },
+            {
+                "Key": "Cancel",
+                "Value": "Cancel"
+            },
+            {
+                "Key": "Demolition",
+                "Value": "Demolish"
+            },
+            {
+                "Key": "Repair",
+                "Value": "Repair"
+            },
+            {
+                "Key": "Delivery",
+                "Value": "Transport"
+            },
+            {
+                "Key": "Other",
+                "Value": "Etc"
+            },
+            {
+                "Key": "Bankrupted",
+                "Value": "Bankrupt"
+            },
+            {
+                "Key": "Emigrated",
+                "Value": "Migrated"
+            },
+            {
+                "Key": "Hired",
+                "Value": "Assigned to"
+            },
+            {
+                "Key": "Fired",
+                "Value": "Dismissed from"
+            },
+            {
+                "Key": "Contracted",
+                "Value": "Assigned to"
+            },
+            {
+                "Key": "Striked",
+                "Value": "Went on strike"
+            },
+            {
+                "Key": "Immigration",
+                "Value": "Planned to migrate"
+            },
+            {
+                "Key": "Revolted",
+                "Value": "Revolted"
+            },
+            {
+                "Key": "Released",
+                "Value": "Dismissed from"
+            },
+            {
+                "Key": "Animal",
+                "Value": "Creature"
+            },
+            {
+                "Key": "Enemy",
+                "Value": "Enemy"
+            },
+            {
+                "Key": "Crime",
+                "Value": "Crime"
+            },
+            {
+                "Key": "Imprisoned",
+                "Value": "Imprisoned"
+            },
+            {
+                "Key": "Criminal history",
+                "Value": "Criminal history"
+            },
+            {
+                "Key": "Movement",
+                "Value": "Move"
+            },
+            {
+                "Key": "Jump",
+                "Value": "Jump"
+            },
+            {
+                "Key": "Aim",
+                "Value": "Aim"
+            },
+            {
+                "Key": "Switch target",
+                "Value": "Switch"
+            },
+            {
+                "Key": "Interact",
+                "Value": "Interact"
+            },
+            {
+                "Key": "Check details",
+                "Value": "Check details"
+            },
+            {
+                "Key": "Detail information",
+                "Value": "Details"
+            },
+            {
+                "Key": "Drop",
+                "Value": "Drop"
+            },
+            {
+                "Key": "Building ongoing",
+                "Value": "Building..."
+            },
+            {
+                "Key": "Attacking",
+                "Value": "Attack"
+            },
+            {
+                "Key": "Collecting taxes",
+                "Value": "Collect tax"
+            },
+            {
+                "Key": "Build",
+                "Value": "Build"
+            },
+            {
+                "Key": "Collecting",
+                "Value": "Gather"
+            },
+            {
+                "Key": "Removal",
+                "Value": "Remove"
+            },
+            {
+                "Key": "Picking up",
+                "Value": "Pick up"
+            },
+            {
+                "Key": "Scooping water",
+                "Value": "Scoop"
+            },
+            {
+                "Key": "Mining2",
+                "Value": "Mine"
+            },
+            {
+                "Key": "Putting it in",
+                "Value": "Put in"
+            },
+            {
+                "Key": "In storage",
+                "Value": "Stored"
+            },
+            {
+                "Key": "Loading",
+                "Value": "Loading"
+            },
+            {
+                "Key": "Immigrant",
+                "Value": "migrant"
+            },
+            {
+                "Key": "Citizens Needed",
+                "Value": "Needs ratizen"
+            },
+            {
+                "Key": "Select Blueprint",
+                "Value": "Select blueprint"
+            },
+            {
+                "Key": "Blueprint",
+                "Value": "Blueprint"
+            },
+            {
+                "Key": "Undesignated",
+                "Value": "Empty"
+            },
+            {
+                "Key": "Resolution",
+                "Value": "Resolution"
+            },
+            {
+                "Key": "Screen mode",
+                "Value": "Display"
+            },
+            {
+                "Key": "Full Screen",
+                "Value": "Full screen"
+            },
+            {
+                "Key": "Borderless Windowed",
+                "Value": "Borderless windowed"
+            },
+            {
+                "Key": "Window mode",
+                "Value": "Window"
+            },
+            {
+                "Key": "Master volume",
+                "Value": "Master"
+            },
+            {
+                "Key": "BGM volume",
+                "Value": "BGM"
+            },
+            {
+                "Key": "SFX volume",
+                "Value": "SFX"
+            },
+            {
+                "Key": "Play audio background",
+                "Value": "Sound in Background"
+            },
+            {
+                "Key": "Option gameplay",
+                "Value": "Gameplay"
+            },
+            {
+                "Key": "Run in background",
+                "Value": "Run in background"
+            },
+            {
+                "Key": "Rumble controller",
+                "Value": "Controller Vibration"
+            },
+            {
+                "Key": "Product condition",
+                "Value": "Show Task Condition"
+            },
+            {
+                "Key": "Option save",
+                "Value": "Save"
+            },
+            {
+                "Key": "Autosave",
+                "Value": "Auto save"
+            },
+            {
+                "Key": "Autosave term",
+                "Value": "Auto save term"
+            },
+            {
+                "Key": "Autosave count",
+                "Value": "Auto save count"
+            },
+            {
+                "Key": "Use cloud",
+                "Value": "Cloud save"
+            },
+            {
+                "Key": "Use analytics",
+                "Value": "Data collection"
+            },
+            {
+                "Key": "Use preset",
+                "Value": "Control type"
+            },
+            {
+                "Key": "Use default key",
+                "Value": "Main button"
+            },
+            {
+                "Key": "Use sub key",
+                "Value": "Sub button"
+            },
+            {
+                "Key": "Check operation key",
+                "Value": "Check control keys"
+            },
+            {
+                "Key": "Change operation key",
+                "Value": "Change control keys"
+            },
+            {
+                "Key": "Restart the game",
+                "Value": "Restart the game"
+            },
+            {
+                "Key": "Migrant identification",
+                "Value": "Check migrants"
+            },
+            {
+                "Key": "Search for Migrants",
+                "Value": "Search for migrants"
+            },
+            {
+                "Key": "The nearest place",
+                "Value": "Nearest Storage"
+            },
+            {
+                "Key": "Durability",
+                "Value": "Durability"
+            },
+            {
+                "Key": "Building Setting",
+                "Value": "Setting"
+            },
+            {
+                "Key": "Country",
+                "Value": "Country"
+            },
+            {
+                "Key": "Growing",
+                "Value": "Growing"
+            },
+            {
+                "Key": "Growth complete",
+                "Value": "Growth complete"
+            },
+            {
+                "Key": "Growing speed",
+                "Value": "Growth rate"
+            },
+            {
+                "Key": "Push away",
+                "Value": "Knock back"
+            },
+            {
+                "Key": "Trap attack",
+                "Value": "Deals damage"
+            },
+            {
+                "Key": "Passlock",
+                "Value": "Curfew"
+            },
+            {
+                "Key": "Stun",
+                "Value": "Stun"
+            },
+            {
+                "Key": "WaterAbsorption",
+                "Value": "Water absorb"
+            },
+            {
+                "Key": "MoneyCure",
+                "Value": "Financial therapy"
+            },
+            {
+                "Key": "Defend",
+                "Value": "Defend"
+            },
+            {
+                "Key": "Pollution",
+                "Value": "Polluted"
+            },
+            {
+                "Key": "Attacked enemy",
+                "Value": "Attacked enemy"
+            },
+            {
+                "Key": "Productive building",
+                "Value": "Production structure"
+            },
+            {
+                "Key": "Harvestable plant",
+                "Value": "Providing object"
+            },
+            {
+                "Key": "Providing tile",
+                "Value": "Providing tile"
+            },
+            {
+                "Key": "Imprison",
+                "Value": "Imprison"
+            },
+            {
+                "Key": "Change serviceprice",
+                "Value": "Service fee modification"
+            },
+            {
+                "Key": "Entrance",
+                "Value": "Enter"
+            },
+            {
+                "Key": "Return",
+                "Value": "Return"
+            },
+            {
+                "Key": "WakeUp",
+                "Value": "Gather"
+            },
+            {
+                "Key": "To cultivate",
+                "Value": "Cultivate"
+            },
+            {
+                "Key": "Victory declaration",
+                "Value": "Declare Victory"
+            },
+            {
+                "Key": "PlusMat",
+                "Value": "Master of Mining"
+            },
+            {
+                "Key": "Cultivation",
+                "Value": "Cultivate"
+            },
+            {
+                "Key": "Harvestable animal",
+                "Value": "Resource-providing animal"
+            },
+            {
+                "Key": "Imprisonment",
+                "Value": "Imprisonment"
+            },
+            {
+                "Key": "Fix range",
+                "Value": "Fixed range"
+            },
+            {
+                "Key": "Law enforcement",
+                "Value": "Law enforcement"
+            },
+            {
+                "Key": "Select",
+                "Value": "Select"
+            },
+            {
+                "Key": "Goback",
+                "Value": "Back"
+            },
+            {
+                "Key": "Doing research",
+                "Value": "Research"
+            },
+            {
+                "Key": "Necessary research",
+                "Value": "Required research"
+            },
+            {
+                "Key": "In detail",
+                "Value": "Details"
+            },
+            {
+                "Key": "In detail close",
+                "Value": "Close details"
+            },
+            {
+                "Key": "Take out",
+                "Value": "Take"
+            },
+            {
+                "Key": "Put in",
+                "Value": "Put in"
+            },
+            {
+                "Key": "Item movement",
+                "Value": "Switch"
+            },
+            {
+                "Key": "Assign",
+                "Value": "Assign"
+            },
+            {
+                "Key": "Unassign",
+                "Value": "Dismiss"
+            },
+            {
+                "Key": "Close",
+                "Value": "Close"
+            },
+            {
+                "Key": "Work",
+                "Value": "Work"
+            },
+            {
+                "Key": "Rename",
+                "Value": "Rename"
+            },
+            {
+                "Key": "Set range",
+                "Value": "Set range"
+            },
+            {
+                "Key": "Setting",
+                "Value": "Setting"
+            },
+            {
+                "Key": "Order",
+                "Value": "Order"
+            },
+            {
+                "Key": "Mining order",
+                "Value": "Mine order"
+            },
+            {
+                "Key": "Cancellation order",
+                "Value": "Cancel order"
+            },
+            {
+                "Key": "Collection order",
+                "Value": "Gather order"
+            },
+            {
+                "Key": "Construction order",
+                "Value": "Build order"
+            },
+            {
+                "Key": "Repair order",
+                "Value": "Repair order"
+            },
+            {
+                "Key": "Demolition order",
+                "Value": "Demolish order"
+            },
+            {
+                "Key": "Areal order",
+                "Value": "Areal order"
+            },
+            {
+                "Key": "Mode change",
+                "Value": "Mode change"
+            },
+            {
+                "Key": "Admin mode",
+                "Value": "Admin mode"
+            },
+            {
+                "Key": "Battle mode",
+                "Value": "Combat mode"
+            },
+            {
+                "Key": "Plant",
+                "Value": "Plant"
+            },
+            {
+                "Key": "Government savings",
+                "Value": "Savings"
+            },
+            {
+                "Key": "Graph government savings",
+                "Value": "Savings"
+            },
+            {
+                "Key": "Character",
+                "Value": "Characteristics"
+            },
+            {
+                "Key": "Happiness",
+                "Value": "Happiness"
+            },
+            {
+                "Key": "Food",
+                "Value": "Food"
+            },
+            {
+                "Key": "Joy",
+                "Value": "Joy"
+            },
+            {
+                "Key": "Hygiene",
+                "Value": "Hygiene"
+            },
+            {
+                "Key": "Daily necessity",
+                "Value": "Necessity"
+            },
+            {
+                "Key": "Moving speed",
+                "Value": "Moving speed"
+            },
+            {
+                "Key": "Attack power",
+                "Value": "Attack power"
+            },
+            {
+                "Key": "Health point",
+                "Value": "HP"
+            },
+            {
+                "Key": "Stamina",
+                "Value": "Stamina"
+            },
+            {
+                "Key": "Armor",
+                "Value": "Armor"
+            },
+            {
+                "Key": "Capacity",
+                "Value": "Capacity"
+            },
+            {
+                "Key": "Material",
+                "Value": "Material"
+            },
+            {
+                "Key": "Kind",
+                "Value": "Type"
+            },
+            {
+                "Key": "Workload",
+                "Value": "Workload"
+            },
+            {
+                "Key": "Required workload",
+                "Value": "Required workload"
+            },
+            {
+                "Key": "Service",
+                "Value": "Service"
+            },
+            {
+                "Key": "Usage fee",
+                "Value": "Fee"
+            },
+            {
+                "Key": "New immigrant",
+                "Value": "New migrant"
+            },
+            {
+                "Key": "Type",
+                "Value": "Type"
+            },
+            {
+                "Key": "Civil tax",
+                "Value": "Civil tax"
+            },
+            {
+                "Key": "Building usage tax",
+                "Value": "Structure usage tax"
+            },
+            {
+                "Key": "Resource tax",
+                "Value": "Resource tax"
+            },
+            {
+                "Key": "Building",
+                "Value": "Structure"
+            },
+            {
+                "Key": "Storage",
+                "Value": "Storage"
+            },
+            {
+                "Key": "Resource",
+                "Value": "Resource"
+            },
+            {
+                "Key": "Dar",
+                "Value": "Dar"
+            },
+            {
+                "Key": "Pia",
+                "Value": "Pia"
+            },
+            {
+                "Key": "Period",
+                "Value": "Cycle"
+            },
+            {
+                "Key": "Building Condition",
+                "Value": "Structure informations"
+            },
+            {
+                "Key": "Building Resource",
+                "Value": "Construction Resources"
+            },
+            {
+                "Key": "Recipe",
+                "Value": "Recipe"
+            },
+            {
+                "Key": "Product Resource",
+                "Value": "Required resources"
+            },
+            {
+                "Key": "PlantCollection",
+                "Value": "Gathered resource"
+            },
+            {
+                "Key": "Consumption resources",
+                "Value": "Uses"
+            },
+            {
+                "Key": "Maximum acceptance",
+                "Value": "Capacity"
+            },
+            {
+                "Key": "Building size",
+                "Value": "Structure size"
+            },
+            {
+                "Key": "Need ground building",
+                "Value": "Requires ground"
+            },
+            {
+                "Key": "Need citizen building",
+                "Value": "Requires a worker"
+            },
+            {
+                "Key": "Building cost",
+                "Value": "Construction expense"
+            },
+            {
+                "Key": "Only one building",
+                "Value": "Singular"
+            },
+            {
+                "Key": "Health recovery",
+                "Value": "HP recover"
+            },
+            {
+                "Key": "Queen interaction",
+                "Value": "Interactable"
+            },
+            {
+                "Key": "Immigrant visit",
+                "Value": "Migrants visits"
+            },
+            {
+                "Key": "Railroad",
+                "Value": "Mine cart"
+            },
+            {
+                "Key": "Establish",
+                "Value": "Legislate"
+            },
+            {
+                "Key": "Stats check",
+                "Value": "Statistics"
+            },
+            {
+                "Key": "Funeral",
+                "Value": "Burial"
+            },
+            {
+                "Key": "Accomplish",
+                "Value": "Accomplish"
+            },
+            {
+                "Key": "Hunt",
+                "Value": "Hunt"
+            },
+            {
+                "Key": "Mission",
+                "Value": "Mission"
+            },
+            {
+                "Key": "Kill",
+                "Value": "Kill"
+            },
+            {
+                "Key": "Reach",
+                "Value": "Reach"
+            },
+            {
+                "Key": "Acceptance of citizens",
+                "Value": "Check migrants"
+            },
+            {
+                "Key": "Princess",
+                "Value": "Leader"
+            },
+            {
+                "Key": "Statistics",
+                "Value": "Statistics"
+            },
+            {
+                "Key": "Escort",
+                "Value": "Escort"
+            },
+            {
+                "Key": "Dwelling",
+                "Value": "Residence"
+            },
+            {
+                "Key": "Training",
+                "Value": "Training"
+            },
+            {
+                "Key": "Collecting ability",
+                "Value": "Gathering ability"
+            },
+            {
+                "Key": "Starvation",
+                "Value": "Starved"
+            },
+            {
+                "Key": "Dozing off",
+                "Value": "Faint"
+            },
+            {
+                "Key": "Rebellion",
+                "Value": "Revolt"
+            },
+            {
+                "Key": "Injury",
+                "Value": "Wounded"
+            },
+            {
+                "Key": "Mission appear",
+                "Value": "Event appeared"
+            },
+            {
+                "Key": "Start point",
+                "Value": "Starting from"
+            },
+            {
+                "Key": "End point",
+                "Value": "Ends to"
+            },
+            {
+                "Key": "Resources to transport",
+                "Value": "Resources to transport"
+            },
+            {
+                "Key": "Loan and repayment",
+                "Value": "Loan / Repay"
+            },
+            {
+                "Key": "Goods on loan",
+                "Value": "Loaned proposal"
+            },
+            {
+                "Key": "Loanable goods",
+                "Value": "Loan proposal"
+            },
+            {
+                "Key": "Release order",
+                "Value": "Dismiss"
+            },
+            {
+                "Key": "Sales Settings",
+                "Value": "Release settings"
+            },
+            {
+                "Key": "Purchase Settings",
+                "Value": "Store settings"
+            },
+            {
+                "Key": "Limited number",
+                "Value": "Limit"
+            },
+            {
+                "Key": "Fun reduction rate",
+                "Value": "Joy decline rate"
+            },
+            {
+                "Key": "Hygiene reduction rate",
+                "Value": "Hygiene decline rate"
+            },
+            {
+                "Key": "Food reduction rate",
+                "Value": "Food decline rate"
+            },
+            {
+                "Key": "Fatigue reduction rate",
+                "Value": "Stamina decline rate"
+            },
+            {
+                "Key": "Daily necessity reduction rate",
+                "Value": "Necessity decline rate"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_1",
+                "Value": "Let's gather"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_2",
+                "Value": "New arrivals"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_3",
+                "Value": "Let's produce"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_4",
+                "Value": "Settle down"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_5",
+                "Value": "Let's legalize"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_6",
+                "Value": "Do some research"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_7",
+                "Value": "Let's mine"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_8",
+                "Value": "Let's build"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_9",
+                "Value": "Gather some grains"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_10",
+                "Value": "Basic rights"
+            },
+            {
+                "Key": "Tutorial_Mission_Name_11",
+                "Value": "Checking condition"
+            },
+            {
+                "Key": "Resource Collection",
+                "Value": "Gather"
+            },
+            {
+                "Key": "StorageUI_Title",
+                "Value": "Stored resources"
+            },
+            {
+                "Key": "Resources take out",
+                "Value": "Resources stored"
+            },
+            {
+                "Key": "Resources put in",
+                "Value": "Resources holding"
+            },
+            {
+                "Key": "Limitation of sales resources",
+                "Value": "Release settings"
+            },
+            {
+                "Key": "Purchase Resource Limits",
+                "Value": "Store settings"
+            },
+            {
+                "Key": "Service Effect",
+                "Value": "Service effect"
+            },
+            {
+                "Key": "Experience value",
+                "Value": "Experience"
+            },
+            {
+                "Key": "recovery speed",
+                "Value": "Recovery speed"
+            },
+            {
+                "Key": "Commercial law",
+                "Value": "Commercial law"
+            },
+            {
+                "Key": "Welfare law",
+                "Value": "Welfare law"
+            },
+            {
+                "Key": "List",
+                "Value": "List"
+            },
+            {
+                "Key": "Add tax commercial law",
+                "Value": "Add a commercial law"
+            },
+            {
+                "Key": "Add welfare law",
+                "Value": "Add a welfare law"
+            },
+            {
+                "Key": "Last quarter",
+                "Value": "Last 12 days"
+            },
+            {
+                "Key": "The day before",
+                "Value": "Yesterday"
+            },
+            {
+                "Key": "No name law",
+                "Value": "Nameless law"
+            },
+            {
+                "Key": "Change in the price of resource",
+                "Value": "Resource price"
+            },
+            {
+                "Key": "Change in labor prices",
+                "Value": "Labor price"
+            },
+            {
+                "Key": "Change of consumption authority",
+                "Value": "Resource consumability"
+            },
+            {
+                "Key": "Change of building authority",
+                "Value": "Structure usability"
+            },
+            {
+                "Key": "Regular grant",
+                "Value": "Periodic subsidy"
+            },
+            {
+                "Key": "Granting of resources",
+                "Value": "Consumption subsidy"
+            },
+            {
+                "Key": "Price per Workload of ten",
+                "Value": "Price per 10 workload"
+            },
+            {
+                "Key": "Transportation resource price",
+                "Value": "Price per resources"
+            },
+            {
+                "Key": "Transportation",
+                "Value": "Transport"
+            },
+            {
+                "Key": "Consumable items",
+                "Value": "Affected item"
+            },
+            {
+                "Key": "Multiple instructions",
+                "Value": "Areal order"
+            },
+            {
+                "Key": "Change of shape",
+                "Value": "Shape"
+            },
+            {
+                "Key": "Positioning",
+                "Value": "Cover area"
+            },
+            {
+                "Key": "Job passive",
+                "Value": "Job passive"
+            },
+            {
+                "Key": "Basic training",
+                "Value": "Receiving a basic training.."
+            },
+            {
+                "Key": "In training",
+                "Value": "In service"
+            },
+            {
+                "Key": "Select training type",
+                "Value": "Training type"
+            },
+            {
+                "Key": "Training resources",
+                "Value": "Required resources"
+            },
+            {
+                "Key": "Types of soldiers",
+                "Value": "Soldier type"
+            },
+            {
+                "Key": "Types of soldiers effect",
+                "Value": "Type effect"
+            },
+            {
+                "Key": "Assemblestation member",
+                "Value": "Troop members"
+            },
+            {
+                "Key": "Storing deadbody",
+                "Value": "Bury the dead"
+            },
+            {
+                "Key": "Put int body",
+                "Value": "Corpse holding"
+            },
+            {
+                "Key": "The removal of a body",
+                "Value": "Corpse resting"
+            },
+            {
+                "Key": "Policymaking",
+                "Value": "Legislate"
+            },
+            {
+                "Key": "Loans and redemption",
+                "Value": "Loan / Repay"
+            },
+            {
+                "Key": "Currency exchange",
+                "Value": "Exchange"
+            },
+            {
+                "Key": "Per carriage wage",
+                "Value": "Per item"
+            },
+            {
+                "Key": "RebellionSign",
+                "Value": "Agitator"
+            },
+            {
+                "Key": "CombatState",
+                "Value": "In combat"
+            },
+            {
+                "Key": "Leader cover",
+                "Value": "Escort"
+            },
+            {
+                "Key": "Dazzle",
+                "Value": "Deluded"
+            },
+            {
+                "Key": "Dead body sight",
+                "Value": "Witnessed"
+            },
+            {
+                "Key": "New hope",
+                "Value": "New hope"
+            },
+            {
+                "Key": "NoMoney",
+                "Value": "Unpaid"
+            },
+            {
+                "Key": "Wet",
+                "Value": "Wet"
+            },
+            {
+                "Key": "Event",
+                "Value": "Event result"
+            },
+            {
+                "Key": "Event show up",
+                "Value": "Event occured"
+            },
+            {
+                "Key": "No rebellion",
+                "Value": "Stabilized"
+            },
+            {
+                "Key": "Recover",
+                "Value": "Recover"
+            },
+            {
+                "Key": "Reduction",
+                "Value": "Reduction"
+            },
+            {
+                "Key": "Reward",
+                "Value": "Reward"
+            },
+            {
+                "Key": "Judgment",
+                "Value": "Judge"
+            },
+            {
+                "Key": "Acquired",
+                "Value": "Get"
+            },
+            {
+                "Key": "Exchange ticket",
+                "Value": "Exchange ticket"
+            },
+            {
+                "Key": "Time limit",
+                "Value": "Duration"
+            },
+            {
+                "Key": "Acquisition of money",
+                "Value": "Get"
+            },
+            {
+                "Key": "Loss of money",
+                "Value": "Lose"
+            },
+            {
+                "Key": "Acquistion of resource",
+                "Value": "Get"
+            },
+            {
+                "Key": "Loss of resource",
+                "Value": "Lose"
+            },
+            {
+                "Key": "Consumption of resources",
+                "Value": "Use"
+            },
+            {
+                "Key": "Provision",
+                "Value": "Give"
+            },
+            {
+                "Key": "Hour",
+                "Value": "Hours"
+            },
+            {
+                "Key": "Citizens",
+                "Value": "Ratizens"
+            },
+            {
+                "Key": "Get choice effect",
+                "Value": "Consequence"
+            },
+            {
+                "Key": "Place of purchase",
+                "Value": "Get from"
+            },
+            {
+                "Key": "Place of sale",
+                "Value": "Sell to"
+            },
+            {
+                "Key": "Commercial law list",
+                "Value": "Commercial laws"
+            },
+            {
+                "Key": "Welfare law list",
+                "Value": "Welfare laws"
+            },
+            {
+                "Key": "InjuryAndDeath",
+                "Value": "Wounded & Dead"
+            },
+            {
+                "Key": "Death",
+                "Value": "Dead"
+            },
+            {
+                "Key": "DoorUI Title",
+                "Value": "Passage Restriction"
+            },
+            {
+                "Key": "Current Options",
+                "Value": "Current options"
+            },
+            {
+                "Key": "Need ceiling",
+                "Value": "Need ceiling"
+            },
+            {
+                "Key": "Queen passive buff",
+                "Value": "Leader passive"
+            },
+            {
+                "Key": "Skill activation",
+                "Value": "Activates skill"
+            },
+            {
+                "Key": "DrownX",
+                "Value": "Air pocket"
+            },
+            {
+                "Key": "BurnX",
+                "Value": "Fireproof"
+            },
+            {
+                "Key": "KnockX",
+                "Value": "Knockback Immunity"
+            },
+            {
+                "Key": "FallX",
+                "Value": "Anti gravity"
+            },
+            {
+                "Key": "CrimX",
+                "Value": "Incorruptible"
+            },
+            {
+                "Key": "Dodge",
+                "Value": "Dodge rate"
+            },
+            {
+                "Key": "Avoidance",
+                "Value": "Miss"
+            },
+            {
+                "Key": "Resurrection",
+                "Value": "Resurrection"
+            },
+            {
+                "Key": "Discord Link",
+                "Value": "Join Discord!"
+            },
+            {
+                "Key": "Discord Bug",
+                "Value": "Bug report"
+            },
+            {
+                "Key": "Steam Link",
+                "Value": "Wishlist now!"
+            },
+            {
+                "Key": "Credits",
+                "Value": "Credits"
+            },
+            {
+                "Key": "Immigrants group",
+                "Value": "Migrants group"
+            },
+            {
+                "Key": "Thorn",
+                "Value": "Thorn"
+            },
+            {
+                "Key": "Bomb",
+                "Value": "Explosive"
+            },
+            {
+                "Key": "NoMaterial",
+                "Value": "Use up resources"
+            },
+            {
+                "Key": "Accomplished",
+                "Value": "Accomplished"
+            },
+            {
+                "Key": "CitizenGroup_0",
+                "Value": "Exiles"
+            },
+            {
+                "Key": "CitizenGroup_1",
+                "Value": "Brave warriors"
+            },
+            {
+                "Key": "CitizenGroup_2",
+                "Value": "Street poets"
+            },
+            {
+                "Key": "CitizenGroup_3",
+                "Value": "Lost adventurers"
+            },
+            {
+                "Key": "CitizenGroup_4",
+                "Value": "Fallen nobles"
+            },
+            {
+                "Key": "CitizenGroup_5",
+                "Value": "Wanderers"
+            },
+            {
+                "Key": "CitizenGroup_6",
+                "Value": "Freedom seekers"
+            },
+            {
+                "Key": "CitizenGroup_7",
+                "Value": "Robbed peddlers"
+            },
+            {
+                "Key": "Additional efficiency",
+                "Value": "Efficiency bonus"
+            },
+            {
+                "Key": "Repayment Date",
+                "Value": "Date to repay"
+            },
+            {
+                "Key": "Date of loan",
+                "Value": "Loaned date"
+            },
+            {
+                "Key": "Interest Reimbursement Cycle",
+                "Value": "Interest cycle"
+            },
+            {
+                "Key": "Principal repayment",
+                "Value": "Repaid amount"
+            },
+            {
+                "Key": "Interest repaid",
+                "Value": "Interest paid"
+            },
+            {
+                "Key": "Taking out a loan",
+                "Value": "Loan"
+            },
+            {
+                "Key": "Repay",
+                "Value": "Repay"
+            },
+            {
+                "Key": "House batch option",
+                "Value": "Assigning standard"
+            },
+            {
+                "Key": "House option1",
+                "Value": "Auto"
+            },
+            {
+                "Key": "House option2",
+                "Value": "Manual"
+            },
+            {
+                "Key": "Target move",
+                "Value": "Aim control"
+            },
+            {
+                "Key": "Tip",
+                "Value": "Tips"
+            },
+            {
+                "Key": "Passing condition",
+                "Value": "Passing standard"
+            },
+            {
+                "Key": "Auto",
+                "Value": "Automatic"
+            },
+            {
+                "Key": "Researching",
+                "Value": "Researching"
+            },
+            {
+                "Key": "Skill passive",
+                "Value": "Passive"
+            },
+            {
+                "Key": "Skill active",
+                "Value": "Active skill"
+            },
+            {
+                "Key": "Weather_Drought",
+                "Value": "Heatstroke"
+            },
+            {
+                "Key": "To lie down",
+                "Value": "lay down"
+            },
+            {
+                "Key": "OV In trasit",
+                "Value": "In transit"
+            },
+            {
+                "Key": "OV Working",
+                "Value": "Working"
+            },
+            {
+                "Key": "OV Waiting",
+                "Value": "Waiting"
+            },
+            {
+                "Key": "OV Unknown",
+                "Value": "Unknown"
+            },
+            {
+                "Key": "OV Gathering",
+                "Value": "Gathering"
+            },
+            {
+                "Key": "OV Eatring",
+                "Value": "Eating"
+            },
+            {
+                "Key": "OV Fighting",
+                "Value": "In battle"
+            },
+            {
+                "Key": "OV Taxing",
+                "Value": "Calculating tax"
+            },
+            {
+                "Key": "OV Training",
+                "Value": "Training"
+            },
+            {
+                "Key": "Filter economy",
+                "Value": "Economic filter"
+            },
+            {
+                "Key": "Filter Happiness",
+                "Value": "Happiness filter"
+            },
+            {
+                "Key": "Filter Injury and death",
+                "Value": "Injury filter"
+            },
+            {
+                "Key": "Number of services",
+                "Value": "Number of services"
+            },
+            {
+                "Key": "Lift",
+                "Value": "Elevator"
+            },
+            {
+                "Key": "Activate skill",
+                "Value": "Activate skill"
+            },
+            {
+                "Key": "Production success",
+                "Value": "Forging complete!"
+            },
+            {
+                "Key": "Production failure",
+                "Value": "Forging failed..."
+            },
+            {
+                "Key": "Equipment fit",
+                "Value": "Equip items"
+            },
+            {
+                "Key": "Equipment make",
+                "Value": "Forge items"
+            },
+            {
+                "Key": "Unequip",
+                "Value": "Unequip"
+            },
+            {
+                "Key": "Equipping",
+                "Value": "Equipped"
+            },
+            {
+                "Key": "In possession",
+                "Value": "Acquired"
+            },
+            {
+                "Key": "List of labor laws",
+                "Value": "List of labor laws"
+            },
+            {
+                "Key": "labor laws Schedule",
+                "Value": "Schedule"
+            },
+            {
+                "Key": "Priority",
+                "Value": "Priority"
+            },
+            {
+                "Key": "Create a schedule",
+                "Value": "Managing schedule"
+            },
+            {
+                "Key": "Specific group",
+                "Value": "Specific group"
+            },
+            {
+                "Key": "Time period",
+                "Value": "Time period"
+            },
+            {
+                "Key": "Time type",
+                "Value": "Schedule type"
+            },
+            {
+                "Key": "Priority level",
+                "Value": "Priority value"
+            },
+            {
+                "Key": "Labor law",
+                "Value": "Labor law"
+            },
+            {
+                "Key": "Add labor law",
+                "Value": "Add labor law"
+            },
+            {
+                "Key": "UnRebellion",
+                "Value": "Quell the rebellion"
+            },
+            {
+                "Key": "NewGroup",
+                "Value": "New group"
+            },
+            {
+                "Key": "Feature",
+                "Value": "Feature"
+            },
+            {
+                "Key": "None",
+                "Value": "None"
+            },
+            {
+                "Key": "Health regeneration",
+                "Value": "HP Regen."
+            },
+            {
+                "Key": "Hope",
+                "Value": "Hope"
+            },
+            {
+                "Key": "Ratdrake",
+                "Value": "Ratdrake"
+            },
+            {
+                "Key": "Amount",
+                "Value": "Amount"
+            },
+            {
+                "Key": "Add",
+                "Value": "Add"
+            },
+            {
+                "Key": "Task condition",
+                "Value": "Task condition"
+            },
+            {
+                "Key": "Add condition",
+                "Value": "Add condition"
+            },
+            {
+                "Key": "Production quantity check",
+                "Value": "Quantity check"
+            },
+            {
+                "Key": "Production item designation",
+                "Value": "Resource designation"
+            },
+            {
+                "Key": "Remote management",
+                "Value": "Remote management"
+            },
+            {
+                "Key": "Plant care",
+                "Value": "Cultivated"
+            },
+            {
+                "Key": "Need water tile",
+                "Value": "Needs water"
+            },
+            {
+                "Key": "Crime probability",
+                "Value": "Criminal propensity"
+            },
+            {
+                "Key": "Target slowdown",
+                "Value": "Slows target enemy"
+            },
+            {
+                "Key": "Criminal",
+                "Value": "Criminal"
+            },
+            {
+                "Key": "Serious criminal",
+                "Value": "Felon"
+            },
+            {
+                "Key": "TheftDamage",
+                "Value": "Victim"
+            },
+            {
+                "Key": "Catch in spiderweb",
+                "Value": "Caught in the web "
+            },
+            {
+                "Key": "Devil temptation",
+                "Value": "Internal conflict"
+            },
+            {
+                "Key": "Slowing effect",
+                "Value": "Slowed"
+            },
+            {
+                "Key": "Arson",
+                "Value": "Arson"
+            },
+            {
+                "Key": "Robbery",
+                "Value": "Robbery"
+            },
+            {
+                "Key": "Free ride",
+                "Value": "Free ride"
+            },
+            {
+                "Key": "Pick pocket",
+                "Value": "Pick pocket"
+            },
+            {
+                "Key": "Arrest",
+                "Value": "Arrest"
+            },
+            {
+                "Key": "Dungeon reward",
+                "Value": "Dungeon reward"
+            },
+            {
+                "Key": "Production material check",
+                "Value": "Resource check"
+            },
+            {
+                "Key": "Poisoned",
+                "Value": "Poison"
+            },
+            {
+                "Key": "Max hp",
+                "Value": "Maximum health"
+            },
+            {
+                "Key": "Value strong",
+                "Value": "Strong"
+            },
+            {
+                "Key": "Value medium",
+                "Value": "Medium"
+            },
+            {
+                "Key": "Value weak",
+                "Value": "Weak"
+            },
+            {
+                "Key": "Value empty",
+                "Value": "None"
+            },
+            {
+                "Key": "Entire",
+                "Value": "All"
+            },
+            {
+                "Key": "Owner of a job",
+                "Value": "Job-assigned"
+            },
+            {
+                "Key": "Property owner",
+                "Value": "Wealth over"
+            },
+            {
+                "Key": "Owner of a house",
+                "Value": "Homeowner"
+            },
+            {
+                "Key": "Income earner",
+                "Value": "Income over"
+            },
+            {
+                "Key": "Property",
+                "Value": "Wealth"
+            },
+            {
+                "Key": "Income",
+                "Value": "Income"
+            },
+            {
+                "Key": "Income personal",
+                "Value": "Income"
+            },
+            {
+                "Key": "Ranking",
+                "Value": "Ranking"
+            },
+            {
+                "Key": "Day",
+                "Value": "Day(s)"
+            },
+            {
+                "Key": "Day2",
+                "Value": "Day [N]"
+            },
+            {
+                "Key": "Day3",
+                "Value": "every [N] days"
+            },
+            {
+                "Key": "Class",
+                "Value": "Class"
+            },
+            {
+                "Key": "The low class",
+                "Value": "The poor"
+            },
+            {
+                "Key": "The middle class",
+                "Value": "The middle"
+            },
+            {
+                "Key": "The high class",
+                "Value": "The high"
+            },
+            {
+                "Key": "Above the low class",
+                "Value": "Poor and above"
+            },
+            {
+                "Key": "Above the middle class",
+                "Value": "Middle and above"
+            },
+            {
+                "Key": "Above the high class",
+                "Value": "High and above"
+            },
+            {
+                "Key": "The total amount charged",
+                "Value": "Total charged"
+            },
+            {
+                "Key": "The amount of tax",
+                "Value": "Taxed amount"
+            },
+            {
+                "Key": "Specified value",
+                "Value": "Set value"
+            },
+            {
+                "Key": "A percentage of property",
+                "Value": "% of wealth"
+            },
+            {
+                "Key": "A percentage of income",
+                "Value": "% of income"
+            },
+            {
+                "Key": "PolicyState",
+                "Value": "State"
+            },
+            {
+                "Key": "State",
+                "Value": "State"
+            },
+            {
+                "Key": "On",
+                "Value": "Activated"
+            },
+            {
+                "Key": "Off",
+                "Value": "Deactivated"
+            },
+            {
+                "Key": "OnAndOff",
+                "Value": "Activated/Deactivated"
+            },
+            {
+                "Key": "Delete",
+                "Value": "Delete"
+            },
+            {
+                "Key": "Management",
+                "Value": "Admin"
+            },
+            {
+                "Key": "Discovered resources",
+                "Value": "Resources found"
+            },
+            {
+                "Key": "Points earned from research",
+                "Value": "Researched points"
+            },
+            {
+                "Key": "Floor Required",
+                "Value": "Requires floor"
+            },
+            {
+                "Key": "Locked",
+                "Value": "Locked"
+            },
+            {
+                "Key": "Base Building",
+                "Value": "Infrastructure"
+            },
+            {
+                "Key": "RawMat Building",
+                "Value": "Raw material structures"
+            },
+            {
+                "Key": "Product Building",
+                "Value": "Production structures"
+            },
+            {
+                "Key": "Service Building",
+                "Value": "Service structures"
+            },
+            {
+                "Key": "Military Building",
+                "Value": "Military structures"
+            },
+            {
+                "Key": "Deco Building",
+                "Value": "Decorations"
+            },
+            {
+                "Key": "Queen Building",
+                "Value": "Royal structures"
+            },
+            {
+                "Key": "Base",
+                "Value": "Base"
+            },
+            {
+                "Key": "Raw material",
+                "Value": "Raw materials"
+            },
+            {
+                "Key": "Product",
+                "Value": "Production"
+            },
+            {
+                "Key": "Military",
+                "Value": "Military"
+            },
+            {
+                "Key": "Decoration",
+                "Value": "Decoration"
+            },
+            {
+                "Key": "Queen",
+                "Value": "Royal"
+            },
+            {
+                "Key": "Policy",
+                "Value": "Policy"
+            },
+            {
+                "Key": "Tax law",
+                "Value": "Tax law"
+            },
+            {
+                "Key": "Filter",
+                "Value": "Filter"
+            },
+            {
+                "Key": "Research",
+                "Value": "Research"
+            },
+            {
+                "Key": "No Filter",
+                "Value": "No filter"
+            },
+            {
+                "Key": "Select Filter",
+                "Value": "Select filter"
+            },
+            {
+                "Key": "Tax law list",
+                "Value": "Tax laws"
+            },
+            {
+                "Key": "Add tax laws",
+                "Value": "Add tax laws"
+            },
+            {
+                "Key": "Synergy",
+                "Value": "Synergy"
+            },
+            {
+                "Key": "Additional workload",
+                "Value": "Bonus"
+            },
+            {
+                "Key": "Allocation of citizens",
+                "Value": "Assign ratizen"
+            },
+            {
+                "Key": "Ability to be affected",
+                "Value": "Affecting ability"
+            },
+            {
+                "Key": "Remaining number of use",
+                "Value": "Uses remaining"
+            },
+            {
+                "Key": "Settings",
+                "Value": "Settings"
+            },
+            {
+                "Key": "Graphics",
+                "Value": "Graphics"
+            },
+            {
+                "Key": "Display",
+                "Value": "Display"
+            },
+            {
+                "Key": "Sounds",
+                "Value": "Sounds"
+            },
+            {
+                "Key": "Controls",
+                "Value": "Controls"
+            },
+            {
+                "Key": "Language",
+                "Value": "Language"
+            },
+            {
+                "Key": "Save",
+                "Value": "Save"
+            },
+            {
+                "Key": "Save As",
+                "Value": "Save as"
+            },
+            {
+                "Key": "Load",
+                "Value": "Load"
+            },
+            {
+                "Key": "Help",
+                "Value": "Help"
+            },
+            {
+                "Key": "Capture Mode",
+                "Value": "Capture Mode"
+            },
+            {
+                "Key": "Change Language",
+                "Value": "Language"
+            },
+            {
+                "Key": "Exit to Title",
+                "Value": "Exit to title"
+            },
+            {
+                "Key": "Exit to Desktop",
+                "Value": "Exit to desktop"
+            },
+            {
+                "Key": "Hotkey",
+                "Value": "Hotkey"
+            },
+            {
+                "Key": "Capture",
+                "Value": "Capture"
+            },
+            {
+                "Key": "Zoom",
+                "Value": "Zoom In/Out"
+            },
+            {
+                "Key": "Open directory",
+                "Value": "Open Save Location"
+            },
+            {
+                "Key": "Spring",
+                "Value": "Spring"
+            },
+            {
+                "Key": "Summer",
+                "Value": "Summer"
+            },
+            {
+                "Key": "Fall",
+                "Value": "Autumn"
+            },
+            {
+                "Key": "Winter",
+                "Value": "Winter"
+            },
+            {
+                "Key": "Condition",
+                "Value": "State"
+            },
+            {
+                "Key": "Desire",
+                "Value": "Desire"
+            },
+            {
+                "Key": "Capital",
+                "Value": "Wealth"
+            },
+            {
+                "Key": "Stats",
+                "Value": "Stats"
+            },
+            {
+                "Key": "Citizen state",
+                "Value": "State"
+            },
+            {
+                "Key": "Citizen status effect",
+                "Value": "Status effect"
+            },
+            {
+                "Key": "Citizen state list",
+                "Value": "Applied {{STATE}}"
+            },
+            {
+                "Key": "Citizen state remain time",
+                "Value": "Lasts for"
+            },
+            {
+                "Key": "Citizen relation state",
+                "Value": "Effect"
+            },
+            {
+                "Key": "Wealth",
+                "Value": "Wealth"
+            },
+            {
+                "Key": "Basic food",
+                "Value": "Basic food"
+            },
+            {
+                "Key": "Advanced food",
+                "Value": "Advanced food"
+            },
+            {
+                "Key": "Luxurious food",
+                "Value": "Luxurious food"
+            },
+            {
+                "Key": "Basic joy",
+                "Value": "Basic joy"
+            },
+            {
+                "Key": "Advanced joy",
+                "Value": "Advanced joy"
+            },
+            {
+                "Key": "Luxurious joy",
+                "Value": "Luxurious joy"
+            },
+            {
+                "Key": "Basic hygiene",
+                "Value": "Basic hygiene"
+            },
+            {
+                "Key": "Advanced hygiene",
+                "Value": "Advanced hygiene"
+            },
+            {
+                "Key": "Luxurious hygiene",
+                "Value": "Luxurious hygiene"
+            },
+            {
+                "Key": "Basic necessity",
+                "Value": "Basic necessity"
+            },
+            {
+                "Key": "Advanced necessity",
+                "Value": "Advanced necessity"
+            },
+            {
+                "Key": "Luxurious necessity",
+                "Value": "Luxurious necessity"
+            },
+            {
+                "Key": "Quarterly income",
+                "Value": "Quarterly income"
+            },
+            {
+                "Key": "Daily income",
+                "Value": "Daily income"
+            },
+            {
+                "Key": "Imposed taxes",
+                "Value": "Imposed taxes"
+            },
+            {
+                "Key": "Top",
+                "Value": "Upper"
+            },
+            {
+                "Key": "Bottom",
+                "Value": "Lower"
+            },
+            {
+                "Key": "Stats period",
+                "Value": "Period"
+            },
+            {
+                "Key": "Sum",
+                "Value": "Sum"
+            },
+            {
+                "Key": "Expenditure",
+                "Value": "Expenditure"
+            },
+            {
+                "Key": "Term",
+                "Value": "Term"
+            },
+            {
+                "Key": "Tax",
+                "Value": "Tax"
+            },
+            {
+                "Key": "General status",
+                "Value": "General status"
+            },
+            {
+                "Key": "Strength",
+                "Value": "Strength"
+            },
+            {
+                "Key": "Dexterity",
+                "Value": "Dexterity"
+            },
+            {
+                "Key": "Intelligence",
+                "Value": "Intelligence"
+            },
+            {
+                "Key": "Bonus",
+                "Value": "Bonus"
+            },
+            {
+                "Key": "Attack speed",
+                "Value": "Attack speed"
+            },
+            {
+                "Key": "Carrying capacity",
+                "Value": "Capacity"
+            },
+            {
+                "Key": "Experience bonus",
+                "Value": "Experience bonus"
+            },
+            {
+                "Key": "Working speed",
+                "Value": "Efficiency"
+            },
+            {
+                "Key": "Mining logging speed",
+                "Value": "Mining/Gathering Efficiency"
+            },
+            {
+                "Key": "Building gathering speed",
+                "Value": "Construction/Repair Efficiency"
+            },
+            {
+                "Key": "Researching diplomacy speed",
+                "Value": "Research Efficiency"
+            },
+            {
+                "Key": "CitizenInfo diary",
+                "Value": "Diary"
+            },
+            {
+                "Key": "Settlement period",
+                "Value": "Residency period"
+            },
+            {
+                "Key": "CitizenInfo diary new record",
+                "Value": "Record(Newest)"
+            },
+            {
+                "Key": "Under development",
+                "Value": "Under development"
+            },
+            {
+                "Key": "Space bar",
+                "Value": "Space bar"
+            },
+            {
+                "Key": "Enter",
+                "Value": "Apply"
+            },
+            {
+                "Key": "Confirm",
+                "Value": "Confirm"
+            },
+            {
+                "Key": "Return",
+                "Value": "Return"
+            },
+            {
+                "Key": "Equipment",
+                "Value": "Equipment"
+            },
+            {
+                "Key": "Skills",
+                "Value": "Skills"
+            },
+            {
+                "Key": "Ruler",
+                "Value": "Leader"
+            },
+            {
+                "Key": "Jobless",
+                "Value": "Jobless"
+            },
+            {
+                "Key": "Economy",
+                "Value": "Economy"
+            },
+            {
+                "Key": "Citizen",
+                "Value": "Ratizen"
+            },
+            {
+                "Key": "Structure",
+                "Value": "Structure"
+            },
+            {
+                "Key": "Resources",
+                "Value": "Resources"
+            },
+            {
+                "Key": "Graph low",
+                "Value": "The low"
+            },
+            {
+                "Key": "Graph middle",
+                "Value": "The middle "
+            },
+            {
+                "Key": "Graph high",
+                "Value": "The high"
+            },
+            {
+                "Key": "Stats money supply",
+                "Value": "Money supply"
+            },
+            {
+                "Key": "Stats civil wealth",
+                "Value": "Civil wealth"
+            },
+            {
+                "Key": "Stats account report",
+                "Value": "Account report"
+            },
+            {
+                "Key": "Stats quarter report",
+                "Value": "quarter report"
+            },
+            {
+                "Key": "Stats daily report",
+                "Value": "Day {{DAY}} report"
+            },
+            {
+                "Key": "Stats income expenditure",
+                "Value": "Income/Expenditure"
+            },
+            {
+                "Key": "Stats revenue",
+                "Value": "Revenue"
+            },
+            {
+                "Key": "Total amount",
+                "Value": "Total amount"
+            },
+            {
+                "Key": "Tax collected",
+                "Value": "Collected amount"
+            },
+            {
+                "Key": "National debt",
+                "Value": "Loan Amount"
+            },
+            {
+                "Key": "Loan",
+                "Value": "Loan"
+            },
+            {
+                "Key": "Loan interest",
+                "Value": "Loan interest"
+            },
+            {
+                "Key": "Export resources",
+                "Value": "Resources sold"
+            },
+            {
+                "Key": "Export",
+                "Value": "Sold"
+            },
+            {
+                "Key": "Wage",
+                "Value": "Wage"
+            },
+            {
+                "Key": "Import resources",
+                "Value": "Resources purchased"
+            },
+            {
+                "Key": "Major indicators",
+                "Value": "Major indicators"
+            },
+            {
+                "Key": "Daily major indicators",
+                "Value": "Day [N] major indicators "
+            },
+            {
+                "Key": "Foreign currency",
+                "Value": "Foreign currency"
+            },
+            {
+                "Key": "Total populations",
+                "Value": "Total population"
+            },
+            {
+                "Key": "Number of structures",
+                "Value": "Total structures"
+            },
+            {
+                "Key": "Taxed ratio among classes",
+                "Value": "Taxed ratio by classes"
+            },
+            {
+                "Key": "Overdue tax ranks",
+                "Value": "Overdue tax ranks"
+            },
+            {
+                "Key": "Tax satisfaction",
+                "Value": "Tax compliance"
+            },
+            {
+                "Key": "Category configuration",
+                "Value": "Category setting"
+            },
+            {
+                "Key": "List of citizens",
+                "Value": "List of ratizens"
+            },
+            {
+                "Key": "All of the citizens",
+                "Value": "All ratizens"
+            },
+            {
+                "Key": "Average happiness",
+                "Value": "Average"
+            },
+            {
+                "Key": "Minimum happiness",
+                "Value": "The Lowest"
+            },
+            {
+                "Key": "Graph average happiness",
+                "Value": "Average"
+            },
+            {
+                "Key": "Graph minimum happiness",
+                "Value": "The Lowest"
+            },
+            {
+                "Key": "Name",
+                "Value": "Name"
+            },
+            {
+                "Key": "Job",
+                "Value": "Job"
+            },
+            {
+                "Key": "Population",
+                "Value": "Population"
+            },
+            {
+                "Key": "Satisfaction",
+                "Value": "Satisfaction"
+            },
+            {
+                "Key": "Stats unassigned",
+                "Value": "Not assigned"
+            },
+            {
+                "Key": "Housing facility",
+                "Value": "Housing structures"
+            },
+            {
+                "Key": "Raw facility",
+                "Value": "Raw material structures"
+            },
+            {
+                "Key": "Production facility",
+                "Value": "Production structures"
+            },
+            {
+                "Key": "Service facility",
+                "Value": "Service structures"
+            },
+            {
+                "Key": "Military facility",
+                "Value": "Military structures"
+            },
+            {
+                "Key": "Total housing facility",
+                "Value": "Structures"
+            },
+            {
+                "Key": "Total raw facility",
+                "Value": "Structures"
+            },
+            {
+                "Key": "Total production facility",
+                "Value": "Structures"
+            },
+            {
+                "Key": "Total service facility",
+                "Value": "Structures"
+            },
+            {
+                "Key": "Total military facility",
+                "Value": "Structures"
+            },
+            {
+                "Key": "Number of users",
+                "Value": "Number of users"
+            },
+            {
+                "Key": "Settler",
+                "Value": "Homeowner"
+            },
+            {
+                "Key": "Homeless",
+                "Value": "Homeless"
+            },
+            {
+                "Key": "Rate of operation",
+                "Value": "Operation efficiency"
+            },
+            {
+                "Key": "Work progress",
+                "Value": "Work progress"
+            },
+            {
+                "Key": "Product amount",
+                "Value": "Product amount"
+            },
+            {
+                "Key": "Efficiency",
+                "Value": "Efficiency"
+            },
+            {
+                "Key": "Consumers",
+                "Value": "Consumers"
+            },
+            {
+                "Key": "Operated time",
+                "Value": "Operated time"
+            },
+            {
+                "Key": "PolicyCondition",
+                "Value": "Standard"
+            },
+            {
+                "Key": "Total value",
+                "Value": "Total value"
+            },
+            {
+                "Key": "Resource value",
+                "Value": "Resource value"
+            },
+            {
+                "Key": "Total resources",
+                "Value": "Total resources"
+            },
+            {
+                "Key": "Total foods",
+                "Value": "Total foods"
+            },
+            {
+                "Key": "Survival expectancy",
+                "Value": "Survival expectancy"
+            },
+            {
+                "Key": "Graph expectancy",
+                "Value": "Expectancy"
+            },
+            {
+                "Key": "Supply ratio",
+                "Value": "Supply ratio"
+            },
+            {
+                "Key": "Basic necessity supplied",
+                "Value": "Basics supplied"
+            },
+            {
+                "Key": "Advanced necessity supplied",
+                "Value": "Advanced supplied"
+            },
+            {
+                "Key": "Luxurious necessity supplied",
+                "Value": "Luxurious supplied"
+            },
+            {
+                "Key": "List of resources",
+                "Value": "Resources list"
+            },
+            {
+                "Key": "Stats food",
+                "Value": "Food"
+            },
+            {
+                "Key": "Remaining amount",
+                "Value": "Remaining"
+            },
+            {
+                "Key": "Stored amount",
+                "Value": "Stored"
+            },
+            {
+                "Key": "Unstored amount",
+                "Value": "Unstored"
+            },
+            {
+                "Key": "Consumed amount",
+                "Value": "Consumed"
+            },
+            {
+                "Key": "Average consumption",
+                "Value": "Avg. Usage"
+            },
+            {
+                "Key": "Effect",
+                "Value": "Effect"
+            },
+            {
+                "Key": "PlusEffect",
+                "Value": "Additional effect"
+            },
+            {
+                "Key": "Basic",
+                "Value": "Basic"
+            },
+            {
+                "Key": "Advanced",
+                "Value": "Advanced"
+            },
+            {
+                "Key": "Luxurious",
+                "Value": "Superior"
+            },
+            {
+                "Key": "Stats daily",
+                "Value": "Day {{NUM}}"
+            },
+            {
+                "Key": "Stats quarterly",
+                "Value": "Quarter {{NUM}}"
+            },
+            {
+                "Key": "Stats yearly",
+                "Value": "Year {{NUM}}"
+            },
+            {
+                "Key": "Stats total policy",
+                "Value": "Total Policy"
+            },
+            {
+                "Key": "Stats enforcement period",
+                "Value": "Enforced for"
+            },
+            {
+                "Key": "Stats apply count",
+                "Value": "Apply count"
+            },
+            {
+                "Key": "Stats users",
+                "Value": "Users"
+            },
+            {
+                "Key": "Stats consumers",
+                "Value": "Class"
+            },
+            {
+                "Key": "Stats resource",
+                "Value": "Resources"
+            },
+            {
+                "Key": "Stats stock",
+                "Value": "Stock"
+            },
+            {
+                "Key": "Stats price",
+                "Value": "Price"
+            },
+            {
+                "Key": "Low credit",
+                "Value": "Low credit"
+            },
+            {
+                "Key": "Research point",
+                "Value": "Research point"
+            },
+            {
+                "Key": "Prosperity Effect",
+                "Value": "Prosperity effect"
+            },
+            {
+                "Key": "Score",
+                "Value": "Points"
+            },
+            {
+                "Key": "Development",
+                "Value": "Infrastructures"
+            },
+            {
+                "Key": "Development Short",
+                "Value": "Infra."
+            },
+            {
+                "Key": "Grade",
+                "Value": "Level"
+            },
+            {
+                "Key": "Left until next rank",
+                "Value": "{{COUNT}} left until next level"
+            },
+            {
+                "Key": "Acceptable number of citizens",
+                "Value": "Limit of population"
+            },
+            {
+                "Key": "Base happiness of citizens",
+                "Value": "Base happiness of ratizens"
+            },
+            {
+                "Key": "Number of operable policies",
+                "Value": "Limit of operatable policies"
+            },
+            {
+                "Key": "Number of products available for loan",
+                "Value": "Limit of loanable proposal"
+            },
+            {
+                "Key": "Migrant level",
+                "Value": "Migrants' ability standard"
+            },
+            {
+                "Key": "Pollution Degree",
+                "Value": "Pollution level"
+            },
+            {
+                "Key": "Issue currency",
+                "Value": "Issued currency"
+            },
+            {
+                "Key": "Export Income",
+                "Value": "Export Income"
+            },
+            {
+                "Key": "Transport",
+                "Value": "Transport"
+            },
+            {
+                "Key": "Schedule free",
+                "Value": "Free time"
+            },
+            {
+                "Key": "Schedule work",
+                "Value": "Work time"
+            },
+            {
+                "Key": "Schedule rest",
+                "Value": "Rest time"
+            },
+            {
+                "Key": "Schedule sleep",
+                "Value": "Sleep time"
+            },
+            {
+                "Key": "Dip world",
+                "Value": "World map"
+            },
+            {
+                "Key": "Dip trade",
+                "Value": "Trade"
+            },
+            {
+                "Key": "Dip exchange rate",
+                "Value": "Exchange rate"
+            },
+            {
+                "Key": "Dip prosperity",
+                "Value": "Prosperity"
+            },
+            {
+                "Key": "Dip relations",
+                "Value": "Relations"
+            },
+            {
+                "Key": "Dip distance",
+                "Value": "Distance"
+            },
+            {
+                "Key": "Dip agreement",
+                "Value": "Trade agreement"
+            },
+            {
+                "Key": "Dip explore start",
+                "Value": "Explore area"
+            },
+            {
+                "Key": "Dip explore reservation",
+                "Value": "Queue Exploration"
+            },
+            {
+                "Key": "Dip explore stop",
+                "Value": "Stop Exploration"
+            },
+            {
+                "Key": "Dip reservation stop",
+                "Value": "Cancel queue"
+            },
+            {
+                "Key": "Dip explore successed",
+                "Value": "Exploration completed"
+            },
+            {
+                "Key": "Dip select storage",
+                "Value": "Select storage"
+            },
+            {
+                "Key": "Dip exploring",
+                "Value": "Exploring"
+            },
+            {
+                "Key": "Dip reservation",
+                "Value": "Exploration reserved"
+            },
+            {
+                "Key": "Dip importable",
+                "Value": "Importable"
+            },
+            {
+                "Key": "Dip Exportable",
+                "Value": "Exportable"
+            },
+            {
+                "Key": "Dip present",
+                "Value": "Present"
+            },
+            {
+                "Key": "Dip trade",
+                "Value": "Trade"
+            },
+            {
+                "Key": "Dip invade",
+                "Value": "Invade"
+            },
+            {
+                "Key": "Dip my city",
+                "Value": "My Kingdom"
+            },
+            {
+                "Key": "Settlement",
+                "Value": "Settlement"
+            },
+            {
+                "Key": "Hamlet",
+                "Value": "Hamlet"
+            },
+            {
+                "Key": "Village",
+                "Value": "Village"
+            },
+            {
+                "Key": "Town",
+                "Value": "Town"
+            },
+            {
+                "Key": "Small city",
+                "Value": "Small city"
+            },
+            {
+                "Key": "City",
+                "Value": "City"
+            },
+            {
+                "Key": "Ratropolis",
+                "Value": "Ratropolis"
+            },
+            {
+                "Key": "Dip very bad",
+                "Value": "Very bad"
+            },
+            {
+                "Key": "Dip bad",
+                "Value": "Bad"
+            },
+            {
+                "Key": "Dip normal",
+                "Value": "Normal"
+            },
+            {
+                "Key": "Dip good",
+                "Value": "Good"
+            },
+            {
+                "Key": "Dip very good",
+                "Value": "Very good"
+            },
+            {
+                "Key": "Dip agreement list",
+                "Value": "{{RESOURCE}} {{TRADE}} Agreement {{ID}}"
+            },
+            {
+                "Key": "Dip import amount",
+                "Value": "Imported amount"
+            },
+            {
+                "Key": "Dip export amount",
+                "Value": "Exported amount"
+            },
+            {
+                "Key": "Dip next city",
+                "Value": "Next city"
+            },
+            {
+                "Key": "Dip trade city",
+                "Value": "Trading city"
+            },
+            {
+                "Key": "Dip trade good",
+                "Value": "Trading goods"
+            },
+            {
+                "Key": "Dip number good",
+                "Value": "Amount"
+            },
+            {
+                "Key": "Dip place store",
+                "Value": "Storage"
+            },
+            {
+                "Key": "Dip package per day",
+                "Value": "{{COUNT}} per cycle"
+            },
+            {
+                "Key": "Dip price per package",
+                "Value": "{{ASSET}} per package"
+            },
+            {
+                "Key": "Dip total trade number",
+                "Value": "Traded number"
+            },
+            {
+                "Key": "Dip total trade amount",
+                "Value": "Traded currency"
+            },
+            {
+                "Key": "Dip storage",
+                "Value": "Storage"
+            },
+            {
+                "Key": "Dip modify",
+                "Value": "Modify"
+            },
+            {
+                "Key": "Dip renew",
+                "Value": "Renew"
+            },
+            {
+                "Key": "Dip delete",
+                "Value": "Abrogate"
+            },
+            {
+                "Key": "Dip A per B",
+                "Value": "{{COUNT}} per {{DAY}}"
+            },
+            {
+                "Key": "Dip current price",
+                "Value": "Current price"
+            },
+            {
+                "Key": "Dip agreed price",
+                "Value": "Agreed price"
+            },
+            {
+                "Key": "Dip expire date",
+                "Value": "Expires"
+            },
+            {
+                "Key": "Dip ongoing",
+                "Value": "Ongoing"
+            },
+            {
+                "Key": "Dip paused",
+                "Value": "Paused"
+            },
+            {
+                "Key": "Dip failed",
+                "Value": "Failed"
+            },
+            {
+                "Key": "Dip expired",
+                "Value": "Expired"
+            },
+            {
+                "Key": "Dip A times",
+                "Value": "{{COUNT}} times"
+            },
+            {
+                "Key": "Dip average price",
+                "Value": "Average"
+            },
+            {
+                "Key": "Dip confirm",
+                "Value": "Sign contract"
+            },
+            {
+                "Key": "Dip require",
+                "Value": "Require"
+            },
+            {
+                "Key": "Dip count per package",
+                "Value": "items per package"
+            },
+            {
+                "Key": "Dip import per package",
+                "Value": "price per package"
+            },
+            {
+                "Key": "Dip import price",
+                "Value": "Importing price"
+            },
+            {
+                "Key": "Dip export per package",
+                "Value": "price per package"
+            },
+            {
+                "Key": "Dip export price",
+                "Value": "Exporting price"
+            },
+            {
+                "Key": "Dip basic price",
+                "Value": "Standard price"
+            },
+            {
+                "Key": "Dip trade price",
+                "Value": "Settled price"
+            },
+            {
+                "Key": "Dip total price",
+                "Value": "Total price"
+            },
+            {
+                "Key": "Dip expiration date",
+                "Value": "Expiration date"
+            },
+            {
+                "Key": "Dip expected number trade",
+                "Value": "Expected trade count"
+            },
+            {
+                "Key": "Dip new contract",
+                "Value": "New contract"
+            },
+            {
+                "Key": "Dip indefinite",
+                "Value": "Indefinite"
+            },
+            {
+                "Key": "Dip year",
+                "Value": "Year {{COUNT}}"
+            },
+            {
+                "Key": "Dip unavailable",
+                "Value": "Unavailable"
+            },
+            {
+                "Key": "Building working",
+                "Value": "Active"
+            },
+            {
+                "Key": "Building beseless",
+                "Value": "Base-less"
+            },
+            {
+                "Key": "Building resourceless",
+                "Value": "Depleted"
+            },
+            {
+                "Key": "Building workerless",
+                "Value": "No worker"
+            },
+            {
+                "Key": "Building destroyed",
+                "Value": "Destroyed"
+            },
+            {
+                "Key": "Building flooded",
+                "Value": "Flooded"
+            },
+            {
+                "Key": "Exchange total asset",
+                "Value": "Monetary base"
+            },
+            {
+                "Key": "Exchange holding ratio",
+                "Value": "Dar portion"
+            },
+            {
+                "Key": "Exchange holding",
+                "Value": "Holding {{ASSET}}"
+            },
+            {
+                "Key": "Exchange basic",
+                "Value": "Base rate"
+            },
+            {
+                "Key": "Exchange today",
+                "Value": "Today"
+            },
+            {
+                "Key": "Exchange tomorrow",
+                "Value": "Tomorrow"
+            },
+            {
+                "Key": "Exchange past",
+                "Value": "{{DAY}} days ago"
+            },
+            {
+                "Key": "Exchange rate",
+                "Value": "Exchange"
+            },
+            {
+                "Key": "Exchange ticket acquire day",
+                "Value": "Acquisition Date"
+            },
+            {
+                "Key": "Exchange ticket expire period",
+                "Value": "Remaining Duration"
+            },
+            {
+                "Key": "Exchange ticket activate count",
+                "Value": "Occurrence Count"
+            },
+            {
+                "Key": "Exchange ticket change rate",
+                "Value": "Variability Rate"
+            },
+            {
+                "Key": "Exchange ticket view",
+                "Value": "Check tickets"
+            },
+            {
+                "Key": "Exchange have ticket",
+                "Value": "Holding Tickets"
+            },
+            {
+                "Key": "Exchange ticket title",
+                "Value": "[N] Exchange ticket"
+            },
+            {
+                "Key": "Exchange graph name",
+                "Value": "{{ASSET1}} to {{ASSET2}} graph"
+            },
+            {
+                "Key": "Exchange graph standard",
+                "Value": "{{ASSET1}} per 1 {{ASSET2}}"
+            },
+            {
+                "Key": "Key setting controls",
+                "Value": "Controls"
+            },
+            {
+                "Key": "Key setting keyboardmouse",
+                "Value": "Keyboard/Mouse (QWERTY)"
+            },
+            {
+                "Key": "Key setting keyboard",
+                "Value": "Keyboard (QWERTY)"
+            },
+            {
+                "Key": "Key setting keyboardmouse azerty",
+                "Value": "Keyboard/Mouse (AZERTY)"
+            },
+            {
+                "Key": "Key setting keyboard azerty",
+                "Value": "Keyboard (AZERTY)"
+            },
+            {
+                "Key": "Key setting game pad",
+                "Value": "Game Pad"
+            },
+            {
+                "Key": "Key setting control layout",
+                "Value": "Controller"
+            },
+            {
+                "Key": "Key setting preset",
+                "Value": "Preset"
+            },
+            {
+                "Key": "Key setting default",
+                "Value": "Default"
+            },
+            {
+                "Key": "Key setting empty",
+                "Value": "Empty"
+            },
+            {
+                "Key": "Key setting fix setting",
+                "Value": "Apply setting"
+            },
+            {
+                "Key": "Key setting restore default",
+                "Value": "Restore default"
+            },
+            {
+                "Key": "Key setting key confirm",
+                "Value": "Key confirm"
+            },
+            {
+                "Key": "Popup system message",
+                "Value": "System message"
+            },
+            {
+                "Key": "Popup system confirm",
+                "Value": "Confirm"
+            },
+            {
+                "Key": "Popup system apply",
+                "Value": "Apply"
+            },
+            {
+                "Key": "Popup system apply and exit",
+                "Value": "Apply and exit"
+            },
+            {
+                "Key": "Popup system apply and restart",
+                "Value": "Apply and restart"
+            },
+            {
+                "Key": "Popup system return",
+                "Value": "Return"
+            },
+            {
+                "Key": "Popup system exit",
+                "Value": "Exit"
+            },
+            {
+                "Key": "Popup system cancel",
+                "Value": "Cancel"
+            },
+            {
+                "Key": "Save new file",
+                "Value": "New save"
+            },
+            {
+                "Key": "Start settings need achievement",
+                "Value": "Required Achievenemt"
+            },
+            {
+                "Key": "Start settings title",
+                "Value": "Start settings"
+            },
+            {
+                "Key": "Start settings kingdom",
+                "Value": "Settlement"
+            },
+            {
+                "Key": "Start settings kingdom name",
+                "Value": "Name of the kingdom"
+            },
+            {
+                "Key": "Start settings start season",
+                "Value": "Starting Season"
+            },
+            {
+                "Key": "Start settings start biome",
+                "Value": "Starting Biome"
+            },
+            {
+                "Key": "Start settings field size",
+                "Value": "Map Size"
+            },
+            {
+                "Key": "Start settings world size",
+                "Value": "World Size"
+            },
+            {
+                "Key": "Start settings banner",
+                "Value": "Flag"
+            },
+            {
+                "Key": "Start settings emblem",
+                "Value": "Emblem"
+            },
+            {
+                "Key": "Start settings emblem color",
+                "Value": "Emblem color"
+            },
+            {
+                "Key": "Start settings flag",
+                "Value": "Flag shape"
+            },
+            {
+                "Key": "Start settings flag color",
+                "Value": "Flag color"
+            },
+            {
+                "Key": "Start settings frame color",
+                "Value": "Frame color"
+            },
+            {
+                "Key": "Start settings pattern",
+                "Value": "Pattern"
+            },
+            {
+                "Key": "Start settings pattern color",
+                "Value": "Pattern Color"
+            },
+            {
+                "Key": "Start settings game start",
+                "Value": "Start"
+            },
+            {
+                "Key": "Start Settings leader",
+                "Value": "Leader"
+            },
+            {
+                "Key": "Start Settings leader name",
+                "Value": "Leader name"
+            },
+            {
+                "Key": "Start settings body skin",
+                "Value": "Fur"
+            },
+            {
+                "Key": "Start settings cloth skin",
+                "Value": "Cloth"
+            },
+            {
+                "Key": "Start settings face skin",
+                "Value": "Face"
+            },
+            {
+                "Key": "Start settings hair skin",
+                "Value": "Hair"
+            },
+            {
+                "Key": "Start settings character",
+                "Value": "Character"
+            },
+            {
+                "Key": "Start settings random",
+                "Value": "Random"
+            },
+            {
+                "Key": "Level",
+                "Value": "Difficulty"
+            },
+            {
+                "Key": "Level easy",
+                "Value": "Easy"
+            },
+            {
+                "Key": "Level normal",
+                "Value": "Normal"
+            },
+            {
+                "Key": "Level hard",
+                "Value": "Hard"
+            },
+            {
+                "Key": "Level start treasury",
+                "Value": "Initial savings "
+            },
+            {
+                "Key": "Level assault period",
+                "Value": "Invasion Cycle"
+            },
+            {
+                "Key": "Level assault weight",
+                "Value": "Invasion intensity"
+            },
+            {
+                "Key": "Level rebellion threshold",
+                "Value": "Rebellion threshold"
+            },
+            {
+                "Key": "Tutorial",
+                "Value": "Tutorial"
+            },
+            {
+                "Key": "Ledger buy resource",
+                "Value": "Resources purchased"
+            },
+            {
+                "Key": "Ledger sell resource",
+                "Value": "Resources sold"
+            },
+            {
+                "Key": "Ledger diplomatic",
+                "Value": "Diplomacy"
+            },
+            {
+                "Key": "Ledger event",
+                "Value": "Event"
+            },
+            {
+                "Key": "Ledger exchange",
+                "Value": "Exchange"
+            },
+            {
+                "Key": "Ledger export",
+                "Value": "Export"
+            },
+            {
+                "Key": "Ledger import",
+                "Value": "Import"
+            },
+            {
+                "Key": "Ledger income",
+                "Value": "Income"
+            },
+            {
+                "Key": "Ledger spending",
+                "Value": "Expense"
+            },
+            {
+                "Key": "Ledger loan interest",
+                "Value": "Loan interest"
+            },
+            {
+                "Key": "Ledger loan",
+                "Value": "Loaned"
+            },
+            {
+                "Key": "Ledger loan repayment",
+                "Value": "Repaid"
+            },
+            {
+                "Key": "Ledger mint",
+                "Value": "Minted"
+            },
+            {
+                "Key": "Ledger order",
+                "Value": "Following order"
+            },
+            {
+                "Key": "Ledger other",
+                "Value": "Unknown"
+            },
+            {
+                "Key": "Ledger service offer",
+                "Value": "Service provided"
+            },
+            {
+                "Key": "Ledger tax",
+                "Value": "Tax"
+            },
+            {
+                "Key": "Ledger tax payment",
+                "Value": "Paid Tax"
+            },
+            {
+                "Key": "Ledger use service",
+                "Value": "Service used"
+            },
+            {
+                "Key": "Ledger wage",
+                "Value": "Wage"
+            },
+            {
+                "Key": "Ledger welfare",
+                "Value": "Subsidy"
+            },
+            {
+                "Key": "DoorOption1",
+                "Value": "Entire"
+            },
+            {
+                "Key": "DoorOption2",
+                "Value": "Leader only"
+            },
+            {
+                "Key": "DoorOption3",
+                "Value": "Soldiers only"
+            },
+            {
+                "Key": "DoorOption4",
+                "Value": "Open"
+            },
+            {
+                "Key": "DoorOption5",
+                "Value": "Close"
+            },
+            {
+                "Key": "DoorOption6",
+                "Value": "Middle and above"
+            },
+            {
+                "Key": "DoorOption7",
+                "Value": "High and above"
+            },
+            {
+                "Key": "Equipment weapon",
+                "Value": "Weapon"
+            },
+            {
+                "Key": "Equipment armor",
+                "Value": "Armor"
+            },
+            {
+                "Key": "Equipment accessory",
+                "Value": "Accessory"
+            },
+            {
+                "Key": "Playable equip empty",
+                "Value": "Not Equipped"
+            },
+            {
+                "Key": "Unit conversion",
+                "Value": "Adjust unit"
+            },
+            {
+                "Key": "Research completed",
+                "Value": "Research completed"
+            },
+            {
+                "Key": "Weather_Blizzard",
+                "Value": "Blizzard"
+            },
+            {
+                "Key": "Dew product",
+                "Value": "Dew collector"
+            },
+            {
+                "Key": "KnockB",
+                "Value": "Knocks back."
+            },
+            {
+                "Key": "Immigrants Level",
+                "Value": "Migrant ability Lv."
+            },
+            {
+                "Key": "Urban happiness",
+                "Value": "City Happiness"
+            },
+            {
+                "Key": "Start capital",
+                "Value": "Initial savings "
+            },
+            {
+                "Key": "Max loan num",
+                "Value": "Loan number limit"
+            },
+            {
+                "Key": "Sap",
+                "Value": "Sap"
+            },
+            {
+                "Key": "Exploration",
+                "Value": "Explore"
+            },
+            {
+                "Key": "Pack formation",
+                "Value": "Group"
+            },
+            {
+                "Key": "Equipment manufacturing",
+                "Value": "Forge / Equip"
+            },
+            {
+                "Key": "Squad setup",
+                "Value": "Squad setup"
+            },
+            {
+                "Key": "Cremation",
+                "Value": "Cremate"
+            },
+            {
+                "Key": "Deadbody transport",
+                "Value": "Body transportation"
+            },
+            {
+                "Key": "New product",
+                "Value": "New resource"
+            },
+            {
+                "Key": "Range Attack",
+                "Value": "Area attack"
+            },
+            {
+                "Key": "Option hud depth title",
+                "Value": "UI Display"
+            },
+            {
+                "Key": "Option hud all",
+                "Value": "All on"
+            },
+            {
+                "Key": "Option hud depth 1",
+                "Value": "HUD off"
+            },
+            {
+                "Key": "Option hud depth 2",
+                "Value": "All off"
+            },
+            {
+                "Key": "Stun Attack",
+                "Value": "Stun attack"
+            },
+            {
+                "Key": "Injuring",
+                "Value": "Wound"
+            },
+            {
+                "Key": "Drowning",
+                "Value": "Drowning"
+            },
+            {
+                "Key": "Burn",
+                "Value": "Burn"
+            },
+            {
+                "Key": "Trap",
+                "Value": "Friendly trap"
+            },
+            {
+                "Key": "Accident",
+                "Value": "Traffic accident"
+            },
+            {
+                "Key": "Fall death",
+                "Value": "Fall"
+            },
+            {
+                "Key": "Starvation death",
+                "Value": "Starvation"
+            },
+            {
+                "Key": "Criminal Filter",
+                "Value": "Criminal filter"
+            },
+            {
+                "Key": "Dip have foreign currency",
+                "Value": "Holdings Ratio"
+            },
+            {
+                "Key": "Dip exchange today",
+                "Value": "Today's Exchange Rate"
+            },
+            {
+                "Key": "Maximum kind",
+                "Value": "[A] types max"
+            },
+            {
+                "Key": "Enable all",
+                "Value": "Enable all"
+            },
+            {
+                "Key": "Disable all",
+                "Value": "Disable all"
+            },
+            {
+                "Key": "Hypertension",
+                "Value": "Hypertension"
+            },
+            {
+                "Key": "labor laws task",
+                "Value": "Task Priority"
+            },
+            {
+                "Key": "Task type",
+                "Value": "Task Type"
+            },
+            {
+                "Key": "Resource cleanup",
+                "Value": "Resource Pickup"
+            },
+            {
+                "Key": "To lock",
+                "Value": "Deactivate"
+            },
+            {
+                "Key": "Start settings precipitation",
+                "Value": "Precipitation"
+            },
+            {
+                "Key": "Start settings seed",
+                "Value": "Seed"
+            },
+            {
+                "Key": "Belonging group",
+                "Value": "Group"
+            },
+            {
+                "Key": "High priority",
+                "Value": "High"
+            },
+            {
+                "Key": "Low priority",
+                "Value": "Low"
+            },
+            {
+                "Key": "Inputtable input title",
+                "Value": "Modify"
+            },
+            {
+                "Key": "Manage Alarm",
+                "Value": "Check Alarm"
+            },
+            {
+                "Key": "Level very easy",
+                "Value": "Peaceful"
+            },
+            {
+                "Key": "Level very hard",
+                "Value": "Very Hard"
+            },
+            {
+                "Key": "Start settings level custom",
+                "Value": "Custom Difficulty"
+            },
+            {
+                "Key": "SSCA group city",
+                "Value": "City"
+            },
+            {
+                "Key": "SSCA group citizen",
+                "Value": "Ratizens"
+            },
+            {
+                "Key": "SSCA group invasion",
+                "Value": "Invasion"
+            },
+            {
+                "Key": "SSCA group other",
+                "Value": "Other"
+            },
+            {
+                "Key": "SSCA start treasury",
+                "Value": "Initial Savings "
+            },
+            {
+                "Key": "SSCA start resources",
+                "Value": "Resources"
+            },
+            {
+                "Key": "SSCA start research point",
+                "Value": "Research Points"
+            },
+            {
+                "Key": "SSCA immigrant level",
+                "Value": "Migrant Ability Lv."
+            },
+            {
+                "Key": "SSCA immigrant speed",
+                "Value": "Migration Frequency"
+            },
+            {
+                "Key": "SSCA start citizen count",
+                "Value": "Number of Ratizens"
+            },
+            {
+                "Key": "SSCA citizen happiness bonus",
+                "Value": "Bonus Happiness"
+            },
+            {
+                "Key": "SSCA citizen rebellion line",
+                "Value": "Rebellion Threshold"
+            },
+            {
+                "Key": "SSCA crime frequency",
+                "Value": "Crime Frequency"
+            },
+            {
+                "Key": "SSCA rest crave ",
+                "Value": "Stamina Decline Rate"
+            },
+            {
+                "Key": "SSCA food crave",
+                "Value": "Food Decline Rate"
+            },
+            {
+                "Key": "SSCA fun crave",
+                "Value": "Joy Decline Rate"
+            },
+            {
+                "Key": "SSCA clean crave",
+                "Value": "Hygiene Decline Rate"
+            },
+            {
+                "Key": "SSCA invasion frequency",
+                "Value": "Invasion Cycle"
+            },
+            {
+                "Key": "SSCA invasion colony count",
+                "Value": "Enemy Bases"
+            },
+            {
+                "Key": "SSCA invasion weight",
+                "Value": "Invasion intensity"
+            },
+            {
+                "Key": "SSCA plaguemole activate",
+                "Value": "Activate Digger"
+            },
+            {
+                "Key": "SSCA natural disasters frequency",
+                "Value": "Disaster Frequency"
+            },
+            {
+                "Key": "SSCA natural disasters weight",
+                "Value": "Disaster Intensity"
+            },
+            {
+                "Key": "SSCA game event frequency",
+                "Value": "Event Frequency"
+            },
+            {
+                "Key": "one life mode",
+                "Value": "Hardcore Mode"
+            },
+            {
+                "Key": "Waterproof",
+                "Value": "Waterproof"
+            },
+            {
+                "Key": "Build direction",
+                "Value": "Structure Direction"
+            },
+            {
+                "Key": "Left",
+                "Value": "Left"
+            },
+            {
+                "Key": "Right",
+                "Value": "Right"
+            },
+            {
+                "Key": "Shape selection",
+                "Value": "Shape"
+            },
+            {
+                "Key": "Empty capacity",
+                "Value": "None"
+            },
+            {
+                "Key": "Very little capacity",
+                "Value": "Very little"
+            },
+            {
+                "Key": "Little capacity",
+                "Value": "Little"
+            },
+            {
+                "Key": "Normal capacity",
+                "Value": "Normal"
+            },
+            {
+                "Key": "Many capacity",
+                "Value": "Many"
+            },
+            {
+                "Key": "Very many capacity",
+                "Value": "Very many"
+            },
+            {
+                "Key": "Empty velocity",
+                "Value": "None"
+            },
+            {
+                "Key": "Slowest velocity",
+                "Value": "Slowest"
+            },
+            {
+                "Key": "Slow velocity",
+                "Value": "Slow"
+            },
+            {
+                "Key": "Normal velocity",
+                "Value": "Normal"
+            },
+            {
+                "Key": "Fast velocity",
+                "Value": "Fast"
+            },
+            {
+                "Key": "Fastest velocity",
+                "Value": "Fastest"
+            },
+            {
+                "Key": "Empty frequency",
+                "Value": "None"
+            },
+            {
+                "Key": "Slowest frequency",
+                "Value": "Very Rarely"
+            },
+            {
+                "Key": "Slow frequency",
+                "Value": "Rarely"
+            },
+            {
+                "Key": "Normal frequency",
+                "Value": "Normal"
+            },
+            {
+                "Key": "Fast frequency",
+                "Value": "Often"
+            },
+            {
+                "Key": "Fastest frequency",
+                "Value": "Very Often"
+            },
+            {
+                "Key": "Load recent file",
+                "Value": "Load recent file"
+            },
+            {
+                "Key": "Police officer",
+                "Value": "Police"
+            },
+            {
+                "Key": "Mission Storage",
+                "Value": "Store"
+            },
+            {
+                "Key": "Duration",
+                "Value": "Duration"
+            },
+            {
+                "Key": "Dip total trade period",
+                "Value": "Total trade period"
+            },
+            {
+                "Key": "Dip next trade date",
+                "Value": "Next trade date"
+            },
+            {
+                "Key": "Date",
+                "Value": "Date"
+            },
+            {
+                "Key": "Dip trade volume",
+                "Value": "Amount"
+            },
+            {
+                "Key": "Result",
+                "Value": "Result"
+            },
+            {
+                "Key": "Dip trade numbers",
+                "Value": "Traded Numbers"
+            },
+            {
+                "Key": "Dip deleted",
+                "Value": "Removed"
+            },
+            {
+                "Key": "CustomBuff",
+                "Value": "Difficulty Effect"
+            },
+            {
+                "Key": "Default price",
+                "Value": "Default Price"
+            },
+            {
+                "Key": "Dip exchange log total",
+                "Value": "Dar Holdings Information"
+            },
+            {
+                "Key": "Dip exchange holding value",
+                "Value": "Value of Held {{ASSET}}"
+            },
+            {
+                "Key": "Dip exchange asset",
+                "Value": "Purchased {{ASSET}}"
+            },
+            {
+                "Key": "Dip exchange valuation profit and loss",
+                "Value": "Evaluation Profit/Loss"
+            },
+            {
+                "Key": "Dip exchange profit margin",
+                "Value": "Profit/Loss Rate"
+            },
+            {
+                "Key": "Dip exchange realized profit and loss",
+                "Value": "Realized Profit/Loss"
+            },
+            {
+                "Key": "Dip exchange volume",
+                "Value": "Trading Volume"
+            },
+            {
+                "Key": "Dip exchange total fee",
+                "Value": "Total Fees"
+            },
+            {
+                "Key": "Dip exchange receipt",
+                "Value": "Currency Exchange Receipt"
+            },
+            {
+                "Key": "Dip exchange group",
+                "Value": "Category"
+            },
+            {
+                "Key": "Dip exchange buy asset",
+                "Value": "<sprite name=FS_Dar> Buy"
+            },
+            {
+                "Key": "Dip exchange sell asset",
+                "Value": "<sprite name=FS_Dar> Sell"
+            },
+            {
+                "Key": "Dip exchange trade value",
+                "Value": "Dar Trading Volume"
+            },
+            {
+                "Key": "Dip exchange expending value",
+                "Value": "Pia Spent"
+            },
+            {
+                "Key": "Dip exchange income value",
+                "Value": "Pia Earned"
+            },
+            {
+                "Key": "Start settings hat skin",
+                "Value": "Hat"
+            },
+            {
+                "Key": "Start settings dress skin",
+                "Value": "Clothing"
+            },
+            {
+                "Key": "Start settings accessory skin",
+                "Value": "Accessory"
+            },
+            {
+                "Key": "BuildAlarm need citizen",
+                "Value": "Ratizen Assignment Needed"
+            },
+            {
+                "Key": "BuildAlarm need ground",
+                "Value": "Foundation destroyed"
+            },
+            {
+                "Key": "BuildAlarm flood",
+                "Value": "Flooded"
+            },
+            {
+                "Key": "BuildAlarm need elec",
+                "Value": "Insufficient Electricity"
+            },
+            {
+                "Key": "BuildAlarm need repair",
+                "Value": "Repair Needed"
+            },
+            {
+                "Key": "BuildAlarm need mat",
+                "Value": "Lack of resources"
+            },
+            {
+                "Key": "BuildAlarm deactivate",
+                "Value": "Deactivated"
+            },
+            {
+                "Key": "Royal dressing table title",
+                "Value": "Royal Wardrobe"
+            },
+            {
+                "Key": "Mass product",
+                "Value": "Mass production"
+            },
+            {
+                "Key": "Telescope",
+                "Value": "Observe"
+            },
+            {
+                "Key": "Use closet",
+                "Value": "Change Appearance"
+            },
+            {
+                "Key": "Use tunnel",
+                "Value": "Use Tunnel"
+            },
+            {
+                "Key": "Start settings need research",
+                "Value": "Required research"
+            },
+            {
+                "Key": "Tile",
+                "Value": "Tile"
+            },
+            {
+                "Key": "Change clothes",
+                "Value": "Change Appearance"
+            },
+            {
+                "Key": "Underground tunnel",
+                "Value": "Tunnel Network"
+            },
+            {
+                "Key": "Service Subsidy",
+                "Value": "Service subsidy"
+            },
+            {
+                "Key": "Tunnel used",
+                "Value": "Tunnel used"
+            },
+            {
+                "Key": "LostJob",
+                "Value": "Fired"
+            },
+            {
+                "Key": "Area effect",
+                "Value": "Area effect"
+            },
+            {
+                "Key": {},
+                "Value": "Operational Effect"
+            },
+            {
+                "Key": "Need GBot",
+                "Value": "Requires Ratron allocation"
+            },
+            {
+                "Key": "Set battery range",
+                "Value": "supply range setting"
+            },
+            {
+                "Key": "Efficiency variation",
+                "Value": "Area Inspection"
+            },
+            {
+                "Key": "Direct wire connection",
+                "Value": "Wire Required"
+            },
+            {
+                "Key": "Automatic wire connection",
+                "Value": "Automatic connection"
+            },
+            {
+                "Key": "GBot product",
+                "Value": "Produce Ratron"
+            },
+            {
+                "Key": "Power generation",
+                "Value": "Generating Electricity"
+            },
+            {
+                "Key": "Consumes Electricity",
+                "Value": "Consuming Electricity"
+            },
+            {
+                "Key": "Power storage",
+                "Value": "Electricity Storage"
+            },
+            {
+                "Key": "Diary building construct day",
+                "Value": "Date of Construction"
+            },
+            {
+                "Key": "Diary log construction",
+                "Value": "Existed Period"
+            },
+            {
+                "Key": "Diary log hired citizen",
+                "Value": "Ratizen Assigned"
+            },
+            {
+                "Key": "Diary log personnel change",
+                "Value": "Reassigned"
+            },
+            {
+                "Key": "Diary log laid off citizen",
+                "Value": "Ratizen Dismissed"
+            },
+            {
+                "Key": "Diary log hired ratron",
+                "Value": "Ratron Assigned"
+            },
+            {
+                "Key": "Diary log personnel change ratron",
+                "Value": "Reassigned"
+            },
+            {
+                "Key": "Diary log laid off ratron",
+                "Value": "Ratron Dismissed"
+            },
+            {
+                "Key": "Diary log activated",
+                "Value": "Activated"
+            },
+            {
+                "Key": "Diary log deactivated",
+                "Value": "Deactivated"
+            },
+            {
+                "Key": "Diary log modified name",
+                "Value": "Renamed"
+            },
+            {
+                "Key": "Diary state building",
+                "Value": "Structure's Condition"
+            },
+            {
+                "Key": "Diary state not enought electric",
+                "Value": "Electricity outage"
+            },
+            {
+                "Key": "Diary state need sun light",
+                "Value": "Daytime Only"
+            },
+            {
+                "Key": "Diary record product",
+                "Value": "Production Records"
+            },
+            {
+                "Key": "Diary record consume",
+                "Value": "Consumption Records"
+            },
+            {
+                "Key": "Diary record service",
+                "Value": "Provided Services Records"
+            },
+            {
+                "Key": "Diary record military",
+                "Value": "Operation Records"
+            },
+            {
+                "Key": "Diary record electricity",
+                "Value": "Electricity Records"
+            },
+            {
+                "Key": "Diary record basic",
+                "Value": "Operation Records"
+            },
+            {
+                "Key": "Yesterday",
+                "Value": "Yesterday"
+            },
+            {
+                "Key": "Scientist",
+                "Value": "Scientist"
+            },
+            {
+                "Key": "Stats attr building count",
+                "Value": "Number of Structures"
+            },
+            {
+                "Key": "Stats total storage count",
+                "Value": "All Storages"
+            },
+            {
+                "Key": "Stats default storage count",
+                "Value": "Storage"
+            },
+            {
+                "Key": "Stats mini storage count",
+                "Value": "Mini Storage"
+            },
+            {
+                "Key": "Storage facility",
+                "Value": "Storage Structures"
+            },
+            {
+                "Key": "Stats total capacity",
+                "Value": "Full Storages"
+            },
+            {
+                "Key": "Total storage facility",
+                "Value": "Number of Structures"
+            },
+            {
+                "Key": "Stats attr capacity",
+                "Value": "Stored"
+            },
+            {
+                "Key": "Stats attr buy lock",
+                "Value": "Restricted Purchases"
+            },
+            {
+                "Key": "Stats attr sell lock",
+                "Value": "Restricted Sales"
+            },
+            {
+                "Key": "List of ratrons",
+                "Value": "List of Ratrons"
+            },
+            {
+                "Key": "All of the ratrons",
+                "Value": "All Ratrons"
+            },
+            {
+                "Key": "Ratron",
+                "Value": "Ratron"
+            },
+            {
+                "Key": "Stats attr type ratron",
+                "Value": "Ratron Type"
+            },
+            {
+                "Key": "Worker ratron",
+                "Value": "Work"
+            },
+            {
+                "Key": "Service ratron",
+                "Value": "Service"
+            },
+            {
+                "Key": "Combat ratron",
+                "Value": "Combat"
+            },
+            {
+                "Key": "Power grid",
+                "Value": "Electric Grid"
+            },
+            {
+                "Key": "NoBattery",
+                "Value": "No Grid to Connect"
+            },
+            {
+                "Key": "Network connect",
+                "Value": "Connect to Grid"
+            },
+            {
+                "Key": "Current settings",
+                "Value": "Current settings"
+            },
+            {
+                "Key": "Oneself",
+                "Value": "Default"
+            },
+            {
+                "Key": "Disconnect",
+                "Value": "Disconnect"
+            },
+            {
+                "Key": "Production method",
+                "Value": "Production method"
+            },
+            {
+                "Key": "Select battery",
+                "Value": "Designate power supplier"
+            },
+            {
+                "Key": "The nearest battery",
+                "Value": "Nearest Supplier"
+            },
+            {
+                "Key": "Need water line",
+                "Value": "Water Flow Needed"
+            },
+            {
+                "Key": "Need magma",
+                "Value": "Magma Needed"
+            },
+            {
+                "Key": "Growing materials",
+                "Value": "Cultivation Materials"
+            },
+            {
+                "Key": "Discharge",
+                "Value": "Discharged"
+            },
+            {
+                "Key": "Bookmark",
+                "Value": "Bookmark"
+            },
+            {
+                "Key": "Fishing",
+                "Value": "Fishing"
+            },
+            {
+                "Key": "Electricity",
+                "Value": "Electricity"
+            },
+            {
+                "Key": "Stats electricity capacity",
+                "Value": "Capacity"
+            },
+            {
+                "Key": "Stats electricity network count",
+                "Value": "Number of Grids"
+            },
+            {
+                "Key": "Expected production",
+                "Value": "Expected Production"
+            },
+            {
+                "Key": "Expected consumption",
+                "Value": "Expected Consumption"
+            },
+            {
+                "Key": "Operational limit",
+                "Value": "Operation limit"
+            },
+            {
+                "Key": "Disposable",
+                "Value": "Single Use"
+            },
+            {
+                "Key": "Power supply",
+                "Value": "Supply Electricity"
+            },
+            {
+                "Key": "Need sun",
+                "Value": "Daytime required"
+            },
+            {
+                "Key": "Power transmission",
+                "Value": "Wired Transmission"
+            },
+            {
+                "Key": "Wireless power transmission",
+                "Value": "Wireless Transmission"
+            },
+            {
+                "Key": "Power consumption",
+                "Value": "Electricity Consumption"
+            },
+            {
+                "Key": "Consumption cycle",
+                "Value": "Consumption Cycle"
+            },
+            {
+                "Key": "Maximum storage capacity",
+                "Value": "Maximum capacity"
+            },
+            {
+                "Key": "Drone deployment",
+                "Value": "Deploy Drones"
+            },
+            {
+                "Key": "Available commands",
+                "Value": "Available Commands"
+            },
+            {
+                "Key": "Light effect",
+                "Value": "Lighting Bonus"
+            },
+            {
+                "Key": "Stamina Recovery",
+                "Value": "Stamina Recovery"
+            },
+            {
+                "Key": "HP Recovery Unavailable",
+                "Value": "Not Healable"
+            },
+            {
+                "Key": "Experience Points Unavailable",
+                "Value": "Cannot gain EXP"
+            },
+            {
+                "Key": "Electric Damage",
+                "Value": "Electric Damage"
+            },
+            {
+                "Key": "Power Grid Status",
+                "Value": "Power Grid Status"
+            },
+            {
+                "Key": "Connected Power Grid",
+                "Value": "Connected Power Grid"
+            },
+            {
+                "Key": "Assembled period",
+                "Value": "Operation period"
+            },
+            {
+                "Key": "Actionlog assembled",
+                "Value": "Assembled"
+            },
+            {
+                "Key": "Actionlog destroyed",
+                "Value": "Destroyed"
+            },
+            {
+                "Key": "Actionlog set charger",
+                "Value": "Assigned to"
+            },
+            {
+                "Key": "Actionlog reset charger",
+                "Value": "Dismissed from"
+            },
+            {
+                "Key": "Elec filter",
+                "Value": "Electricity Filter"
+            },
+            {
+                "Key": "Elec line on",
+                "Value": "Connected to Grid"
+            },
+            {
+                "Key": "Elec line off",
+                "Value": "Disconnected from Grid"
+            },
+            {
+                "Key": "Check Operating Area",
+                "Value": "Area Inspection"
+            },
+            {
+                "Key": "Maximum Range",
+                "Value": "Maximum Range"
+            },
+            {
+                "Key": "Unmineable",
+                "Value": "Mining Not Possible"
+            },
+            {
+                "Key": "Task Execution Settings",
+                "Value": "Set Task"
+            },
+            {
+                "Key": "Connected Group",
+                "Value": "Connected Power Grid"
+            },
+            {
+                "Key": "Existing Target",
+                "Value": "Existing Target"
+            },
+            {
+                "Key": "New Target",
+                "Value": "New Target"
+            },
+            {
+                "Key": "Allocation of gbot",
+                "Value": "Assign Ratron"
+            },
+            {
+                "Key": "Ratron dissolution",
+                "Value": "Kill Switch"
+            },
+            {
+                "Key": "Burn Damage",
+                "Value": "Burn"
+            },
+            {
+                "Key": "Mine",
+                "Value": "Mine"
+            },
+            {
+                "Key": "Product AI",
+                "Value": "AI for Labor"
+            },
+            {
+                "Key": "Engineering Research",
+                "Value": "Engineering Research"
+            },
+            {
+                "Key": "Daily Power Consumption",
+                "Value": "Daily Power Consumption"
+            },
+            {
+                "Key": "BuildAlarm need mat money",
+                "Value": "Cannot Purchase Resource"
+            },
+            {
+                "Key": "Broadcasting Designation",
+                "Value": "Connect Signal"
+            },
+            {
+                "Key": "Produced",
+                "Value": "Produced"
+            },
+            {
+                "Key": "BurnAtk",
+                "Value": "Generate Flame"
+            },
+            {
+                "Key": "Payment",
+                "Value": "Give"
+            },
+            {
+                "Key": "Convenience features",
+                "Value": "Convenience Feature"
+            },
+            {
+                "Key": "Import Settings",
+                "Value": "Import Settings"
+            },
+            {
+                "Key": "Paste Settings",
+                "Value": "Export Settings"
+            },
+            {
+                "Key": "Copy to blueprint",
+                "Value": "Clone Structure"
+            },
+            {
+                "Key": "Disconnected",
+                "Value": "Disconnected"
+            },
+            {
+                "Key": "Resource Purchase Status",
+                "Value": "Get from"
+            },
+            {
+                "Key": "Resource Sales Status",
+                "Value": "Sell to"
+            },
+            {
+                "Key": "Assign only gbot",
+                "Value": "Needs Ratron"
+            },
+            {
+                "Key": "Need worker",
+                "Value": "Needs worker"
+            },
+            {
+                "Key": "Military AI",
+                "Value": "AI for Combat"
+            },
+            {
+                "Key": "Minigame bonus",
+                "Value": "Precision Assembly"
+            },
+            {
+                "Key": "Water pump",
+                "Value": "Pumping water"
+            },
+            {
+                "Key": "Set Door Direction",
+                "Value": "Set Direction"
+            },
+            {
+                "Key": "Two way",
+                "Value": "Direction Free"
+            },
+            {
+                "Key": "Only left",
+                "Value": "Only to Left"
+            },
+            {
+                "Key": "Only right",
+                "Value": "Only to Right"
+            },
+            {
+                "Key": "AssembleBuff",
+                "Value": "Squad Synergy"
+            },
+            {
+                "Key": "Confirm destination",
+                "Value": "Check Destination"
+            },
+            {
+                "Key": "Up",
+                "Value": "Up"
+            },
+            {
+                "Key": "Down",
+                "Value": "Down"
+            },
+            {
+                "Key": {},
+                "Value": "Defense Area"
+            },
+            {
+                "Key": "Assemble guard range",
+                "Value": "Set Defense Area"
+            },
+            {
+                "Key": "Center pos",
+                "Value": "Central Coordinates"
+            },
+            {
+                "Key": "Center move",
+                "Value": "Move Central Coordinates"
+            },
+            {
+                "Key": "Assigned",
+                "Value": "Assigned"
+            },
+            {
+                "Key": "Food donation",
+                "Value": "Give Food"
+            },
+            {
+                "Key": "LizardThreat",
+                "Value": "The Lizard's Menace"
+            },
+            {
+                "Key": "Spoils of war",
+                "Value": "Loot"
+            },
+            {
+                "Key": "Spoils of war amount",
+                "Value": "Loot amount"
+            },
+            {
+                "Key": "Battle start",
+                "Value": "Initiate Battle"
+            },
+            {
+                "Key": "Recruitment of mercenaries",
+                "Value": "Mercenary Recruitment"
+            },
+            {
+                "Key": "Soldier recruitment",
+                "Value": "Hire Soldiers"
+            },
+            {
+                "Key": "Wandering mercenary",
+                "Value": "Wandering Mercenaries"
+            },
+            {
+                "Key": "Money attack",
+                "Value": "Pia Proportional Damage"
+            },
+            {
+                "Key": "Deployment soldier",
+                "Value": "Deploy Soldiers"
+            },
+            {
+                "Key": "Flag Soldiers num",
+                "Value": "Deployed soldier"
+            },
+            {
+                "Key": "TimeAccell",
+                "Value": "Time Control"
+            },
+            {
+                "Key": "Party Assembly Point",
+                "Value": "Squad to Enter with"
+            },
+            {
+                "Key": "Additional Objective",
+                "Value": "Additional Objective"
+            },
+            {
+                "Key": "Additional reward",
+                "Value": "Additional Reward"
+            },
+            {
+                "Key": "Victory objective",
+                "Value": "Victory Objective"
+            },
+            {
+                "Key": "Eliminate all enemies",
+                "Value": "Eliminate all enemies"
+            },
+            {
+                "Key": "No injury citizen",
+                "Value": "Maintain zero wounded allies"
+            },
+            {
+                "Key": "Waiting time",
+                "Value": "Cooldown Time"
+            },
+            {
+                "Key": "Check location",
+                "Value": "Check location"
+            },
+            {
+                "Key": "Elapsed time",
+                "Value": "Elapsed Days"
+            },
+            {
+                "Key": "Terrain",
+                "Value": "Terrain"
+            },
+            {
+                "Key": "Dip activity title",
+                "Value": "[TARGET] Mission"
+            },
+            {
+                "Key": "Dip activity start explore",
+                "Value": "Explore Area"
+            },
+            {
+                "Key": "Dip activity stop explore",
+                "Value": "Stop Exploration"
+            },
+            {
+                "Key": "Dip activity start survey",
+                "Value": "Survey Area"
+            },
+            {
+                "Key": "Dip activity stop survey",
+                "Value": "Stop Surveying"
+            },
+            {
+                "Key": "Dip not explored terrain",
+                "Value": "Unexplored area"
+            },
+            {
+                "Key": "Dip activity need food",
+                "Value": "Required Resources"
+            },
+            {
+                "Key": "Dip activity mission purpose",
+                "Value": "Mission Object"
+            },
+            {
+                "Key": "Dip activity mission approval",
+                "Value": "Start Mission"
+            },
+            {
+                "Key": "Member",
+                "Value": "Members"
+            },
+            {
+                "Key": "AssignUnit List",
+                "Value": "Not assigned"
+            },
+            {
+                "Key": "UnassignUnit List",
+                "Value": "Assigned"
+            },
+            {
+                "Key": "Dip activity resource",
+                "Value": "Survey Success Rate"
+            },
+            {
+                "Key": "Dip activity action info rate",
+                "Value": "Success rate"
+            },
+            {
+                "Key": "Dip activity action info weight",
+                "Value": "Obtaining Amount"
+            },
+            {
+                "Key": "Dip activity action info prize of war",
+                "Value": "Obtainable Resources"
+            },
+            {
+                "Key": "Dip activity action info correction value",
+                "Value": "Affecting Factors"
+            },
+            {
+                "Key": "Dip display settings",
+                "Value": "Display"
+            },
+            {
+                "Key": "Dip activity surveying",
+                "Value": "Surveying"
+            },
+            {
+                "Key": "Dip activity exploring",
+                "Value": "Exploring"
+            },
+            {
+                "Key": "Dip activity action survey",
+                "Value": "Survey"
+            },
+            {
+                "Key": "Dip activity action explore",
+                "Value": "Explore"
+            },
+            {
+                "Key": "Dip activity action expedition",
+                "Value": "Pillage"
+            },
+            {
+                "Key": "Dip activity action dependency",
+                "Value": "Vassalize"
+            },
+            {
+                "Key": "Dip country info",
+                "Value": "Details"
+            },
+            {
+                "Key": "Dip relations state alliance",
+                "Value": "Ally"
+            },
+            {
+                "Key": "Dip relations state neutral",
+                "Value": "Neutral"
+            },
+            {
+                "Key": "Dip relations state enemy",
+                "Value": "Enemy"
+            },
+            {
+                "Key": "Dip relations state dependency",
+                "Value": "Vassal State"
+            },
+            {
+                "Key": "Dip diplomacy effect",
+                "Value": "Effect"
+            },
+            {
+                "Key": "Dip diplomacy cooltime",
+                "Value": "Cool time"
+            },
+            {
+                "Key": "Dip light present",
+                "Value": "Light gift [ASSET]"
+            },
+            {
+                "Key": "Dip good present",
+                "Value": "Good gift [ASSET]"
+            },
+            {
+                "Key": "Dip luxury present",
+                "Value": "Luxury gift [ASSET]"
+            },
+            {
+                "Key": "Dip request support",
+                "Value": "Request Support"
+            },
+            {
+                "Key": "Dip request wealth",
+                "Value": "Request for Wealth"
+            },
+            {
+                "Key": "Dip request resource",
+                "Value": "Request for Resources"
+            },
+            {
+                "Key": "Dip tribute",
+                "Value": "Demand Tribute"
+            },
+            {
+                "Key": "Dip tribute asset",
+                "Value": "Demand Wealth"
+            },
+            {
+                "Key": "Dip tribute resource",
+                "Value": "Demand Resources"
+            },
+            {
+                "Key": "Dip diplomacy blame",
+                "Value": "Condemn"
+            },
+            {
+                "Key": "Dip treaty",
+                "Value": "Treaty"
+            },
+            {
+                "Key": "Dip ideology",
+                "Value": "Ideology"
+            },
+            {
+                "Key": "Dip trade agreement",
+                "Value": "Open Trade Route"
+            },
+            {
+                "Key": "Dip trade agreement cancelation",
+                "Value": "Close Trade Route"
+            },
+            {
+                "Key": "Dip diplomacy condition",
+                "Value": "Diplomacy conditions"
+            },
+            {
+                "Key": "Dip diplomatic costs",
+                "Value": "Diplomatic costs"
+            },
+            {
+                "Key": "Dip diplomacy relations",
+                "Value": "Diplomacy relations"
+            },
+            {
+                "Key": "Dip request alliance",
+                "Value": "Offer Alliance"
+            },
+            {
+                "Key": "Dip breaking up alliance",
+                "Value": "Break Alliance"
+            },
+            {
+                "Key": "Dip liberation",
+                "Value": "Vassal Liberation"
+            },
+            {
+                "Key": "Dip success rate",
+                "Value": "Success rate"
+            },
+            {
+                "Key": "Dip declaration of war",
+                "Value": "Declare War"
+            },
+            {
+                "Key": "Dip peace agreement",
+                "Value": "Peace Treaty"
+            },
+            {
+                "Key": "Dip war reparation",
+                "Value": "Reparations"
+            },
+            {
+                "Key": "Dip change map",
+                "Value": "Change Display"
+            },
+            {
+                "Key": "Dip aggression",
+                "Value": "Invade"
+            },
+            {
+                "Key": "Dip activity required cost",
+                "Value": "Required cost"
+            },
+            {
+                "Key": "Dip activity remuneration paid",
+                "Value": "Wages per Ratizen"
+            },
+            {
+                "Key": "Dip check trade",
+                "Value": "Check details"
+            },
+            {
+                "Key": "Dip activity correction plundered",
+                "Value": "Plundered"
+            },
+            {
+                "Key": "Diplomacy",
+                "Value": "Diplomacy"
+            },
+            {
+                "Key": "Country",
+                "Value": "City"
+            },
+            {
+                "Key": "Dip blame",
+                "Value": "Condemned"
+            },
+            {
+                "Key": "Dip alliance agreement",
+                "Value": "Allied"
+            },
+            {
+                "Key": "Dip during war",
+                "Value": "At War"
+            },
+            {
+                "Key": "Dip start battle",
+                "Value": "Battle Start"
+            },
+            {
+                "Key": "Dip end battle",
+                "Value": "Battle End"
+            },
+            {
+                "Key": "Dip run battle",
+                "Value": "In battle"
+            },
+            {
+                "Key": "Dip unknown country",
+                "Value": "Unidentified"
+            },
+            {
+                "Key": "Dip diplomacy effect alliance",
+                "Value": "Alliance Effect"
+            },
+            {
+                "Key": "Dip diplomacy effect resource support",
+                "Value": "Resource Request Available"
+            },
+            {
+                "Key": "Dip diplomacy effect invade support",
+                "Value": "Can hire soldiers to Invade"
+            },
+            {
+                "Key": "Dip diplomacy effect campsite support",
+                "Value": "Can hire soldiers at Campsite"
+            },
+            {
+                "Key": "Success",
+                "Value": "Success"
+            },
+            {
+                "Key": "Fail",
+                "Value": "Fail"
+            },
+            {
+                "Key": "Dip trade need trade agreement",
+                "Value": "Trade Route Opening Required"
+            },
+            {
+                "Key": "Currency",
+                "Value": "Currency"
+            },
+            {
+                "Key": "Dip activity reinforcement wage",
+                "Value": "Mobilization Cost"
+            },
+            {
+                "Key": "Reinforcement wage",
+                "Value": "Mobilization Cost"
+            },
+            {
+                "Key": "Dip diplomacy invaders",
+                "Value": "Invaders"
+            },
+            {
+                "Key": "Dip diplomacy defenders",
+                "Value": "Defenders"
+            },
+            {
+                "Key": "Progress",
+                "Value": "Progress"
+            },
+            {
+                "Key": "Ends in days",
+                "Value": "[N] days left"
+            },
+            {
+                "Key": "BuildAlarm need grade",
+                "Value": "No Consumers"
+            },
+            {
+                "Key": "Max continue num",
+                "Value": "Maximum Applications"
+            },
+            {
+                "Key": "Effect Range",
+                "Value": "Effect range"
+            },
+            {
+                "Key": "Under surveillance",
+                "Value": "Surveillance"
+            },
+            {
+                "Key": "A and B relationship",
+                "Value": "[A] and [B]'s Relationship"
+            },
+            {
+                "Key": "The relationship with A",
+                "Value": "Relationship with [A]"
+            },
+            {
+                "Key": "New Diplomatic mail",
+                "Value": "New Diplomatic Message"
+            },
+            {
+                "Key": "Ongoing Correspondence",
+                "Value": "Ongoing Mission"
+            },
+            {
+                "Key": "Form an alliance",
+                "Value": "Form Alliance"
+            },
+            {
+                "Key": "Form a neutral alliance",
+                "Value": "Revert to Neutral"
+            },
+            {
+                "Key": "Number of trade routes",
+                "Value": "Open Trade Route"
+            },
+            {
+                "Key": "A or more",
+                "Value": "[A] or higher"
+            },
+            {
+                "Key": "A or less",
+                "Value": "[A] or lower"
+            },
+            {
+                "Key": "Reforge",
+                "Value": "Reforging"
+            },
+            {
+                "Key": "Reforge verb",
+                "Value": "Reforge"
+            },
+            {
+                "Key": "Enhance Effect",
+                "Value": "Reforging Effect"
+            },
+            {
+                "Key": "Reforge Effect Removal",
+                "Value": "Remove Reforged Effect"
+            },
+            {
+                "Key": "Replay",
+                "Value": "Retry"
+            },
+            {
+                "Key": "Step A",
+                "Value": "[A] Stage"
+            },
+            {
+                "Key": "Rush attack",
+                "Value": "Tackle"
+            },
+            {
+                "Key": "Com3_Per",
+                "Value": "Combo Damage"
+            },
+            {
+                "Key": "Critical Per",
+                "Value": "Critical Hit Chance"
+            },
+            {
+                "Key": "Adjustable Range",
+                "Value": "Adjustable Range"
+            },
+            {
+                "Key": "Sit",
+                "Value": "Sit"
+            },
+            {
+                "Key": "MagicianGraveBuff",
+                "Value": "Ancient Shaman's Power"
+            },
+            {
+                "Key": "Lizard End",
+                "Value": "No more lizards appear."
+            },
+            {
+                "Key": "Lizard Again",
+                "Value": "Lizards reappear after at least [A] days."
+            },
+            {
+                "Key": "Consumable Citizen Count",
+                "Value": "Number of citizens able to consume"
+            },
+            {
+                "Key": "Drop the mail mission",
+                "Value": "Abandon Mission"
+            },
+            {
+                "Key": "Save limit",
+                "Value": "Storage Limit"
+            },
+            {
+                "Key": "Call citizens",
+                "Value": "Summon Ratizen"
+            },
+            {
+                "Key": "Effects list",
+                "Value": "Effects list"
+            },
+            {
+                "Key": "Target",
+                "Value": "Target"
+            },
+            {
+                "Key": "Dip action country",
+                "Value": "Actor"
+            },
+            {
+                "Key": "Dip target country",
+                "Value": "Target"
+            },
+            {
+                "Key": "Incident",
+                "Value": "Action"
+            },
+            {
+                "Key": "Index",
+                "Value": "Order"
+            },
+            {
+                "Key": "Dip liberation effect",
+                "Value": "Liberation Effect"
+            },
+            {
+                "Key": "Dip action resource tribute",
+                "Value": "Demand Resource Tribute"
+            },
+            {
+                "Key": "Dip action withdraw resource tribute ",
+                "Value": "Withdraw Resource Tribute"
+            },
+            {
+                "Key": "Dip action asset tribute",
+                "Value": "Demand Wealth Tribute"
+            },
+            {
+                "Key": "Dip action withdraw asset tribute",
+                "Value": "Withdraw Wealth Tribute"
+            },
+            {
+                "Key": "Dip action suppression",
+                "Value": "Suppress by Force"
+            },
+            {
+                "Key": "Dip action emigration",
+                "Value": "Relocate Ratizens"
+            },
+            {
+                "Key": "Dip low taxes",
+                "Value": "Low Tribute"
+            },
+            {
+                "Key": "Dip standard taxes",
+                "Value": "Moderate Tribute"
+            },
+            {
+                "Key": "Dip harsh taxes",
+                "Value": "Harsh Tribute"
+            },
+            {
+                "Key": "Positive",
+                "Value": "Positive"
+            },
+            {
+                "Key": "Negative",
+                "Value": "Negative"
+            },
+            {
+                "Key": "Dip influence countries",
+                "Value": "[COUNTRYNAME]'s Relations"
+            },
+            {
+                "Key": "Dip empty influence countries",
+                "Value": "None"
+            },
+            {
+                "Key": "Dip intl set asset tribute ",
+                "Value": "Wealth Tribute Applied"
+            },
+            {
+                "Key": "Dip intl run asset tribute ",
+                "Value": "Wealth Tribute"
+            },
+            {
+                "Key": "Dip intl set resource tribute ",
+                "Value": "Resource Tribute Applied"
+            },
+            {
+                "Key": "Dip intl expire resource tribute ",
+                "Value": "Resource Tribute Expired"
+            },
+            {
+                "Key": "Dip intl run resource tribute ",
+                "Value": "Resource Tribute"
+            },
+            {
+                "Key": "Dip intl break out rebellion",
+                "Value": "Revolted"
+            },
+            {
+                "Key": "Dip intl suppression rebellion",
+                "Value": "Revolt Suppressed"
+            },
+            {
+                "Key": "Dip intl independent",
+                "Value": "Became Independent"
+            },
+            {
+                "Key": "Dip intl run rebellion",
+                "Value": "In Revolt"
+            },
+            {
+                "Key": "Dip intl set dependency",
+                "Value": "Vassalized"
+            },
+            {
+                "Key": "Dip intl break out battle",
+                "Value": "Invaded"
+            },
+            {
+                "Key": "Dip intl victory battle",
+                "Value": "Victorious"
+            },
+            {
+                "Key": "Dip intl defeat battle",
+                "Value": "Defeated"
+            },
+            {
+                "Key": "Dip intl influence positive",
+                "Value": "Positive influence"
+            },
+            {
+                "Key": "Dip intl influence negative",
+                "Value": "Negative influence"
+            },
+            {
+                "Key": "Dip intl influence dependency",
+                "Value": "Vassal"
+            },
+            {
+                "Key": "Dip intl influence end battle",
+                "Value": "Truce"
+            },
+            {
+                "Key": "Dip intl explore captured area",
+                "Value": "Territory Invasion"
+            },
+            {
+                "Key": "Dip intl influence aggression",
+                "Value": "Invasion Effect"
+            },
+            {
+                "Key": "Dip activity tribute",
+                "Value": "Resource"
+            },
+            {
+                "Key": "Dip decrease relation value",
+                "Value": "Relations cost"
+            },
+            {
+                "Key": "Dip decrease relation value per package",
+                "Value": "Relations cost per package"
+            },
+            {
+                "Key": "Dip decrease total relation value",
+                "Value": "Total Relations cost"
+            },
+            {
+                "Key": "Dip decrease relations value per cycle",
+                "Value": "Relations Cost per Tribute"
+            },
+            {
+                "Key": "Dip increase taxes per cycle",
+                "Value": "Wealth Gained per Tribute"
+            },
+            {
+                "Key": "Dip title tribute resource",
+                "Value": "Receive [RESOURCE]"
+            },
+            {
+                "Key": "Dip trade standard price graph",
+                "Value": "Standard Price Graph"
+            },
+            {
+                "Key": "Dip effect dependency",
+                "Value": "Vassal Effect"
+            },
+            {
+                "Key": "Dip release tribute",
+                "Value": "Tribute Demanding Available"
+            },
+            {
+                "Key": "Dip restriction diplomatic",
+                "Value": "Restricts Diplomacy"
+            },
+            {
+                "Key": "Dip currection daily prosperity",
+                "Value": "Daily Prosperity Increase"
+            },
+            {
+                "Key": "Dip decrease daily relation value",
+                "Value": "Relations per Season"
+            },
+            {
+                "Key": "Dip override currency",
+                "Value": "City Currency Change"
+            },
+            {
+                "Key": "Dip action buy instigator",
+                "Value": "Bribe the Ringleader"
+            },
+            {
+                "Key": "Dip end rebellion",
+                "Value": "Rebellion Ended"
+            },
+            {
+                "Key": "Milestone",
+                "Value": "Milestone"
+            },
+            {
+                "Key": "Cooking",
+                "Value": "Cook"
+            },
+            {
+                "Key": "Eating",
+                "Value": "Eat"
+            },
+            {
+                "Key": "Evacuate",
+                "Value": "Transport Wounded"
+            },
+            {
+                "Key": "Bone medal",
+                "Value": "Sharp tooth"
+            },
+            {
+                "Key": "Life merchant",
+                "Value": "Necessity Merchant"
+            },
+            {
+                "Key": "Rawmat merchant",
+                "Value": "Miner Merchant"
+            },
+            {
+                "Key": "Plant merchant",
+                "Value": "Nomadic Merchant"
+            },
+            {
+                "Key": "Product merchant",
+                "Value": "Product Merchant"
+            },
+            {
+                "Key": "Food merchant",
+                "Value": "Food Merchant"
+            },
+            {
+                "Key": "Refresh num",
+                "Value": "Remaining Refresh"
+            },
+            {
+                "Key": "Death tax",
+                "Value": "Inheritance tax"
+            },
+            {
+                "Key": "Refresh",
+                "Value": "Refresh"
+            },
+            {
+                "Key": "Fix speed",
+                "Value": "Fixed speed"
+            },
+            {
+                "Key": "Select milestone",
+                "Value": "Milestone selection"
+            },
+            {
+                "Key": "Loan product reset",
+                "Value": "Producte Renewal Time"
+            },
+            {
+                "Key": "Urban effect",
+                "Value": "City Effect"
+            },
+            {
+                "Key": "Effect on a leader",
+                "Value": "Leader Effect"
+            },
+            {
+                "Key": "Effect on citizens",
+                "Value": "Ratizen Effect"
+            },
+            {
+                "Key": "Blueprint unlock",
+                "Value": "Unlock Blueprint"
+            },
+            {
+                "Key": "Milestone refresh",
+                "Value": "Refresh milestones"
+            },
+            {
+                "Key": "Effect next food",
+                "Value": "Effect on next dish"
+            },
+            {
+                "Key": "Yield of a recipe",
+                "Value": "Acquiring dishes"
+            },
+            {
+                "Key": "Fish caught by fishing",
+                "Value": "Acquiring fish"
+            },
+            {
+                "Key": "Alliance request rate",
+                "Value": "Alliance request success rate"
+            },
+            {
+                "Key": "Immigration arrival cycle",
+                "Value": "Migration Arrival Cycle"
+            },
+            {
+                "Key": "Totem cooltime",
+                "Value": "Shrine Skill Cooldown"
+            },
+            {
+                "Key": "Maximum stamina",
+                "Value": "Maximum stamina"
+            },
+            {
+                "Key": "Stored food",
+                "Value": "Stored dishes"
+            },
+            {
+                "Key": "Purchaseable list",
+                "Value": "Purchasable items"
+            },
+            {
+                "Key": "Sales list",
+                "Value": "Sellable items"
+            },
+            {
+                "Key": "Scheduled list",
+                "Value": "Trading items"
+            },
+            {
+                "Key": "To trade",
+                "Value": "Trade"
+            },
+            {
+                "Key": "Basic cooking",
+                "Value": "Basic Dish"
+            },
+            {
+                "Key": "Intermediate cooking",
+                "Value": "Advanced Dish"
+            },
+            {
+                "Key": "Haute cuisine",
+                "Value": "Luxurious Dish"
+            },
+            {
+                "Key": "Fullness",
+                "Value": "Fullness"
+            },
+            {
+                "Key": "Assigned squad",
+                "Value": "Assigned squad"
+            },
+            {
+                "Key": "Meal order",
+                "Value": "Meal Order"
+            },
+            {
+                "Key": "Merchant visit",
+                "Value": "Trade"
+            },
+            {
+                "Key": "Merchant money",
+                "Value": "Merchant's Wealth"
+            },
+            {
+                "Key": "Merchant resources num",
+                "Value": "Trade Goods Quantity"
+            },
+            {
+                "Key": "Research duration",
+                "Value": "Research Efficiency"
+            },
+            {
+                "Key": "Power generation facility output",
+                "Value": "Power Production"
+            },
+            {
+                "Key": "Tunnel use cost",
+                "Value": "Tunnel Network Usage Fee"
+            },
+            {
+                "Key": "Exploration time",
+                "Value": "Exploration time"
+            },
+            {
+                "Key": "Exploration cost",
+                "Value": "Exploration cost"
+            },
+            {
+                "Key": "Exploration success rate",
+                "Value": "Exploration success rate"
+            },
+            {
+                "Key": "Trade speed",
+                "Value": "Trade cycle"
+            },
+            {
+                "Key": "Trade route opening cost",
+                "Value": "Trade route opening cost"
+            },
+            {
+                "Key": "Number of mercenaries",
+                "Value": "Hirable Mercenary per Rank"
+            },
+            {
+                "Key": "Mercenary hiring cost",
+                "Value": "Mercenary hiring cost"
+            },
+            {
+                "Key": "Course meal",
+                "Value": "Royal Cuisine"
+            },
+            {
+                "Key": "Processed product",
+                "Value": "Processed goods"
+            },
+            {
+                "Key": "Empty plate",
+                "Value": "Empty plate"
+            },
+            {
+                "Key": "Shirine cost",
+                "Value": "Shrine activation cost"
+            },
+            {
+                "Key": "Milestone refresh num",
+                "Value": "Refresh milestones count"
+            },
+            {
+                "Key": "Maximum power storage",
+                "Value": "Maximum Power Storage Capacity"
+            },
+            {
+                "Key": "Dip exchange fee",
+                "Value": "Exchange fee"
+            }
+        ]
+    }
+}

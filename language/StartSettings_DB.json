@@ -1,0 +1,442 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "SSA empty",
+                "Value": "Empty"
+            },
+            {
+                "Key": "SSA emblem common",
+                "Value": "Emblem"
+            },
+            {
+                "Key": "SSA emblem empty",
+                "Value": "Empty"
+            },
+            {
+                "Key": "SSA emblem mouse",
+                "Value": "Rat"
+            },
+            {
+                "Key": "SSA emblem crown",
+                "Value": "Crown"
+            },
+            {
+                "Key": "SSA emblem hawk",
+                "Value": "Hawk"
+            },
+            {
+                "Key": "SSA emblem spear",
+                "Value": "Spear"
+            },
+            {
+                "Key": "SSA emblem lion",
+                "Value": "Lion"
+            },
+            {
+                "Key": "SSA emblem weapon",
+                "Value": "Shield"
+            },
+            {
+                "Key": "SSA emblem dragon",
+                "Value": "Dragon"
+            },
+            {
+                "Key": "SSA emblem tower",
+                "Value": "Tower"
+            },
+            {
+                "Key": "SSA shape common",
+                "Value": "Shape"
+            },
+            {
+                "Key": "SSA shape normal",
+                "Value": "Simple"
+            },
+            {
+                "Key": "SSA shape inner",
+                "Value": "Divided"
+            },
+            {
+                "Key": "SSA shape zigzag",
+                "Value": "Zigzag"
+            },
+            {
+                "Key": "SSA shape round normal",
+                "Value": "Shield"
+            },
+            {
+                "Key": "SSA shape castle",
+                "Value": "Castle"
+            },
+            {
+                "Key": "SSA shape square",
+                "Value": "Square"
+            },
+            {
+                "Key": "SSA shape triangle",
+                "Value": "Triangular"
+            },
+            {
+                "Key": "SSA shape round",
+                "Value": "Circular"
+            },
+            {
+                "Key": "SSA shape knife",
+                "Value": "Diagonal"
+            },
+            {
+                "Key": "SSA pattern common",
+                "Value": "Pattern"
+            },
+            {
+                "Key": "SSA pattern empty",
+                "Value": "Solid"
+            },
+            {
+                "Key": "SSA pattern half",
+                "Value": "Divided"
+            },
+            {
+                "Key": "SSA pattern v line",
+                "Value": "Vertical"
+            },
+            {
+                "Key": "SSA pattern slash line",
+                "Value": "Diagonal Stripe"
+            },
+            {
+                "Key": "SSA pattern slash half",
+                "Value": "Diagonal Divided"
+            },
+            {
+                "Key": "SSA pattern cross",
+                "Value": "Cross"
+            },
+            {
+                "Key": "SSA pattern h line",
+                "Value": "Horizontal Stripe"
+            },
+            {
+                "Key": "SSA pattern chess",
+                "Value": "Chess"
+            },
+            {
+                "Key": "SSA color common",
+                "Value": "Color"
+            },
+            {
+                "Key": "SSA color deep red",
+                "Value": "Deep Red"
+            },
+            {
+                "Key": "SSA color bright orange",
+                "Value": "Bright Orange"
+            },
+            {
+                "Key": "SSA color purple",
+                "Value": "Purple"
+            },
+            {
+                "Key": "SSA color mint",
+                "Value": "Mint"
+            },
+            {
+                "Key": "SSA color blue",
+                "Value": "Blue"
+            },
+            {
+                "Key": "SSA color sky",
+                "Value": "Sky"
+            },
+            {
+                "Key": "SSA color orange",
+                "Value": "Orange"
+            },
+            {
+                "Key": "SSA color green",
+                "Value": "Green"
+            },
+            {
+                "Key": "SSA color deep green",
+                "Value": "Deep Green"
+            },
+            {
+                "Key": "SSA color deep blue",
+                "Value": "Deep Blue"
+            },
+            {
+                "Key": "SSA color black",
+                "Value": "Black"
+            },
+            {
+                "Key": "SSA color gray",
+                "Value": "Grey"
+            },
+            {
+                "Key": "SSA color yellow",
+                "Value": "Yellow"
+            },
+            {
+                "Key": "SSA color red",
+                "Value": "Red"
+            },
+            {
+                "Key": "SSA color pink",
+                "Value": "Pink"
+            },
+            {
+                "Key": "SSA color sky",
+                "Value": "Sky"
+            },
+            {
+                "Key": "SSA color bright blue",
+                "Value": "Blue"
+            },
+            {
+                "Key": "SSA color bright sky",
+                "Value": "Light Sky"
+            },
+            {
+                "Key": "SSA color bright brown",
+                "Value": "Light Brown"
+            },
+            {
+                "Key": "SSA color bright green",
+                "Value": "Light Green"
+            },
+            {
+                "Key": "SSA color bright grass",
+                "Value": "Light Grass"
+            },
+            {
+                "Key": "SSA color bright blue",
+                "Value": "Light Blue"
+            },
+            {
+                "Key": "SSA color brown",
+                "Value": "Brown"
+            },
+            {
+                "Key": "SSA color gray",
+                "Value": "Grey"
+            },
+            {
+                "Key": "SSA hair skin common",
+                "Value": "Hair Style"
+            },
+            {
+                "Key": "SSA hair skin 00",
+                "Value": "Noble hair"
+            },
+            {
+                "Key": "SSA hair skin 01",
+                "Value": "Combed hair"
+            },
+            {
+                "Key": "SSA hair skin 02",
+                "Value": "Permed hair"
+            },
+            {
+                "Key": "SSA hair skin 03",
+                "Value": "Short hair"
+            },
+            {
+                "Key": "SSA hair skin 04",
+                "Value": "Topknot hair"
+            },
+            {
+                "Key": "SSA body skin common",
+                "Value": "Fur"
+            },
+            {
+                "Key": "SSA body skin 00",
+                "Value": "White fur"
+            },
+            {
+                "Key": "SSA body skin 01",
+                "Value": "Grey fur"
+            },
+            {
+                "Key": "SSA body skin 02",
+                "Value": "Brown fur"
+            },
+            {
+                "Key": "SSA body skin 03",
+                "Value": "Plagued fur"
+            },
+            {
+                "Key": "SSA cloth skin common",
+                "Value": "Clothing"
+            },
+            {
+                "Key": "SSA cloth skin 00",
+                "Value": "Basic cloth"
+            },
+            {
+                "Key": "SSA cloth skin 01",
+                "Value": "Villager cloth"
+            },
+            {
+                "Key": "SSA cloth skin 02",
+                "Value": "Grey cloth"
+            },
+            {
+                "Key": "SSA cloth skin 03",
+                "Value": "Red cloth"
+            },
+            {
+                "Key": "SSA cloth skin 04",
+                "Value": "Green cloth"
+            },
+            {
+                "Key": "SSA cloth skin 05",
+                "Value": "Middle Class cloth 01"
+            },
+            {
+                "Key": "SSA cloth skin 06",
+                "Value": "Middle Class cloth 02"
+            },
+            {
+                "Key": "SSA cloth skin 07",
+                "Value": "Upper Class cloth 01"
+            },
+            {
+                "Key": "SSA cloth skin 08",
+                "Value": "Upper Class cloth 02"
+            },
+            {
+                "Key": "SSA cloth skin 09",
+                "Value": "Builder cloth"
+            },
+            {
+                "Key": "SSA face skin common",
+                "Value": "Face"
+            },
+            {
+                "Key": "SSA face skin 00",
+                "Value": "Basic face"
+            },
+            {
+                "Key": "SSA face skin 01",
+                "Value": "Cute face"
+            },
+            {
+                "Key": "SSA face skin 02",
+                "Value": "Sharp face"
+            },
+            {
+                "Key": "SSA face skin 03",
+                "Value": "Brusque face"
+            },
+            {
+                "Key": "SSA face skin 04",
+                "Value": "Noble face"
+            },
+            {
+                "Key": "SSA face skin 05",
+                "Value": "Infected face"
+            },
+            {
+                "Key": "SSA char common",
+                "Value": "Character"
+            },
+            {
+                "Key": "SSA char normal",
+                "Value": "Prestigious Scholar"
+            },
+            {
+                "Key": "SSA char sad",
+                "Value": "Natural-Born Warrior"
+            },
+            {
+                "Key": "SSA char angry",
+                "Value": "Agile Explorer"
+            },
+            {
+                "Key": "SSA char clean",
+                "Value": "City's Idol"
+            },
+            {
+                "Key": "SSA char power",
+                "Value": "Prodigal Noble"
+            },
+            {
+                "Key": "SSA char normal scr",
+                "Value": "Although you were a genius of the kingdom, your academic talents were distinct from your lineage. It's regrettable that you had to escape before showcasing your potential."
+            },
+            {
+                "Key": "SSA char sad scr",
+                "Value": "Had you not been born into the royalty, you would undoubtedly have become an outstanding general. Sadly, your martial skills couldn't help save the falling kingdom."
+            },
+            {
+                "Key": "SSA char angry scr",
+                "Value": "With a hobby of venturing every nook and cranny of the palace and beyond, your knack for exploration greatly aided your escape. It will likely come in handy in the future as well."
+            },
+            {
+                "Key": "SSA char clean scr",
+                "Value": "You were the darling of the kingdom, akin to a city's pop idol. Just the sight of you lifted everyone's spirits."
+            },
+            {
+                "Key": "SSA char power scr",
+                "Value": "Your extravagant spending exceeded everyone else's. Thanks to your lavish lifestyle, you've developed a keen sense for money. Naturally, when you escaped, you had money close at hand."
+            },
+            {
+                "Key": "SSA cloth skin 10",
+                "Value": "Merchant cloth"
+            },
+            {
+                "Key": "SSA cloth skin 11",
+                "Value": "Noble cloth"
+            },
+            {
+                "Key": "SSA hair skin 05",
+                "Value": "Studying hair"
+            },
+            {
+                "Key": "SSA hair skin 06",
+                "Value": "Short tail"
+            },
+            {
+                "Key": "SSA hair skin 07",
+                "Value": "French Braid"
+            },
+            {
+                "Key": "SSA hair skin 08",
+                "Value": "Rough Ponytail"
+            },
+            {
+                "Key": "SSA cloth skin 12",
+                "Value": "Bureaucrat cloth"
+            },
+            {
+                "Key": "SSA many name alarm",
+                "Value": "There are too many kingdom save data with the same name. Please change the kingdom's name."
+            },
+            {
+                "Key": "SSA hat skin common",
+                "Value": "Hat"
+            },
+            {
+                "Key": "SSA dress skin common",
+                "Value": "Clothing"
+            },
+            {
+                "Key": "SSA accessory skin common",
+                "Value": "Accessory"
+            },
+            {
+                "Key": "SSA body skin 04",
+                "Value": "Metallic Fur"
+            },
+            {
+                "Key": "SSA cloth skin 13",
+                "Value": "Scientist Outfit"
+            },
+            {
+                "Key": "SSA cloth skin 14",
+                "Value": "General Outfit"
+            }
+        ]
+    }
+}

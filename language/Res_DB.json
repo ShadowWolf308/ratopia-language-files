@@ -1,0 +1,1278 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Dirt_Nm",
+                "Value": "Dirt"
+            },
+            {
+                "Key": "Dirt_Scr",
+                "Value": "A soft soil with nutrients. Useful to cultivate, build, and make pots."
+            },
+            {
+                "Key": "Sand_Nm",
+                "Value": "Sand"
+            },
+            {
+                "Key": "Sand_Scr",
+                "Value": "A softly powdered composition of materials. Might be useful to be melted to make glass."
+            },
+            {
+                "Key": "Beeswax_Nm",
+                "Value": "Beeswax"
+            },
+            {
+                "Key": "Beeswax_Scr",
+                "Value": "An easily melting oily composition. Useful to make candles in a workshop."
+            },
+            {
+                "Key": "Grass_Nm",
+                "Value": "Grass"
+            },
+            {
+                "Key": "Grass_Scr",
+                "Value": "Flexible green leaves of plants. It is bitter and tough, useful for many aspects."
+            },
+            {
+                "Key": "Halite_Nm",
+                "Value": "Halite"
+            },
+            {
+                "Key": "Halite_Scr",
+                "Value": "A dense salt rock. Might be grinded to produce some edible salts."
+            },
+            {
+                "Key": "Limestone_Nm",
+                "Value": "Limestone"
+            },
+            {
+                "Key": "Limestone_Scr",
+                "Value": "A white friable rock. Might be grinded to produce catalyst."
+            },
+            {
+                "Key": "Sandrock_Nm",
+                "Value": "Sandrock"
+            },
+            {
+                "Key": "Sandrock_Scr",
+                "Value": "A rock formed with dense sand. Could be a key item to build some structures."
+            },
+            {
+                "Key": "Mud_Nm",
+                "Value": "Mud"
+            },
+            {
+                "Key": "Mud_Scr",
+                "Value": "A soggy dirt mixed with water. Perfect natural ingredient to make ceramics."
+            },
+            {
+                "Key": "TreeSkin_Nm",
+                "Value": "Tree Skin"
+            },
+            {
+                "Key": "TreeSkin_Scr",
+                "Value": "A thick body of a tree. Can be just used, or processed in a sawmill."
+            },
+            {
+                "Key": "Log_Nm",
+                "Value": "Log"
+            },
+            {
+                "Key": "Log_Scr",
+                "Value": "A huge log cut from a tree. Used as it is or process in a sawmill."
+            },
+            {
+                "Key": "JungleLog_Nm",
+                "Value": "Jungle Log"
+            },
+            {
+                "Key": "JungleLog_Scr",
+                "Value": "A flexible log cut from a jungle tree. Can be just used, or processed in a sawmill."
+            },
+            {
+                "Key": "ThornLog_Nm",
+                "Value": "Thorn Log"
+            },
+            {
+                "Key": "ThornLog_Scr",
+                "Value": "A tough log cut from a thorn tree in the desert. Can be just used, or processed in a sawmill."
+            },
+            {
+                "Key": "Slate_Nm",
+                "Value": "Slate"
+            },
+            {
+                "Key": "Slate_Scr",
+                "Value": "An easily divisible dark colored rock. Could be a key item to build some structures."
+            },
+            {
+                "Key": "Rock_Nm",
+                "Value": "Rock"
+            },
+            {
+                "Key": "Rock_Scr",
+                "Value": "A dense heavy rock. Can be just used, or processed in a masonry."
+            },
+            {
+                "Key": "Copper_Nm",
+                "Value": "Copper Ore"
+            },
+            {
+                "Key": "Copper_Scr",
+                "Value": "An unrefined copper with impurities. Can be refined to a copper ingot in a furnace."
+            },
+            {
+                "Key": "Iron_Nm",
+                "Value": "Iron Ore"
+            },
+            {
+                "Key": "Iron_Scr",
+                "Value": "Unrefined iron with impurities. Can be refined to a iron ingot in a furnace."
+            },
+            {
+                "Key": "Gold_Nm",
+                "Value": "Gold Ore"
+            },
+            {
+                "Key": "Gold_Scr",
+                "Value": "Unrefined gold with impurities. Can be refined to a gold ingot in a furnace."
+            },
+            {
+                "Key": "Obsidian_Nm",
+                "Value": "Obsidian"
+            },
+            {
+                "Key": "Obsidian_Scr",
+                "Value": "A vitrificated dark material. Can be broken into really sharp pieces."
+            },
+            {
+                "Key": "Basalt_Nm",
+                "Value": "Basalt"
+            },
+            {
+                "Key": "Basalt_Scr",
+                "Value": "A dark rock with many holes. It is really hard and heat resistant."
+            },
+            {
+                "Key": "Snow_Nm",
+                "Value": "Snow"
+            },
+            {
+                "Key": "Snow_Scr",
+                "Value": "Piled up snow. Becomes water, not spring, when melts."
+            },
+            {
+                "Key": "Slime_Nm",
+                "Value": "Slime"
+            },
+            {
+                "Key": "Slime_Scr",
+                "Value": "Sticky liquidic material."
+            },
+            {
+                "Key": "Bone_Nm",
+                "Value": "Bone"
+            },
+            {
+                "Key": "Bone_Scr",
+                "Value": "A sturdy bone processed in a slaughterhouse. Can be just used, or processed in a grinder."
+            },
+            {
+                "Key": "Crystal_Nm",
+                "Value": "Crystal"
+            },
+            {
+                "Key": "Crystal_Scr",
+                "Value": "A beautiful crystal that shines with the light of water. It shines even brighter when polished."
+            },
+            {
+                "Key": "PlagueIron_Nm",
+                "Value": "Plagued Soil"
+            },
+            {
+                "Key": "PlagueIron_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "Water_Nm",
+                "Value": "Water(컵교체필요)"
+            },
+            {
+                "Key": "Water_Scr",
+                "Value": "Common pure water. Stable water supply is really important for farming."
+            },
+            {
+                "Key": "WaterCup_Nm",
+                "Value": "Water"
+            },
+            {
+                "Key": "WaterCup_Scr",
+                "Value": "Common pure water. Stable water supply is really important for farming."
+            },
+            {
+                "Key": "Flower_Nm",
+                "Value": "Petals"
+            },
+            {
+                "Key": "Flower_Scr",
+                "Value": "Petals of common flower. Can be grinded to produce oil or colors."
+            },
+            {
+                "Key": "FunnyFlower_Nm",
+                "Value": "Joy Flower"
+            },
+            {
+                "Key": "FunnyFlower_Scr",
+                "Value": "Grinning flower enjoyable to watch. How about building an all-enjoying den of flowers?"
+            },
+            {
+                "Key": "GrainSeed_Nm",
+                "Value": "Grain Seeds"
+            },
+            {
+                "Key": "GrainSeed_Scr",
+                "Value": "Grains of an edible crop"
+            },
+            {
+                "Key": "BerrySeed_Nm",
+                "Value": "Berry Seeds"
+            },
+            {
+                "Key": "BerrySeed_Scr",
+                "Value": "Seeds of a berry bush"
+            },
+            {
+                "Key": "MushroomSeed_Nm",
+                "Value": "Spore"
+            },
+            {
+                "Key": "MushroomSeed_Scr",
+                "Value": "Spore of an edible mushroom"
+            },
+            {
+                "Key": "A_Rabbit_Nm",
+                "Value": "Rabbit"
+            },
+            {
+                "Key": "A_Rabbit_Scr",
+                "Value": "A gentle animal living in the fields. A good protein supplier, but might attack back."
+            },
+            {
+                "Key": "D_Rabbit_Nm",
+                "Value": "D_Rabbit"
+            },
+            {
+                "Key": "D_Rabbit_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "A_Citizen_Nm",
+                "Value": "A_Ratizen"
+            },
+            {
+                "Key": "A_Citizen_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "D_Citizen_Nm",
+                "Value": "D_Ratizen"
+            },
+            {
+                "Key": "D_Citizen_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "Silkworm_Nm",
+                "Value": "Silkworm"
+            },
+            {
+                "Key": "Silkworm_Scr",
+                "Value": "A rare worm can be found in the forest. Can produce threads within it's body."
+            },
+            {
+                "Key": "SilkwormCocoon_Nm",
+                "Value": "Silkworm Cocoon"
+            },
+            {
+                "Key": "SilkwormCocoon_Scr",
+                "Value": "An exquisite cocoon covered with soft thread. If processed well enough, might be able to make silk."
+            },
+            {
+                "Key": "Armadillo_Nm",
+                "Value": "Armadillo"
+            },
+            {
+                "Key": "Armadillo_Scr",
+                "Value": "An animal rolls around. It rolls quickly, so be careful."
+            },
+            {
+                "Key": "Jewel_Nm",
+                "Value": "Jewel"
+            },
+            {
+                "Key": "Jewel_Scr",
+                "Value": "A shining starlight in a deep underworld. Might be useful to make beautiful accessories."
+            },
+            {
+                "Key": "Bee_Nm",
+                "Value": "Bee"
+            },
+            {
+                "Key": "Bee_Scr",
+                "Value": "A hovering animal with great diligency. Honey and wax can only produced by the bees."
+            },
+            {
+                "Key": "Bat_Nm",
+                "Value": "Bat"
+            },
+            {
+                "Key": "Bat_Scr",
+                "Value": "The minions of the darkness. Might have a secret power to roam in the darkness."
+            },
+            {
+                "Key": "BatJuice_Nm",
+                "Value": "Bat Juice"
+            },
+            {
+                "Key": "BatJuice_Scr",
+                "Value": "Liquid gained from the bats. Might be useful to get their characteristics. No bats were harmed to extract this liquid."
+            },
+            {
+                "Key": "SpiderBaby_Nm",
+                "Value": "Spider Hatchling"
+            },
+            {
+                "Key": "SpiderBaby_Scr",
+                "Value": "Newly born hatchling of a gigantic spider. Just got hatched but has size of full grown spiders."
+            },
+            {
+                "Key": "Frog_Nm",
+                "Value": "Frog"
+            },
+            {
+                "Key": "Frog_Scr",
+                "Value": "A tiny frog hopping around. Seemingly harmless, but none knows when touched."
+            },
+            {
+                "Key": "Scorpion_Nm",
+                "Value": "Scorpion"
+            },
+            {
+                "Key": "Scorpion_Scr",
+                "Value": "A silent assassin hiding in the desert sands. Beware not to be charmed with it's beauty."
+            },
+            {
+                "Key": "SpiderWeb_Nm",
+                "Value": "Spider Web"
+            },
+            {
+                "Key": "SpiderWeb_Scr",
+                "Value": "A web created by spider with so much time and effort. Guess something could be made with this sticky net."
+            },
+            {
+                "Key": "MineSpider_Nm",
+                "Value": "Spider"
+            },
+            {
+                "Key": "MineSpider_Scr",
+                "Value": "A well trained trap hunter. Looks kinda gross but surprisingly cute sometimes."
+            },
+            {
+                "Key": "JewelScarab_Nm",
+                "Value": "Jewel Scarab"
+            },
+            {
+                "Key": "JewelScarab_Scr",
+                "Value": "Scarab with crystallized back plate. As it looks, it is hard as crystals."
+            },
+            {
+                "Key": "HermitCrab_Nm",
+                "Value": "Hermit Crab"
+            },
+            {
+                "Key": "HermitCrab_Scr",
+                "Value": "A shy animal with shell of conch on its back. Beware of it's strong claws."
+            },
+            {
+                "Key": "Snail_Nm",
+                "Value": "Snail"
+            },
+            {
+                "Key": "Snail_Scr",
+                "Value": "Gentle animal with cute round house. Not very dangerous with its slow motion."
+            },
+            {
+                "Key": "Lumber_Nm",
+                "Value": "Lumber"
+            },
+            {
+                "Key": "Lumber_Scr",
+                "Value": "A hard board made from wood processed at a sawmill. It is even harder to find where it's not used."
+            },
+            {
+                "Key": "Branch_Nm",
+                "Value": "Wooden Stick"
+            },
+            {
+                "Key": "Branch_Scr",
+                "Value": "A flexible stick processed in a lumber mill. Might be useful in many purposes."
+            },
+            {
+                "Key": "StoneBrick_Nm",
+                "Value": "Stone Brick"
+            },
+            {
+                "Key": "StoneBrick_Scr",
+                "Value": "A smooth rock processed in a masonry. Might be useful to make some solid structures."
+            },
+            {
+                "Key": "Leather_Nm",
+                "Value": "Leather"
+            },
+            {
+                "Key": "Leather_Scr",
+                "Value": "A tough hide processed in a slaughterhouse. Useful to make items in the leather workshop."
+            },
+            {
+                "Key": "Tool_Nm",
+                "Value": "Tool"
+            },
+            {
+                "Key": "Tool_Scr",
+                "Value": "A useful tool produced in a wood workshop. Some need this tool to provide services."
+            },
+            {
+                "Key": "DrinkingBottle_Nm",
+                "Value": "Barrel"
+            },
+            {
+                "Key": "DrinkingBottle_Scr",
+                "Value": "A round container produced in a wood workshop. To brew drinks, this is definitely needed."
+            },
+            {
+                "Key": "GearWheel_Nm",
+                "Value": "Cogwheel"
+            },
+            {
+                "Key": "GearWheel_Scr",
+                "Value": "A delicate parts produced in a wood workshop. Could be a key item to build some structures."
+            },
+            {
+                "Key": "GrainPowder_Nm",
+                "Value": "Flour"
+            },
+            {
+                "Key": "GrainPowder_Scr",
+                "Value": "A bag of grain powder processed in a grinder. Might be used to make breads and cakes."
+            },
+            {
+                "Key": "BonePowder_Nm",
+                "Value": "Bone Powder"
+            },
+            {
+                "Key": "BonePowder_Scr",
+                "Value": "A bag of finely ground bone processed in a grinder. Cannot be restored as it once was, but still useful."
+            },
+            {
+                "Key": "Salt_Nm",
+                "Value": "Salt"
+            },
+            {
+                "Key": "Salt_Scr",
+                "Value": "A bag of ground halite processed in the grinder. Very useful, but beware not to put too much."
+            },
+            {
+                "Key": "LimePowder_Nm",
+                "Value": "Lime Powder"
+            },
+            {
+                "Key": "LimePowder_Scr",
+                "Value": "A bag of white powder used as a catalyst. It's not a bag of green lemon powder so be careful."
+            },
+            {
+                "Key": "Charcoal_Nm",
+                "Value": "Charcoal"
+            },
+            {
+                "Key": "Charcoal_Scr",
+                "Value": "A purifying wooden fuel made in a kiln. Might be useful when extreme heat is needed."
+            },
+            {
+                "Key": "Fabric_Nm",
+                "Value": "Fabric"
+            },
+            {
+                "Key": "Fabric_Scr",
+                "Value": "A piece of fabric processed in a weaving mill. Useful to make clothes and some structures."
+            },
+            {
+                "Key": "Rope_Nm",
+                "Value": "Rope"
+            },
+            {
+                "Key": "Rope_Scr",
+                "Value": "A tough thread processed in a weaving mill. Might be useful to build some structures."
+            },
+            {
+                "Key": "Silk_Nm",
+                "Value": "Silk"
+            },
+            {
+                "Key": "Silk_Scr",
+                "Value": "A delicate fabric made from silkworm cocoon. Might be useful to make silk dress."
+            },
+            {
+                "Key": "Beer_Nm",
+                "Value": "Beer"
+            },
+            {
+                "Key": "Beer_Scr",
+                "Value": "A refreshingly cool drink made from grain. Can be consumed in a pub."
+            },
+            {
+                "Key": "Wine_Nm",
+                "Value": "Wine"
+            },
+            {
+                "Key": "Wine_Scr",
+                "Value": "A beautiful drink with a bit sweet flavor. Can be consumed in a salon, not cooler the better."
+            },
+            {
+                "Key": "Parchment_Nm",
+                "Value": "Paper"
+            },
+            {
+                "Key": "Parchment_Scr",
+                "Value": "A thin material to record various information. Useful to make books, but a bit expensive."
+            },
+            {
+                "Key": "Dye_Nm",
+                "Value": "Dye"
+            },
+            {
+                "Key": "Dye_Scr",
+                "Value": "Colorful powder containing the lights of flowers. Might be useful to paint or dye clothes."
+            },
+            {
+                "Key": "Medicine_Nm",
+                "Value": "Medicine"
+            },
+            {
+                "Key": "Medicine_Scr",
+                "Value": "A medication processed in a pharmacy. Can be used in a hospital to cure injuries."
+            },
+            {
+                "Key": "Money_Nm",
+                "Value": "Gold Coin"
+            },
+            {
+                "Key": "Money_Scr",
+                "Value": "A valuable gold coin with value of 100 Pia."
+            },
+            {
+                "Key": "Coin_Nm",
+                "Value": "Coin"
+            },
+            {
+                "Key": "Coin_Scr",
+                "Value": "A basic copper currency with value of 25 Pia."
+            },
+            {
+                "Key": "CopperIngot_Nm",
+                "Value": "Copper Ingot"
+            },
+            {
+                "Key": "CopperIngot_Scr",
+                "Value": "A copper ingot refined in a furnace. Has various uses, so let's use it wisely."
+            },
+            {
+                "Key": "IronIngot_Nm",
+                "Value": "Iron Ingot"
+            },
+            {
+                "Key": "IronIngot_Scr",
+                "Value": "An iron ingot refined in a furnace. Has various uses, so let's use it wisely."
+            },
+            {
+                "Key": "GoldIngot_Nm",
+                "Value": "Gold Ingot"
+            },
+            {
+                "Key": "GoldIngot_Scr",
+                "Value": "A gold ingot refined in a furnace. Has various uses, so let's use it wisely."
+            },
+            {
+                "Key": "SteelIngot_Nm",
+                "Value": "Steel Ingot"
+            },
+            {
+                "Key": "SteelIngot_Scr",
+                "Value": "A steel ingot refined in a furnace. Might be useful for various aspects."
+            },
+            {
+                "Key": "Glass_Nm",
+                "Value": "Glass"
+            },
+            {
+                "Key": "Glass_Scr",
+                "Value": "A transparent material refined in a furnace. Might be useful for various aspects."
+            },
+            {
+                "Key": "GlassBottle_Nm",
+                "Value": "Glass Bottle"
+            },
+            {
+                "Key": "GlassBottle_Scr",
+                "Value": "An easily breakable bottle. Can be used to keep various types of liquid."
+            },
+            {
+                "Key": "Coral_Nm",
+                "Value": "Coral"
+            },
+            {
+                "Key": "Coral_Scr",
+                "Value": "A piece of cracked coral with beautiful color. Can be processed into gem, or into a catalyst."
+            },
+            {
+                "Key": "Luminator_Nm",
+                "Value": "Luminator"
+            },
+            {
+                "Key": "Luminator_Scr",
+                "Value": "A strange light-emitting object underwater. It illuminates the darkness away."
+            },
+            {
+                "Key": "CactusFlower_Nm",
+                "Value": "Cactus Flower"
+            },
+            {
+                "Key": "CactusFlower_Scr",
+                "Value": "A huge flower from a huge cactus. Rumor says that it has a special power."
+            },
+            {
+                "Key": "Papyrus_Nm",
+                "Value": "Papyrus"
+            },
+            {
+                "Key": "Papyrus_Scr",
+                "Value": "A plant grow near water in the desert area. It is a useful resource to make a book."
+            },
+            {
+                "Key": "Nocslin_Nm",
+                "Value": "Nocslin"
+            },
+            {
+                "Key": "Nocslin_Scr",
+                "Value": "Strange material that can be gathered in infected cave. Could be dangerous to use, but still got some uses."
+            },
+            {
+                "Key": "Syrup_Nm",
+                "Value": "Syrup"
+            },
+            {
+                "Key": "Syrup_Scr",
+                "Value": "Sticky tree sap that could be gathered in forest. Has some use with it's aroma and subtle sweetness"
+            },
+            {
+                "Key": "Rubber_Nm",
+                "Value": "Rubber"
+            },
+            {
+                "Key": "Rubber_Scr",
+                "Value": "Elastic tree sap that could be gathered in jungle. Has some use with it's flexibility and softness."
+            },
+            {
+                "Key": "Myrrh_Nm",
+                "Value": "Myrrh"
+            },
+            {
+                "Key": "Myrrh_Scr",
+                "Value": "Fragrant tree sap that could be gathered in desert. Has some use with it's unique aroma and efficacy."
+            },
+            {
+                "Key": "MetalTool_Nm",
+                "Value": "Metal Tool"
+            },
+            {
+                "Key": "MetalTool_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "Grain_Nm",
+                "Value": "Grain"
+            },
+            {
+                "Key": "Grain_Scr",
+                "Value": "An edible grain from the field. If well treated, might be able to cultivate them."
+            },
+            {
+                "Key": "Berry_Nm",
+                "Value": "Berry"
+            },
+            {
+                "Key": "Berry_Scr",
+                "Value": "An edible sweet berry found in the woods. If well treated, might be able to cultivate them."
+            },
+            {
+                "Key": "Mushroom_Nm",
+                "Value": "Mushroom"
+            },
+            {
+                "Key": "Mushroom_Scr",
+                "Value": "An edible mushroom from shadows. If well treated, might be able to cultivate them."
+            },
+            {
+                "Key": "RawMeat_Nm",
+                "Value": "Raw Meat"
+            },
+            {
+                "Key": "RawMeat_Scr",
+                "Value": "Butchery presents you... Fresh meat! Any edible animal can be slaughtered for this."
+            },
+            {
+                "Key": "Milk_Nm",
+                "Value": "Milk"
+            },
+            {
+                "Key": "Milk_Scr",
+                "Value": "An edible soft white liquid. It can be produced in a rabbit pasture."
+            },
+            {
+                "Key": "Monkfish_Nm",
+                "Value": "Anglerfish"
+            },
+            {
+                "Key": "Monkfish_Scr",
+                "Value": "An aggressive fish in water. Run if you see a light in deep."
+            },
+            {
+                "Key": "Fish_Nm",
+                "Value": "Fish"
+            },
+            {
+                "Key": "Fish_Scr",
+                "Value": "A tasty fish which lives in all waters. Yes, a perfect protein supplier!"
+            },
+            {
+                "Key": "Honey_Nm",
+                "Value": "Honey"
+            },
+            {
+                "Key": "Honey_Scr",
+                "Value": "Golden liquid produced by bees. Way too sweet but who would resist."
+            },
+            {
+                "Key": "Cheese_Nm",
+                "Value": "Cheese"
+            },
+            {
+                "Key": "Cheese_Scr",
+                "Value": "A high-calorie, high-protein food made from milk. It offers a unique and savory taste."
+            },
+            {
+                "Key": "Bread_Nm",
+                "Value": "Bread"
+            },
+            {
+                "Key": "Bread_Scr",
+                "Value": "A loaf of bread, made with flour. It can be produced in a bakery."
+            },
+            {
+                "Key": "GrilledFish_Nm",
+                "Value": "Grilled Fish"
+            },
+            {
+                "Key": "GrilledFish_Scr",
+                "Value": "A crisply baked fish looking really tasty. It can be produced with a grill."
+            },
+            {
+                "Key": "GrilledMushroom_Nm",
+                "Value": "Grilled Mushroom"
+            },
+            {
+                "Key": "GrilledMushroom_Scr",
+                "Value": "Well-grilled safely edible mushroom. It can be produced with a grill."
+            },
+            {
+                "Key": "GrilledMeat_Nm",
+                "Value": "Grilled Meat"
+            },
+            {
+                "Key": "GrilledMeat_Scr",
+                "Value": "A tasty well-baked meat. It can be produced with a grill."
+            },
+            {
+                "Key": "Cake_Nm",
+                "Value": "Cake"
+            },
+            {
+                "Key": "Cake_Scr",
+                "Value": "A piece of sweet cake. It can be produced in a bakery."
+            },
+            {
+                "Key": "Steak_Nm",
+                "Value": "Steak"
+            },
+            {
+                "Key": "Steak_Scr",
+                "Value": "Perfectly grilled, seasoned meat. It can be produced with a grill."
+            },
+            {
+                "Key": "Icecream_Nm",
+                "Value": "Ice Cream"
+            },
+            {
+                "Key": "Icecream_Scr",
+                "Value": "A freezed joy made by mixing milk, syrup, and snow. The taste of it melting smoothly is exquisite. Delightful!"
+            },
+            {
+                "Key": "Pasta_Nm",
+                "Value": "Pasta"
+            },
+            {
+                "Key": "Pasta_Scr",
+                "Value": "A dish of noodles mixed with sauce. A delightful cuisine that can only be delicious or more."
+            },
+            {
+                "Key": "Pottery_Nm",
+                "Value": "Pottery"
+            },
+            {
+                "Key": "Pottery_Scr",
+                "Value": "A bowl made in a kiln with soil. Lessens the hunger decreasing rate of the user."
+            },
+            {
+                "Key": "Sack_Nm",
+                "Value": "Leather Sack"
+            },
+            {
+                "Key": "Sack_Scr",
+                "Value": "A large sack made with leather. Makes the user capable to carry more."
+            },
+            {
+                "Key": "BatPotion_Nm",
+                "Value": "Bat Potion"
+            },
+            {
+                "Key": "BatPotion_Scr",
+                "Value": "An energy drink containing the Bat-Power Lessens the Stamina decreasing rate of the user."
+            },
+            {
+                "Key": "Oil_Nm",
+                "Value": "Oil"
+            },
+            {
+                "Key": "Oil_Scr",
+                "Value": "Who needs some liberty? Increases the dexterity of the user."
+            },
+            {
+                "Key": "Candles_Nm",
+                "Value": "Candle"
+            },
+            {
+                "Key": "Candles_Scr",
+                "Value": "A candle made of beeswax. Increases the intelligence of the user."
+            },
+            {
+                "Key": "RegenerativePotion_Nm",
+                "Value": "Regen Potion"
+            },
+            {
+                "Key": "RegenerativePotion_Scr",
+                "Value": "Strange potion with remarkable power of regeneration. Unknown side effects, but who cares?"
+            },
+            {
+                "Key": "Shoes_Nm",
+                "Value": "Shoes"
+            },
+            {
+                "Key": "Shoes_Scr",
+                "Value": "Feet wraps made of leathers. Increase the moving speed of the user."
+            },
+            {
+                "Key": "Soap_Nm",
+                "Value": "Soap"
+            },
+            {
+                "Key": "Soap_Scr",
+                "Value": "Bubbly squeaky clean soap. It makes it easier to move by grooming the slippery fur."
+            },
+            {
+                "Key": "Cloth_Nm",
+                "Value": "Clothes"
+            },
+            {
+                "Key": "Cloth_Scr",
+                "Value": "Comfortable clothing made with fabric. Makes the user feel more safe."
+            },
+            {
+                "Key": "Dumbbell_Nm",
+                "Value": "Dumbbells"
+            },
+            {
+                "Key": "Dumbbell_Scr",
+                "Value": "Strengh training tools to develop muscles. Increase the strength of the user."
+            },
+            {
+                "Key": "Book_Nm",
+                "Value": "Book"
+            },
+            {
+                "Key": "Book_Scr",
+                "Value": "An exclusive book with various information. Increases the inteligence of the user."
+            },
+            {
+                "Key": "Perfume_Nm",
+                "Value": "Perfume"
+            },
+            {
+                "Key": "Perfume_Scr",
+                "Value": "No rats were harmed to make this perfume. Gives the user a great aroma."
+            },
+            {
+                "Key": "Cosmetics_Nm",
+                "Value": "Cosmetics"
+            },
+            {
+                "Key": "Cosmetics_Scr",
+                "Value": "Slipery cosmetics improving skin health. Eternal youth only comes from endless caring."
+            },
+            {
+                "Key": "GoldAccessory_Nm",
+                "Value": "Gold Accessory"
+            },
+            {
+                "Key": "GoldAccessory_Scr",
+                "Value": "A fancy looking golden accessory. Makes the user to feel better in all aspects."
+            },
+            {
+                "Key": "SilkDress_Nm",
+                "Value": "Silk Dress"
+            },
+            {
+                "Key": "SilkDress_Scr",
+                "Value": "Fine clothes made with silk. Wearable, beautiful, durable. Perfect."
+            },
+            {
+                "Key": "Gum_Nm",
+                "Value": "Gum"
+            },
+            {
+                "Key": "Gum_Scr",
+                "Value": "A chewy gum with a funny flavor. The joy of chewing helps to forget hunger."
+            },
+            {
+                "Key": "Glasshandicraft_Nm",
+                "Value": "Glass Craft"
+            },
+            {
+                "Key": "Glasshandicraft_Scr",
+                "Value": "A delicate piece of art created with glass. It could worth a lot for those who want it."
+            },
+            {
+                "Key": "Woodfurniture_Nm",
+                "Value": "Wooden Furniture"
+            },
+            {
+                "Key": "Woodfurniture_Scr",
+                "Value": "An elaborately carved wooden furniture. It could worth a lot for those who want it."
+            },
+            {
+                "Key": "FunnyPollen_Nm",
+                "Value": "Joy Powder"
+            },
+            {
+                "Key": "FunnyPollen_Scr",
+                "Value": "A bag of finely ground powder of Joy flower. Unknown where to be used, but weirdly expensive."
+            },
+            {
+                "Key": "Coraljewelry_Nm",
+                "Value": "Coral Gem"
+            },
+            {
+                "Key": "Coraljewelry_Scr",
+                "Value": "A shining piece of coral, cut exquisitely. It could worth a lot for those who want it."
+            },
+            {
+                "Key": "GrassSeed_Nm",
+                "Value": "Grass Seed"
+            },
+            {
+                "Key": "GrassSeed_Scr",
+                "Value": "A small seeds of grass. Can be cultivated to grow grass."
+            },
+            {
+                "Key": "FlowerSeed_Nm",
+                "Value": "Flower Seed"
+            },
+            {
+                "Key": "FlowerSeed_Scr",
+                "Value": "A small seeds of flower. Can be cultivated to grow a flower."
+            },
+            {
+                "Key": "TreeSeed_Nm",
+                "Value": "Broadleaf Tree Seed"
+            },
+            {
+                "Key": "TreeSeed_Scr",
+                "Value": "A small seeds of broadleaf tree. Can be cultivated to grow Broadleaf Tree."
+            },
+            {
+                "Key": "ThornTreeSeed_Nm",
+                "Value": "Thorn Tree Seed"
+            },
+            {
+                "Key": "ThornTreeSeed_Scr",
+                "Value": "A small seeds of Thorn Tree. Can be cultivated to grow Thorn Tree."
+            },
+            {
+                "Key": "JungleTreeSeed_Nm",
+                "Value": "Jungle Tree Seed"
+            },
+            {
+                "Key": "JungleTreeSeed_Scr",
+                "Value": "A small seeds of Jungle Tree. Can be cultivated to grow Jungle Tree."
+            },
+            {
+                "Key": "JewelTreeSeed_Nm",
+                "Value": "Crystal Tree Seed"
+            },
+            {
+                "Key": "JewelTreeSeed_Scr",
+                "Value": "A small seeds of Crystal Tree. Can be cultivated to grow Crystal Tree."
+            },
+            {
+                "Key": "FunnyFlowerSeed_Nm",
+                "Value": "Joy Flower Seed"
+            },
+            {
+                "Key": "FunnyFlowerSeed_Scr",
+                "Value": "A small seeds of Joy Flower. Can be cultivated to grow Joy Flower."
+            },
+            {
+                "Key": "TileCoal_Nm",
+                "Value": "Coal"
+            },
+            {
+                "Key": "TileCoal_Scr",
+                "Value": "A jet-black mineral that catches fire easily. Use it where high heat is needed."
+            },
+            {
+                "Key": "Nickel_Nm",
+                "Value": "Nickel"
+            },
+            {
+                "Key": "Nickel_Scr",
+                "Value": "A heavy metal that shines silver. It is used in fields requiring advanced technology."
+            },
+            {
+                "Key": "Ash_Nm",
+                "Value": "Ash"
+            },
+            {
+                "Key": "Ash_Scr",
+                "Value": "The residue left after something has burned. It no longer burns, but its warmth remains."
+            },
+            {
+                "Key": "Niter_Nm",
+                "Value": "Niter"
+            },
+            {
+                "Key": "Niter_Scr",
+                "Value": "A flammable material obtained from Pyroblossom. Can be mixed with other materials for useful applications."
+            },
+            {
+                "Key": "Sulfur_Nm",
+                "Value": "Sulfur"
+            },
+            {
+                "Key": "Sulfur_Scr",
+                "Value": "A yellowish substance with a distinctive smell. Can be mixed with other materials for useful applications."
+            },
+            {
+                "Key": "CopperWire_Nm",
+                "Value": "Copper wire"
+            },
+            {
+                "Key": "CopperWire_Scr",
+                "Value": "A thin line made of copper. It conducts electricity very well, so handle with care."
+            },
+            {
+                "Key": "IronPlate_Nm",
+                "Value": "Iron Plate"
+            },
+            {
+                "Key": "IronPlate_Scr",
+                "Value": "A hard and thin metal plate made by hammering iron. Useful to make structures and tools."
+            },
+            {
+                "Key": "ExplosiveGrassSeed_Nm",
+                "Value": "Pyroblossom Seed"
+            },
+            {
+                "Key": "ExplosiveGrassSeed_Scr",
+                "Value": "A small seeds of Pyroblossom. Can be cultivated to grow Pyroblossom."
+            },
+            {
+                "Key": "AshTreeSeed_Nm",
+                "Value": "Ash Tree Seed"
+            },
+            {
+                "Key": "AshTreeSeed_Scr",
+                "Value": "A small seeds of Ash Tree. Can be cultivated to grow Ash Tree."
+            },
+            {
+                "Key": "GBot_Nm",
+                "Value": "Ratron"
+            },
+            {
+                "Key": "GBot_Scr",
+                "Value": "A robot created to take over hard labor. Will it assist the Ratizens, or replace them?"
+            },
+            {
+                "Key": "Engine_Nm",
+                "Value": "Motor"
+            },
+            {
+                "Key": "Engine_Scr",
+                "Value": "A device that transforms electrical energy into mechanical motion. Complex to create, yet immensely useful."
+            },
+            {
+                "Key": "Battery_Nm",
+                "Value": "Battery"
+            },
+            {
+                "Key": "Battery_Scr",
+                "Value": "A component for storing electricity. Allows for the supply of electricity without wires."
+            },
+            {
+                "Key": "WorkChip_Nm",
+                "Value": "Labor Chipset"
+            },
+            {
+                "Key": "WorkChip_Scr",
+                "Value": "A circuit designed to perform basic tasks. Provides necessary functions to implemented product."
+            },
+            {
+                "Key": "CharacterChip_Nm",
+                "Value": "Specialty Chipset"
+            },
+            {
+                "Key": "CharacterChip_Scr",
+                "Value": "A circuit designed to possess basic traits. Provides necessary functions to implemented product."
+            },
+            {
+                "Key": "BattleChip_Nm",
+                "Value": "Combat Chipset"
+            },
+            {
+                "Key": "BattleChip_Scr",
+                "Value": "A circuit designed for basic combat. Provides necessary functions to implemented product."
+            },
+            {
+                "Key": "BlackPowder_Nm",
+                "Value": "Black Powder"
+            },
+            {
+                "Key": "BlackPowder_Scr",
+                "Value": "An explosive made by mixing various resources. Beware not to put fire on near it!"
+            },
+            {
+                "Key": "CactusSeed_Nm",
+                "Value": "Cactus seed"
+            },
+            {
+                "Key": "CactusSeed_Scr",
+                "Value": "A small seeds of Cactus. Can be cultivated to grow Cactus."
+            },
+            {
+                "Key": "Watt_Nm",
+                "Value": "Electricity"
+            },
+            {
+                "Key": "Watt_Scr",
+                "Value": "A power source utilizing electric energy. As powerful as it is lethal, handle with care."
+            },
+            {
+                "Key": "Infernite_Nm",
+                "Value": "Infernite"
+            },
+            {
+                "Key": "Infernite_Scr",
+                "Value": "A mass where solid and liquid are halfway fused together. It looks as if a giant beast vomited it."
+            },
+            {
+                "Key": "Flaone_Nm",
+                "Value": "Flamone"
+            },
+            {
+                "Key": "Flaone_Scr",
+                "Value": "A mysterious and cute creature living in the deep underground. Be careful, touching it might cause endless burning."
+            },
+            {
+                "Key": "GoldScarab_Nm",
+                "Value": "The Golden Beetle"
+            },
+            {
+                "Key": "GoldScarab_Scr",
+                "Value": "An ancient treasure of incalculable value. It emits a radiant light on its own."
+            },
+            {
+                "Key": "PileMaterial_Nm",
+                "Value": "Resource"
+            },
+            {
+                "Key": "PileMaterial_Scr",
+                "Value": "A versatile resource. In moments of crisis, anything can be used effectively."
+            },
+            {
+                "Key": "PapyrusSeed_Nm",
+                "Value": "Papyrus seed"
+            },
+            {
+                "Key": "PapyrusSeed_Scr",
+                "Value": "A small seeds of papyrus. Can be cultivated to grow a papyrus."
+            },
+            {
+                "Key": "Nuts_Nm",
+                "Value": "Nuts"
+            },
+            {
+                "Key": "Nuts_Scr",
+                "Value": "Nuts that squirrels love. They're hard, but if you have strong teeth, you can eat them."
+            },
+            {
+                "Key": "Pemmican_Nm",
+                "Value": "Jerky"
+            },
+            {
+                "Key": "Pemmican_Scr",
+                "Value": "A type of dried meat. It's great as a simple meal substitute."
+            },
+            {
+                "Key": "Needle_Nm",
+                "Value": "Needle"
+            },
+            {
+                "Key": "Needle_Scr",
+                "Value": "A needle used for mending clothes. It's fairly sharp."
+            },
+            {
+                "Key": "BoneDagger_Nm",
+                "Value": "Bone Dagger"
+            },
+            {
+                "Key": "BoneDagger_Scr",
+                "Value": "A small dagger made from bone, easy to carry. Useful for self-defense."
+            },
+            {
+                "Key": "SoulStone_Nm",
+                "Value": "Soul Stone"
+            },
+            {
+                "Key": "SoulStone_Scr",
+                "Value": "A purple gem imbued with an unknown power. Used as a medium in sorcery."
+            }
+        ]
+    }
+}

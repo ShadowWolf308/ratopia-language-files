@@ -1,0 +1,998 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "NewCitizen",
+                "Value": "New <sprite name=FS_Immigrant><color=#FFE331>migrants</color> have arrived!"
+            },
+            {
+                "Key": "Citizen_Rebellion",
+                "Value": "Oh no, <sprite name=FS_Torch><color=#c83232>rebel</color> scum!"
+            },
+            {
+                "Key": "UnderAttack_Citizen",
+                "Value": "Someone got hurt. You must do something!"
+            },
+            {
+                "Key": "UnderAttack_Building",
+                "Value": "The city is under attack. You must do something!"
+            },
+            {
+                "Key": "NotBasic_CodeStone",
+                "Value": "The code stone is not functional. Check the stone to activate the policies."
+            },
+            {
+                "Key": "NoMoneyForPay",
+                "Value": "We're out of the savings! When they are not paid, complaints will stacked among the ratizens."
+            },
+            {
+                "Key": "NoMoneyForInterest",
+                "Value": "Lost [B] favor with [A] country due to not paying the interest."
+            },
+            {
+                "Key": "CitizenDeath",
+                "Value": "A ratizen died!"
+            },
+            {
+                "Key": "NoBasic_Storage",
+                "Value": "No storage is enabled. Please check storages for ratizens to work!"
+            },
+            {
+                "Key": "Citizen_RebellionSign",
+                "Value": "Oh no! There is a disgruntled ratizen in the city. Agitated ratizens might revolt!"
+            },
+            {
+                "Key": "RebllionSign_Finish",
+                "Value": "Ratizens' complaints have been resolved"
+            },
+            {
+                "Key": "First weasel appear",
+                "Value": "New invaders appeared!"
+            },
+            {
+                "Key": "No more zombiehole",
+                "Value": "The Dens of Plagues seem to have stopped spawning."
+            },
+            {
+                "Key": "Now appear criminal",
+                "Value": "The city is starting to prosper. There might be incidents happening among citizens from now on."
+            },
+            {
+                "Key": "UndergroundHole",
+                "Value": "The enemies are digging tunnels!"
+            },
+            {
+                "Key": "First lizard appear",
+                "Value": "It seems the lizards have settled nearby! They will continuously expand their territory."
+            },
+            {
+                "Key": "No more weasel",
+                "Value": "The weasels seem to have exhausted themselves, as they are no longer visible."
+            },
+            {
+                "Key": "Lizard expand area",
+                "Value": "The lizards have expanded their territory. The more their territory expands, the stronger their attacks will be!"
+            },
+            {
+                "Key": "Pilematerial first get",
+                "Value": "It seems that you can set up traps to stop the enemy using the resources you just obtained!"
+            },
+            {
+                "Key": "Lizardtent all destroyed",
+                "Value": "You've destroyed all the lizard lairs. They won't be showing up again for a while."
+            },
+            {
+                "Key": "Product object emission",
+                "Value": "The [B] produced at the [A] was left on the floor due to the lack of storage to purchase the products."
+            },
+            {
+                "Key": "NeedResource",
+                "Value": "Not enough resources in the storage."
+            },
+            {
+                "Key": "OnlyOneBuilding",
+                "Value": "Cannot build. Build limit reached."
+            },
+            {
+                "Key": "NeedResearchPoint",
+                "Value": "Insufficient research points."
+            },
+            {
+                "Key": "NeedAnotherUpgrade",
+                "Value": "Requires another research to be done"
+            },
+            {
+                "Key": "NotyetCitizenArrvie",
+                "Value": "Migrants have not arrived yet."
+            },
+            {
+                "Key": "NotyetMenuUnlock",
+                "Value": "This function has not been unlocked."
+            },
+            {
+                "Key": "TooFar",
+                "Value": "Target is too far to be reached."
+            },
+            {
+                "Key": "NotExistCitizenCave",
+                "Value": "City entrance does not exist."
+            },
+            {
+                "Key": "NotExistBuilding",
+                "Value": "The required building does not exist."
+            },
+            {
+                "Key": "Need_ObjDelete",
+                "Value": "Cannot be built. Other objects are in the area."
+            },
+            {
+                "Key": "PullOut_Maximum",
+                "Value": "Cannot carry any more."
+            },
+            {
+                "Key": "PullOut_One",
+                "Value": "Only a single type of item can be carried."
+            },
+            {
+                "Key": "PickUp_One",
+                "Value": "Only a single type of item can be carried."
+            },
+            {
+                "Key": "Save_Success",
+                "Value": "Game saved."
+            },
+            {
+                "Key": "Mining_But_Building",
+                "Value": "Cannot order to mine the structures."
+            },
+            {
+                "Key": "Hand_Full",
+                "Value": "Insufficient strength. Cannot carry any more."
+            },
+            {
+                "Key": "Get_ResearchPoint",
+                "Value": "Gained <color=#FFD200><sprite name=FS_ResearchPoint>Research point</color> from a new resource."
+            },
+            {
+                "Key": "Demo_D_Day",
+                "Value": "One day left until the demo ends."
+            },
+            {
+                "Key": "Cant_Batch_InjuryCitizen",
+                "Value": "Wounded ratizen cannot be assigned."
+            },
+            {
+                "Key": "Cant_Batch_RebellionCitizen",
+                "Value": "Revolting ratizen cannot be assigned."
+            },
+            {
+                "Key": "Policy_Off",
+                "Value": "The policy has been disabled."
+            },
+            {
+                "Key": "Need_AssembleStation",
+                "Value": "This action requires [77]."
+            },
+            {
+                "Key": "Need_Two_Storage",
+                "Value": "Needs 2 or more storages to use."
+            },
+            {
+                "Key": "Cant_Build_Sky",
+                "Value": "The structure cannot be placed in the air."
+            },
+            {
+                "Key": "Another_BP_Exist",
+                "Value": "Another blueprint is already in place."
+            },
+            {
+                "Key": "Warning_Destroy_Storage",
+                "Value": "At least one storage must exist."
+            },
+            {
+                "Key": "The same resources law exists",
+                "Value": "Another law exists for the same resource."
+            },
+            {
+                "Key": "The same labor law exists",
+                "Value": "Another law exists for the same labor."
+            },
+            {
+                "Key": "The same building law exists",
+                "Value": "Another law exists for the same structure."
+            },
+            {
+                "Key": "Distance too far",
+                "Value": "To far to use."
+            },
+            {
+                "Key": "Someone use",
+                "Value": "The bed is already in use."
+            },
+            {
+                "Key": "Need material to build",
+                "Value": "Do not have resources to put in the blueprint"
+            },
+            {
+                "Key": "Deadbody take out",
+                "Value": "Only one body can be carried at once."
+            },
+            {
+                "Key": "No more storage",
+                "Value": "Cannot be stored anymore."
+            },
+            {
+                "Key": "Cant store citizen",
+                "Value": "A body cannot be stored in the storage."
+            },
+            {
+                "Key": "Building not normal",
+                "Value": "The structure is not functional."
+            },
+            {
+                "Key": "Citizen maximum",
+                "Value": "The population has reached the limit."
+            },
+            {
+                "Key": "Exchange Rate Renewal",
+                "Value": "The exchange rate has been updated."
+            },
+            {
+                "Key": "Cant save outside",
+                "Value": "Cannot save in the dungeon."
+            },
+            {
+                "Key": "Cant research yet",
+                "Value": "Cannot be researched yet."
+            },
+            {
+                "Key": "Skill cooltime",
+                "Value": "The skill is on cooldown."
+            },
+            {
+                "Key": "Cant move pos",
+                "Value": "Cannot move to the location."
+            },
+            {
+                "Key": "Storage is full",
+                "Value": "All Storage slots are occupied."
+            },
+            {
+                "Key": "Buylock product",
+                "Value": "Unavailable item to be stored."
+            },
+            {
+                "Key": "Tradingcenter repair and resume",
+                "Value": "Trading center repaired. Trade resumed."
+            },
+            {
+                "Key": "Tradingcenter breakdown",
+                "Value": "Trading center destroyed. Trade stopped."
+            },
+            {
+                "Key": "Policy need town level",
+                "Value": "Prosperity level too low."
+            },
+            {
+                "Key": "NoStorage but blueprint",
+                "Value": "Without a storage, only 10 bluprints can be planned."
+            },
+            {
+                "Key": "Loan product maximum",
+                "Value": "You can only contract up to [A] loan products."
+            },
+            {
+                "Key": "Lookup only",
+                "Value": "Policy modification is only possible in [A]."
+            },
+            {
+                "Key": "No satisfy land",
+                "Value": "The terrain conditions for deployment are not met."
+            },
+            {
+                "Key": "Already activated",
+                "Value": "The skill is already activated."
+            },
+            {
+                "Key": "Research finish",
+                "Value": "Research complete"
+            },
+            {
+                "Key": "Research cancel",
+                "Value": "Research canceled."
+            },
+            {
+                "Key": "Research only desk",
+                "Value": "Research can only done using [123]."
+            },
+            {
+                "Key": "Research only three",
+                "Value": "Only 3 researches can be reserved."
+            },
+            {
+                "Key": "Research start",
+                "Value": "Research started."
+            },
+            {
+                "Key": "Research reserved",
+                "Value": "Research reserved."
+            },
+            {
+                "Key": "Stt cant control",
+                "Value": "Cannot be modified in statistics page."
+            },
+            {
+                "Key": "Skill deactivation",
+                "Value": "The skill is deactivated."
+            },
+            {
+                "Key": "Tile cant mine",
+                "Value": "This tile cannot be mined."
+            },
+            {
+                "Key": "Command cant control",
+                "Value": "Cannot be modified in statistics page."
+            },
+            {
+                "Key": "Cannot confirm the information",
+                "Value": "Information unknown."
+            },
+            {
+                "Key": "Relation reduce by interest",
+                "Value": "Your relation has been lowered by [A] due to not paying the interest."
+            },
+            {
+                "Key": "Call hired soldier by loan",
+                "Value": "The country that lent the money sent a mercenary group."
+            },
+            {
+                "Key": "Enemy state change",
+                "Value": "The atmosphere around the city is unusual, be careful!"
+            },
+            {
+                "Key": "No custom group",
+                "Value": "There is no specific group to choose."
+            },
+            {
+                "Key": "Building activate",
+                "Value": "The building has been activated."
+            },
+            {
+                "Key": "Building deactivate",
+                "Value": "The building has been deactivated."
+            },
+            {
+                "Key": "Unit move cancel",
+                "Value": "Command canceled: Path not found."
+            },
+            {
+                "Key": "Another wallpaper exists",
+                "Value": "Other wallpaper tile is already placed."
+            },
+            {
+                "Key": "Not criminal catch state",
+                "Value": "This ratizen is not a criminal."
+            },
+            {
+                "Key": "Already exists prisoner",
+                "Value": "The prison is already occupied."
+            },
+            {
+                "Key": "Dungeon clear",
+                "Value": "Dungeon Cleared!"
+            },
+            {
+                "Key": "Enemy around appear",
+                "Value": "An eerie presence surrounds the city."
+            },
+            {
+                "Key": "No more soldiers deployed",
+                "Value": "Cannot deploy more soldiers in this headquarter."
+            },
+            {
+                "Key": "Building is inactive",
+                "Value": "The building is in an inactive state."
+            },
+            {
+                "Key": "Production assign limit",
+                "Value": "At least one resource production have to be assigned."
+            },
+            {
+                "Key": "Only storage ladder road",
+                "Value": "When there is no storage, you can only build a storage, a ladder, and a wall."
+            },
+            {
+                "Key": "Cant gather burry plant",
+                "Value": "Buried plants cannot be gathered."
+            },
+            {
+                "Key": "Monument not safe",
+                "Value": "The construction of the monument has not been finished yet."
+            },
+            {
+                "Key": "MonumentMid need bottom",
+                "Value": "The middle part can only be built above of the base part."
+            },
+            {
+                "Key": "MonumentTop need mid",
+                "Value": "The top part can only be built above of the middle part."
+            },
+            {
+                "Key": "Unit conversion alarm",
+                "Value": "Adjusting unit changed to [A]."
+            },
+            {
+                "Key": "Same building alarm",
+                "Value": "An identical structure is already in place."
+            },
+            {
+                "Key": "Carrying state alarm",
+                "Value": "Unable to act while holding items."
+            },
+            {
+                "Key": "Product condition on",
+                "Value": "Task condition activated."
+            },
+            {
+                "Key": "Product condition off",
+                "Value": "Task condition deactivated."
+            },
+            {
+                "Key": "Cant change range",
+                "Value": "Building range cannot be modified."
+            },
+            {
+                "Key": "No longer available",
+                "Value": "No longer available."
+            },
+            {
+                "Key": "Nothing in hand",
+                "Value": "Not carrying anything."
+            },
+            {
+                "Key": "Activated ui",
+                "Value": "All on"
+            },
+            {
+                "Key": "Deactivated hud",
+                "Value": "HUD off"
+            },
+            {
+                "Key": "Deactivated ui",
+                "Value": "All off"
+            },
+            {
+                "Key": "Saved screenshot",
+                "Value": "Screenshot saved"
+            },
+            {
+                "Key": "Not saved screenshot",
+                "Value": "Screencapture failed"
+            },
+            {
+                "Key": "Cant remove condition",
+                "Value": "The task cannot be disabled due to the activated conditions."
+            },
+            {
+                "Key": "Carrier limit",
+                "Value": "Only [A] types of resources can be planned at once."
+            },
+            {
+                "Key": "Already plant",
+                "Value": "Another plant has been placed in the area."
+            },
+            {
+                "Key": "No money",
+                "Value": "The government saving is running low."
+            },
+            {
+                "Key": "Only deathbody",
+                "Value": "Only the dead can be laid."
+            },
+            {
+                "Key": "Only injury citizen",
+                "Value": "Only the wounded can be laid."
+            },
+            {
+                "Key": "Queen sleep",
+                "Value": "Time is flowing faster..."
+            },
+            {
+                "Key": "Cant bp height",
+                "Value": "Cannot be placed in this location."
+            },
+            {
+                "Key": "No click alarm",
+                "Value": "There are no interactable alarms."
+            },
+            {
+                "Key": "Cant mining plant",
+                "Value": "Mine order can only be issued to tiles."
+            },
+            {
+                "Key": "IO load other",
+                "Value": "Unable to load the saved file due to an unknown problem."
+            },
+            {
+                "Key": "IO load operation canceled",
+                "Value": "Unable to load the saved file due to an unknown problem."
+            },
+            {
+                "Key": "IO load authorized access",
+                "Value": "No access permission for the saved file."
+            },
+            {
+                "Key": "IO load file not found",
+                "Value": "The specified file cannot be found."
+            },
+            {
+                "Key": "IO load directory not found",
+                "Value": "Unable to find the path of the saved file."
+            },
+            {
+                "Key": "IO load drive not found",
+                "Value": "Unable to find the path of the saved file."
+            },
+            {
+                "Key": "IO load serialization",
+                "Value": "The saved file is either incomplete or not compatible with the current version."
+            },
+            {
+                "Key": "IO load path too long",
+                "Value": "Unable to load the file because the saved file path name is too long."
+            },
+            {
+                "Key": "IO load continue",
+                "Value": "Loading the saved file."
+            },
+            {
+                "Key": "IO save other",
+                "Value": "Failed to save the file due to an unknown problem."
+            },
+            {
+                "Key": "IO save operaion canceled",
+                "Value": "Failed to save the file due to an unknown problem."
+            },
+            {
+                "Key": "IO save authorized access",
+                "Value": "You do not have permission for the file save path."
+            },
+            {
+                "Key": "IO save file not found",
+                "Value": "The specified file cannot be found."
+            },
+            {
+                "Key": "IO save directory not found",
+                "Value": "Unable to find the file path to save."
+            },
+            {
+                "Key": "IO save drive not found",
+                "Value": "Unable to find the file path to save."
+            },
+            {
+                "Key": "IO save serialization",
+                "Value": "There is game data in a format that cannot be saved."
+            },
+            {
+                "Key": "IO save path too long",
+                "Value": "The file path name to save is too long to save."
+            },
+            {
+                "Key": "IO save fulled drive capacity ",
+                "Value": "Disk capacity is full and cannot save."
+            },
+            {
+                "Key": "IO save continue",
+                "Value": "The file is being saved."
+            },
+            {
+                "Key": "Mass product on",
+                "Value": "The mass production function has been activated."
+            },
+            {
+                "Key": "Mass product off",
+                "Value": "The mass production function has been deactivated."
+            },
+            {
+                "Key": "Cant choice same place",
+                "Value": "The structure currently in use cannot be selected."
+            },
+            {
+                "Key": "Insufficient power to operate",
+                "Value": "Insufficient Electricity for operation."
+            },
+            {
+                "Key": "Ratron make limit",
+                "Value": "Ratron operation limit reached."
+            },
+            {
+                "Key": "Product condition limit",
+                "Value": "Cannot be added more."
+            },
+            {
+                "Key": "No setting build",
+                "Value": "No available target structure exist."
+            },
+            {
+                "Key": "Lord greed angry",
+                "Value": "The Greed is enraged!"
+            },
+            {
+                "Key": "Already running",
+                "Value": "The structure is already running."
+            },
+            {
+                "Key": "Blueprint reach maximum",
+                "Value": "You have reached the maximum number of deployable blueprints."
+            },
+            {
+                "Key": "Is Activated",
+                "Value": "Activated."
+            },
+            {
+                "Key": "Is deactivated",
+                "Value": "Deactivated."
+            },
+            {
+                "Key": "Dip activity not enough citizen",
+                "Value": "At least one member is required."
+            },
+            {
+                "Key": "Dip activity not enough food",
+                "Value": "Not enough food."
+            },
+            {
+                "Key": "Dip activity overflow citizen",
+                "Value": "No more deployments possible."
+            },
+            {
+                "Key": "Dip activity mission members",
+                "Value": "Departed for the mission."
+            },
+            {
+                "Key": "Dip activity expeditioning",
+                "Value": "Invading [COUNTRYNAME] city."
+            },
+            {
+                "Key": "Dip activity enough supply",
+                "Value": "Supplies are already sufficient."
+            },
+            {
+                "Key": "Cant_Batch_ExpeditionCitizen",
+                "Value": "Ratizens on deployment cannot be designated."
+            },
+            {
+                "Key": "Applied",
+                "Value": "Applied."
+            },
+            {
+                "Key": "Cant_Batch_DischargeGBot",
+                "Value": "The discharged Ratron cannot be designated."
+            },
+            {
+                "Key": "No more soldiers flag",
+                "Value": "No more soldiers can be deployed to the specified banner."
+            },
+            {
+                "Key": "Outrange center pos",
+                "Value": "You have moved out of the designated area."
+            },
+            {
+                "Key": "Wave start",
+                "Value": "The wrath of the Pharaoh awakens the dead."
+            },
+            {
+                "Key": "Next wave start",
+                "Value": "The next wrath will begin soon."
+            },
+            {
+                "Key": "Pharaoh make strong",
+                "Value": "The Pharaoh has strengthened the soldiers."
+            },
+            {
+                "Key": "Pharaoh drain",
+                "Value": "The Pharaoh has absorbed a soldier."
+            },
+            {
+                "Key": "Pharaoh drain totem",
+                "Value": "The Pharaoh has absorbed the power of Canopus.\nHP increases by [A]%"
+            },
+            {
+                "Key": "Already assemblestation range",
+                "Value": "The soldier will defend the Squad Headquarter's defense zone."
+            },
+            {
+                "Key": "Has been hired",
+                "Value": "Hired [A]."
+            },
+            {
+                "Key": "No money for hired",
+                "Value": "Dismissed due to inability to pay wages."
+            },
+            {
+                "Key": "No more hired soldier",
+                "Value": "No more mercenaries available for hire."
+            },
+            {
+                "Key": "Lack of prosperity to hire",
+                "Value": "Insufficient prosperity to hire."
+            },
+            {
+                "Key": "No alliance for hired",
+                "Value": "The mercenaries have been laid off."
+            },
+            {
+                "Key": "Enemy nexus destroyed",
+                "Value": "The enemy command post has been destroyed."
+            },
+            {
+                "Key": "Cant do battlefield",
+                "Value": "This action cannot be performed on the battlefield."
+            },
+            {
+                "Key": "Cant choice by food",
+                "Value": "Not enough resources to select."
+            },
+            {
+                "Key": "Cant use skill by dungeon",
+                "Value": "This skill cannot be used outside the village."
+            },
+            {
+                "Key": "Time acceleration",
+                "Value": "Time flows [A] times faster."
+            },
+            {
+                "Key": "Lizard tent destroyed",
+                "Value": "Lizard habitat has been destroyed. (Remaining: [A])"
+            },
+            {
+                "Key": "Magician grave touch",
+                "Value": "The power of ancient magic protects you."
+            },
+            {
+                "Key": "Time acceleration by key",
+                "Value": "Use [A] to fall into a deeper sleep."
+            },
+            {
+                "Key": "Dip diplomacy cooltime",
+                "Value": "The command has been already executed today."
+            },
+            {
+                "Key": "Dip give present ",
+                "Value": "<sprite name=FS_Relations>Relations and <sprite name=FS_Prosperity>Prosperity with the city of [COUNTRYNAME] have increased."
+            },
+            {
+                "Key": "Dip set blame ",
+                "Value": "Criticized the city of [COUNTRYNAME]. <sprite name=FS_Relations>Relations [RELATIONS]"
+            },
+            {
+                "Key": "Dip get tribute asset",
+                "Value": "Obtained assets from the city of [COUNTRYNAME]: [ASSET]"
+            },
+            {
+                "Key": "Dip get tribute resource",
+                "Value": "Obtained resources from the city of [COUNTRYNAME]: [RESOURCE]"
+            },
+            {
+                "Key": "Dip not enough relations",
+                "Value": "Insufficient <sprite name=FS_Relations>Relations for action."
+            },
+            {
+                "Key": "Dip agreement trade",
+                "Value": "A trade agreement has been made with [COUNTRYNAME] city."
+            },
+            {
+                "Key": "Dip cancelation trade",
+                "Value": "The trade agreement with [COUNTRYNAME] city has been broken."
+            },
+            {
+                "Key": "Dip agreement alliance",
+                "Value": "An alliance has been formed with [COUNTRYNAME] city."
+            },
+            {
+                "Key": "Dip fail alliance",
+                "Value": "The alliance with [COUNTRYNAME] city has failed."
+            },
+            {
+                "Key": "Dip cancelation alliance",
+                "Value": "The alliance with [COUNTRYNAME] city has been broken."
+            },
+            {
+                "Key": "Dip declaration of war",
+                "Value": "Declared war on [COUNTRYNAME] city."
+            },
+            {
+                "Key": "Dip agreement peace",
+                "Value": "Signed a peace agreement with [COUNTRYNAME] city."
+            },
+            {
+                "Key": "Dip not agreement trade",
+                "Value": "A trade route must be opened in the Diplomatic Office."
+            },
+            {
+                "Key": "Dip liberation",
+                "Value": "[COUNTRYNAME] city has been liberated."
+            },
+            {
+                "Key": "Dip not trade resource",
+                "Value": "This resource is not currently being traded."
+            },
+            {
+                "Key": "Dip activity collect successed",
+                "Value": "([RESOURCE]) Successfully completed the survey."
+            },
+            {
+                "Key": "Dip activity collect failed",
+                "Value": "([RESOURCE]) The survey was not very successful."
+            },
+            {
+                "Key": "Dip fail tribute",
+                "Value": "([COUNTRYNAME]) No support was received from the city."
+            },
+            {
+                "Key": "This tile cant demolish",
+                "Value": "This tile can be removed by mining."
+            },
+            {
+                "Key": "There no plant",
+                "Value": "There are no plants to gather."
+            },
+            {
+                "Key": "Cant participate alliance unit",
+                "Value": "Soldiers from [A]'s allied cities cannot be dispatched."
+            },
+            {
+                "Key": "Enemy alliance support",
+                "Value": "The opponent's allied cities have dispatched soldiers."
+            },
+            {
+                "Key": "Already running mail task",
+                "Value": "There is already an ongoing diplomatic mission."
+            },
+            {
+                "Key": "Policy preset on",
+                "Value": "The policy has been activated."
+            },
+            {
+                "Key": "Nothing diplomatic mail",
+                "Value": "There are no messages requiring confirmation."
+            },
+            {
+                "Key": "Remove effect A stage",
+                "Value": "[A] stage reforging effect removed."
+            },
+            {
+                "Key": "No effects are applied",
+                "Value": "No effect is applied."
+            },
+            {
+                "Key": "Dip activity emigration success",
+                "Value": "Relocated citizens to [COUNTRYNAME] City."
+            },
+            {
+                "Key": "Dip activity withdraw tribute resource",
+                "Value": "Withdrawn resource tribute from [COUNTRYNAME] City."
+            },
+            {
+                "Key": "Dip activity set tribute resource",
+                "Value": "Proceeding with resource tribute to [COUNTRYNAME] City."
+            },
+            {
+                "Key": "Dip activity empty tribute resource",
+                "Value": "The opponent's city has no resources available for tribute."
+            },
+            {
+                "Key": "Dip activity set tribute taxes",
+                "Value": "[COUNTRYNAME] City is proceeding with tax tribute."
+            },
+            {
+                "Key": "Dip activity withdraw tribute taxes",
+                "Value": "Withdrawn tax tribute from [COUNTRYNAME] City."
+            },
+            {
+                "Key": "Dip expire tribute resource",
+                "Value": "The resource tribute period for [COUNTRYNAME] City has expired."
+            },
+            {
+                "Key": "Dip break out rebellion",
+                "Value": "[COUNTRYNAME] City has rebelled! If no action is taken in the diplomatic office, it will soon become independent."
+            },
+            {
+                "Key": "Dip became independent",
+                "Value": "[COUNTRYNAME] City has become independent."
+            },
+            {
+                "Key": "Dip increase type value country",
+                "Value": "The [TYPE] of [COUNTRYNAME] City has increased. [VALUE]"
+            },
+            {
+                "Key": "Not yet available scr",
+                "Value": "Cannot be used again yet."
+            },
+            {
+                "Key": "No city discovered",
+                "Value": "No cities have been discovered."
+            },
+            {
+                "Key": "Citizen call cooltime",
+                "Value": "The cooldown for summoning has not ended."
+            },
+            {
+                "Key": "Target cant call",
+                "Value": "The target is not in a state to be summoned."
+            },
+            {
+                "Key": "Lizard wave end",
+                "Value": "The lizards will no longer appear."
+            },
+            {
+                "Key": "Dip failed instigator",
+                "Value": "Failed to bribe the ringleader of the rebellion in [COUNTRYNAME]."
+            },
+            {
+                "Key": "Dip end rebellion",
+                "Value": "The rebellion in [COUNTRYNAME] has been quelled."
+            },
+            {
+                "Key": "Battlefield auto batch",
+                "Value": "The soldiers have been deployed to the War Banner."
+            },
+            {
+                "Key": "Stat resource not in storage",
+                "Value": "The resource is not in the storage."
+            },
+            {
+                "Key": "No items contracted",
+                "Value": "No items to trade."
+            },
+            {
+                "Key": "Transaction complete",
+                "Value": "Trade has been completed."
+            },
+            {
+                "Key": "Totem acitvated",
+                "Value": "Shrine has been activated."
+            },
+            {
+                "Key": "No remaining refresh",
+                "Value": "No remaining refresh attempts."
+            },
+            {
+                "Key": "Already unlock building",
+                "Value": "Researched blueprints are refunded as research points."
+            },
+            {
+                "Key": "Eat all course",
+                "Value": "The dish has been consumed."
+            },
+            {
+                "Key": "Cant add food by fullness",
+                "Value": "Cannot add more due to fullness limit."
+            },
+            {
+                "Key": "One type food add",
+                "Value": "The same dish is already included."
+            },
+            {
+                "Key": "Death tax alarm",
+                "Value": "[A]’s wealth has been transferred to the national treasury."
+            },
+            {
+                "Key": "Cant add this object",
+                "Value": "The resource cannot be stored in the designated storage."
+            },
+            {
+                "Key": "No storage to store",
+                "Value": "Insufficient storage to hold the items for purchase."
+            },
+            {
+                "Key": "Dishes num alarm",
+                "Value": "[A] dishes have been made."
+            },
+            {
+                "Key": "Tunnel activated",
+                "Value": "The tunnel network has been activated."
+            }
+        ]
+    }
+}

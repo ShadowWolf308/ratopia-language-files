@@ -1,0 +1,238 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0_Nm",
+                "Value": "Gladius"
+            },
+            {
+                "Key": "0_Scr",
+                "Value": "A basic iron sword, easy to wield. On third attack, stabs enemy harder."
+            },
+            {
+                "Key": "1_Nm",
+                "Value": "Wood Bow"
+            },
+            {
+                "Key": "1_Scr",
+                "Value": "A basic bow made of wood. Adequate distance makes safer situation."
+            },
+            {
+                "Key": "2_Nm",
+                "Value": "Bone Club"
+            },
+            {
+                "Key": "2_Scr",
+                "Value": "A simply designed bone club. Crude looking but threatening."
+            },
+            {
+                "Key": "3_Nm",
+                "Value": "Hero's Pickaxe"
+            },
+            {
+                "Key": "3_Scr",
+                "Value": "A pickaxe of the forgotten hero. Legend continues."
+            },
+            {
+                "Key": "4_Nm",
+                "Value": "Arming Sword"
+            },
+            {
+                "Key": "4_Scr",
+                "Value": "Sword forged for the battle. Adequate weight and balance makes it perfect."
+            },
+            {
+                "Key": "5_Nm",
+                "Value": "Estoc"
+            },
+            {
+                "Key": "5_Scr",
+                "Value": "Sword-like weapon designed only to pierce. Poke poke enemies."
+            },
+            {
+                "Key": "6_Nm",
+                "Value": "Rapier"
+            },
+            {
+                "Key": "6_Scr",
+                "Value": "Light sword designed for self defense. Easy to poke and cut the enemies."
+            },
+            {
+                "Key": "7_Nm",
+                "Value": "Greatsword"
+            },
+            {
+                "Key": "7_Scr",
+                "Value": "Gigantic sword only the true warriors used. Deals slow but fatal blow."
+            },
+            {
+                "Key": "8_Nm",
+                "Value": "Smallsword"
+            },
+            {
+                "Key": "8_Scr",
+                "Value": "Ornately decorated small sword. Surprisingly light and easy to wield."
+            },
+            {
+                "Key": "9_Nm",
+                "Value": "Iron Mace"
+            },
+            {
+                "Key": "9_Scr",
+                "Value": "Iron stick with sharp iron sphere. It's heavy dense promises a lethal blow."
+            },
+            {
+                "Key": "10_Nm",
+                "Value": "Stone Sword"
+            },
+            {
+                "Key": "10_Scr",
+                "Value": "Giant sword made of heavy stone. More like a clash than slash."
+            },
+            {
+                "Key": "11_Nm",
+                "Value": "Longsword"
+            },
+            {
+                "Key": "11_Scr",
+                "Value": "Long and heavy sword forged with iron. Think of usability, larger would not be an option."
+            },
+            {
+                "Key": "12_Nm",
+                "Value": "Noble Sword"
+            },
+            {
+                "Key": "12_Scr",
+                "Value": "Ornately decorated sharp one-hand sword. It embodies both practicality and artistry."
+            },
+            {
+                "Key": "13_Nm",
+                "Value": "Ancient Staff"
+            },
+            {
+                "Key": "13_Scr",
+                "Value": "A mysterious staff used by the Pharaoh. Its power is nearly gone, usable only as a blunt weapon."
+            },
+            {
+                "Key": "1000_Nm",
+                "Value": "Worn-out Dress"
+            },
+            {
+                "Key": "1000_Scr",
+                "Value": "A basic dress from the old kingdom. Worn out a bit, but comfortable to move."
+            },
+            {
+                "Key": "1001_Nm",
+                "Value": "Leather Armor"
+            },
+            {
+                "Key": "1001_Scr",
+                "Value": "An armor made of stiff leather. Yet flexible enough to move around."
+            },
+            {
+                "Key": "1002_Nm",
+                "Value": "Pontiff's Robe"
+            },
+            {
+                "Key": "1002_Scr",
+                "Value": "A beautiful robe of druid's pontiff. Protect the user from foreshadowed death."
+            },
+            {
+                "Key": "1003_Nm",
+                "Value": "Bone Armor"
+            },
+            {
+                "Key": "1003_Scr",
+                "Value": "An armor made of heavy bones. Proper outfit to fight back enemies."
+            },
+            {
+                "Key": "1004_Nm",
+                "Value": "Chain Mail"
+            },
+            {
+                "Key": "1004_Scr",
+                "Value": "An armor made with delicate chains. Adequate weight gives reliability."
+            },
+            {
+                "Key": "1005_Nm",
+                "Value": "Plate Armor"
+            },
+            {
+                "Key": "1005_Scr",
+                "Value": "An armor made of forged iron plates. The best piece of armor of the murine species."
+            },
+            {
+                "Key": "1006_Nm",
+                "Value": "Boar Armor"
+            },
+            {
+                "Key": "1006_Scr",
+                "Value": "Armor made with Weasel Chieftains's pet. Designed to threathen the enemies."
+            },
+            {
+                "Key": "2000_Nm",
+                "Value": "Royal Ring"
+            },
+            {
+                "Key": "2000_Scr",
+                "Value": "A ring of royal heirs."
+            },
+            {
+                "Key": "2001_Nm",
+                "Value": "Snorkel"
+            },
+            {
+                "Key": "2001_Scr",
+                "Value": "Equipment made of rubber and glass. It allows breathing underwater."
+            },
+            {
+                "Key": "2002_Nm",
+                "Value": "Power Belt"
+            },
+            {
+                "Key": "2002_Scr",
+                "Value": "A leather belt that helps using muscles. When used, it becomes easier to wield power."
+            },
+            {
+                "Key": "2003_Nm",
+                "Value": "Bat Cape"
+            },
+            {
+                "Key": "2003_Scr",
+                "Value": "A cape made with bat wings. Jumping from the cliff is no more a threat."
+            },
+            {
+                "Key": "2004_Nm",
+                "Value": "Elixir"
+            },
+            {
+                "Key": "2004_Scr",
+                "Value": "An Elixir granting strong regeneration. Severe wound cannot be healed, so be cautious."
+            },
+            {
+                "Key": "2005_Nm",
+                "Value": "Ice Gloves"
+            },
+            {
+                "Key": "2005_Scr",
+                "Value": "A glove made of ice. This will protec the users from heat."
+            },
+            {
+                "Key": "2006_Nm",
+                "Value": "Golden Mask"
+            },
+            {
+                "Key": "2006_Scr",
+                "Value": "A goldmask with bright surface. Any viewers gets strange feeling of happiness."
+            },
+            {
+                "Key": "2007_Nm",
+                "Value": "Ratdrake"
+            },
+            {
+                "Key": "2007_Scr",
+                "Value": "A herb that believed to exists only in legend. It is very effective in treating the wounded."
+            }
+        ]
+    }
+}

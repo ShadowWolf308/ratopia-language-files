@@ -1,0 +1,210 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Country hometown",
+                "Value": "My city"
+            },
+            {
+                "Key": "Country hometown scr",
+                "Value": "Our glorious city."
+            },
+            {
+                "Key": "Country prayja",
+                "Value": "Prayja"
+            },
+            {
+                "Key": "Country prayja scr",
+                "Value": "The land of peaceful rats, living under the shade of the worldtree."
+            },
+            {
+                "Key": "Country woodweb",
+                "Value": "Woodweb"
+            },
+            {
+                "Key": "Country woodweb scr",
+                "Value": "The hanging cities, built up above the great woods."
+            },
+            {
+                "Key": "Country stoucket",
+                "Value": "Stoucket"
+            },
+            {
+                "Key": "Country stoucket scr",
+                "Value": "A small fishing village located in the rocks along the coast."
+            },
+            {
+                "Key": "Country soldem",
+                "Value": "Soldem"
+            },
+            {
+                "Key": "Country soldem scr",
+                "Value": "A rich merchants' habitat located near the oasis."
+            },
+            {
+                "Key": "Country jotunhammer",
+                "Value": "Jotunhammer"
+            },
+            {
+                "Key": "Country jotunhammer scr",
+                "Value": "The city of warriors located in a barren mountain valley."
+            },
+            {
+                "Key": "Country ashenmoor",
+                "Value": "Ashenmoor"
+            },
+            {
+                "Key": "Country ashenmoor scr",
+                "Value": "A city of miners located in the gray volcanic wasteland."
+            },
+            {
+                "Key": "Country ratterra",
+                "Value": "Ratterra"
+            },
+            {
+                "Key": "Country ratterra scr",
+                "Value": "A city of blue sky and golden farmland located on a wide plain."
+            },
+            {
+                "Key": "Country poisontooth",
+                "Value": "Poisontooth"
+            },
+            {
+                "Key": "Country poisontooth scr",
+                "Value": "A dangerous city of outlaws in a deep forest."
+            },
+            {
+                "Key": "Country goldtail",
+                "Value": "Goldtail"
+            },
+            {
+                "Key": "Country goldtail scr",
+                "Value": "A city with a golden harbor located by the ocean"
+            },
+            {
+                "Key": "Country ellamali",
+                "Value": "Ellamali"
+            },
+            {
+                "Key": "Country ellamali scr",
+                "Value": "A wonderous golden city located in the middle of the desert."
+            },
+            {
+                "Key": "Country underforge",
+                "Value": "Underforge"
+            },
+            {
+                "Key": "Country underforge scr",
+                "Value": "A city of artisans located deep in the ground."
+            },
+            {
+                "Key": "Country lagvaden",
+                "Value": "Lagvaden"
+            },
+            {
+                "Key": "Country lagvaden scr",
+                "Value": "A country located on land made up of fertile volcanic soil."
+            },
+            {
+                "Key": "Country baschichium",
+                "Value": "Baschichium"
+            },
+            {
+                "Key": "Country baschichium scr",
+                "Value": "A city of true hunters, nestled by a wide lake in a dense forest."
+            },
+            {
+                "Key": "Country foratstar",
+                "Value": "Foratstar"
+            },
+            {
+                "Key": "Country foratstar scr",
+                "Value": "A city of star-flower mice located in the forest."
+            },
+            {
+                "Key": "Country tamla",
+                "Value": "Tamla"
+            },
+            {
+                "Key": "Country tamla scr",
+                "Value": "An island full of good water, good marine products, and solid rocks."
+            },
+            {
+                "Key": "Country rarchivia",
+                "Value": "Rarchivia"
+            },
+            {
+                "Key": "Country rarchivia scr",
+                "Value": "A monastery city located on the desert plateau."
+            },
+            {
+                "Key": "Country farsight",
+                "Value": "Farsight"
+            },
+            {
+                "Key": "Country farsight scr",
+                "Value": "A city that sits in endless mountain ranges like the roof of the world."
+            },
+            {
+                "Key": "Country kantenlant",
+                "Value": "Kantenlant"
+            },
+            {
+                "Key": "Country kantenlant scr",
+                "Value": "A country that has risen again from ashes caused by volcanic activity."
+            },
+            {
+                "Key": "Country granbazaar",
+                "Value": "Granbazaar"
+            },
+            {
+                "Key": "Country granbazaar scr",
+                "Value": "A huge merchant state with the ambition to gather all the world's rare goods in one place."
+            },
+            {
+                "Key": "Country untermarkt",
+                "Value": "Untermarkt"
+            },
+            {
+                "Key": "Country untermarkt scr",
+                "Value": "A huge merchant state with the resolve to supply anything when there is demand, regardless of legality."
+            },
+            {
+                "Key": "Country mandikanta",
+                "Value": "Mandikanta"
+            },
+            {
+                "Key": "Country mandikanta scr",
+                "Value": "A huge merchant state holding the belief that any problem can be solved with enough supplies."
+            },
+            {
+                "Key": "Country ideology social",
+                "Value": "Social"
+            },
+            {
+                "Key": "Country ideology imperial",
+                "Value": "Imperial"
+            },
+            {
+                "Key": "Country ideology liberal",
+                "Value": "Liberal"
+            },
+            {
+                "Key": "Country relations state alliance",
+                "Value": "Alliance"
+            },
+            {
+                "Key": "Country relations state enemy",
+                "Value": "Enemy"
+            },
+            {
+                "Key": "Country relations state neutral",
+                "Value": "Neutral"
+            },
+            {
+                "Key": "Country relations state dependency",
+                "Value": "Vassal"
+            }
+        ]
+    }
+}

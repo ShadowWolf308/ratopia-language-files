@@ -1,0 +1,198 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Rat_Passive",
+                "Value": "All for one"
+            },
+            {
+                "Key": "Rat_Passive Scr",
+                "Value": "Automatically collects unpaid taxes from ratizens passing by."
+            },
+            {
+                "Key": "Rat_Active",
+                "Value": "One for all"
+            },
+            {
+                "Key": "Rat_Active Scr",
+                "Value": "(Hold) Provides [A] pia to nearby Ratizens.\nApplies [C] effect to those who receive it 5 or more times at once."
+            },
+            {
+                "Key": "Dog_Passive",
+                "Value": "Sniff sniff"
+            },
+            {
+                "Key": "Dog_Passive Scr",
+                "Value": "Detect nearby enemy spawn points."
+            },
+            {
+                "Key": "Dog_Active",
+                "Value": "Woof Woof"
+            },
+            {
+                "Key": "Dog_Active Scr",
+                "Value": "(Charge) <sprite name=FS_Stun>Stuns enemies within range for [A] seconds."
+            },
+            {
+                "Key": "Cow_Passive",
+                "Value": "The yellow works better"
+            },
+            {
+                "Key": "Cow_Passive Scr",
+                "Value": "Production <sprite name=FS_Production>efficiency of all ratizens increases by [A]%."
+            },
+            {
+                "Key": "Cow_Active",
+                "Value": "Now the red rises"
+            },
+            {
+                "Key": "Cow_Active Scr",
+                "Value": "(Hold) Production <sprite name=FS_Labor>workload of structures within range is filled by [A]% each."
+            },
+            {
+                "Key": "Sheep_Passive",
+                "Value": "Comfortable Learning"
+            },
+            {
+                "Key": "Sheep_Passive Scr",
+                "Value": "The <sprite name=FS_Exp>EXP gain of all Ratizens increases by [A]%."
+            },
+            {
+                "Key": "Sheep_Active",
+                "Value": "Lullaby for Deep Sleep"
+            },
+            {
+                "Key": "Sheep_Active Scr",
+                "Value": "(Hold) Grants a <sprite name=FS_Exp>EXP gain +[A]% effect to sleeping Ratizens within range."
+            },
+            {
+                "Key": "Horse_Passive",
+                "Value": "Slipstream"
+            },
+            {
+                "Key": "Horse_Passive Scr",
+                "Value": "Grants a <sprite name=FS_Speed>moving speed +[A]% effect to Ratizens who collide with the leader."
+            },
+            {
+                "Key": "Horse_Active",
+                "Value": "On Your Mark!"
+            },
+            {
+                "Key": "Horse_Active Scr",
+                "Value": "(Charge) Grants a <sprite name=FS_Speed>moving speed +[A]% effect to yourself and Ratizens within range."
+            },
+            {
+                "Key": "Snake_Passive",
+                "Value": "Regeneration of the Snake"
+            },
+            {
+                "Key": "Snake_Passive Scr",
+                "Value": "Prevents all Ratizens from losing health due to <sprite name=FS_Injury>wounded state."
+            },
+            {
+                "Key": "Snake_Active",
+                "Value": "Poison and Medicine"
+            },
+            {
+                "Key": "Snake_Active Scr",
+                "Value": "(Hold) Recovers <sprite name=FS_Health>HP by [A] for yourself and Ratizens within range."
+            },
+            {
+                "Key": "Chicken_Passive",
+                "Value": "Morning Sentinel"
+            },
+            {
+                "Key": "Chicken_Passive Scr",
+                "Value": "At 00:00, restores <sprite name=FS_Stamina>stamina by [A] for all Ratizens."
+            },
+            {
+                "Key": "Chicken_Active",
+                "Value": "Cock-a-doodle-doo"
+            },
+            {
+                "Key": "Chicken_Active Scr",
+                "Value": "(Charge) Restores <sprite name=FS_Stamina>stamina by [A] for sleeping Ratizens within range."
+            },
+            {
+                "Key": "Monkey_Passive",
+                "Value": "Rattus Ludens"
+            },
+            {
+                "Key": "Monkey_Passive Scr",
+                "Value": "Reduces the <sprite name=FS_FunTime>joy decline rate of all Ratizens by [A]%."
+            },
+            {
+                "Key": "Monkey_Active",
+                "Value": "Dancing Monkey"
+            },
+            {
+                "Key": "Monkey_Active Scr",
+                "Value": "(Hold) Recovers <sprite name=FS_Fun>joy by [A] for Ratizens within range."
+            },
+            {
+                "Key": "Pig_Passive",
+                "Value": "oink oink"
+            },
+            {
+                "Key": "Pig_Passive Scr",
+                "Value": "Reduces the <sprite name=FS_HungerTime>food decline rate of all Ratizens by [A]%."
+            },
+            {
+                "Key": "Pig_Active",
+                "Value": "Meatification"
+            },
+            {
+                "Key": "Pig_Active Scr",
+                "Value": "(Charge) Converts all animals within range into 3-6 <sprite name=RawMeatObject>raw meat."
+            },
+            {
+                "Key": "Tiger_Passive",
+                "Value": "Tiger Energy"
+            },
+            {
+                "Key": "Tiger_Passive Scr",
+                "Value": "Increases the <sprite name=FS_ATK>attack power of all Ratizens by [A]."
+            },
+            {
+                "Key": "Tiger_Active",
+                "Value": "Fury Swipes"
+            },
+            {
+                "Key": "Tiger_Active Scr",
+                "Value": "(Hold) Deals damage to enemies within the frontal range equal to [A]% of <sprite name=FS_Str>Strength."
+            },
+            {
+                "Key": "Dragon_Passive",
+                "Value": "Cleanyong"
+            },
+            {
+                "Key": "Dragon_Passive Scr",
+                "Value": "Reduces the <sprite name=FS_CleanTime>hygiene decline rate of all Ratizens by [A]%."
+            },
+            {
+                "Key": "Dragon_Active",
+                "Value": "Washyong"
+            },
+            {
+                "Key": "Dragon_Active Scr",
+                "Value": "(Hold) Washes Ratizens within range with rainwater, restoring <sprite name=FS_Cleanliness>hygiene by [A]."
+            },
+            {
+                "Key": "Rabbit_Passive",
+                "Value": "Rabbit Plague"
+            },
+            {
+                "Key": "Rabbit_Passive Scr",
+                "Value": "Increases the <sprite name=FS_Mining>mining/gathering efficiency of all Ratizens by [A]%."
+            },
+            {
+                "Key": "Rabbit_Active",
+                "Value": "Caring for clover"
+            },
+            {
+                "Key": "Rabbit_Active Scr",
+                "Value": "(Hold) Plants within range grow by [A]%."
+            }
+        ]
+    }
+}

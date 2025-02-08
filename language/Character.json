@@ -1,0 +1,302 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Strong_Nm",
+                "Value": "Hardy"
+            },
+            {
+                "Key": "Strong_Scr",
+                "Value": "[M] Maximum HP <color=#1E8A00>[A]</color>"
+            },
+            {
+                "Key": "Weakness_Nm",
+                "Value": "Fragile"
+            },
+            {
+                "Key": "Weakness_Scr",
+                "Value": "[M] Maximum HP <color=#C83232>[A]</color>"
+            },
+            {
+                "Key": "Diligent_Nm",
+                "Value": "Athletic"
+            },
+            {
+                "Key": "Diligent_Scr",
+                "Value": "[M] Rate of stamina loss <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Lazy_Nm",
+                "Value": "Inactive"
+            },
+            {
+                "Key": "Lazy_Scr",
+                "Value": "[M] Rate of stamina loss <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Intelligent_Nm",
+                "Value": "Intelligent"
+            },
+            {
+                "Key": "Intelligent_Scr",
+                "Value": "[M] EXP gain <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Foolish_Nm",
+                "Value": "Foolish"
+            },
+            {
+                "Key": "Foolish_Scr",
+                "Value": "[M] EXP gain <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Quick_Nm",
+                "Value": "Quick"
+            },
+            {
+                "Key": "Quick_Scr",
+                "Value": "[M] Moving speed <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Slow_Nm",
+                "Value": "Slow"
+            },
+            {
+                "Key": "Slow_Scr",
+                "Value": "[M] Moving speed <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Thin_Nm",
+                "Value": "Small Appetite"
+            },
+            {
+                "Key": "Thin_Scr",
+                "Value": "[M] Food decline rate <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Fat_Nm",
+                "Value": "Big Appetite"
+            },
+            {
+                "Key": "Fat_Scr",
+                "Value": "[M] Food decline rate <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Frugal_Nm",
+                "Value": "Frugal"
+            },
+            {
+                "Key": "Frugal_Scr",
+                "Value": "[M] Necessities decline rate <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Luxurious_Nm",
+                "Value": "Extravagant"
+            },
+            {
+                "Key": "Luxurious_Scr",
+                "Value": "[M] Necessities decline rate <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Quiet_Nm",
+                "Value": "Quiet"
+            },
+            {
+                "Key": "Quiet_Scr",
+                "Value": "[M] Joy decline rate <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Active_Nm",
+                "Value": "Playful"
+            },
+            {
+                "Key": "Active_Scr",
+                "Value": "[M] Joy decline rate <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Clean_Nm",
+                "Value": "Neat"
+            },
+            {
+                "Key": "Clean_Scr",
+                "Value": "[M] Hygiene decline rate <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Dirty_Nm",
+                "Value": "Slob"
+            },
+            {
+                "Key": "Dirty_Scr",
+                "Value": "[M] Hygiene decline rate <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Skilful_Nm",
+                "Value": "Skilful"
+            },
+            {
+                "Key": "Skilful_Scr",
+                "Value": "[M] Production efficiency <color=#1E8A00>[A]%</color>"
+            },
+            {
+                "Key": "Inexperienced_Nm",
+                "Value": "Clumsy"
+            },
+            {
+                "Key": "Inexperienced_Scr",
+                "Value": "[M] Production efficiency <color=#C83232>[A]%</color>"
+            },
+            {
+                "Key": "Introverted_Nm",
+                "Value": "Introvert"
+            },
+            {
+                "Key": "Introverted_Scr",
+                "Value": "<sprite name=FS_Happiness> Decreases happiness with many ratizens around <color=#FAC832>(-10-10)</color>"
+            },
+            {
+                "Key": "Extroverted_Nm",
+                "Value": "Extrovert"
+            },
+            {
+                "Key": "Extroverted_Scr",
+                "Value": "<sprite name=FS_Happiness> Increase happiness with ratizens around <color=#FAC832>(-10-10)</color>"
+            },
+            {
+                "Key": "Naturalism_Nm",
+                "Value": "Naturalistic"
+            },
+            {
+                "Key": "Naturalism_Scr",
+                "Value": "<sprite name=FS_Happiness> Decreases happiness with artificial tiles around <color=#FAC832>(-10-10)</color>"
+            },
+            {
+                "Key": "Materialism_Nm",
+                "Value": "Materialistic"
+            },
+            {
+                "Key": "Materialism_Scr",
+                "Value": "<sprite name=FS_Happiness> Increase happiness with artificial tiles around <color=#FAC832>(-10-10)</color>"
+            },
+            {
+                "Key": "Elitism_Nm",
+                "Value": "Elitist"
+            },
+            {
+                "Key": "Elitism_Scr",
+                "Value": "[M] <color=#1E8A00>[A]</color> with no ratizen with the same job."
+            },
+            {
+                "Key": "Collectivism_Nm",
+                "Value": "Cooperationist"
+            },
+            {
+                "Key": "Collectivism_Scr",
+                "Value": "[M] <color=#1E8A00>[A]</color> when member of the largest group in the social class."
+            },
+            {
+                "Key": "Peaceful_Nm",
+                "Value": "Pacifist"
+            },
+            {
+                "Key": "Peaceful_Scr",
+                "Value": "[M] happiness <color=#C83232>[A]</color> for [B] days, when involved in a battle."
+            },
+            {
+                "Key": "Combative_Nm",
+                "Value": "Militant"
+            },
+            {
+                "Key": "Combative_Scr",
+                "Value": "[M] happiness <color=#1E8A00>[A]</color> for [B] days, when involved in the battle."
+            },
+            {
+                "Key": "Conservative_Nm",
+                "Value": "Conservative"
+            },
+            {
+                "Key": "Conservative_Scr",
+                "Value": "[M] happiness <color=#C83232>[A]</color> for [B] days, when the policies got added or deleted."
+            },
+            {
+                "Key": "Progressive_Nm",
+                "Value": "Progressive"
+            },
+            {
+                "Key": "Progressive_Scr",
+                "Value": "[M] happiness <color=#1E8A00>[A]</color> for [B] days, when the policies got added or deleted."
+            },
+            {
+                "Key": "Independent_Nm",
+                "Value": "Anarchist"
+            },
+            {
+                "Key": "Independent_Scr",
+                "Value": "[M] happiness <color=#C83232>[A]</color> for [B] days, when passing the leader."
+            },
+            {
+                "Key": "Dependent_Nm",
+                "Value": "Royalist"
+            },
+            {
+                "Key": "Dependent_Scr",
+                "Value": "[M] happiness <color=#1E8A00>[A]</color> for [B] days, when passing the leader."
+            },
+            {
+                "Key": "Monetarist_Nm",
+                "Value": "Monetarist"
+            },
+            {
+                "Key": "Monetarist_Scr",
+                "Value": "[M] happiness <color=#C83232>[A]</color> for [B] days, after paying tax."
+            },
+            {
+                "Key": "Homeless_Nm",
+                "Value": "Floorer"
+            },
+            {
+                "Key": "Homeless_Scr",
+                "Value": "[M] happiness <color=#C83232>[A]</color>, when slept on the bed."
+            },
+            {
+                "Key": "Goldsmell_Nm",
+                "Value": "Gold Sniffer"
+            },
+            {
+                "Key": "Goldsmell_Scr",
+                "Value": "Reveals the gold tiles around."
+            },
+            {
+                "Key": "Hypertension_Nm",
+                "Value": "Hypertension"
+            },
+            {
+                "Key": "Hypertension_Scr",
+                "Value": "<sprite name=FS_Death><color=#C83232>Dies</color> when [M]happiness falls below [A]."
+            },
+            {
+                "Key": "Depression_Nm",
+                "Value": "Crier"
+            },
+            {
+                "Key": "Depression_Scr",
+                "Value": "<color=#C83232>Cry</color> when [M]happiness is below [A]"
+            },
+            {
+                "Key": "Optimistic_Nm",
+                "Value": "Optimistic"
+            },
+            {
+                "Key": "Optimistic_Scr",
+                "Value": "[M]Happiness <color=#1E8A00>[A]</color>"
+            },
+            {
+                "Key": "Pessimistic_Nm",
+                "Value": "Pessimistic"
+            },
+            {
+                "Key": "Pessimistic_Scr",
+                "Value": "[M]Happiness <color=#C83232>[A]</color>"
+            }
+        ]
+    }
+}

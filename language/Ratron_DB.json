@@ -1,0 +1,38 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "0_Nm",
+                "Value": "L-A1"
+            },
+            {
+                "Key": "0_Scr",
+                "Value": "A model improved with increased output for high-intensity work."
+            },
+            {
+                "Key": "1_Nm",
+                "Value": "L-A2"
+            },
+            {
+                "Key": "1_Scr",
+                "Value": "A model improved with adjusted stability for delicate tasks."
+            },
+            {
+                "Key": "2_Nm",
+                "Value": "L-A3"
+            },
+            {
+                "Key": "2_Scr",
+                "Value": "A model improved with enhanced computational capacity for information tasks."
+            },
+            {
+                "Key": "3_Nm",
+                "Value": "C-A1"
+            },
+            {
+                "Key": "3_Scr",
+                "Value": "A model enhanced in durability to suit combat."
+            }
+        ]
+    }
+}

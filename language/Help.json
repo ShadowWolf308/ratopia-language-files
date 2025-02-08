@@ -1,0 +1,574 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Help category basic",
+                "Value": "Basic Controls"
+            },
+            {
+                "Key": "Help move nm",
+                "Value": "Move"
+            },
+            {
+                "Key": "Help move scr",
+                "Value": "Use [AllDir] to move around."
+            },
+            {
+                "Key": "Help jump nm",
+                "Value": "Jump"
+            },
+            {
+                "Key": "Help jump scr",
+                "Value": "Use [Jump] to jump across an empty tile or climb upto 2 tiles."
+            },
+            {
+                "Key": "Help aim nm",
+                "Value": "Aim"
+            },
+            {
+                "Key": "Help aim scr",
+                "Value": "Use [AllDir2] to move <color=#EA6B48>Aim</color>"
+            },
+            {
+                "Key": "Help switch nm",
+                "Value": "Switch"
+            },
+            {
+                "Key": "Help switch scr",
+                "Value": "Use [MoveNext] to <color=#EA6B48>switch</color> the target in the Aim."
+            },
+            {
+                "Key": "Help interact nm",
+                "Value": "Interact"
+            },
+            {
+                "Key": "Help interact scr",
+                "Value": "Use [Interaction] to <color=#EA6B48>interact</color> with the target in the Aim.\n\nWhile wielding a weapon, use [Interaction] to <color=#EA6B48>attack</color> the enemy."
+            },
+            {
+                "Key": "Help details nm",
+                "Value": "Check details"
+            },
+            {
+                "Key": "Help details scr",
+                "Value": "Use [DetailCheck] to check a ratizen or a structure's <color=#EA6B48>details</color>."
+            },
+            {
+                "Key": "Help drop nm",
+                "Value": "Drop"
+            },
+            {
+                "Key": "Help drop scr",
+                "Value": "Use [DropObj] to drop held objects."
+            },
+            {
+                "Key": "Help order nm",
+                "Value": "Order"
+            },
+            {
+                "Key": "Help order scr",
+                "Value": "Use [Command] to give <color=#EA6B48>orders</color> to ratizens.\n\nIf there are many orders in queue, a ratizen will follow them in order:\n\nRepair, demolish, build, gather, mine, and pick up."
+            },
+            {
+                "Key": "Help areal order nm",
+                "Value": "Area order"
+            },
+            {
+                "Key": "Help areal order scr",
+                "Value": "While pressing [Interaction], use [AllDir] to order actions on <color=#EA6B48>all targets</color> in the area."
+            },
+            {
+                "Key": "Help mode change nm",
+                "Value": "Mode change"
+            },
+            {
+                "Key": "Help mode change scr",
+                "Value": "Use [WeaponOn] to change between the <color=#EA6B48>admin mode</color> and the <color=#C83232>battle mode</color>.\n\nIn the battle mode, use [Interaction] to <color=#EA6B48>attack</color> an enemy in front."
+            },
+            {
+                "Key": "Help category advance",
+                "Value": "Advanced controls"
+            },
+            {
+                "Key": "Help gathering nm",
+                "Value": "<sprite name=FS_Gathering> Gathering objects"
+            },
+            {
+                "Key": "Help gathering scr",
+                "Value": "Resource objects can be <sprite name=FS_Gathering><color=#EA6B48>gathered</color> through interactions or commands.\n\nThey will <color=#EA6B48>grow</color> back again after a certain time, but will not grow back when completely <color=#EA6B48>removed</color>.\n\nThe growth of resource objects can be affected by the <color=#EA6B48>weather</color> and <color=#EA6B48>seasons</color>."
+            },
+            {
+                "Key": "Help mining nm",
+                "Value": "<sprite name=FS_Mining> Mining tiles"
+            },
+            {
+                "Key": "Help mining scr",
+                "Value": "Tile objects are the resources that can be destroyed either by interaction or by command <sprite name=FS_Mining><color=#EA6B48>Mining</color>.\n\nMined tiles drop a certain amount of resources and do not recover over time."
+            },
+            {
+                "Key": "Help building nm",
+                "Value": "<sprite name=FS_Building> Building structures"
+            },
+            {
+                "Key": "Help building scr",
+                "Value": "Structures can be built by using the command window. Enough resources in the storages are required to place the <sprite name=FS_Blueprint><color=#EA6B48>Blueprint</color>.\n\nAfter placing the blueprints, transport the resources from <sprite name=FS_Base><color=#EA6B48>storage</color> to proceed with construction.\n\nThe blueprints cannot be placed where other objects are located."
+            },
+            {
+                "Key": "Help immigration nm",
+                "Value": "<sprite name=FS_Immigrant> Accepting migrants"
+            },
+            {
+                "Key": "Help immigration scr",
+                "Value": "You can accept new migrants with <sprite name=FS_Queen><color=#EA6B48>City Entrance</color>.\n\nIf there are no ratizens you want to accept, you can send them back and wait for the next group."
+            },
+            {
+                "Key": "Help taxation nm",
+                "Value": "<sprite name=FS_TaxLaw> Taxation enactment"
+            },
+            {
+                "Key": "Help taxation scr",
+                "Value": "You can enact tax laws with <sprite name=FS_Queen><color=#EA6B48>Code Stone</color>.\n\nTax laws levy taxes on eligible objects at specific times each day."
+            },
+            {
+                "Key": "Help tax collecting nm",
+                "Value": "<sprite name=FS_Tax> Collecting taxes"
+            },
+            {
+                "Key": "Help tax collecting scr",
+                "Value": "You can collect the <sprite name=FS_Tax><color=#EA6B48>tax</color> by interacting with the taxed ratizen.\n\nThis action can be delegated to ratizens with <sprite name=FS_Queen><color=#EA6B48>Tax Office</color>.\n\nThe Ratizen assigned to <sprite name=FS_Queen><color=#EA6B48>Tax Office</color> gathers tax one by one from the one with the highest unpaid tax."
+            },
+            {
+                "Key": "Help food supplying nm",
+                "Value": "<sprite name=FS_Food> Food production"
+            },
+            {
+                "Key": "Help food supplying scr",
+                "Value": "<sprite name=FS_Food><color=#EA6B48>Food</color> can be produced through gathering and production.\n\nBasic food resources can be produced through <sprite name=FS_RawMaterials><color=#EA6B48>Raw Material Structures</color>, such as farms and pastures.\n\nSome resources can be crafted into advanced items with certain <sprite name=FS_Production><color=#EA6B48>Production Buildings</color>."
+            },
+            {
+                "Key": "Help researching nm",
+                "Value": "<sprite name=FS_ResearchPoint> Researching"
+            },
+            {
+                "Key": "Help researching scr",
+                "Value": "You can begin research with <sprite name=FS_Queen><color=#EA6B48>Research Table</color>.\n\nNew <sprite name=FS_Blueprint><color=#EA6B48>blueprints </color> can be acquired through the research, but <sprite name=FS_ResearchPoint><color=#EA6B48>research points</color> will be required.\n\nEach structures requires different research points and prior researchs, so please check carefully before researching."
+            },
+            {
+                "Key": "Help statistics nm",
+                "Value": "<sprite name=FS_Statistics> Checking statistics"
+            },
+            {
+                "Key": "Help statistics scr",
+                "Value": "To check statistics, use [Command2]<color=#EA6B48>Administration</color> function.\n\nThe <sprite name=FS_Statistics><color=#EA6B48>Statistics</color> window has city-wide information about structures and ratizens."
+            },
+            {
+                "Key": "Help quest nm",
+                "Value": "<sprite name=FS_QuestMark> Ratizen event"
+            },
+            {
+                "Key": "Help quest scr",
+                "Value": "When certain conditions are met, the ratizen will display a <sprite name=FS_QuestMark><color=#EA6B48>exclamation mark</color> and follow the leader to make their request.\n\nAt this point, you can confirm the request by interacting with the ratizen, and depending on your choice, you will receive different <color=#EA6B48>missions and rewards</color>."
+            },
+            {
+                "Key": "Help accomplishing nm",
+                "Value": "<sprite name=FS_Star> Mission process"
+            },
+            {
+                "Key": "Help accomplishing scr",
+                "Value": "When receiving a request, a mission indicator will be created in the upper left corner of the screen.\n\nRewards are given for completing the missions, but some missions will have a <color=#EA6B48>time limit</color>."
+            },
+            {
+                "Key": "Help cancel nm",
+                "Value": "<sprite name=FS_Cancel> Cancel order"
+            },
+            {
+                "Key": "Help cancel scr",
+                "Value": "You can undo issued commands with the <sprite name=FS_Cancel><color=#EA6B48>Cancel</color> command in the command window."
+            },
+            {
+                "Key": "Help demolish nm",
+                "Value": "<sprite name=FS_Demolition> Demolish Structures"
+            },
+            {
+                "Key": "Help demolish scr",
+                "Value": "Structures can be demolished at any time with the <sprite name=FS_Demolition><color=#EA6B48>Demolish order</color>.\n\nWhen demolished, 100% of the resources used to construct the structure are dropped.\n\nRatizens prioritize the demolition orders, but the leader may proceed directly after the order is given."
+            },
+            {
+                "Key": "Help hunt nm",
+                "Value": "Hunting animals"
+            },
+            {
+                "Key": "Help hunt scr",
+                "Value": "You can hunt animals in <color=#C83232>Combat Mode</color> via <color=#EA6B48>Mode Change</color>.\n\nTo order ratizens to hunt animals, assign them to <sprite name=FS_RawMaterials><color=#EA6B48>Hunter's hut</color>."
+            },
+            {
+                "Key": "Help production nm",
+                "Value": "Resources production"
+            },
+            {
+                "Key": "Help production scr",
+                "Value": "To <color=#EA6B48>produce</color> new resources, a ratizen must be placed in a production structure.\n\nSome production structures can produce various resources, so which to produce must be chosen.\n\nMake sure that only the necessary items are produced."
+            },
+            {
+                "Key": "Help areal order nm",
+                "Value": "Range setting"
+            },
+            {
+                "Key": "Help area order scr",
+                "Value": "For some structures, adjusting detailed settings is possible with [LeftDir2][RightDir2] while <color=#EA6B48>Checking details</color>.\n\nThis feature allows you to limit the range of the service or other variable functions depends on the structures."
+            },
+            {
+                "Key": "Help view nm",
+                "Value": "View control"
+            },
+            {
+                "Key": "Help view scr",
+                "Value": "You can adjust the field of view with [ZoomIn][ZoomOut].\n\nAlso, you can return to the default view at any time by using [ZoomDefault].\n\nAdjust your field of view to manage your city more comfortably."
+            },
+            {
+                "Key": "Help category admin",
+                "Value": "Administration"
+            },
+            {
+                "Key": "Help citizen nm",
+                "Value": "<sprite name=FS_Citizen> Ratizen"
+            },
+            {
+                "Key": "Help citizen scr",
+                "Value": "<sprite name=FS_Citizen><color=#EA6B48>Ratizens</color> are the core component of the city, and also the reason why the city exists.\n\nRatizens assist the leader in actions and, if conditions are met, carry out the orders.\n\nRatizens show various behaviors depending on their status and happiness, so let's manage them well."
+            },
+            {
+                "Key": "Help happiness nm",
+                "Value": "<sprite name=FS_Happiness>Happiness"
+            },
+            {
+                "Key": "Help happiness scr",
+                "Value": "<sprite name=FS_Happiness><color=#EA6B48>Happiness</color> is a measured value of how satisfied the ratizens are with the life in the city.\n\nRatizens with higher happiness have higher labor efficiency, and ratizens with low happiness might make somewhat extreme choices."
+            },
+            {
+                "Key": "Help fatigue nm",
+                "Value": "<sprite name=FS_Stamina> Stamina"
+            },
+            {
+                "Key": "Help fatigue scr",
+                "Value": "<sprite name=FS_Stamina><color=#EA6B48>Stamina</color> is the energy that ratizens need to act.\n\nGenerally, it can be recovered by sleeping.\n\nRatizens who are too low on Stamina will faint and fall into a deep sleep."
+            },
+            {
+                "Key": "Help food nm",
+                "Value": "<sprite name=FS_Food>Food"
+            },
+            {
+                "Key": "Help food scr",
+                "Value": "<sprite name=FS_Food><color=#EA6B48>Food</color> is a measure of how well the ratizens are fed.\n\nRatizens who run out of food will begin to starve, and they will die when starved for too long."
+            },
+            {
+                "Key": "Help joy nm",
+                "Value": "<sprite name=FS_Fun> Joy"
+            },
+            {
+                "Key": "Help joy scr",
+                "Value": "<sprite name=FS_Fun><color=#EA6B48>Joy</color> is a measure of how well the ratizens are enjoying their lives in the city.\n\nEven with adequate supplies of food and sanitation, ratizens will become dissatisfied with nothing to enjoy."
+            },
+            {
+                "Key": "Help hygiene nm",
+                "Value": "<sprite name=FS_Cleanliness> Hygiene"
+            },
+            {
+                "Key": "Help hygiene scr",
+                "Value": "<sprite name=FS_Cleanliness><color=#EA6B48>Hygiene</color> is a measure of how clean the people are.\n\nPoor hygiene leads to illness, and the illness could result in epidemics."
+            },
+            {
+                "Key": "Help necessity nm",
+                "Value": "<sprite name=FS_Life> Necessities"
+            },
+            {
+                "Key": "Help necessity scr",
+                "Value": "<sprite name=FS_Life><color=#EA6B48>Necessities</color> indicates how many items are supplied to a ratizen to live.\n\nEach necessities have their own durability and must be consumed again after a certain time.\n\nRatizens with more necessities could rise to a higher class."
+            },
+            {
+                "Key": "Help income satisfaction nm",
+                "Value": "<sprite name=FS_Property> Income satisfaction"
+            },
+            {
+                "Key": "Help income satisfaction scr",
+                "Value": "<sprite name=FS_Property><color=#EA6B48>Income</color> is the amount of money that a ratizen earns per day.\n\nRatizens with higher incomes have greater freedom in consumption, and have a higher level of happiness according to their income satisfaction."
+            },
+            {
+                "Key": "Help tax satisfaction nm",
+                "Value": "<sprite name=FS_Tax> Tax satisfaction"
+            },
+            {
+                "Key": "Help tax satisfaction scr",
+                "Value": "<sprite name=FS_Tax><color=#EA6B48>Tax</color> is an amount of money levied on a ratizen through the tax laws.\n\nTaxes can be collected through tax offices and direct collection.\n\nDepending on how much they are taxed, ratizens have tax satisfaction, and the lower the tax satisfaction, the less happy they are."
+            },
+            {
+                "Key": "Help state nm",
+                "Value": "State"
+            },
+            {
+                "Key": "Help state scr",
+                "Value": "<color=#EA6B48>State</color> is the situation that the ratizen is currently in, and some actions could be restricted for ratizens with a certain state.\n\nRatizens placed in the restricted situations may not be controlled even on direct orders from the Leader."
+            },
+            {
+                "Key": "Help status effect nm",
+                "Value": "Status effect"
+            },
+            {
+                "Key": "Help status effect scr",
+                "Value": "<color=#EA6B48>Status Effect</color> is any ability effect the ratizen is currently receiving.\n\nDepending on the status effect, various effects can be granted, such as increasing the strength of ratizens or slowing their movement speed.\n\nStatus effects do not restrict ratizens' actions."
+            },
+            {
+                "Key": "Help caste nm",
+                "Value": "<sprite name=FS_Grade3> Social class"
+            },
+            {
+                "Key": "Help caste scr",
+                "Value": "<sprite name=FS_Grade3><color=#EA6B48>Social Class</color> is a distinct group of ratizens, determined by their wealth and level of consumption.\n\nRatizens who sufficiently meet various factors, such as wealth and <sprite name=FS_Life><color=#EA6B48>necessities</color>, will get into higher classes and increased labor efficiency.\n\nRatizens in higher classes usually have higher levels of satisfaction than lower-class ratizens, but they might get dissatisfied due to the different standards."
+            },
+            {
+                "Key": "Help crime1 nm",
+                "Value": "<sprite name=FS_DevilTemptation> Internal Conflict"
+            },
+            {
+                "Key": "Help crime1 scr",
+                "Value": "When <sprite name=FS_Happiness><color=#EA6B48>Happiness</color> gets low, ratizen might get into internal conflict.\n\nThe ratizen with <sprite name=FS_DevilTemptation><color=#EA6B48>Internal Conflict</color> might commit crime."
+            },
+            {
+                "Key": "Help crime2 nm",
+                "Value": "<sprite name=FS_Criminal> Crime"
+            },
+            {
+                "Key": "Help crime2 scr",
+                "Value": "If a ratizen committed <sprite name=FS_Criminal><color=#EA6B48>Crime</color>, the citizen might commit serious crimes.\n\nThe criminal can be arrested directly or by <sprite name=FS_CrimX><color=#EA6B48>Police</color> to be resocialized to prevent from commiting additional crimes."
+            },
+            {
+                "Key": "Help rebel 1 nm",
+                "Value": "<sprite name=FS_Torch> Rebellion 1"
+            },
+            {
+                "Key": "Help rebel 1 scr",
+                "Value": "When <sprite name=FS_Happiness><color=#EA6B48>Happiness</color> gets too low, then the disgruntled ratizens begin to incite rebellion.\n\nAfter a certain amount of time, all of the agitated ratizens who are not happy enough will <sprite name=FS_Torch><color=#c83232>Revolt</color>."
+            },
+            {
+                "Key": "Help rebel 2 nm",
+                "Value": "<sprite name=FS_Torch> Rebelion 2"
+            },
+            {
+                "Key": "Help rebel 2 scr",
+                "Value": "<sprite name=FS_Torch><color=#c83232>Rebellion</color> will not end until a certain amount of time has elapsed or until all rebels have been suppressed.\n\nRatizens with high enough <sprite name=FS_Happiness><color=#EA6B48>Happiness</color> will not sympathize with the rebellion even if they are instigated."
+            },
+            {
+                "Key": "Help prosperity nm",
+                "Value": "<sprite name=FS_Prosperity> Prosperity"
+            },
+            {
+                "Key": "Help prosperity scr",
+                "Value": "<sprite name=FS_Prosperity><color=#EA6B48>Prosperity</color> is a measure of how developed the city is.\n\nProsperity is measured by adding the amount of currency in circulation, the number of ratizens by class, and the number of structures."
+            },
+            {
+                "Key": "Help military 1 nm",
+                "Value": "<sprite name=FS_Military> Military Training 1"
+            },
+            {
+                "Key": "Help military 1 scr",
+                "Value": "Build military structures such as <sprite name=FS_Military><color=#EA6B48>Training camp</color> or <sprite name=FS_Military><color=#EA6B48>Barrack</color> to train soldiers to defend your city.\n\nIt takes some <color=#EA6B48>training time</color> to turn a ratizen into a soldier."
+            },
+            {
+                "Key": "Help military 2 nm",
+                "Value": "<sprite name=FS_Military> Military training 2"
+            },
+            {
+                "Key": "Help military 2 scr",
+                "Value": "Any soldiers, who finished training, can be placed in the<sprite name=FS_Military><color=#EA6B48>Squad Headquarter</color>.\n\nSoldiers deployed at the <sprite name=FS_Military><color=#EA6B48>Squad Headquarter</color> can be commanded directly by the leader in <color=#C83232>Combat Mode</color>."
+            },
+            {
+                "Key": "Help faint nm",
+                "Value": "<sprite name=FS_Injury> Wounded ratizen"
+            },
+            {
+                "Key": "Help faint scr",
+                "Value": "Ratizens who have low <sprite name=FS_Health>HP will enter the <sprite name=FS_Injury><color=#c83232>wounded state</color>!\n\nThe wounded ratizen can be transported to a <sprite name=FS_Base><color=#EA6B48>Bed</color> to recover, or can be healed with a <sprite name=FS_Service><color=#EA6B48>Hospital</color>.\n\nLeaving the wounded ratizens unattended will result in their <sprite name=FS_Death><color=#c83232>death</color>."
+            },
+            {
+                "Key": "Help died nm",
+                "Value": "<sprite name=FS_Death> Ratizen's Death"
+            },
+            {
+                "Key": "Help died scr",
+                "Value": "When the <sprite name=FS_Death><color=#c83232>dead</color> are left unattended, it may adversely affect the surrounding ratizens.\n\nWith <sprite name=FS_Queen><color=#EA6B48>Grave</color> or <sprite name=FS_Queen><color=#EA6B48>Cemetery</color>, it is possible to honor the dead and memorialize them."
+            },
+            {
+                "Key": "Help cure 1 nm",
+                "Value": "<sprite name=FS_Health> Recovering ratizen"
+            },
+            {
+                "Key": "Help cure 1 scr",
+                "Value": "If there is an active <sprite name=FS_Service><color=#EA6B48>Hospital</color>, ratizens with low health will visit it to recover.\n\nWhen a ratizen gets wounded, the ratizen assigned in the hospital will transport the wounded for treatment.\n\nEach recovery costs a <color=#EA6B48>Medicine</color>."
+            },
+            {
+                "Key": "Help cure 2 nm",
+                "Value": "<sprite name=FS_Health> Leader recovery"
+            },
+            {
+                "Key": "Help cure 2 scr",
+                "Value": "When the <color=#EA6B48>Leader</color> is low in HP, rest on the <sprite name=FS_Queen><color=#EA6B48>Royal Bed</color> to recover.\n\nThe recovery will take a short time, but note that any other actions cannot be performed while recovering."
+            },
+            {
+                "Key": "Help category economy",
+                "Value": "Economy"
+            },
+            {
+                "Key": "Help savings nm",
+                "Value": "<sprite name=FS_Gold> Government savings"
+            },
+            {
+                "Key": "Help savings scr",
+                "Value": "<sprite name=FS_Gold><color=#EA6B48>Government savings</color> is the amount of money that the leader can use.\n\nWhen giving orders to ratizens or trading with the foreign countries, the money is spent from the savings.\n\nIf the savings run out, serious problems may arise."
+            },
+            {
+                "Key": "Help wealth nm",
+                "Value": "<sprite name=FS_Property> Ratizen's wealth"
+            },
+            {
+                "Key": "Help wealth scr",
+                "Value": "<sprite name=FS_Property><color=#EA6B48>Ratizen's wealth</color> is the amount of money that the individual ratizens has.\n\nRatizens acquire incomes through the commands given by the player, and use them for their own happiness.\n\nRatizens with enough wealth and consumed necessities will rise in the social class."
+            },
+            {
+                "Key": "Help tax nm",
+                "Value": "<sprite name=FS_Tax> Tax"
+            },
+            {
+                "Key": "Help tax scr",
+                "Value": "<sprite name=FS_Tax><color=#EA6B48>Tax</color> is the most direct way to return ratizens' assets to the government savings.\n\nIt does not affect the total amount of money circulating in the country, but it is a way to balance the wealth concentrated on ratizens with the country.\n\nHowever, ratizens who pay taxes will be dissatisfied."
+            },
+            {
+                "Key": "Help mintage nm",
+                "Value": "<sprite name=FS_Gold> Mintage"
+            },
+            {
+                "Key": "Help mintage scr",
+                "Value": "<sprite name=FS_Gold><color=#EA6B48>Mintage</color> is the surest way to reliably increase the total amount of money circulates in the country.\n\nIt is essential to issue a certain amount of currency in order to build up enough government savings for the country and to satisfy enough wealth for ratizens."
+            },
+            {
+                "Key": "Help loan nm",
+                "Value": "<sprite name=FS_Loan>Loan"
+            },
+            {
+                "Key": "Help loan scr",
+                "Value": "<sprite name=FS_Loan><color=#EA6B48>Loan</color> is the fastest and easiest way to increase the currency in circulation in the country.\n\nHowever, in exchange for this, interest must be paid periodically until the principal is repaid.\n\nYou can get a loan from the <sprite name=FS_Queen><color=#EA6B48>Bank</color>, but think carefully before using it."
+            },
+            {
+                "Key": "Help foreign exchange nm",
+                "Value": "<sprite name=FS_Dar>Foreign currency"
+            },
+            {
+                "Key": "Help foreign exchange scr",
+                "Value": "<color=#EA6B48>Foreign currency</color> means <sprite name=FS_Dar><color=#33CC33>Dar</color>, a common currency used by most of the other countries.\n\n<sprite name=FS_Dar><color=#33CC33>Dar</color> could be obtained by <color=#EA6B48>currency exchange</color> through a <sprite name=FS_Queen><color=#EA6B48>Bank</color>, or by trading with the other countries.\n\nDar's value changes dynamically according to the <sprite name=FS_Exchange><color=#EA6B48>Standard Exchange Rate</color>."
+            },
+            {
+                "Key": "Help exchange rate nm",
+                "Value": "Standard exchange rate"
+            },
+            {
+                "Key": "Help exchange rate scr",
+                "Value": "<sprite name=FS_Exchange><color=#EA6B48>Standard Exchange Rate</color> compares the monetary value between <sprite name=FS_Gold><color=#EA6B48>Pia</color> and <sprite name=FS_Dar><color=#33CC33>Dar</color>.\n\nThe monetary value between Pia and Dar is flexible and is updated every day by drawing one <sprite name=FS_ExchangeRate_GreatRise><color=#EA6B48>Exchange Rate Ticket</color>.\n\nWhen exchanging Pia for Dar or Dar for Pia, the value is set according to this standard exchange rate."
+            },
+            {
+                "Key": "Help exchange nm",
+                "Value": "<sprite name=FS_Exchange> Exchange"
+            },
+            {
+                "Key": "Help exchange scr",
+                "Value": "Through the <sprite name=FS_Queen><color=#EA6B48>Bank</color>,  <sprite name=FS_Dar><color=#33CC33>Dar</color> to <sprite name=FS_Gold><color=#EA6B48>Pia</color>, or <sprite name=FS_Gold><color=#EA6B48>Pia</color> to <sprite name=FS_Dar><color=#33CC33>Dar</color> can be <sprite name=FS_Exchange><color=#EA6B48>exhanged</color>.\n\nWhen buying Dar or selling Dar, there is a value added or subtracted in proportion to the standard exchange rate."
+            },
+            {
+                "Key": "Help exchange card nm",
+                "Value": "<sprite name=FS_ExchangeRate_GreatRise> Exchange rate ticket"
+            },
+            {
+                "Key": "Help exchange card scr",
+                "Value": "<sprite name=FS_ExchangeRate_GreatRise><color=#EA6B48>Exchange Rate Ticket</color> represents the possibilities of the exhange rate's changes.\n\nTickets other than the basic tickets can be obtained temporarily through various <color=#EA6B48>Events</color>.\n\nThrough exchange rate tickets, you can profit by stochastically adjusting the exchange rate or conduct trade advantageously."
+            },
+            {
+                "Key": {},
+                "Value": "<sprite name=FS_Trade> Explore"
+            },
+            {
+                "Key": {},
+                "Value": "<sprite name=FS_Trade> Diplomacy"
+            },
+            {
+                "Key": "Help commerce nm",
+                "Value": "<sprite name=FS_Trade> Trade"
+            },
+            {
+                "Key": "Help commerce scr",
+                "Value": "<sprite name=FS_Trade><color=#EA6B48>Trade</color> is the act of purchasing from the other countries or selling unnecessary goods to the other countries.\n\nItems can be traded based on <sprite name=FS_Prosperity><color=#EA6B48>Prosperity</color> of the target country and <sprite name=FS_Relations><color=#EA6B48>Relations</color> with the player. \n\nThe trade cycle, however, is determined by the distance between countries."
+            },
+            {
+                "Key": "Help electricity nm",
+                "Value": "<sprite name=FS_ElectricPower> Electricity"
+            },
+            {
+                "Key": "Help electricity scr",
+                "Value": "<sprite name=FS_ElectricPower><color=#EA6B48>Electricity</color> is a special resource needed to operate certain engineering structures.\n\nIt is produced through <sprite name=FS_MakeWatt><color=#EA6B48>Generating Electricity</color> structures and must be stored in <sprite name=FS_Battery><color=#EA6B48>Electricity Storage</color> structures to be used."
+            },
+            {
+                "Key": "Help generate nm",
+                "Value": "<sprite name=FS_MakeWatt> Generating Electricity"
+            },
+            {
+                "Key": "Help generate scr",
+                "Value": "<sprite name=FS_MakeWatt><color=#EA6B48>Generating Electricity</color> is the action of producing electricity using structures.\n\nGenerators produce a specified amount of electricity every hour or upon completion of work, depending on the method of generation."
+            },
+            {
+                "Key": "Help transmission nm",
+                "Value": "<sprite name=FS_DirectElecLine> Transmission"
+            },
+            {
+                "Key": "Help transmission scr",
+                "Value": "<sprite name=FS_DirectElecLine><color=#EA6B48>Transmission</color> is the method of delivering generated electricity to storage.\n\nThe power ports of the generator and the electricity storage must be directly connected, or through <color=#EA6B48>Transmission Wires</color> and <color=#EA6B48>Transmission Blocks</color>, for the produced electricity to be fully stored in the storage."
+            },
+            {
+                "Key": "Help electricity storage nm",
+                "Value": "<sprite name=FS_Battery> Electricity Storage"
+            },
+            {
+                "Key": "Help electricity storage scr",
+                "Value": "<sprite name=FS_Battery><color=#EA6B48>Electricity Storage</color> is the function of storing electricity produced at the generators.\n\nStored electricity is supplied to nearby <sprite name=FS_UseWatt><color=#EA6B48>Electricity Consumption</color> structures.\n\nThe more connected electricity storage structures there are, the greater the amount of electricity that can be stored within the <sprite name=FS_ElecNetwork><color=#EA6B48>Electric Grid</color>."
+            },
+            {
+                "Key": "Help electric grid nm",
+                "Value": "<sprite name=FS_ElecNetwork> Electric Grid"
+            },
+            {
+                "Key": "Help electric grid scr",
+                "Value": "<sprite name=FS_ElecNetwork><color=#EA6B48>Electric Grid</color> is a network that performs the production, storage, and consumption of electricity based on connected electricity storage structures.\n\nGeneration, storage, and consumption structures belonging to each electric grid can be viewed and managed using the <sprite name=FS_Statistics><color=#EA6B48>Statistics Window</color>."
+            },
+            {
+                "Key": "Help electricity consumption nm",
+                "Value": "<sprite name=FS_UseWatt> Electricity Consumption"
+            },
+            {
+                "Key": "Help electricity consumption scr",
+                "Value": "<sprite name=FS_UseWatt><color=#EA6B48>Electricity Consumption</color> is the action of using stored electricity.\n\nStructures that consume <sprite name=FS_ElectricPower><color=#EA6B48>Electricity</color> automatically connect to the storage if they are within its effective range.\n\nMost electricity consumption structures consume electricity every hour, and if the connection is broken or there is no electricity to consume, the structure will be <color=#EA6B48>deactivated</color>."
+            },
+            {
+                "Key": "Help skill use nm",
+                "Value": "Using Skills"
+            },
+            {
+                "Key": "Help skill use scr",
+                "Value": "When you activate a <color=#EA6B48>신단</color>Shrine, you can use the <color=#EA6B48>unique skills</color> of each Shrine.\n\nSkills can be used via the [Skill] button, and all used skills have a <color=#EA6B48>cooldown</color> period."
+            },
+            {
+                "Key": "Help skill type nm",
+                "Value": "Skill Types"
+            },
+            {
+                "Key": "Help skill type scr",
+                "Value": "Skills with a <color=#EA6B48>Hold</color> effect continue while the [Skill] button is pressed.\n\nSkills with a <color=#EA6B48>Charge</color> effect are enhanced while the [Skill] button is pressed and activate when the input stops."
+            }
+        ]
+    }
+}

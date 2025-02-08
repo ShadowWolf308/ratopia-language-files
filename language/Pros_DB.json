@@ -1,0 +1,78 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Settlement",
+                "Value": "Settlement"
+            },
+            {
+                "Key": "Settlement scr",
+                "Value": "A new history begins here."
+            },
+            {
+                "Key": "Hamlet",
+                "Value": "Hamlet"
+            },
+            {
+                "Key": "Hamlet scr",
+                "Value": "A hamlet with some rats gathered together."
+            },
+            {
+                "Key": "Viliage",
+                "Value": "Village"
+            },
+            {
+                "Key": "Viliage scr",
+                "Value": "A village began to develop it's own culture."
+            },
+            {
+                "Key": "Town",
+                "Value": "Town"
+            },
+            {
+                "Key": "Town scr",
+                "Value": "A town that residents began to care about the reputation."
+            },
+            {
+                "Key": "Small City",
+                "Value": "Small city"
+            },
+            {
+                "Key": "Small City scr",
+                "Value": "A small city that seems not small at all."
+            },
+            {
+                "Key": "City",
+                "Value": "City"
+            },
+            {
+                "Key": "City scr",
+                "Value": "A large enough city that feels so wrong to call small anymore."
+            },
+            {
+                "Key": "Ratropolis",
+                "Value": "Ratropolis"
+            },
+            {
+                "Key": "Ratropolis scr",
+                "Value": "Ah, Ratropolis, our glorious metropolis."
+            },
+            {
+                "Key": "Regalopolis",
+                "Value": "Regalopolis"
+            },
+            {
+                "Key": "Regalopolis scr",
+                "Value": "Look on my works, ye mighty, and despair!"
+            },
+            {
+                "Key": "Ratopia",
+                "Value": "Ratopia"
+            },
+            {
+                "Key": "Ratopia scr",
+                "Value": "Would this be how the Utopia looks like?\nThe answer is solely on your hands."
+            }
+        ]
+    }
+}

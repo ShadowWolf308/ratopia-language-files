@@ -1,0 +1,2158 @@
+{
+    "Array": {
+        "Array": [
+            {
+                "Key": "Storage_Nm",
+                "Value": "Storage"
+            },
+            {
+                "Key": "Storage_Scr",
+                "Value": "A place to keep various items. A lot could be stored with its large capacity."
+            },
+            {
+                "Key": "GrainFarm_Nm",
+                "Value": "Grain Farm"
+            },
+            {
+                "Key": "GrainFarm_Scr",
+                "Value": "A place to cultivate edible grains. Cultivation takes time and water."
+            },
+            {
+                "Key": "Dirtroad_Nm",
+                "Value": "Dirt Block"
+            },
+            {
+                "Key": "Dirtroad_Scr",
+                "Value": "A block of hardened dirt. A bit artificial, but great to walk on."
+            },
+            {
+                "Key": "Ladder_Nm",
+                "Value": "Ladder"
+            },
+            {
+                "Key": "Ladder_Scr",
+                "Value": "A simple ladder made of fiber. A little hard to climb up and down."
+            },
+            {
+                "Key": "MiningCamp_Nm",
+                "Value": "Mining Camp"
+            },
+            {
+                "Key": "MiningCamp_Scr",
+                "Value": "A place to hire a miner to mine with expertise."
+            },
+            {
+                "Key": "Masonry_Nm",
+                "Value": "Masonry"
+            },
+            {
+                "Key": "Masonry_Scr",
+                "Value": "A place to process various rocks. A fine stone carving can only done here."
+            },
+            {
+                "Key": "Bakery_Nm",
+                "Value": "Bakery"
+            },
+            {
+                "Key": "Bakery_Scr",
+                "Value": "A place to bake bread and cakes. This will need a lot of grain power."
+            },
+            {
+                "Key": "ConstructionOffice_Nm",
+                "Value": "Maintenance Office"
+            },
+            {
+                "Key": "ConstructionOffice_Scr",
+                "Value": "A place to hire a maintenance worker to fix the damaged city structures."
+            },
+            {
+                "Key": "LumberCamp_Nm",
+                "Value": "Logging Camp"
+            },
+            {
+                "Key": "LumberCamp_Scr",
+                "Value": "A place to hire an expert to cut trees. Anything in tree shape can be cut down."
+            },
+            {
+                "Key": "LumberMill_Nm",
+                "Value": "Sawmill"
+            },
+            {
+                "Key": "LumberMill_Scr",
+                "Value": "A place to process logs. Produces lumber and sticks."
+            },
+            {
+                "Key": "BerryFarm_Nm",
+                "Value": "Berry Orchard"
+            },
+            {
+                "Key": "BerryFarm_Scr",
+                "Value": "A place to cultivate edible berries. Cultivation takes nutrients and water."
+            },
+            {
+                "Key": "House_Nm",
+                "Value": "Bed"
+            },
+            {
+                "Key": "House_Scr",
+                "Value": "A personal bed for a ratizen to rest. Can lay an emergency patient on it too."
+            },
+            {
+                "Key": "Pub_Nm",
+                "Value": "Pub"
+            },
+            {
+                "Key": "Pub_Scr",
+                "Value": "A place to drink and have secret talks. Still a no good without beer."
+            },
+            {
+                "Key": "Toilet_Nm",
+                "Value": "Toilet"
+            },
+            {
+                "Key": "Toilet_Scr",
+                "Value": "A place to empty bowels and wash hands. Let's have a National Washed Hands week."
+            },
+            {
+                "Key": "BandStand_Nm",
+                "Value": "Circus Stand"
+            },
+            {
+                "Key": "BandStand_Scr",
+                "Value": "A place to provide a great show. People need circus to live on."
+            },
+            {
+                "Key": "WoodDoor_Nm",
+                "Value": "Wooden Door"
+            },
+            {
+                "Key": "WoodDoor_Scr",
+                "Value": "A strong door made of woods. Make a rule for whom to pass around."
+            },
+            {
+                "Key": "CitizenCave_Nm",
+                "Value": "City Entrance"
+            },
+            {
+                "Key": "CitizenCave_Scr",
+                "Value": "A place to accept new migrants. Think carefully on whom to accept."
+            },
+            {
+                "Key": "Baths_Nm",
+                "Value": "Bathhouse"
+            },
+            {
+                "Key": "Baths_Scr",
+                "Value": "A place to wash and take a warm bath. Feels like even the minds got purified."
+            },
+            {
+                "Key": "TaxOffice_Nm",
+                "Value": "Tax Office"
+            },
+            {
+                "Key": "TaxOffice_Scr",
+                "Value": "A structure to properly collect taxes. With tax collectors, impossible is nothing."
+            },
+            {
+                "Key": "MushroomFarm_Nm",
+                "Value": "Mushroom Farm"
+            },
+            {
+                "Key": "MushroomFarm_Scr",
+                "Value": "A place to grow edible mushrooms. Cultivation takes nutrients and time."
+            },
+            {
+                "Key": "School_Nm",
+                "Value": "School"
+            },
+            {
+                "Key": "School_Scr",
+                "Value": "A place to educate ratizens better. Surprisingly, it is a quite enjoyable place."
+            },
+            {
+                "Key": "Atelier_Nm",
+                "Value": "Atelier"
+            },
+            {
+                "Key": "Atelier_Scr",
+                "Value": "A place to provide enjoyable paintings. For the services, some dyes are needed."
+            },
+            {
+                "Key": "Blacksmith_Nm",
+                "Value": "Blacksmith"
+            },
+            {
+                "Key": "Blacksmith_Scr",
+                "Value": "A facility to forge ingots to produce items. Produces various items made of metal."
+            },
+            {
+                "Key": "HairShop_Nm",
+                "Value": "Hairshop"
+            },
+            {
+                "Key": "HairShop_Scr",
+                "Value": "A place to cut and trim ratizens' hairs. Clean hairs are beautiful and sanitary."
+            },
+            {
+                "Key": "Laundry_Nm",
+                "Value": "Laundry"
+            },
+            {
+                "Key": "Laundry_Scr",
+                "Value": "A place to wash the customer's clothes. Cleanliess keeps body safe from germs."
+            },
+            {
+                "Key": "Brewery_Nm",
+                "Value": "Brewery"
+            },
+            {
+                "Key": "Brewery_Scr",
+                "Value": "A place to brew drinks. Produces cool beers and aromatic wines."
+            },
+            {
+                "Key": "Mint_Nm",
+                "Value": "Mint"
+            },
+            {
+                "Key": "Mint_Scr",
+                "Value": "A place to manufacture coins by metals. Appropriate money supply is crucial."
+            },
+            {
+                "Key": "Workshop_Nm",
+                "Value": "Handicraft Workshop"
+            },
+            {
+                "Key": "Workshop_Scr",
+                "Value": "A small workshop for dexterous citizens. Produces various necessities."
+            },
+            {
+                "Key": "HunterHut_Nm",
+                "Value": "Hunter's Hut"
+            },
+            {
+                "Key": "HunterHut_Scr",
+                "Value": "A place to hunt down wild animals. Beware of becoming the prey"
+            },
+            {
+                "Key": "ButcherShop_Nm",
+                "Value": "Butchery"
+            },
+            {
+                "Key": "ButcherShop_Scr",
+                "Value": "A place to process captured animals. Produces meat, bones, and leathers."
+            },
+            {
+                "Key": "Barrack_Nm",
+                "Value": "Barrack"
+            },
+            {
+                "Key": "Barrack_Scr",
+                "Value": "A military facility to train melee soldiers. Sufficient training is needed before battle."
+            },
+            {
+                "Key": "Kiln_Nm",
+                "Value": "Kiln"
+            },
+            {
+                "Key": "Kiln_Scr",
+                "Value": "A place to make items with dirt and logs. Produces pots and charcoals."
+            },
+            {
+                "Key": "Hospital_Nm",
+                "Value": "Hospital"
+            },
+            {
+                "Key": "Hospital_Scr",
+                "Value": "A place to cure the wounded and sick. Heals the injured or wounded visitors."
+            },
+            {
+                "Key": "WoodWorkShop_Nm",
+                "Value": "Wood Workshop"
+            },
+            {
+                "Key": "WoodWorkShop_Scr",
+                "Value": "A place to process woods into items. Produces tools, barrels, and gears."
+            },
+            {
+                "Key": "Tannery_Nm",
+                "Value": "Tannery"
+            },
+            {
+                "Key": "Tannery_Scr",
+                "Value": "A place to process leathers into items. Produces bags, shoes, and parchments."
+            },
+            {
+                "Key": "RabbitFarm_Nm",
+                "Value": "Rabbit Pasture"
+            },
+            {
+                "Key": "RabbitFarm_Scr",
+                "Value": "A place to breed rabbits and harvest milk. Breeding needs enough feedstuffs."
+            },
+            {
+                "Key": "WaterTank_Nm",
+                "Value": "Water Tank"
+            },
+            {
+                "Key": "WaterTank_Scr",
+                "Value": "A place to gather water nearby. Beware, the city consumes a lot of water."
+            },
+            {
+                "Key": "DyeWorkshop_Nm",
+                "Value": "Dye Workshop"
+            },
+            {
+                "Key": "DyeWorkshop_Scr",
+                "Value": "A place to extract colors from flowers. Produces various colors of dyes."
+            },
+            {
+                "Key": "Arena_Nm",
+                "Value": "Arena"
+            },
+            {
+                "Key": "Arena_Scr",
+                "Value": "A place to enjoy watching bloody fight. Might get tired without knowing."
+            },
+            {
+                "Key": "GatheringCamp_Nm",
+                "Value": "Gathering Camp"
+            },
+            {
+                "Key": "GatheringCamp_Scr",
+                "Value": "A place to forage for materials. Anything grass-shaped can be gathered."
+            },
+            {
+                "Key": "Grinder_Nm",
+                "Value": "Grinder"
+            },
+            {
+                "Key": "Grinder_Scr",
+                "Value": "A place to grind anything needed. The products varies with the ingredients."
+            },
+            {
+                "Key": "Grill_Nm",
+                "Value": "Grill"
+            },
+            {
+                "Key": "Grill_Scr",
+                "Value": "A place to cook various roasted foods. Cooking needs a bit of salt and recipe."
+            },
+            {
+                "Key": "PrintingShop_Nm",
+                "Value": "Printing Shop"
+            },
+            {
+                "Key": "PrintingShop_Scr",
+                "Value": "A place to produce books. Anything writable could become a book."
+            },
+            {
+                "Key": "WeavingMill_Nm",
+                "Value": "Weaving Mill"
+            },
+            {
+                "Key": "WeavingMill_Scr",
+                "Value": "A place to process fibers into items. Produces fabric, rope, and silk."
+            },
+            {
+                "Key": "TradingCenter_Nm",
+                "Value": "Trading Center"
+            },
+            {
+                "Key": "TradingCenter_Scr",
+                "Value": "A structure to trade with other cities for foreign currency or items needed."
+            },
+            {
+                "Key": "Woodroad_Nm",
+                "Value": "Wooden Block"
+            },
+            {
+                "Key": "Woodroad_Scr",
+                "Value": "A block of tough wood made of lumber. A bit creaking, but still reliable."
+            },
+            {
+                "Key": "Laboratory_Nm",
+                "Value": "Laboratory"
+            },
+            {
+                "Key": "Laboratory_Scr",
+                "Value": "A place to discover new inventions. Great efforts are needed from the intelligent."
+            },
+            {
+                "Key": "CarrierStation_Nm",
+                "Value": "Porter Station"
+            },
+            {
+                "Key": "CarrierStation_Scr",
+                "Value": "A place to transport items. Importance of the logistics distribution!"
+            },
+            {
+                "Key": "Rockroad_Nm",
+                "Value": "Rock Block"
+            },
+            {
+                "Key": "Rockroad_Scr",
+                "Value": "A block of hard and heavy rock. Seems anything could be blocked with it."
+            },
+            {
+                "Key": "RailroadStation_Nm",
+                "Value": "Railroad Station"
+            },
+            {
+                "Key": "RailroadStation_Scr",
+                "Value": "A station where Ratizens can use minecart to move quickly."
+            },
+            {
+                "Key": "Railroad_Nm",
+                "Value": "Railroad"
+            },
+            {
+                "Key": "Railroad_Scr",
+                "Value": "A rail that can be used to move faster. Let's make a great railway empire."
+            },
+            {
+                "Key": "GuardPost_Nm",
+                "Value": "Guard Post"
+            },
+            {
+                "Key": "GuardPost_Scr",
+                "Value": "A post to shot arrows to the enemies. Feels quite safe in it."
+            },
+            {
+                "Key": "BenchWood_Nm",
+                "Value": "Wooden Bench"
+            },
+            {
+                "Key": "BenchWood_Scr",
+                "Value": "A wooden bench to relax. Have a look around once in a while."
+            },
+            {
+                "Key": "FountainDruid_Nm",
+                "Value": "Jungle Fountain"
+            },
+            {
+                "Key": "FountainDruid_Scr",
+                "Value": "A Fountain designed to fit jungle view. Peaceful water sounds relaxing."
+            },
+            {
+                "Key": "StreetLampDruid_Nm",
+                "Value": "Jungle Streetlight"
+            },
+            {
+                "Key": "StreetLampDruid_Scr",
+                "Value": "A Streetlight designed to fit jungle view. Comfortable light shines as in the woods."
+            },
+            {
+                "Key": "Pharmacy_Nm",
+                "Value": "Pharmacy"
+            },
+            {
+                "Key": "Pharmacy_Scr",
+                "Value": "A facility to produce variable medications. Bat power and immortality are not dreams."
+            },
+            {
+                "Key": "Monument_Nm",
+                "Value": "Foundation Monument"
+            },
+            {
+                "Key": "Monument_Scr",
+                "Value": "A monument of national foundation day. Long live the Queen."
+            },
+            {
+                "Key": "JewelryWorkShop_Nm",
+                "Value": "Jewelry Workshop"
+            },
+            {
+                "Key": "JewelryWorkShop_Scr",
+                "Value": "A structure to craft gemstones into jewels. Delicate craftsmanship enhances brilliance."
+            },
+            {
+                "Key": "MassageBed_Nm",
+                "Value": "Massage Bed"
+            },
+            {
+                "Key": "MassageBed_Scr",
+                "Value": "A place to provide soothing massage. It always feels strangely relaxing."
+            },
+            {
+                "Key": "MusicStage_Nm",
+                "Value": "Music Stage"
+            },
+            {
+                "Key": "MusicStage_Scr",
+                "Value": "A place for a great talent to perform. Power of culture!"
+            },
+            {
+                "Key": "BeeFarm_Nm",
+                "Value": "Apiary"
+            },
+            {
+                "Key": "BeeFarm_Scr",
+                "Value": "A place to keep the bees safe to grow. Produces honey and wax."
+            },
+            {
+                "Key": "Furnace_Nm",
+                "Value": "Furnace"
+            },
+            {
+                "Key": "Furnace_Scr",
+                "Value": "A place to process metal ores into ingots. Produces metal ingots and glass."
+            },
+            {
+                "Key": "GlassWorkShop_Nm",
+                "Value": "Glass Workshop"
+            },
+            {
+                "Key": "GlassWorkShop_Scr",
+                "Value": "A place to process glass into products. Produces bottles and ornaments."
+            },
+            {
+                "Key": "Salon_Nm",
+                "Value": "Salon"
+            },
+            {
+                "Key": "Salon_Scr",
+                "Value": "A social place to enjoy drinks and snacks. Any intrigues are kept secret here."
+            },
+            {
+                "Key": "SilkwormFarm_Nm",
+                "Value": "Cocoonery"
+            },
+            {
+                "Key": "SilkwormFarm_Scr",
+                "Value": "A place to grow silkworms safe. Their cocoons are used to make silk."
+            },
+            {
+                "Key": "BatFarm_Nm",
+                "Value": "Batiary"
+            },
+            {
+                "Key": "BatFarm_Scr",
+                "Value": "A place to grow bats safe. A mumane way is used to extract juice."
+            },
+            {
+                "Key": "GrassRoof_Nm",
+                "Value": "Grass Roof"
+            },
+            {
+                "Key": "GrassRoof_Scr",
+                "Value": "A roof made of leaves to keep below dry. Might be safe to run around above."
+            },
+            {
+                "Key": "WoodLadder_Nm",
+                "Value": "Wooden Ladder"
+            },
+            {
+                "Key": "WoodLadder_Scr",
+                "Value": "A ladder made of wooden sticks. Much easier to climb up and down. "
+            },
+            {
+                "Key": "CuttingShop_Nm",
+                "Value": "Tailor's Shop"
+            },
+            {
+                "Key": "CuttingShop_Scr",
+                "Value": "A place to process fibers to make items. Produces cloths from fabric and silk."
+            },
+            {
+                "Key": "Totem_Dog_Nm",
+                "Value": "Shrine of Dog"
+            },
+            {
+                "Key": "Totem_Dog_Scr",
+                "Value": "Shrine dedicated for sacred dog. By the power of dog, skills can be used."
+            },
+            {
+                "Key": "Totem_Rat_Nm",
+                "Value": "Shrine of Rat"
+            },
+            {
+                "Key": "Totem_Rat_Scr",
+                "Value": "Shrine dedicated for sacred rat. By the power of rat, skills can be used."
+            },
+            {
+                "Key": "RoyalBed_Nm",
+                "Value": "Royal Bed"
+            },
+            {
+                "Key": "RoyalBed_Scr",
+                "Value": "Well designed comfortable bed. Specially designed for the royal families."
+            },
+            {
+                "Key": "Archive_Nm",
+                "Value": "Archive"
+            },
+            {
+                "Key": "Archive_Scr",
+                "Value": "A place to record all in the kingdom. Statistics can be checked and controlled."
+            },
+            {
+                "Key": "GrassFarm_Nm",
+                "Value": "Grass Field"
+            },
+            {
+                "Key": "GrassFarm_Scr",
+                "Value": "A place to grow grasses. Even a mere weed needs water and dirts."
+            },
+            {
+                "Key": "FlowerFarm_Nm",
+                "Value": "Florist"
+            },
+            {
+                "Key": "FlowerFarm_Scr",
+                "Value": "A place to grow flowers. Even a wild flower needs water and dirts."
+            },
+            {
+                "Key": "ShootingGallery_Nm",
+                "Value": "Shooting Range"
+            },
+            {
+                "Key": "ShootingGallery_Scr",
+                "Value": "A military facility to train marksrat. Sufficient training is needed before battle."
+            },
+            {
+                "Key": "AssembleStation_Nm",
+                "Value": "Squad Headquarter"
+            },
+            {
+                "Key": "AssembleStation_Scr",
+                "Value": "A place to group soldiers to follow orders. They will follow the orders of the leader."
+            },
+            {
+                "Key": "CodeStone_Nm",
+                "Value": "Code Stone"
+            },
+            {
+                "Key": "CodeStone_Scr",
+                "Value": "A huge stone to announce new laws. All the laws as tax, commercial, and welfare can be set."
+            },
+            {
+                "Key": "EnjoyingDen_Nm",
+                "Value": "Den of Joy"
+            },
+            {
+                "Key": "EnjoyingDen_Scr",
+                "Value": "A shadowy place to get great joy. Wonder what is happening deep in there?"
+            },
+            {
+                "Key": "FountainMarble_Nm",
+                "Value": "Marble Fountain"
+            },
+            {
+                "Key": "FountainMarble_Scr",
+                "Value": "A fountain with exquisite beauty. Pure water flows vigorously."
+            },
+            {
+                "Key": "StreetLampOriental_Nm",
+                "Value": "Far-East Streetlight"
+            },
+            {
+                "Key": "StreetLampOriental_Scr",
+                "Value": "A streetlight carved with woods. A soft light glows without a noise."
+            },
+            {
+                "Key": "BenchMarble_Nm",
+                "Value": "Marble Bench"
+            },
+            {
+                "Key": "BenchMarble_Scr",
+                "Value": "A bench with exquisite beauty. Cold touch of stone feels great."
+            },
+            {
+                "Key": "BenchRat_Nm",
+                "Value": "Ratty Bench"
+            },
+            {
+                "Key": "BenchRat_Scr",
+                "Value": "A bench with the shape of a rat head. Head shape should be wierd but somehow cute."
+            },
+            {
+                "Key": "BenchOriental_Nm",
+                "Value": "Far-East Bench"
+            },
+            {
+                "Key": "BenchOriental_Scr",
+                "Value": "A bench structured without nails. Solid but soft touch feels great."
+            },
+            {
+                "Key": "StreetLampMarble_Nm",
+                "Value": "Marble Streetlight"
+            },
+            {
+                "Key": "StreetLampMarble_Scr",
+                "Value": "A streetlight with exquisite beauty. Decorated excellent with metals."
+            },
+            {
+                "Key": "FountainOriental_Nm",
+                "Value": "Far-East Fountain"
+            },
+            {
+                "Key": "FountainOriental_Scr",
+                "Value": "A fountain replicating a natural fall. Flows aloof as in the mountains."
+            },
+            {
+                "Key": "BenchDruid_Nm",
+                "Value": "Jungle Bench"
+            },
+            {
+                "Key": "BenchDruid_Scr",
+                "Value": "A Bench designed to fit jungle view. Feels like sitting on a branch of a tree."
+            },
+            {
+                "Key": "Marbleroad_Nm",
+                "Value": "Marble Block"
+            },
+            {
+                "Key": "Marbleroad_Scr",
+                "Value": "A substantial block made of carved stone. Neat and exquisite. "
+            },
+            {
+                "Key": "MiniStorage_Nm",
+                "Value": "Mini Storage"
+            },
+            {
+                "Key": "MiniStorage_Scr",
+                "Value": "A place to keep various items. Not much can be stored due to its size."
+            },
+            {
+                "Key": "Bank_Nm",
+                "Value": "Bank"
+            },
+            {
+                "Key": "Bank_Scr",
+                "Value": "A place to exchange and get a loan. High tech capital facility with great safety."
+            },
+            {
+                "Key": "GraveStone_Nm",
+                "Value": "Grave"
+            },
+            {
+                "Key": "GraveStone_Scr",
+                "Value": "A place to lay a dead ratizen. Prevents a possible epidemic."
+            },
+            {
+                "Key": "Cemetery_Nm",
+                "Value": "Cemetery"
+            },
+            {
+                "Key": "Cemetery_Scr",
+                "Value": "A place to lay the deads. Makes anyone who passes a bit reverent."
+            },
+            {
+                "Key": "StoneRoof_Nm",
+                "Value": "Slate Roof"
+            },
+            {
+                "Key": "StoneRoof_Scr",
+                "Value": "A roof made of slates to keep below dry. Has distinct patterns."
+            },
+            {
+                "Key": "Slateroad_Nm",
+                "Value": "Slate Block"
+            },
+            {
+                "Key": "Slateroad_Scr",
+                "Value": "A dark colored block made of slate. Give some elegance style to the city."
+            },
+            {
+                "Key": "Barricade_Nm",
+                "Value": "Barricade"
+            },
+            {
+                "Key": "Barricade_Scr",
+                "Value": "A strong barricade made of wood. This will hold enemies for great time."
+            },
+            {
+                "Key": "Fishery_Nm",
+                "Value": "Fishery"
+            },
+            {
+                "Key": "Fishery_Scr",
+                "Value": "A place to fish some fishes. It is really important to find right spot."
+            },
+            {
+                "Key": "SpikeTrap_Nm",
+                "Value": "Spike Trap"
+            },
+            {
+                "Key": "SpikeTrap_Scr",
+                "Value": "Trap that senses and pierces enemies. Beware not to be pierced with enemies."
+            },
+            {
+                "Key": "CollapsedMine_Nm",
+                "Value": "Forgotten Mine"
+            },
+            {
+                "Key": "CollapsedMine_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "HomePortal_Nm",
+                "Value": "Loot Box"
+            },
+            {
+                "Key": "HomePortal_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "IronDoor_Nm",
+                "Value": "Iron Gate"
+            },
+            {
+                "Key": "IronDoor_Scr",
+                "Value": "A strengthened gate forged with iron. Feels much safer than wooden gate."
+            },
+            {
+                "Key": "RatInTheBox_Nm",
+                "Value": "Rat in the Box"
+            },
+            {
+                "Key": "RatInTheBox_Scr",
+                "Value": "Trap that senses and pushes enemies. Beware not to be pushed with enemies."
+            },
+            {
+                "Key": "Honeycomb_Nm",
+                "Value": "Hive Trap"
+            },
+            {
+                "Key": "Honeycomb_Scr",
+                "Value": "Trap that spouts bees to enemies. Bees are fearless, making them perilous."
+            },
+            {
+                "Key": "EarthQuake_Nm",
+                "Value": "Earthquaker"
+            },
+            {
+                "Key": "EarthQuake_Scr",
+                "Value": "A huge stone smashing what is below. Beware not to be smashed with enemies."
+            },
+            {
+                "Key": "BombBarricade_Nm",
+                "Value": "Explosive Barricade"
+            },
+            {
+                "Key": "BombBarricade_Scr",
+                "Value": "Barricade reinforced with explosives. Be careful not to get caught in the middle."
+            },
+            {
+                "Key": "DirtWallpaper_Nm",
+                "Value": "Dirt Wallpaper"
+            },
+            {
+                "Key": "DirtWallpaper_Scr",
+                "Value": "A wallpaper decorated with dirt. Feels cozy like underground den."
+            },
+            {
+                "Key": "WoodWallpaper_Nm",
+                "Value": "Lumber Wallpaper"
+            },
+            {
+                "Key": "WoodWallpaper_Scr",
+                "Value": "A wallpaper decorated with lumber. Feels relaxed and calm like in the tree."
+            },
+            {
+                "Key": "SapCamp_Nm",
+                "Value": "Sap Camp"
+            },
+            {
+                "Key": "SapCamp_Scr",
+                "Value": "A facility that collects sap from nearby trees. Various saps have different purposes."
+            },
+            {
+                "Key": "DruidCamp_Nm",
+                "Value": "Temple of War"
+            },
+            {
+                "Key": "DruidCamp_Scr",
+                "Value": "A military facility to train forest keepers. Foresters use various forestal abilities."
+            },
+            {
+                "Key": "Totem_Cow_Nm",
+                "Value": "Shrine of Ox"
+            },
+            {
+                "Key": "Totem_Cow_Scr",
+                "Value": "Shrine dedicated for sacred ox. By the power of ox, skill can be used."
+            },
+            {
+                "Key": "QueenBlacksmith_Nm",
+                "Value": "Royal Forge"
+            },
+            {
+                "Key": "QueenBlacksmith_Scr",
+                "Value": "A forge solely for the leader of the city. Let's make equipments for I, the leader!"
+            },
+            {
+                "Key": "MazeDoor_Nm",
+                "Value": "Maze Door"
+            },
+            {
+                "Key": "MazeDoor_Scr",
+                "Value": "THAT'S A MAZE!"
+            },
+            {
+                "Key": "LiftPlatform_Nm",
+                "Value": "Lift Station"
+            },
+            {
+                "Key": "LiftPlatform_Scr",
+                "Value": "Allows Ratizens to take a lift in between, when connected by lift ropes to the other stations"
+            },
+            {
+                "Key": "LiftRail_Nm",
+                "Value": "Lift Rope"
+            },
+            {
+                "Key": "LiftRail_Scr",
+                "Value": "Cable to vertically connect the stations. When fully connected, lift can be used."
+            },
+            {
+                "Key": "PictureSmall_Nm",
+                "Value": "Small Picture"
+            },
+            {
+                "Key": "PictureSmall_Scr",
+                "Value": "A small picture to decorate places. Quite beautiful picture to be placed."
+            },
+            {
+                "Key": "PictureMedium_Nm",
+                "Value": "Medium Picture"
+            },
+            {
+                "Key": "PictureMedium_Scr",
+                "Value": "A medium picture to decorate places. Master piece of some artists."
+            },
+            {
+                "Key": "PictureLarge_Nm",
+                "Value": "Large Picture"
+            },
+            {
+                "Key": "PictureLarge_Scr",
+                "Value": "A large picture to decorate places. A true piece of art."
+            },
+            {
+                "Key": "CombatAcademy_Nm",
+                "Value": "Combat Academy"
+            },
+            {
+                "Key": "CombatAcademy_Scr",
+                "Value": "An academy to train the masters of battle. Trainings will take time and resources."
+            },
+            {
+                "Key": "Doublebed_Nm",
+                "Value": "Bunk Bed"
+            },
+            {
+                "Key": "Doublebed_Scr",
+                "Value": "A bed for two. This will save a lot of spaces."
+            },
+            {
+                "Key": "SpikeBarricade_Nm",
+                "Value": "Spiked Barricade"
+            },
+            {
+                "Key": "SpikeBarricade_Scr",
+                "Value": "Barricade reinforced with spike. Sharp thorns will pay back to enemies."
+            },
+            {
+                "Key": "TrainingCamp_Nm",
+                "Value": "Training Camp"
+            },
+            {
+                "Key": "TrainingCamp_Scr",
+                "Value": "A camp for basic military training. Trained ones are stronger than civilians."
+            },
+            {
+                "Key": "StatueSmall_Nm",
+                "Value": "Small Sculpture"
+            },
+            {
+                "Key": "StatueSmall_Scr",
+                "Value": "A delicate small sculpture. Some call this a classic."
+            },
+            {
+                "Key": "StatueMedium_Nm",
+                "Value": "Medium Sculpture"
+            },
+            {
+                "Key": "StatueMedium_Scr",
+                "Value": "A delicate medium-sized sculpture. Some call this a masterpiece."
+            },
+            {
+                "Key": "ResearchDesk_Nm",
+                "Value": "Research Desk"
+            },
+            {
+                "Key": "ResearchDesk_Scr",
+                "Value": "A desk with tools to do some research. Let's check new structures for the city!"
+            },
+            {
+                "Key": "FountainWood_Nm",
+                "Value": "Wooden Fountain"
+            },
+            {
+                "Key": "FountainWood_Scr",
+                "Value": "A Fountain shaped as huge tree. Reproduces water dropping from leaves."
+            },
+            {
+                "Key": "TreeWallpaper_Nm",
+                "Value": "Tree Wallpaper"
+            },
+            {
+                "Key": "TreeWallpaper_Scr",
+                "Value": "Natural tree themed wallpaper with coziness. Surface is a bit rough, but quite reliable."
+            },
+            {
+                "Key": "WeaselLadder_Nm",
+                "Value": "Barbaric Ladder"
+            },
+            {
+                "Key": "WeaselLadder_Scr",
+                "Value": "Crude ladders made by weasels. Built with their prey's hard bones."
+            },
+            {
+                "Key": "DiplomaticOffice_Nm",
+                "Value": "Diplomatic Office"
+            },
+            {
+                "Key": "DiplomaticOffice_Scr",
+                "Value": "A structure to interact with discovered cities. There are no eternal enemies or allies."
+            },
+            {
+                "Key": "PoliceStation_Nm",
+                "Value": "Police Station"
+            },
+            {
+                "Key": "PoliceStation_Scr",
+                "Value": "A facility for maintaining local security. It apprehends criminals and rehabilitates them."
+            },
+            {
+                "Key": "Prison_Nm",
+                "Value": "Prison"
+            },
+            {
+                "Key": "Prison_Scr",
+                "Value": "A facility where criminals can be confined. Let's make a wise choice for the health of the city."
+            },
+            {
+                "Key": "MedicalBed_Nm",
+                "Value": "Medibed"
+            },
+            {
+                "Key": "MedicalBed_Scr",
+                "Value": "An advanced bed specialized for health recovery. It's soft and comfortable to lie down on."
+            },
+            {
+                "Key": "GroupStone_Nm",
+                "Value": "Ratizen Register"
+            },
+            {
+                "Key": "GroupStone_Scr",
+                "Value": "Plate to carve in the names of the ratizens. Who are written can be separated as group."
+            },
+            {
+                "Key": "PigeonMailbox_Nm",
+                "Value": "Mailbox"
+            },
+            {
+                "Key": "PigeonMailbox_Scr",
+                "Value": "A mailbox to give orders from distance. Structures near the mailbox can be managed."
+            },
+            {
+                "Key": "Weaselroad_Nm",
+                "Value": "Barbaric Block"
+            },
+            {
+                "Key": "Weaselroad_Scr",
+                "Value": "Crude block made by weasels. Built with their prey's hard bones."
+            },
+            {
+                "Key": "WeaselTemple_Nm",
+                "Value": "Barbaric Palace"
+            },
+            {
+                "Key": "WeaselTemple_Scr",
+                "Value": "Crude palace made by weasels. Unknown threat is waiting inside."
+            },
+            {
+                "Key": "Flagpole_Nm",
+                "Value": "Banner"
+            },
+            {
+                "Key": "Flagpole_Scr",
+                "Value": "A prominent flag with the symbol of the kingdom. Let's proudly set it up to represent the nation's pride."
+            },
+            {
+                "Key": "Flaghanger_Nm",
+                "Value": "Hanged Banner"
+            },
+            {
+                "Key": "Flaghanger_Scr",
+                "Value": "A prominent flag with the symbol of the kingdom. Conveniently modified to hang on the ceiling."
+            },
+            {
+                "Key": "FishFarm_Nm",
+                "Value": "Fish Farm"
+            },
+            {
+                "Key": "FishFarm_Scr",
+                "Value": "A structure to grow fish with grain power, providing a stable supply of plump, well-fed fish."
+            },
+            {
+                "Key": "LuxuryBed_Nm",
+                "Value": "Soft Bed"
+            },
+            {
+                "Key": "LuxuryBed_Scr",
+                "Value": "A soft, luxury bed designed with a focus on rest, ensuring a deep sleep to anyone who lies."
+            },
+            {
+                "Key": "PlantationCamp_Nm",
+                "Value": "Silviculture Post"
+            },
+            {
+                "Key": "PlantationCamp_Scr",
+                "Value": "A post to cultivate plants in wildlife. Cultivated plants grow faster than the others."
+            },
+            {
+                "Key": "CosmeticsWorkshop_Nm",
+                "Value": "Perfumery"
+            },
+            {
+                "Key": "CosmeticsWorkshop_Scr",
+                "Value": "A place to craft various scents. Produces items that exude pleasant aromas."
+            },
+            {
+                "Key": "CollapsedMine2_Nm",
+                "Value": "Nocslin Mine"
+            },
+            {
+                "Key": "CollapsedMine2_Scr",
+                "Value": "A repaired abandoned mine where Nocslin can be harvested. Assign a specialist to mine it safely."
+            },
+            {
+                "Key": "Minigarden_Nm",
+                "Value": "Small Garden"
+            },
+            {
+                "Key": "Minigarden_Scr",
+                "Value": "A small garden to cultivate diverse plants. Plants with small sizes can be planted."
+            },
+            {
+                "Key": "DewCollector_Nm",
+                "Value": "Deweb"
+            },
+            {
+                "Key": "DewCollector_Scr",
+                "Value": "A functional spiderweb to collect dew. Gathered dew forms water drop and falls."
+            },
+            {
+                "Key": "BellTower_Nm",
+                "Value": "Bell Tower"
+            },
+            {
+                "Key": "BellTower_Scr",
+                "Value": "A bell to alert all the ratizens in the city. Might be stressful, but sometimes it is needed."
+            },
+            {
+                "Key": "ToothClinic_Nm",
+                "Value": "Tooth Care Center"
+            },
+            {
+                "Key": "ToothClinic_Scr",
+                "Value": "A facility where teeth are taken care of using hermit crab. It's good for both sponges and rats."
+            },
+            {
+                "Key": "Treegarden_Nm",
+                "Value": "Large Garden"
+            },
+            {
+                "Key": "Treegarden_Scr",
+                "Value": "A large garden to cultivate diverse plants. Tree-sized plants can be planted."
+            },
+            {
+                "Key": "StatueMini_Nm",
+                "Value": "Tiny Statue"
+            },
+            {
+                "Key": "StatueMini_Scr",
+                "Value": "A small statue made with carved stone."
+            },
+            {
+                "Key": "MiniSnowman_Nm",
+                "Value": "Snow Duck"
+            },
+            {
+                "Key": "MiniSnowman_Scr",
+                "Value": "A piece of art made with dense snow."
+            },
+            {
+                "Key": "FlowerGarden_Nm",
+                "Value": "Flower Bed"
+            },
+            {
+                "Key": "FlowerGarden_Scr",
+                "Value": "A small space solely for flowers."
+            },
+            {
+                "Key": "MonumentBottom_Nm",
+                "Value": "Monument's Base Part"
+            },
+            {
+                "Key": "MonumentBottom_Scr",
+                "Value": "Base part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "MonumentMid_Nm",
+                "Value": "Monument's Middle Part"
+            },
+            {
+                "Key": "MonumentMid_Scr",
+                "Value": "Middle part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "MonumentTop_Nm",
+                "Value": "Architect Monument"
+            },
+            {
+                "Key": "MonumentTop_Scr",
+                "Value": "Top part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "FishTank_Nm",
+                "Value": "Fish Bowl"
+            },
+            {
+                "Key": "FishTank_Scr",
+                "Value": "An ornamental fish tank. Feel at ease watching the leisurely swimming fish."
+            },
+            {
+                "Key": "PoisonSpikeTrap_Nm",
+                "Value": "Poison Trap"
+            },
+            {
+                "Key": "PoisonSpikeTrap_Scr",
+                "Value": "A spike trap coated in poison. Even a slight touch can be dangerous."
+            },
+            {
+                "Key": "BugRacingTrack_Nm",
+                "Value": "Snailtrack"
+            },
+            {
+                "Key": "BugRacingTrack_Scr",
+                "Value": "A track to watch racing snails. They are slow, but surprisingly exciting."
+            },
+            {
+                "Key": "FleaCleaner_Nm",
+                "Value": "Flea Removal Facility"
+            },
+            {
+                "Key": "FleaCleaner_Scr",
+                "Value": "A hygiene facility using frogs to eliminate fleas. It might sting a bit, but it's better than itching."
+            },
+            {
+                "Key": "GrassWallpaper_Nm",
+                "Value": "Grass Wallpaper"
+            },
+            {
+                "Key": "GrassWallpaper_Scr",
+                "Value": "Soft wallpaper made by weaving grass leaves."
+            },
+            {
+                "Key": "RockWallpaper_Nm",
+                "Value": "Rock Wallpaper"
+            },
+            {
+                "Key": "RockWallpaper_Scr",
+                "Value": "Solid wallpaper with a natural rock feel."
+            },
+            {
+                "Key": "MarbleWallpaper_Nm",
+                "Value": "Marble Wallpaper"
+            },
+            {
+                "Key": "MarbleWallpaper_Scr",
+                "Value": "Exquisite wallpaper carved from stone."
+            },
+            {
+                "Key": "SlateWallpaper_Nm",
+                "Value": "Slate Wallpaper"
+            },
+            {
+                "Key": "SlateWallpaper_Scr",
+                "Value": "Neat wallpaper decorated with slate."
+            },
+            {
+                "Key": "Iceroad_Nm",
+                "Value": "Ice Block"
+            },
+            {
+                "Key": "Iceroad_Scr",
+                "Value": "Cold wall carved from ice."
+            },
+            {
+                "Key": "Sandrockroad_Nm",
+                "Value": "Sandrock Block"
+            },
+            {
+                "Key": "Sandrockroad_Scr",
+                "Value": "Desert-feeling wall carved from sandstone."
+            },
+            {
+                "Key": "SandrockWallpaper_Nm",
+                "Value": "Sandrock Wallpaper"
+            },
+            {
+                "Key": "SandrockWallpaper_Scr",
+                "Value": "Crunchy wallpaper with a dry feel."
+            },
+            {
+                "Key": "Vineroad_Nm",
+                "Value": "Jungle Block"
+            },
+            {
+                "Key": "Vineroad_Scr",
+                "Value": "Wall with a deep forest feel made from vines."
+            },
+            {
+                "Key": "EquipmentStand_Nm",
+                "Value": "Equipment Stand"
+            },
+            {
+                "Key": "EquipmentStand_Scr",
+                "Value": "A decorative item where equipment can be placed."
+            },
+            {
+                "Key": "WoodBox_Nm",
+                "Value": "Wooden Box"
+            },
+            {
+                "Key": "WoodBox_Scr",
+                "Value": "Decorative item utilizing an ordinary wooden box."
+            },
+            {
+                "Key": "MountainGold_Nm",
+                "Value": "Pile of Gold"
+            },
+            {
+                "Key": "MountainGold_Scr",
+                "Value": "Decorative item made by stacking overflowing gold."
+            },
+            {
+                "Key": "BurlapSack_Nm",
+                "Value": "Burlap Sack"
+            },
+            {
+                "Key": "BurlapSack_Scr",
+                "Value": "Decorative item that looks like something is inside."
+            },
+            {
+                "Key": "FoodRack_Nm",
+                "Value": "Hanged Food"
+            },
+            {
+                "Key": "FoodRack_Scr",
+                "Value": "Decorative item made using food. No pranks were played."
+            },
+            {
+                "Key": "Torch_Nm",
+                "Value": "Torch"
+            },
+            {
+                "Key": "Torch_Scr",
+                "Value": "A beautifully burning torch."
+            },
+            {
+                "Key": "WeaselMonument_Nm",
+                "Value": "Victory Monument: Weasel"
+            },
+            {
+                "Key": "WeaselMonument_Scr",
+                "Value": "A symbol of peace representing victory. Weasels are no longer the arch nemesis."
+            },
+            {
+                "Key": "Crematory_Nm",
+                "Value": "Crematory"
+            },
+            {
+                "Key": "Crematory_Scr",
+                "Value": "A crematory that can burn anything. Beware, what is burned never comes back."
+            },
+            {
+                "Key": "TorchRack_Nm",
+                "Value": "Hanged Torch"
+            },
+            {
+                "Key": "TorchRack_Scr",
+                "Value": "A torch made to hang from the ceiling."
+            },
+            {
+                "Key": "WoodQueenChair_Nm",
+                "Value": "Wooden Throne"
+            },
+            {
+                "Key": "WoodQueenChair_Scr",
+                "Value": "An outstanding throne made of wood. As I sit here, you all shall obey."
+            },
+            {
+                "Key": "MarbleQueenChair_Nm",
+                "Value": "Marble Throne"
+            },
+            {
+                "Key": "MarbleQueenChair_Scr",
+                "Value": "A beautiful throne made of stone. As I sit here, gazing upon all, you all shall obey."
+            },
+            {
+                "Key": "FlowerRack_Nm",
+                "Value": "Hanged Flowerpot"
+            },
+            {
+                "Key": "FlowerRack_Scr",
+                "Value": "A flowerpot made to hang from the ceiling."
+            },
+            {
+                "Key": "ToolStand_Nm",
+                "Value": "Tool Stand"
+            },
+            {
+                "Key": "ToolStand_Scr",
+                "Value": "A decorative item where various tools can be placed."
+            },
+            {
+                "Key": "MonumentTop_Merchant_Nm",
+                "Value": "Merchant Monument"
+            },
+            {
+                "Key": "MonumentTop_Merchant_Scr",
+                "Value": "Top part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "MonumentTop_Noble_Nm",
+                "Value": "Noble Monument"
+            },
+            {
+                "Key": "MonumentTop_Noble_Scr",
+                "Value": "Top part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "WebThrower_Nm",
+                "Value": "Web Launcher"
+            },
+            {
+                "Key": "WebThrower_Scr",
+                "Value": "A device to drop a bundle of spiderwebs. Spreads when hit, making all difficult to move."
+            },
+            {
+                "Key": "IceWallpaper_Nm",
+                "Value": "Ice Wallpaper"
+            },
+            {
+                "Key": "IceWallpaper_Scr",
+                "Value": "A wallpaper decorated with Ice. Provides coziness as if in an igloo."
+            },
+            {
+                "Key": "TransparentWallpaper_Nm",
+                "Value": "Blank Wallpaper"
+            },
+            {
+                "Key": "TransparentWallpaper_Scr",
+                "Value": "A transparent wallpaper. Removes the placed wallpaper."
+            },
+            {
+                "Key": "ChristmasTree_Nm",
+                "Value": "Festival Tree"
+            },
+            {
+                "Key": "ChristmasTree_Scr",
+                "Value": "A tree filled with the spirit of peace and love. Embodies the hope for everyone's happiness."
+            },
+            {
+                "Key": "Table_Nm",
+                "Value": "Table"
+            },
+            {
+                "Key": "Table_Scr",
+                "Value": "A table with suitable height to eat foods. Ratizens will be happier this way."
+            },
+            {
+                "Key": "Telescope_Nm",
+                "Value": "Telescope"
+            },
+            {
+                "Key": "Telescope_Scr",
+                "Value": "A device for viewing distant places. Allows to observe the Ratizens' natural behaviors."
+            },
+            {
+                "Key": "RoyalTunnel_Nm",
+                "Value": "Royal Tunnel"
+            },
+            {
+                "Key": "RoyalTunnel_Scr",
+                "Value": "A tunnel station using secret passages. It costs money, but allows easy travel through connected tunnels."
+            },
+            {
+                "Key": "RoyalDressingTable_Nm",
+                "Value": "Royal Wardrobe"
+            },
+            {
+                "Key": "RoyalDressingTable_Scr",
+                "Value": "A structure for changing the leader's clothes. What should I wear today?"
+            },
+            {
+                "Key": "WindDynamo_Nm",
+                "Value": "Wind Turbine"
+            },
+            {
+                "Key": "WindDynamo_Scr",
+                "Value": "A structure that generates electricity using wind power. Requires wide space for optimal efficiency."
+            },
+            {
+                "Key": "StorageBattery_Nm",
+                "Value": "Storage Battery"
+            },
+            {
+                "Key": "StorageBattery_Scr",
+                "Value": "A structure used for storing or supplying electricity. Reduced size with increased capacity."
+            },
+            {
+                "Key": "CCTV_Nm",
+                "Value": "Surveillance Camera"
+            },
+            {
+                "Key": "CCTV_Scr",
+                "Value": "A device to monitor citizens' daily tasks. Makes hard work unavoidable, whether liked or not."
+            },
+            {
+                "Key": "Sprinkler_Nm",
+                "Value": "Sprinkler"
+            },
+            {
+                "Key": "Sprinkler_Scr",
+                "Value": "A device that waters plants to boost production. No need to manually tend to plants anymore."
+            },
+            {
+                "Key": "HeavyWire_Nm",
+                "Value": "Transmission Wire"
+            },
+            {
+                "Key": "HeavyWire_Scr",
+                "Value": "Connects generators to storage facilities. Might seem risky, but doesn't obstruct passage."
+            },
+            {
+                "Key": "Wireroad_Nm",
+                "Value": "Transmission Block"
+            },
+            {
+                "Key": "Wireroad_Scr",
+                "Value": "Connects generators to storage through walls. Incorporates wires into walls to minimize obstruction."
+            },
+            {
+                "Key": "HydroelectricGenerator_Nm",
+                "Value": "Hydroelectric Generator"
+            },
+            {
+                "Key": "HydroelectricGenerator_Scr",
+                "Value": "A structure that produces electricity using water flow. Difficult to maintain efficiency, but generates a significant amount of power."
+            },
+            {
+                "Key": "ArousalGate_Nm",
+                "Value": "Restoration Gate"
+            },
+            {
+                "Key": "ArousalGate_Scr",
+                "Value": "A device that sprays medicinal powder on passing Ratizens. Not incredibly powerful, but still provides a feeling of improved health."
+            },
+            {
+                "Key": "SolarPowerGenerator_Nm",
+                "Value": "Solar Pannel"
+            },
+            {
+                "Key": "SolarPowerGenerator_Scr",
+                "Value": "A device that generates electricity using sunlight. Only operates during the day but is eco-friendly."
+            },
+            {
+                "Key": "SmallLight_Nm",
+                "Value": "Small light"
+            },
+            {
+                "Key": "SmallLight_Scr",
+                "Value": "A device that uses electricity to illuminate the surroundings. Bright lighting makes the path clearly visible."
+            },
+            {
+                "Key": "ThermalGenerator_Nm",
+                "Value": "Thermal generator"
+            },
+            {
+                "Key": "ThermalGenerator_Scr",
+                "Value": "A structure that generates electricity using high heat. Boasts quite high efficiency."
+            },
+            {
+                "Key": "RatronStation_Nm",
+                "Value": "Ratron Recharger"
+            },
+            {
+                "Key": "RatronStation_Scr",
+                "Value": "A structure to recharge Ratrons' energy. Place strategically to prevent Ratrons from collapsing."
+            },
+            {
+                "Key": "TeslaTower_Nm",
+                "Value": "Tesla Tower"
+            },
+            {
+                "Key": "TeslaTower_Scr",
+                "Value": "A structure that connects distant power networks. A miraculous technology that transmits electricity wirelessly!"
+            },
+            {
+                "Key": "RatronFactory_Nm",
+                "Value": "Ratron Assembly Plant"
+            },
+            {
+                "Key": "RatronFactory_Scr",
+                "Value": "A facility for producing Ratrons. The more delicately made, the higher their efficiency."
+            },
+            {
+                "Key": "PartsFactory_Nm",
+                "Value": "Parts Factory"
+            },
+            {
+                "Key": "PartsFactory_Scr",
+                "Value": "A facility for manufacturing various parts. Requires a lot of resources and time. Best to assign skilled citizens."
+            },
+            {
+                "Key": "HighLaboratory_Nm",
+                "Value": "Advanced Laboratory"
+            },
+            {
+                "Key": "HighLaboratory_Scr",
+                "Value": "A facility that produces research points using electricity. Yields research results faster than standard labs."
+            },
+            {
+                "Key": "MiningCompany_Nm",
+                "Value": "Drone Hangar"
+            },
+            {
+                "Key": "MiningCompany_Scr",
+                "Value": "A hangar for readying drones. When set orders are issued nearby, drones are deployed."
+            },
+            {
+                "Key": "ManpowerGenerator_Nm",
+                "Value": "Ratpower Generator"
+            },
+            {
+                "Key": "ManpowerGenerator_Scr",
+                "Value": "A structure that produces electricity using Ratizens. A basic power device, not very efficient."
+            },
+            {
+                "Key": "CommunicationTower_Nm",
+                "Value": "Communication Tower"
+            },
+            {
+                "Key": "CommunicationTower_Scr",
+                "Value": "A structure for issuing commands to distant facilities via radio waves. No need to rely on Mailbox anymore."
+            },
+            {
+                "Key": "ElectricCrematory_Nm",
+                "Value": "Electric Crematory"
+            },
+            {
+                "Key": "ElectricCrematory_Scr",
+                "Value": "A facility that uses electricity to incinerate anything. Can continuously burn whatever is placed inside."
+            },
+            {
+                "Key": "ElectricTrap_Nm",
+                "Value": "Electric Trap"
+            },
+            {
+                "Key": "ElectricTrap_Scr",
+                "Value": "A trap that chains electricity to approaching enemies. Shocks all it touches, but weakens over distance."
+            },
+            {
+                "Key": "EngineeringTable_Nm",
+                "Value": "Engineering Workbench"
+            },
+            {
+                "Key": "EngineeringTable_Scr",
+                "Value": "A workbench for researching various engineering facilities. Engineering projects require a lot of research points."
+            },
+            {
+                "Key": "SemiconductorFactory_Nm",
+                "Value": "Circuit Factory"
+            },
+            {
+                "Key": "SemiconductorFactory_Scr",
+                "Value": "A facility for precision circuit work. Through this, the city advances further into the future."
+            },
+            {
+                "Key": "WoodBattery_Nm",
+                "Value": "Power Box"
+            },
+            {
+                "Key": "WoodBattery_Scr",
+                "Value": "A facility used for storing or supplying electricity. Has a smaller charge capacity relative to its size."
+            },
+            {
+                "Key": "Ironroad_Nm",
+                "Value": "Plate Block"
+            },
+            {
+                "Key": "Ironroad_Scr",
+                "Value": "A sturdy wall made of iron plates. Electricity does not flow through it, so it's safe to use."
+            },
+            {
+                "Key": "SmallMine_Nm",
+                "Value": "Land Mine"
+            },
+            {
+                "Key": "SmallMine_Scr",
+                "Value": "An explosive mine that damages nearby targets. Be careful not to ensnare allies."
+            },
+            {
+                "Key": "StunMine_Nm",
+                "Value": "Shock Mine"
+            },
+            {
+                "Key": "StunMine_Scr",
+                "Value": "A mine that stuns nearby targets with a shock. Be careful not to ensnare allies."
+            },
+            {
+                "Key": "MonumentTop_Scientist_Nm",
+                "Value": "Scientist Monument"
+            },
+            {
+                "Key": "MonumentTop_Scientist_Scr",
+                "Value": "Top part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "Ashroad_Nm",
+                "Value": "Ash Block"
+            },
+            {
+                "Key": "Ashroad_Scr",
+                "Value": "A hot wall made of clumped ashes with embers not yet fully extinguished. Walking over it is just asking for burns."
+            },
+            {
+                "Key": "ElecToilet_Nm",
+                "Value": "Flush Toilet"
+            },
+            {
+                "Key": "ElecToilet_Scr",
+                "Value": "An electrically powered toilet that's a level cleaner. It's so convenient, it feels like a quality of life improvement."
+            },
+            {
+                "Key": "BroadcastStation_Nm",
+                "Value": "Broadcast Studio"
+            },
+            {
+                "Key": "BroadcastStation_Scr",
+                "Value": "A structure that broadcasts videos through a Joy Box. The quality of programs varies greatly depending on the presenter!"
+            },
+            {
+                "Key": "Television_Nm",
+                "Value": "Joy Box"
+            },
+            {
+                "Key": "Television_Scr",
+                "Value": "A device that receives signals and plays video and sound. Shows entertaining videos, no matter the distance."
+            },
+            {
+                "Key": "MagneticTrap_Nm",
+                "Value": "Magnetic Trap"
+            },
+            {
+                "Key": "MagneticTrap_Scr",
+                "Value": "A trap that uses magnetic force to pull objects. Be careful not to get caught in the pulling force."
+            },
+            {
+                "Key": "GeothermalGenerator_Nm",
+                "Value": "Geothermal Generator"
+            },
+            {
+                "Key": "GeothermalGenerator_Scr",
+                "Value": "Generates electricity using the Earth's heat. Effective, though suitable locations are limited."
+            },
+            {
+                "Key": "GuardianTemple_Nm",
+                "Value": "Hall of Guardians"
+            },
+            {
+                "Key": "GuardianTemple_Scr",
+                "Value": "A structure for training the city's guardians. Their will to protect is strong and steadfast."
+            },
+            {
+                "Key": "Slimeroad_Nm",
+                "Value": "Slime Block"
+            },
+            {
+                "Key": "Slimeroad_Scr",
+                "Value": "A sticky wall coated with slime. It's so tacky that moving over it becomes a real challenge."
+            },
+            {
+                "Key": "WaterScrew_Nm",
+                "Value": "Water Pump"
+            },
+            {
+                "Key": "WaterScrew_Scr",
+                "Value": "A device that transfers water from one side to the other. Utilize it wherever water is needed."
+            },
+            {
+                "Key": "RepairStation_Nm",
+                "Value": "Repair Station"
+            },
+            {
+                "Key": "RepairStation_Scr",
+                "Value": "A structure for recharging and repairing. The inclusion of repair functionality has reduced charging efficiency."
+            },
+            {
+                "Key": "GoldScarabRoyalBed_Nm",
+                "Value": "Bright Beetle Bed"
+            },
+            {
+                "Key": "GoldScarabRoyalBed_Scr",
+                "Value": "A luxurious bed decorated with golden beetles. It's even more plush, making it ideal for comfortable rest."
+            },
+            {
+                "Key": "WeaselKingGrave_Nm",
+                "Value": "King's Chamber"
+            },
+            {
+                "Key": "WeaselKingGrave_Scr",
+                "Value": "An ancient tomb made by old weasels. Are you ready to face any danger for the treasure?"
+            },
+            {
+                "Key": "ScarabDungeon_Nm",
+                "Value": "Forgotten Ruins"
+            },
+            {
+                "Key": "ScarabDungeon_Scr",
+                "Value": "Ancient ruins where treasures are said to be sleeping. Heavy insect wing beats are heard carried by the wind."
+            },
+            {
+                "Key": "WeaselKingGrave2_Nm",
+                "Value": "Vault of the Ancient"
+            },
+            {
+                "Key": "WeaselKingGrave2_Scr",
+                "Value": "The treasure vault of a great old king. Somehow, the stored money increases."
+            },
+            {
+                "Key": "InvasionFlag_Nm",
+                "Value": "War Banner"
+            },
+            {
+                "Key": "InvasionFlag_Scr",
+                "Value": "A marker flag for deploying soldiers. Soldiers placed under one banner will charge simultaneously."
+            },
+            {
+                "Key": "ExpeditionCenter_Nm",
+                "Value": "Exploration Office"
+            },
+            {
+                "Key": "ExpeditionCenter_Scr",
+                "Value": "A structure to explore and survey the surroundings. What lurks beyond the borders?"
+            },
+            {
+                "Key": "EnemyNexus_Nm",
+                "Value": "Enemy Headquarter"
+            },
+            {
+                "Key": "EnemyNexus_Scr",
+                "Value": "Enemy command headquarters. Must be destroyed before our headquarters falls."
+            },
+            {
+                "Key": "TeamNexus_Nm",
+                "Value": "Headquarter"
+            },
+            {
+                "Key": "TeamNexus_Scr",
+                "Value": "Our command headquarters. Must destroy the enemy command headquarters before ours falls."
+            },
+            {
+                "Key": "LizardLadder_Nm",
+                "Value": "Savage Ladder"
+            },
+            {
+                "Key": "LizardLadder_Scr",
+                "Value": "A barbaric ladder made by lizards. Made from the bones and hides of their prey."
+            },
+            {
+                "Key": "MercenaryCamp_Nm",
+                "Value": "Campsite"
+            },
+            {
+                "Key": "MercenaryCamp_Scr",
+                "Value": "A facility to hire foreign soldiers or mercenaries. The hired soldiers guard the area around the campsite."
+            },
+            {
+                "Key": "CombatSupportCenter_Nm",
+                "Value": "Support Academy"
+            },
+            {
+                "Key": "CombatSupportCenter_Scr",
+                "Value": "A facility to train unit beneficial to squads. Rats together Strong."
+            },
+            {
+                "Key": "LizardRoof_Nm",
+                "Value": "Lizard roof"
+            },
+            {
+                "Key": "LizardRoof_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "LizardWallpaper_Nm",
+                "Value": "Lizard wallpaper"
+            },
+            {
+                "Key": "LizardWallpaper_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "Lizardroad_Nm",
+                "Value": "Lizard road"
+            },
+            {
+                "Key": "Lizardroad_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "Totem_Sheep_Nm",
+                "Value": "Shrine of Sheep"
+            },
+            {
+                "Key": "Totem_Sheep_Scr",
+                "Value": "Shrine dedicated for sacred sheep.\nBy the power of sheep, skill can be used."
+            },
+            {
+                "Key": "Totem_Horse_Nm",
+                "Value": "Shrine of Horse"
+            },
+            {
+                "Key": "Totem_Horse_Scr",
+                "Value": "Shrine dedicated for sacred horse.\nBy the power of horse, skill can be used."
+            },
+            {
+                "Key": "Totem_Snake_Nm",
+                "Value": "Shrine of Snake"
+            },
+            {
+                "Key": "Totem_Snake_Scr",
+                "Value": "Shrine dedicated for sacred snake.\nBy the power of snake, skill can be used."
+            },
+            {
+                "Key": "Totem_Chicken_Nm",
+                "Value": "Shrine of Rooster"
+            },
+            {
+                "Key": "Totem_Chicken_Scr",
+                "Value": "Shrine dedicated for sacred rooster.\nBy the power of rooster, skill can be used."
+            },
+            {
+                "Key": "Totem_Rabbit_Nm",
+                "Value": "Shrine of Rabbit"
+            },
+            {
+                "Key": "Totem_Rabbit_Scr",
+                "Value": "Shrine dedicated for sacred rabbit.\nBy the power of rabbit, skill can be used."
+            },
+            {
+                "Key": "Totem_Monkey_Nm",
+                "Value": "Shrine of Monkey"
+            },
+            {
+                "Key": "Totem_Monkey_Scr",
+                "Value": "Shrine dedicated for sacred monkey.\nBy the power of monkey, skill can be used."
+            },
+            {
+                "Key": "Totem_Pig_Nm",
+                "Value": "Shrine of Pig"
+            },
+            {
+                "Key": "Totem_Pig_Scr",
+                "Value": "Shrine dedicated for sacred pig.\nBy the power of pig, skill can be used."
+            },
+            {
+                "Key": "Totem_Tiger_Nm",
+                "Value": "Shrine of Tiger"
+            },
+            {
+                "Key": "Totem_Tiger_Scr",
+                "Value": "Shrine dedicated for sacred tiger.\nBy the power of tiger, skill can be used."
+            },
+            {
+                "Key": "Totem_Dragon_Nm",
+                "Value": "Shrine of Dragon"
+            },
+            {
+                "Key": "Totem_Dragon_Scr",
+                "Value": "Shrine dedicated for sacred dragon.\nBy the power of dragon, skill can be used."
+            },
+            {
+                "Key": "MineLadder_Nm",
+                "Value": "Mine Ladder"
+            },
+            {
+                "Key": "MineLadder_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "VineLadder_Nm",
+                "Value": "Vine Ladder"
+            },
+            {
+                "Key": "VineLadder_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "ForeratTower_Nm",
+                "Value": "Surveillance Post"
+            },
+            {
+                "Key": "ForeratTower_Scr",
+                "Value": "A post for monitoring the labor of citizens. They may not be happy, but they will work harder."
+            },
+            {
+                "Key": "Glassroad_Nm",
+                "Value": "Glass Wall"
+            },
+            {
+                "Key": "Glassroad_Scr",
+                "Value": "A wall made of processed glass. Not very strong, but it lets light through beautifully."
+            },
+            {
+                "Key": "BenchGlass_Nm",
+                "Value": "Glass Bench"
+            },
+            {
+                "Key": "BenchGlass_Scr",
+                "Value": "A bench made of processed glass. Cool and slightly unstable, but beautiful."
+            },
+            {
+                "Key": "FountainGlass_Nm",
+                "Value": "Glass Fountain"
+            },
+            {
+                "Key": "FountainGlass_Scr",
+                "Value": "A fountain made of processed glass. The sight of water flowing over the glass is beautiful."
+            },
+            {
+                "Key": "LakeLadder_Nm",
+                "Value": "Coastal Ladder"
+            },
+            {
+                "Key": "LakeLadder_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "WindowWallpaper_Nm",
+                "Value": "Wooden Window"
+            },
+            {
+                "Key": "WindowWallpaper_Scr",
+                "Value": "A window with a wooden frame. A house without a single window is bound to be dark."
+            },
+            {
+                "Key": "StoneWindowWallpaper_Nm",
+                "Value": "Stone Window"
+            },
+            {
+                "Key": "StoneWindowWallpaper_Scr",
+                "Value": "A window with a stone frame. A house without a single window is bound to be dark."
+            },
+            {
+                "Key": "DesertLadder_Nm",
+                "Value": "Desert Ladder"
+            },
+            {
+                "Key": "DesertLadder_Scr",
+                "Value": ""
+            },
+            {
+                "Key": "StreetLampGlass_Nm",
+                "Value": "Glass Streetlight"
+            },
+            {
+                "Key": "StreetLampGlass_Scr",
+                "Value": "A streetlight made by melting glass and decorating it with metal. The light flows through the various colored glass beautifully."
+            },
+            {
+                "Key": "HellAnvil_Nm",
+                "Value": "Hell Forge"
+            },
+            {
+                "Key": "HellAnvil_Scr",
+                "Value": "A hot forge of unknown origin. It can imbue equipment with the powerful force of the volcanic region."
+            },
+            {
+                "Key": "MonumentTop_General_Nm",
+                "Value": "General's Monument"
+            },
+            {
+                "Key": "MonumentTop_General_Scr",
+                "Value": "Top part of the Grand Monument. Build it to show the magnificent leadership."
+            },
+            {
+                "Key": "FirePlace_Nm",
+                "Value": "Fireplace"
+            },
+            {
+                "Key": "FirePlace_Scr",
+                "Value": "A decorative item that provides a warm atmosphere indoors."
+            },
+            {
+                "Key": "Chest_Nm",
+                "Value": "Dresser"
+            },
+            {
+                "Key": "Chest_Scr",
+                "Value": "A decorative item that looks like it can hold various items."
+            },
+            {
+                "Key": "Closet_Nm",
+                "Value": "Wardrobe"
+            },
+            {
+                "Key": "Closet_Scr",
+                "Value": "A decorative item that looks like it can hold clothes."
+            },
+            {
+                "Key": "RoyalKitchen_Nm",
+                "Value": "Royal Kitchen"
+            },
+            {
+                "Key": "RoyalKitchen_Scr",
+                "Value": "A structure where special dishes can be prepared using royal secret recipes."
+            },
+            {
+                "Key": "Ziggurat_Nm",
+                "Value": "Ziggurat"
+            },
+            {
+                "Key": "Ziggurat_Scr",
+                "Value": "A terraced structure for offerings."
+            },
+            {
+                "Key": "TradingPost_Nm",
+                "Value": "Trading Post"
+            },
+            {
+                "Key": "TradingPost_Scr",
+                "Value": "A structure where trading with visiting merchants can occur. A different merchant comes every day with new goods."
+            },
+            {
+                "Key": "ElecLiftPlatform_Nm",
+                "Value": "Electric Lift Station"
+            },
+            {
+                "Key": "ElecLiftPlatform_Scr",
+                "Value": "An electric station that launches faster elevators. Equipped with high-voltage lines to connect wires on both sides."
+            },
+            {
+                "Key": "PastTunnel_Nm",
+                "Value": "Ancient Tunnel"
+            },
+            {
+                "Key": "PastTunnel_Scr",
+                "Value": "An old tunnel whose age is unknown. With minor repairs, it seems usable."
+            }
+        ]
+    }
+}
