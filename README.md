@@ -5,7 +5,7 @@ All these files are from the [public sheet](https://docs.google.com/spreadsheets
 
 ## Important notes
 * These files are not manually made or downloaded, these are made by running the sheet through a parser (found in the `parser` folder)
-* The languages files can be found in the `langauge` folder
+* The languages files can be found in the `language` folder
 * All language files are parsed using the english translations as the values for the files
 
 ## How to run the parser
